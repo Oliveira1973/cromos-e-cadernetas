@@ -102,6 +102,12 @@
     "especial": true
   },
   {
+    "numero": "17-BIS",
+    "nome": "Cromo 17-BIS",
+    "tenho": true,
+    "especial": false
+  },
+  {
     "numero": "18",
     "nome": "Cromo 18",
     "tenho": true,
