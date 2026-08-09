@@ -1,0 +1,26 @@
+[
+  {
+    "id": "panini-mundial-2026",
+    "nome": "Mundial 2026",
+    "editora": "Panini",
+    "ano": 2026,
+    "totalCromos": 682,
+    "capa": ""
+  },
+  {
+    "id": "topps-liga-portugal-2025",
+    "nome": "Liga Portugal 2025/26",
+    "editora": "Topps",
+    "ano": 2025,
+    "totalCromos": 450,
+    "capa": ""
+  },
+  {
+    "id": "este-selecao-2024",
+    "nome": "Seleção Nacional",
+    "editora": "ESTE",
+    "ano": 2024,
+    "totalCromos": 180,
+    "capa": ""
+  }
+]
