@@ -34,16 +34,29 @@ Depois cria o ficheiro `cromos/nome-unico-sem-espacos.json` com a lista de cromo
 
 ```json
 [
-  { "numero": "1", "nome": "Nome do cromo", "tenho": false, "especial": false },
-  { "numero": "2", "nome": "...", "tenho": true, "especial": true }
+  { "numero": "1", "nome": "Nome do cromo", "tenho": false, "especial": false, "imagem": "" },
+  { "numero": "2", "nome": "...", "tenho": true, "especial": true, "imagem": "images/nome-unico-sem-espacos/2.jpg" }
 ]
 ```
 
-(`nome` do cromo é opcional — podes deixar `""` se não quiseres descrever cada um.)
+(`nome` do cromo é opcional — podes deixar `""` se não quiseres descrever cada um.
+`imagem` também é opcional — sem ela, o quadradinho mostra só número e nome.)
 
 ### Marcar um cromo como "tenho"
 No ficheiro `cromos/<id>.json`, muda `"tenho": false` para `"tenho": true` no cromo correspondente.
 Podes editar diretamente no GitHub: abre o ficheiro → ícone do lápis → edita → "Commit changes".
+
+### Adicionar foto a um cromo individual
+Faz upload da foto para dentro de `images/<id-da-caderneta>/`, por exemplo
+`images/panini-mundial-2026/47.jpg`, e preenche o campo `"imagem"` desse
+cromo em `cromos/panini-mundial-2026.json` com esse caminho.
+Sem imagem, o quadradinho mostra só o número e o nome — funciona bem à mesma.
+
+**Nota sobre fotos landscape (largas):** o quadradinho de cada cromo é sempre
+em formato retrato (3:4). Uma foto landscape é cortada nas laterais para
+preencher esse espaço. Para a maioria dos casos isto não incomoda (dá para
+reconhecer o cromo à mesma), mas se preferires ver a foto inteira sem cortar,
+diz para eu ajustar.
 
 ### Adicionar a imagem de capa
 Faz upload da imagem para `images/capas/` (idealmente já redimensionada, ver nota abaixo) e
