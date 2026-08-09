@@ -5,7 +5,7 @@
     "editora": "-",
     "ano": 1988,
     "totalCromos": 350,
-    "capa": ""
+    "capa": "images/capas/Offside 88 89.jpg"
   },
   {
     "id": "Festa do Futebol 81 82",
@@ -13,7 +13,7 @@
     "editora": "-",
     "ano": 1981,
     "totalCromos": 350,
-    "capa": ""
+    "capa": "images/capas/Festa do Futebol 81 82.jpg"
   },
   {
     "id": "Futebol 82",
@@ -21,6 +21,6 @@
     "editora": "APR",
     "ano": 1082,
     "totalCromos": 350,
-    "capa": ""
+    "capa": "images/capas/Futebol 82.jpg"
   }
 ]
