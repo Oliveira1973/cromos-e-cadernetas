@@ -1,26 +1,26 @@
 [
   {
-    "id": "panini-mundial-2026",
-    "nome": "Mundial 2026",
-    "editora": "Panini",
-    "ano": 2026,
-    "totalCromos": 682,
-    "capa": ""
+    "id": "Offside 88/89",
+    "nome": "Offside 88/89",
+    "editora": "-",
+    "ano": 1988,
+    "totalCromos": 350,
+    "capa": "Offside 88 89"
   },
   {
-    "id": "topps-liga-portugal-2025",
-    "nome": "Liga Portugal 2025/26",
-    "editora": "Topps",
-    "ano": 2025,
-    "totalCromos": 450,
-    "capa": ""
+    "id": "Festa do Futebol 81/82",
+    "nome": "Festa do Futebol 81 82",
+    "editora": "-",
+    "ano": 1981,
+    "totalCromos": 350,
+    "capa": "Festa do Futebol 81 82"
   },
   {
-    "id": "este-selecao-2024",
-    "nome": "Seleção Nacional",
-    "editora": "ESTE",
-    "ano": 2024,
-    "totalCromos": 180,
-    "capa": ""
+    "id": "Futebol 82",
+    "nome": "Futebol 82",
+    "editora": "APR",
+    "ano": 1082,
+    "totalCromos": 350,
+    "capa": "Futebol 82"
   }
 ]
