@@ -1,0 +1,1082 @@
+[
+  {
+    "numero": "1",
+    "nome": "Cromo 1",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "2",
+    "nome": "Cromo 2",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "3",
+    "nome": "Cromo 3",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "4",
+    "nome": "Cromo 4",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "5",
+    "nome": "Cromo 5",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "6",
+    "nome": "Cromo 6",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "7",
+    "nome": "Cromo 7",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "8",
+    "nome": "Cromo 8",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "9",
+    "nome": "Cromo 9",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "10",
+    "nome": "Cromo 10",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "11",
+    "nome": "Cromo 11",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "12",
+    "nome": "Cromo 12",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "13",
+    "nome": "Cromo 13",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "14",
+    "nome": "Cromo 14",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "15",
+    "nome": "Cromo 15",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "16",
+    "nome": "Cromo 16",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "17",
+    "nome": "Cromo 17",
+    "tenho": false,
+    "especial": true
+  },
+  {
+    "numero": "18",
+    "nome": "Cromo 18",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "19",
+    "nome": "Cromo 19",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "20",
+    "nome": "Cromo 20",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "21",
+    "nome": "Cromo 21",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "22",
+    "nome": "Cromo 22",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "23",
+    "nome": "Cromo 23",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "24",
+    "nome": "Cromo 24",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "25",
+    "nome": "Cromo 25",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "26",
+    "nome": "Cromo 26",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "27",
+    "nome": "Cromo 27",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "28",
+    "nome": "Cromo 28",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "29",
+    "nome": "Cromo 29",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "30",
+    "nome": "Cromo 30",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "31",
+    "nome": "Cromo 31",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "32",
+    "nome": "Cromo 32",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "33",
+    "nome": "Cromo 33",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "34",
+    "nome": "Cromo 34",
+    "tenho": false,
+    "especial": true
+  },
+  {
+    "numero": "35",
+    "nome": "Cromo 35",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "36",
+    "nome": "Cromo 36",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "37",
+    "nome": "Cromo 37",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "38",
+    "nome": "Cromo 38",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "39",
+    "nome": "Cromo 39",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "40",
+    "nome": "Cromo 40",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "41",
+    "nome": "Cromo 41",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "42",
+    "nome": "Cromo 42",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "43",
+    "nome": "Cromo 43",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "44",
+    "nome": "Cromo 44",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "45",
+    "nome": "Cromo 45",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "46",
+    "nome": "Cromo 46",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "47",
+    "nome": "Cromo 47",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "48",
+    "nome": "Cromo 48",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "49",
+    "nome": "Cromo 49",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "50",
+    "nome": "Cromo 50",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "51",
+    "nome": "Cromo 51",
+    "tenho": false,
+    "especial": true
+  },
+  {
+    "numero": "52",
+    "nome": "Cromo 52",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "53",
+    "nome": "Cromo 53",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "54",
+    "nome": "Cromo 54",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "55",
+    "nome": "Cromo 55",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "56",
+    "nome": "Cromo 56",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "57",
+    "nome": "Cromo 57",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "58",
+    "nome": "Cromo 58",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "59",
+    "nome": "Cromo 59",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "60",
+    "nome": "Cromo 60",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "61",
+    "nome": "Cromo 61",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "62",
+    "nome": "Cromo 62",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "63",
+    "nome": "Cromo 63",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "64",
+    "nome": "Cromo 64",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "65",
+    "nome": "Cromo 65",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "66",
+    "nome": "Cromo 66",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "67",
+    "nome": "Cromo 67",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "68",
+    "nome": "Cromo 68",
+    "tenho": false,
+    "especial": true
+  },
+  {
+    "numero": "69",
+    "nome": "Cromo 69",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "70",
+    "nome": "Cromo 70",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "71",
+    "nome": "Cromo 71",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "72",
+    "nome": "Cromo 72",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "73",
+    "nome": "Cromo 73",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "74",
+    "nome": "Cromo 74",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "75",
+    "nome": "Cromo 75",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "76",
+    "nome": "Cromo 76",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "77",
+    "nome": "Cromo 77",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "78",
+    "nome": "Cromo 78",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "79",
+    "nome": "Cromo 79",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "80",
+    "nome": "Cromo 80",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "81",
+    "nome": "Cromo 81",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "82",
+    "nome": "Cromo 82",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "83",
+    "nome": "Cromo 83",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "84",
+    "nome": "Cromo 84",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "85",
+    "nome": "Cromo 85",
+    "tenho": true,
+    "especial": true
+  },
+  {
+    "numero": "86",
+    "nome": "Cromo 86",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "87",
+    "nome": "Cromo 87",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "88",
+    "nome": "Cromo 88",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "89",
+    "nome": "Cromo 89",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "90",
+    "nome": "Cromo 90",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "91",
+    "nome": "Cromo 91",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "92",
+    "nome": "Cromo 92",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "93",
+    "nome": "Cromo 93",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "94",
+    "nome": "Cromo 94",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "95",
+    "nome": "Cromo 95",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "96",
+    "nome": "Cromo 96",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "97",
+    "nome": "Cromo 97",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "98",
+    "nome": "Cromo 98",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "99",
+    "nome": "Cromo 99",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "100",
+    "nome": "Cromo 100",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "101",
+    "nome": "Cromo 101",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "102",
+    "nome": "Cromo 102",
+    "tenho": true,
+    "especial": true
+  },
+  {
+    "numero": "103",
+    "nome": "Cromo 103",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "104",
+    "nome": "Cromo 104",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "105",
+    "nome": "Cromo 105",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "106",
+    "nome": "Cromo 106",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "107",
+    "nome": "Cromo 107",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "108",
+    "nome": "Cromo 108",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "109",
+    "nome": "Cromo 109",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "110",
+    "nome": "Cromo 110",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "111",
+    "nome": "Cromo 111",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "112",
+    "nome": "Cromo 112",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "113",
+    "nome": "Cromo 113",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "114",
+    "nome": "Cromo 114",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "115",
+    "nome": "Cromo 115",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "116",
+    "nome": "Cromo 116",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "117",
+    "nome": "Cromo 117",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "118",
+    "nome": "Cromo 118",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "119",
+    "nome": "Cromo 119",
+    "tenho": true,
+    "especial": true
+  },
+  {
+    "numero": "120",
+    "nome": "Cromo 120",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "121",
+    "nome": "Cromo 121",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "122",
+    "nome": "Cromo 122",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "123",
+    "nome": "Cromo 123",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "124",
+    "nome": "Cromo 124",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "125",
+    "nome": "Cromo 125",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "126",
+    "nome": "Cromo 126",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "127",
+    "nome": "Cromo 127",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "128",
+    "nome": "Cromo 128",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "129",
+    "nome": "Cromo 129",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "130",
+    "nome": "Cromo 130",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "131",
+    "nome": "Cromo 131",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "132",
+    "nome": "Cromo 132",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "133",
+    "nome": "Cromo 133",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "134",
+    "nome": "Cromo 134",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "135",
+    "nome": "Cromo 135",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "136",
+    "nome": "Cromo 136",
+    "tenho": false,
+    "especial": true
+  },
+  {
+    "numero": "137",
+    "nome": "Cromo 137",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "138",
+    "nome": "Cromo 138",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "139",
+    "nome": "Cromo 139",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "140",
+    "nome": "Cromo 140",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "141",
+    "nome": "Cromo 141",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "142",
+    "nome": "Cromo 142",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "143",
+    "nome": "Cromo 143",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "144",
+    "nome": "Cromo 144",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "145",
+    "nome": "Cromo 145",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "146",
+    "nome": "Cromo 146",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "147",
+    "nome": "Cromo 147",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "148",
+    "nome": "Cromo 148",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "149",
+    "nome": "Cromo 149",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "150",
+    "nome": "Cromo 150",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "151",
+    "nome": "Cromo 151",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "152",
+    "nome": "Cromo 152",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "153",
+    "nome": "Cromo 153",
+    "tenho": true,
+    "especial": true
+  },
+  {
+    "numero": "154",
+    "nome": "Cromo 154",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "155",
+    "nome": "Cromo 155",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "156",
+    "nome": "Cromo 156",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "157",
+    "nome": "Cromo 157",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "158",
+    "nome": "Cromo 158",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "159",
+    "nome": "Cromo 159",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "160",
+    "nome": "Cromo 160",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "161",
+    "nome": "Cromo 161",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "162",
+    "nome": "Cromo 162",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "163",
+    "nome": "Cromo 163",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "164",
+    "nome": "Cromo 164",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "165",
+    "nome": "Cromo 165",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "166",
+    "nome": "Cromo 166",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "167",
+    "nome": "Cromo 167",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "168",
+    "nome": "Cromo 168",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "169",
+    "nome": "Cromo 169",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "170",
+    "nome": "Cromo 170",
+    "tenho": true,
+    "especial": true
+  },
+  {
+    "numero": "171",
+    "nome": "Cromo 171",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "172",
+    "nome": "Cromo 172",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "173",
+    "nome": "Cromo 173",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "174",
+    "nome": "Cromo 174",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "175",
+    "nome": "Cromo 175",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "176",
+    "nome": "Cromo 176",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "177",
+    "nome": "Cromo 177",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "178",
+    "nome": "Cromo 178",
+    "tenho": true,
+    "especial": false
+  },
+  {
+    "numero": "179",
+    "nome": "Cromo 179",
+    "tenho": false,
+    "especial": false
+  },
+  {
+    "numero": "180",
+    "nome": "Cromo 180",
+    "tenho": false,
+    "especial": false
+  }
+]
