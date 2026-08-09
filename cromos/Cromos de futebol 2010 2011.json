@@ -4,28 +4,28 @@
     "nome": "Cromo 1",
     "tenho": false,
     "especial": false,
-    "imagem": "images/cromos de futebol 2010 2011/1.jpg"
+    "imagem": "images/capas/Cromos de futebol 2010 2011/1.jpg"
   },
   {
     "numero": "2",
     "nome": "Cromo 2",
     "tenho": false,
     "especial": false,
-    "imagem": "images/cromos de futebol 2010 2011/2.jpg"
+    "imagem": "images/capas/Cromos de futebol 2010 2011/2.jpg"
   },
   {
     "numero": "3",
     "nome": "Cromo 3",
     "tenho": false,
     "especial": false,
-    "imagem": "images/cromos de futebol 2010 2011/3.jpg"
+    "imagem": "images/capas/Cromos de futebol 2010 2011/3.jpg"
   },
   {
     "numero": "4",
     "nome": "Cromo 4",
     "tenho": true,
     "especial": false,
-    "imagem": "images/cromos de futebol 2010 2011/4.jpg"
+    "imagem": "images/capas/Cromos de futebol 2010 2011/4.jpg"
   },
   {
     "numero": "5",
