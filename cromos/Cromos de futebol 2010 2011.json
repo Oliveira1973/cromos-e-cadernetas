@@ -455,6 +455,13 @@
     "imagem": "images/capas/Cromos de futebol 2010 2011/64.jpg"
   },
   {
+    "numero": "64-BIS,
+    "nome": "Cromo 64-BIS",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Cromos de futebol 2010 2011/64-BIS.jpg"
+  },
+  {
     "numero": "65",
     "nome": "Cromo 65",
     "tenho": true,
@@ -644,6 +651,13 @@
     "imagem": "images/capas/Cromos de futebol 2010 2011/91.jpg"
   },
   {
+    "numero": "91-BIS",
+    "nome": "Cromo 91-BIS",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Cromos de futebol 2010 2011/91-BIS.jpg"
+  },
+  {
     "numero": "92",
     "nome": "Cromo 92",
     "tenho": true,
@@ -698,6 +712,13 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Cromos de futebol 2010 2011/99.jpg"
+  },
+  {
+    "numero": "99.BIS",
+    "nome": "Cromo 99-BIS",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Cromos de futebol 2010 2011/99-BIS.jpg"
   },
   {
     "numero": "100",
