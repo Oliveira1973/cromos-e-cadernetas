@@ -105,8 +105,8 @@
 
   /* grid of cadernetas */
   .grid{
-    display:grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    display:flex;
+    flex-wrap:wrap;
     gap: 20px;
   }
   .cad-card{
@@ -119,7 +119,9 @@
     transition: transform 0.15s ease, box-shadow 0.15s ease;
     box-shadow: 4px 4px 0 var(--paper-darker);
     overflow:hidden;
+    width:210px;
   }
+  .cad-card.tem-capa{ width:auto; max-width:380px; }
   .cad-card:hover{ transform: translate(-2px,-2px); box-shadow: 6px 6px 0 var(--paper-darker); }
   .cad-card:focus-visible{ outline: 3px solid var(--teal); outline-offset:2px; }
   .cad-card .cover{
@@ -130,8 +132,20 @@
     overflow:hidden;
   }
   .cad-card .cover img{ width:100%; height:100%; object-fit:cover; display:block; }
-  .cad-card .cover.imagem-auto{ aspect-ratio:auto; background:var(--paper-darker); }
-  .cad-card .cover.imagem-auto img{ height:auto; object-fit:contain; }
+  .cad-card .cover.imagem-auto{
+    aspect-ratio:auto;
+    height:230px;
+    width:auto;
+    max-width:380px;
+    background:var(--paper-darker);
+  }
+  .cad-card .cover.imagem-auto img{
+    height:100%;
+    width:auto;
+    max-width:100%;
+    object-fit:contain;
+    display:block;
+  }
   .cad-card .cover .placeholder{
     font-family:'Anton', sans-serif;
     color:#f2ead4d0;
@@ -225,12 +239,13 @@
   .cromos-toolbar{ display:flex; gap:10px; margin-bottom:14px; flex-wrap:wrap; }
 
   .cromos-grid{
-    display:grid;
-    grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
+    display:flex;
+    flex-wrap:wrap;
     gap:8px;
   }
   .cromo{
     position:relative;
+    width:90px;
     aspect-ratio:3/4;
     border:2px solid var(--ink);
     border-radius:2px;
@@ -253,12 +268,16 @@
     justify-content:flex-end;
     aspect-ratio:auto;
     display:block;
-    align-self:start;
+    width:auto;
+    height:100px;
+    max-width:220px;
   }
   .cromo.tem-imagem img{
     position:static;
-    width:100%;
-    height:auto;
+    width:auto;
+    height:100%;
+    max-width:100%;
+    object-fit:contain;
     display:block;
   }
   .cromo.tem-imagem.falta img{ filter: grayscale(0.85) brightness(0.9); opacity:0.55; }
@@ -456,7 +475,7 @@ async function renderGrid(){
 
     shown++;
     const card = document.createElement('div');
-    card.className = 'cad-card';
+    card.className = 'cad-card' + (c.capa ? ' tem-capa' : '');
     card.tabIndex = 0;
     card.setAttribute('role','button');
     card.innerHTML = `
