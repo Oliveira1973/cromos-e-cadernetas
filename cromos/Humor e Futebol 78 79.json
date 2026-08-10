@@ -1,0 +1,1815 @@
+[
+  {
+    "numero": "1",
+    "nome": "Cromo 1",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/1.jpg"
+  },
+  {
+    "numero": "2",
+    "nome": "Cromo 2",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/2.jpg"
+  },
+  {
+    "numero": "3",
+    "nome": "Cromo 3",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/3.jpg"
+  },
+  {
+    "numero": "4",
+    "nome": "Cromo 4",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/4.jpg"
+  },
+  {
+    "numero": "5",
+    "nome": "Cromo 5",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/5.jpg"
+  },
+  {
+    "numero": "6",
+    "nome": "Cromo 6",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/6.jpg"
+  },
+  {
+    "numero": "7",
+    "nome": "Cromo 7",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/7.jpg"
+  },
+  {
+    "numero": "8",
+    "nome": "Cromo 8",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/8.jpg"
+  },
+  {
+    "numero": "9",
+    "nome": "Cromo 9",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/9.jpg"
+  },
+  {
+    "numero": "10",
+    "nome": "Cromo 10",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/10.jpg"
+  },
+  {
+    "numero": "11",
+    "nome": "Cromo 11",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/11.jpg"
+  },
+  {
+    "numero": "12",
+    "nome": "Cromo 12",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/12.jpg"
+  },
+  {
+    "numero": "13",
+    "nome": "Cromo 13",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/13.jpg"
+  },
+  {
+    "numero": "14",
+    "nome": "Cromo 14",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/14.jpg"
+  },
+  {
+    "numero": "15",
+    "nome": "Cromo 15",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/15.jpg"
+  },
+  {
+    "numero": "16",
+    "nome": "Cromo 16",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/16.jpg"
+  },
+  {
+    "numero": "17",
+    "nome": "Cromo 17",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/17.jpg"
+  },
+  {
+    "numero": "18",
+    "nome": "Cromo 18",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/18.jpg"
+  },
+  {
+    "numero": "19",
+    "nome": "Cromo 19",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/19.jpg"
+  },
+  {
+    "numero": "20",
+    "nome": "Cromo 20",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/20.jpg"
+  },
+  {
+    "numero": "21",
+    "nome": "Cromo 21",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/21.jpg"
+  },
+  {
+    "numero": "22",
+    "nome": "Cromo 22",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/22.jpg"
+  },
+  {
+    "numero": "23",
+    "nome": "Cromo 23",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/23.jpg"
+  },
+  {
+    "numero": "24",
+    "nome": "Cromo 24",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/24.jpg"
+  },
+  {
+    "numero": "25",
+    "nome": "Cromo 25",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/25.jpg"
+  },
+  {
+    "numero": "26",
+    "nome": "Cromo 26",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/26.jpg"
+  },
+  {
+    "numero": "27",
+    "nome": "Cromo 27",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/27.jpg"
+  },
+  {
+    "numero": "28",
+    "nome": "Cromo 28",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/28.jpg"
+  },
+  {
+    "numero": "29",
+    "nome": "Cromo 29",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/29.jpg"
+  },
+  {
+    "numero": "30",
+    "nome": "Cromo 30",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/30.jpg"
+  },
+  {
+    "numero": "31",
+    "nome": "Cromo 31",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/31.jpg"
+  },
+  {
+    "numero": "32",
+    "nome": "Cromo 32",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/32.jpg"
+  },
+  {
+    "numero": "33",
+    "nome": "Cromo 33",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/33.jpg"
+  },
+  {
+    "numero": "34",
+    "nome": "Cromo 34",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/34.jpg"
+  },
+  {
+    "numero": "35",
+    "nome": "Cromo 35",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/35.jpg"
+  },
+  {
+    "numero": "36",
+    "nome": "Cromo 36",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/36.jpg"
+  },
+  {
+    "numero": "37",
+    "nome": "Cromo 37",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/37.jpg"
+  },
+  {
+    "numero": "38",
+    "nome": "Cromo 38",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/38.jpg"
+  },
+  {
+    "numero": "39",
+    "nome": "Cromo 39",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/39.jpg"
+  },
+  {
+    "numero": "40",
+    "nome": "Cromo 40",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/40.jpg"
+  },
+  {
+    "numero": "41",
+    "nome": "Cromo 41",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/41.jpg"
+  },
+  {
+    "numero": "42",
+    "nome": "Cromo 42",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/42.jpg"
+  },
+  {
+    "numero": "43",
+    "nome": "Cromo 43",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/43.jpg"
+  },
+  {
+    "numero": "44",
+    "nome": "Cromo 44",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/44.jpg"
+  },
+  {
+    "numero": "45",
+    "nome": "Cromo 45",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/45.jpg"
+  },
+  {
+    "numero": "46",
+    "nome": "Cromo 46",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/46.jpg"
+  },
+  {
+    "numero": "47",
+    "nome": "Cromo 47",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/47.jpg"
+  },
+  {
+    "numero": "48",
+    "nome": "Cromo 48",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/48.jpg"
+  },
+  {
+    "numero": "49",
+    "nome": "Cromo 49",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/49.jpg"
+  },
+  {
+    "numero": "50",
+    "nome": "Cromo 50",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/50.jpg"
+  },
+  {
+    "numero": "51",
+    "nome": "Cromo 51",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/51.jpg"
+  },
+  {
+    "numero": "52",
+    "nome": "Cromo 52",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/52.jpg"
+  },
+  {
+    "numero": "53",
+    "nome": "Cromo 53",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/53.jpg"
+  },
+  {
+    "numero": "54",
+    "nome": "Cromo 54",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/54.jpg"
+  },
+  {
+    "numero": "55",
+    "nome": "Cromo 55",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/55.jpg"
+  },
+  {
+    "numero": "56",
+    "nome": "Cromo 56",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/56.jpg"
+  },
+  {
+    "numero": "57",
+    "nome": "Cromo 57",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/57.jpg"
+  },
+  {
+    "numero": "58",
+    "nome": "Cromo 58",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/58.jpg"
+  },
+  {
+    "numero": "59",
+    "nome": "Cromo 59",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/59.jpg"
+  },
+  {
+    "numero": "60",
+    "nome": "Cromo 60",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/60.jpg"
+  },
+  {
+    "numero": "61",
+    "nome": "Cromo 61",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/61.jpg"
+  },
+  {
+    "numero": "62",
+    "nome": "Cromo 62",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/62.jpg"
+  },
+  {
+    "numero": "63",
+    "nome": "Cromo 63",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/63.jpg"
+  },
+  {
+    "numero": "64",
+    "nome": "Cromo 64",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/64.jpg"
+  },
+  {
+    "numero": "65",
+    "nome": "Cromo 65",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/65.jpg"
+  },
+  {
+    "numero": "66",
+    "nome": "Cromo 66",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/66.jpg"
+  },
+  {
+    "numero": "67",
+    "nome": "Cromo 67",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/67.jpg"
+  },
+  {
+    "numero": "68",
+    "nome": "Cromo 68",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/68.jpg"
+  },
+  {
+    "numero": "69",
+    "nome": "Cromo 69",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/69.jpg"
+  },
+  {
+    "numero": "70",
+    "nome": "Cromo 70",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/70.jpg"
+  },
+  {
+    "numero": "71",
+    "nome": "Cromo 71",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/71.jpg"
+  },
+  {
+    "numero": "72",
+    "nome": "Cromo 72",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/72.jpg"
+  },
+  {
+    "numero": "73",
+    "nome": "Cromo 73",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/73.jpg"
+  },
+  {
+    "numero": "74",
+    "nome": "Cromo 74",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/74.jpg"
+  },
+  {
+    "numero": "75",
+    "nome": "Cromo 75",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/75.jpg"
+  },
+  {
+    "numero": "76",
+    "nome": "Cromo 76",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/76.jpg"
+  },
+  {
+    "numero": "77",
+    "nome": "Cromo 77",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/77.jpg"
+  },
+  {
+    "numero": "78",
+    "nome": "Cromo 78",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/78.jpg"
+  },
+  {
+    "numero": "79",
+    "nome": "Cromo 79",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/79.jpg"
+  },
+  {
+    "numero": "80",
+    "nome": "Cromo 80",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/80.jpg"
+  },
+  {
+    "numero": "81",
+    "nome": "Cromo 81",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/81.jpg"
+  },
+  {
+    "numero": "82",
+    "nome": "Cromo 82",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/82.jpg"
+  },
+  {
+    "numero": "83",
+    "nome": "Cromo 83",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/83.jpg"
+  },
+  {
+    "numero": "84",
+    "nome": "Cromo 84",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/84.jpg"
+  },
+  {
+    "numero": "85",
+    "nome": "Cromo 85",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/85.jpg"
+  },
+  {
+    "numero": "86",
+    "nome": "Cromo 86",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/86.jpg"
+  },
+  {
+    "numero": "87",
+    "nome": "Cromo 87",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/87.jpg"
+  },
+  {
+    "numero": "88",
+    "nome": "Cromo 88",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/88.jpg"
+  },
+  {
+    "numero": "89",
+    "nome": "Cromo 89",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/89.jpg"
+  },
+  {
+    "numero": "90",
+    "nome": "Cromo 90",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/90.jpg"
+  },
+  {
+    "numero": "91",
+    "nome": "Cromo 91",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/91.jpg"
+  },
+  {
+    "numero": "92",
+    "nome": "Cromo 92",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/92.jpg"
+  },
+  {
+    "numero": "93",
+    "nome": "Cromo 93",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/93.jpg"
+  },
+  {
+    "numero": "94",
+    "nome": "Cromo 94",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/94.jpg"
+  },
+  {
+    "numero": "95",
+    "nome": "Cromo 95",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/95.jpg"
+  },
+  {
+    "numero": "96",
+    "nome": "Cromo 96",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/96.jpg"
+  },
+  {
+    "numero": "97",
+    "nome": "Cromo 97",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/97.jpg"
+  },
+  {
+    "numero": "98",
+    "nome": "Cromo 98",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/98.jpg"
+  },
+  {
+    "numero": "99",
+    "nome": "Cromo 99",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/99.jpg"
+  },
+  {
+    "numero": "100",
+    "nome": "Cromo 100",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/100.jpg"
+  },
+  {
+    "numero": "101",
+    "nome": "Cromo 101",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/101.jpg"
+  },
+  {
+    "numero": "102",
+    "nome": "Cromo 102",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/102.jpg"
+  },
+  {
+    "numero": "103",
+    "nome": "Cromo 103",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/103.jpg"
+  },
+  {
+    "numero": "104",
+    "nome": "Cromo 104",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/104.jpg"
+  },
+  {
+    "numero": "105",
+    "nome": "Cromo 105",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/105.jpg"
+  },
+  {
+    "numero": "106",
+    "nome": "Cromo 106",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/106.jpg"
+  },
+  {
+    "numero": "107",
+    "nome": "Cromo 107",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/107.jpg"
+  },
+  {
+    "numero": "108",
+    "nome": "Cromo 108",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/108.jpg"
+  },
+  {
+    "numero": "109",
+    "nome": "Cromo 109",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/109.jpg"
+  },
+  {
+    "numero": "110",
+    "nome": "Cromo 110",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/110.jpg"
+  },
+  {
+    "numero": "111",
+    "nome": "Cromo 111",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/111.jpg"
+  },
+  {
+    "numero": "112",
+    "nome": "Cromo 112",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/112.jpg"
+  },
+  {
+    "numero": "113",
+    "nome": "Cromo 113",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/113.jpg"
+  },
+  {
+    "numero": "114",
+    "nome": "Cromo 114",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/114.jpg"
+  },
+  {
+    "numero": "115",
+    "nome": "Cromo 115",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/115.jpg"
+  },
+  {
+    "numero": "116",
+    "nome": "Cromo 116",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/116.jpg"
+  },
+  {
+    "numero": "117",
+    "nome": "Cromo 117",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/117.jpg"
+  },
+  {
+    "numero": "118",
+    "nome": "Cromo 118",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/118.jpg"
+  },
+  {
+    "numero": "119",
+    "nome": "Cromo 119",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/119.jpg"
+  },
+  {
+    "numero": "120",
+    "nome": "Cromo 120",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/120.jpg"
+  },
+  {
+    "numero": "121",
+    "nome": "Cromo 121",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/121.jpg"
+  },
+  {
+    "numero": "122",
+    "nome": "Cromo 122",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/122.jpg"
+  },
+  {
+    "numero": "123",
+    "nome": "Cromo 123",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/123.jpg"
+  },
+  {
+    "numero": "124",
+    "nome": "Cromo 124",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/124.jpg"
+  },
+  {
+    "numero": "125",
+    "nome": "Cromo 125",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/125.jpg"
+  },
+  {
+    "numero": "126",
+    "nome": "Cromo 126",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/126.jpg"
+  },
+  {
+    "numero": "127",
+    "nome": "Cromo 127",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/127.jpg"
+  },
+  {
+    "numero": "128",
+    "nome": "Cromo 128",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/128.jpg"
+  },
+  {
+    "numero": "129",
+    "nome": "Cromo 129",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/129.jpg"
+  },
+  {
+    "numero": "130",
+    "nome": "Cromo 130",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/130.jpg"
+  },
+  {
+    "numero": "131",
+    "nome": "Cromo 131",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/131.jpg"
+  },
+  {
+    "numero": "132",
+    "nome": "Cromo 132",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/132.jpg"
+  },
+  {
+    "numero": "133",
+    "nome": "Cromo 133",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/133.jpg"
+  },
+  {
+    "numero": "134",
+    "nome": "Cromo 134",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/134.jpg"
+  },
+  {
+    "numero": "135",
+    "nome": "Cromo 135",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/135.jpg"
+  },
+  {
+    "numero": "136",
+    "nome": "Cromo 136",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/136.jpg"
+  },
+  {
+    "numero": "137",
+    "nome": "Cromo 137",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/137.jpg"
+  },
+  {
+    "numero": "138",
+    "nome": "Cromo 138",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/138.jpg"
+  },
+  {
+    "numero": "139",
+    "nome": "Cromo 139",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/139.jpg"
+  },
+  {
+    "numero": "140",
+    "nome": "Cromo 140",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/140.jpg"
+  },
+  {
+    "numero": "141",
+    "nome": "Cromo 141",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/141.jpg"
+  },
+  {
+    "numero": "142",
+    "nome": "Cromo 142",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/142.jpg"
+  },
+  {
+    "numero": "143",
+    "nome": "Cromo 143",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/143.jpg"
+  },
+  {
+    "numero": "144",
+    "nome": "Cromo 144",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/144.jpg"
+  },
+  {
+    "numero": "145",
+    "nome": "Cromo 145",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/145.jpg"
+  },
+  {
+    "numero": "146",
+    "nome": "Cromo 146",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/146.jpg"
+  },
+  {
+    "numero": "147",
+    "nome": "Cromo 147",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/147.jpg"
+  },
+  {
+    "numero": "148",
+    "nome": "Cromo 148",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/148.jpg"
+  },
+  {
+    "numero": "149",
+    "nome": "Cromo 149",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/149.jpg"
+  },
+  {
+    "numero": "150",
+    "nome": "Cromo 150",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/150.jpg"
+  },
+  {
+    "numero": "151",
+    "nome": "Cromo 151",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/151.jpg"
+  },
+  {
+    "numero": "152",
+    "nome": "Cromo 152",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/152.jpg"
+  },
+  {
+    "numero": "153",
+    "nome": "Cromo 153",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/153.jpg"
+  },
+  {
+    "numero": "154",
+    "nome": "Cromo 154",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/154.jpg"
+  },
+  {
+    "numero": "155",
+    "nome": "Cromo 155",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/155.jpg"
+  },
+  {
+    "numero": "156",
+    "nome": "Cromo 156",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/156.jpg"
+  },
+  {
+    "numero": "157",
+    "nome": "Cromo 157",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/157.jpg"
+  },
+  {
+    "numero": "158",
+    "nome": "Cromo 158",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/158.jpg"
+  },
+  {
+    "numero": "159",
+    "nome": "Cromo 159",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/159.jpg"
+  },
+  {
+    "numero": "160",
+    "nome": "Cromo 160",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/160.jpg"
+  },
+  {
+    "numero": "161",
+    "nome": "Cromo 161",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/161.jpg"
+  },
+  {
+    "numero": "162",
+    "nome": "Cromo 162",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/162.jpg"
+  },
+  {
+    "numero": "163",
+    "nome": "Cromo 163",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/163.jpg"
+  },
+  {
+    "numero": "164",
+    "nome": "Cromo 164",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/164.jpg"
+  },
+  {
+    "numero": "165",
+    "nome": "Cromo 165",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/165.jpg"
+  },
+  {
+    "numero": "166",
+    "nome": "Cromo 166",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/166.jpg"
+  },
+  {
+    "numero": "167",
+    "nome": "Cromo 167",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/167.jpg"
+  },
+  {
+    "numero": "168",
+    "nome": "Cromo 168",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/168.jpg"
+  },
+  {
+    "numero": "169",
+    "nome": "Cromo 169",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/169.jpg"
+  },
+  {
+    "numero": "170",
+    "nome": "Cromo 170",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/170.jpg"
+  },
+  {
+    "numero": "171",
+    "nome": "Cromo 171",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/171.jpg"
+  },
+  {
+    "numero": "172",
+    "nome": "Cromo 172",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/172.jpg"
+  },
+  {
+    "numero": "173",
+    "nome": "Cromo 173",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/173.jpg"
+  },
+  {
+    "numero": "174",
+    "nome": "Cromo 174",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/174.jpg"
+  },
+  {
+    "numero": "175",
+    "nome": "Cromo 175",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/175.jpg"
+  },
+  {
+    "numero": "176",
+    "nome": "Cromo 176",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/176.jpg"
+  },
+  {
+    "numero": "177",
+    "nome": "Cromo 177",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/177.jpg"
+  },
+  {
+    "numero": "178",
+    "nome": "Cromo 178",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/178.jpg"
+  },
+  {
+    "numero": "179",
+    "nome": "Cromo 179",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/179.jpg"
+  },
+  {
+    "numero": "180",
+    "nome": "Cromo 180",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/180.jpg"
+  },
+  {
+    "numero": "181",
+    "nome": "Cromo 181",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/181.jpg"
+  },
+  {
+    "numero": "182",
+    "nome": "Cromo 182",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/182.jpg"
+  },
+  {
+    "numero": "183",
+    "nome": "Cromo 183",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/183.jpg"
+  },
+  {
+    "numero": "184",
+    "nome": "Cromo 184",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/184.jpg"
+  },
+  {
+    "numero": "185",
+    "nome": "Cromo 185",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/185.jpg"
+  },
+  {
+    "numero": "186",
+    "nome": "Cromo 186",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/186.jpg"
+  },
+  {
+    "numero": "187",
+    "nome": "Cromo 187",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/187.jpg"
+  },
+  {
+    "numero": "188",
+    "nome": "Cromo 188",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/188.jpg"
+  },
+  {
+    "numero": "189",
+    "nome": "Cromo 189",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/189.jpg"
+  },
+  {
+    "numero": "190",
+    "nome": "Cromo 190",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/190.jpg"
+  },
+  {
+    "numero": "191",
+    "nome": "Cromo 191",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/191.jpg"
+  },
+  {
+    "numero": "192",
+    "nome": "Cromo 192",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/192.jpg"
+  },
+  {
+    "numero": "193",
+    "nome": "Cromo 193",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/193.jpg"
+  },
+  {
+    "numero": "194",
+    "nome": "Cromo 194",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/194.jpg"
+  },
+  {
+    "numero": "195",
+    "nome": "Cromo 195",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/195.jpg"
+  },
+  {
+    "numero": "196",
+    "nome": "Cromo 196",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/196.jpg"
+  },
+  {
+    "numero": "197",
+    "nome": "Cromo 197",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/197.jpg"
+  },
+  {
+    "numero": "198",
+    "nome": "Cromo 198",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/198.jpg"
+  },
+  {
+    "numero": "199",
+    "nome": "Cromo 199",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/199.jpg"
+  },
+  {
+    "numero": "200",
+    "nome": "Cromo 200",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/200.jpg"
+  },
+  {
+    "numero": "201",
+    "nome": "Cromo 201",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/201.jpg"
+  },
+  {
+    "numero": "202",
+    "nome": "Cromo 202",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/202.jpg"
+  },
+  {
+    "numero": "203",
+    "nome": "Cromo 203",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/203.jpg"
+  },
+  {
+    "numero": "204",
+    "nome": "Cromo 204",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/204.jpg"
+  },
+  {
+    "numero": "205",
+    "nome": "Cromo 205",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/205.jpg"
+  },
+  {
+    "numero": "206",
+    "nome": "Cromo 206",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/206.jpg"
+  },
+  {
+    "numero": "207",
+    "nome": "Cromo 207",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/207.jpg"
+  },
+  {
+    "numero": "208",
+    "nome": "Cromo 208",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/208.jpg"
+  },
+  {
+    "numero": "209",
+    "nome": "Cromo 209",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/209.jpg"
+  },
+  {
+    "numero": "210",
+    "nome": "Cromo 210",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/210.jpg"
+  },
+  {
+    "numero": "211",
+    "nome": "Cromo 211",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/211.jpg"
+  },
+  {
+    "numero": "212",
+    "nome": "Cromo 212",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/212.jpg"
+  },
+  {
+    "numero": "213",
+    "nome": "Cromo 213",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/213.jpg"
+  },
+  {
+    "numero": "214",
+    "nome": "Cromo 214",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/214.jpg"
+  },
+  {
+    "numero": "215",
+    "nome": "Cromo 215",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/215.jpg"
+  },
+  {
+    "numero": "216",
+    "nome": "Cromo 216",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/216.jpg"
+  },
+  {
+    "numero": "217",
+    "nome": "Cromo 217",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/217.jpg"
+  },
+  {
+    "numero": "218",
+    "nome": "Cromo 218",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/218.jpg"
+  },
+  {
+    "numero": "219",
+    "nome": "Cromo 219",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/219.jpg"
+  },
+  {
+    "numero": "220",
+    "nome": "Cromo 220",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/220.jpg"
+  },
+  {
+    "numero": "221",
+    "nome": "Cromo 221",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/221.jpg"
+  },
+  {
+    "numero": "222",
+    "nome": "Cromo 222",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/222.jpg"
+  },
+  {
+    "numero": "223",
+    "nome": "Cromo 223",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/223.jpg"
+  },
+  {
+    "numero": "224",
+    "nome": "Cromo 224",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/224.jpg"
+  },
+  {
+    "numero": "225",
+    "nome": "Cromo 225",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/225.jpg"
+  },
+  {
+    "numero": "226",
+    "nome": "Cromo 226",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/226.jpg"
+  },
+  {
+    "numero": "227",
+    "nome": "Cromo 227",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/227.jpg"
+  },
+  {
+    "numero": "228",
+    "nome": "Cromo 228",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/228.jpg"
+  },
+  {
+    "numero": "229",
+    "nome": "Cromo 229",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/229.jpg"
+  },
+  {
+    "numero": "230",
+    "nome": "Cromo 230",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/230.jpg"
+  },
+  {
+    "numero": "231",
+    "nome": "Cromo 231",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/231.jpg"
+  },
+  {
+    "numero": "232",
+    "nome": "Cromo 232",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/232.jpg"
+  },
+  {
+    "numero": "233",
+    "nome": "Cromo 233",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/233.jpg"
+  },
+  {
+    "numero": "234",
+    "nome": "Cromo 234",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/234.jpg"
+  },
+  {
+    "numero": "235",
+    "nome": "Cromo 235",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/235.jpg"
+  },
+  {
+    "numero": "236",
+    "nome": "Cromo 236",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/236.jpg"
+  },
+  {
+    "numero": "237",
+    "nome": "Cromo 237",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/237.jpg"
+  },
+  {
+    "numero": "238",
+    "nome": "Cromo 238",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/238.jpg"
+  },
+  {
+    "numero": "239",
+    "nome": "Cromo 239",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/239.jpg"
+  },
+  {
+    "numero": "240",
+    "nome": "Cromo 240",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/240.jpg"
+  },
+  {
+    "numero": "241",
+    "nome": "Cromo 241",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/241.jpg"
+  },
+  {
+    "numero": "242",
+    "nome": "Cromo 242",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/242.jpg"
+  },
+  {
+    "numero": "243",
+    "nome": "Cromo 243",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/243.jpg"
+  },
+  {
+    "numero": "244",
+    "nome": "Cromo 244",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/244.jpg"
+  },
+  {
+    "numero": "245",
+    "nome": "Cromo 245",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/245.jpg"
+  },
+  {
+    "numero": "246",
+    "nome": "Cromo 246",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/246.jpg"
+  },
+  {
+    "numero": "247",
+    "nome": "Cromo 247",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/247.jpg"
+  },
+  {
+    "numero": "248",
+    "nome": "Cromo 248",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/248.jpg"
+  },
+  {
+    "numero": "249",
+    "nome": "Cromo 249",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/249.jpg"
+  },
+  {
+    "numero": "250",
+    "nome": "Cromo 250",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/250.jpg"
+  },
+  {
+    "numero": "251",
+    "nome": "Cromo 251",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/251.jpg"
+  },
+  {
+    "numero": "252",
+    "nome": "Cromo 252",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/252.jpg"
+  },
+  {
+    "numero": "253",
+    "nome": "Cromo 253",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/253.jpg"
+  },
+  {
+    "numero": "254",
+    "nome": "Cromo 254",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/254.jpg"
+  },
+  {
+    "numero": "255",
+    "nome": "Cromo 255",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/255.jpg"
+  },
+  {
+    "numero": "256",
+    "nome": "Cromo 256",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/256.jpg"
+  },
+  {
+    "numero": "257",
+    "nome": "Cromo 257",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/257.jpg"
+  },
+  {
+    "numero": "258",
+    "nome": "Cromo 258",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/258.jpg"
+  },
+  {
+    "numero": "259",
+    "nome": "Cromo 259",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Humor e Futebol 78 79/259.jpg"
+  }
+]

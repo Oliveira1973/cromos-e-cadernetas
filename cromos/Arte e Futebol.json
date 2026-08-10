@@ -1,0 +1,1458 @@
+[
+  {
+    "numero": "1",
+    "nome": "Cromo 1",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/1.jpg"
+  },
+  {
+    "numero": "2",
+    "nome": "Cromo 2",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/2.jpg"
+  },
+  {
+    "numero": "3",
+    "nome": "Cromo 3",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/3.jpg"
+  },
+  {
+    "numero": "4",
+    "nome": "Cromo 4",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/4.jpg"
+  },
+  {
+    "numero": "5",
+    "nome": "Cromo 5",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/5.jpg"
+  },
+  {
+    "numero": "6",
+    "nome": "Cromo 6",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/6.jpg"
+  },
+  {
+    "numero": "7",
+    "nome": "Cromo 7",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/7.jpg"
+  },
+  {
+    "numero": "8",
+    "nome": "Cromo 8",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/8.jpg"
+  },
+  {
+    "numero": "9",
+    "nome": "Cromo 9",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/9.jpg"
+  },
+  {
+    "numero": "10",
+    "nome": "Cromo 10",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/10.jpg"
+  },
+  {
+    "numero": "11",
+    "nome": "Cromo 11",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/11.jpg"
+  },
+  {
+    "numero": "12",
+    "nome": "Cromo 12",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/12.jpg"
+  },
+  {
+    "numero": "13",
+    "nome": "Cromo 13",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/13.jpg"
+  },
+  {
+    "numero": "14",
+    "nome": "Cromo 14",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/14.jpg"
+  },
+  {
+    "numero": "15",
+    "nome": "Cromo 15",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/15.jpg"
+  },
+  {
+    "numero": "16",
+    "nome": "Cromo 16",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/16.jpg"
+  },
+  {
+    "numero": "17",
+    "nome": "Cromo 17",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/17.jpg"
+  },
+  {
+    "numero": "18",
+    "nome": "Cromo 18",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/18.jpg"
+  },
+  {
+    "numero": "19",
+    "nome": "Cromo 19",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/19.jpg"
+  },
+  {
+    "numero": "20",
+    "nome": "Cromo 20",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/20.jpg"
+  },
+  {
+    "numero": "21",
+    "nome": "Cromo 21",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/21.jpg"
+  },
+  {
+    "numero": "22",
+    "nome": "Cromo 22",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/22.jpg"
+  },
+  {
+    "numero": "23",
+    "nome": "Cromo 23",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/23.jpg"
+  },
+  {
+    "numero": "24",
+    "nome": "Cromo 24",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/24.jpg"
+  },
+  {
+    "numero": "25",
+    "nome": "Cromo 25",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/25.jpg"
+  },
+  {
+    "numero": "26",
+    "nome": "Cromo 26",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/26.jpg"
+  },
+  {
+    "numero": "27",
+    "nome": "Cromo 27",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/27.jpg"
+  },
+  {
+    "numero": "28",
+    "nome": "Cromo 28",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/28.jpg"
+  },
+  {
+    "numero": "29",
+    "nome": "Cromo 29",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/29.jpg"
+  },
+  {
+    "numero": "30",
+    "nome": "Cromo 30",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/30.jpg"
+  },
+  {
+    "numero": "31",
+    "nome": "Cromo 31",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/31.jpg"
+  },
+  {
+    "numero": "32",
+    "nome": "Cromo 32",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/32.jpg"
+  },
+  {
+    "numero": "33",
+    "nome": "Cromo 33",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/33.jpg"
+  },
+  {
+    "numero": "34",
+    "nome": "Cromo 34",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/34.jpg"
+  },
+  {
+    "numero": "35",
+    "nome": "Cromo 35",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/35.jpg"
+  },
+  {
+    "numero": "36",
+    "nome": "Cromo 36",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/36.jpg"
+  },
+  {
+    "numero": "37",
+    "nome": "Cromo 37",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/37.jpg"
+  },
+  {
+    "numero": "38",
+    "nome": "Cromo 38",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/38.jpg"
+  },
+  {
+    "numero": "39",
+    "nome": "Cromo 39",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/39.jpg"
+  },
+  {
+    "numero": "40",
+    "nome": "Cromo 40",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/40.jpg"
+  },
+  {
+    "numero": "41",
+    "nome": "Cromo 41",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/41.jpg"
+  },
+  {
+    "numero": "42",
+    "nome": "Cromo 42",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/42.jpg"
+  },
+  {
+    "numero": "43",
+    "nome": "Cromo 43",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/43.jpg"
+  },
+  {
+    "numero": "44",
+    "nome": "Cromo 44",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/44.jpg"
+  },
+  {
+    "numero": "45",
+    "nome": "Cromo 45",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/45.jpg"
+  },
+  {
+    "numero": "46",
+    "nome": "Cromo 46",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/46.jpg"
+  },
+  {
+    "numero": "47",
+    "nome": "Cromo 47",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/47.jpg"
+  },
+  {
+    "numero": "48",
+    "nome": "Cromo 48",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/48.jpg"
+  },
+  {
+    "numero": "49",
+    "nome": "Cromo 49",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/49.jpg"
+  },
+  {
+    "numero": "50",
+    "nome": "Cromo 50",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/50.jpg"
+  },
+  {
+    "numero": "51",
+    "nome": "Cromo 51",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/51.jpg"
+  },
+  {
+    "numero": "52",
+    "nome": "Cromo 52",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/52.jpg"
+  },
+  {
+    "numero": "53",
+    "nome": "Cromo 53",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/53.jpg"
+  },
+  {
+    "numero": "54",
+    "nome": "Cromo 54",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/54.jpg"
+  },
+  {
+    "numero": "55",
+    "nome": "Cromo 55",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/55.jpg"
+  },
+  {
+    "numero": "56",
+    "nome": "Cromo 56",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/56.jpg"
+  },
+  {
+    "numero": "57",
+    "nome": "Cromo 57",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/57.jpg"
+  },
+  {
+    "numero": "58",
+    "nome": "Cromo 58",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/58.jpg"
+  },
+  {
+    "numero": "59",
+    "nome": "Cromo 59",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/59.jpg"
+  },
+  {
+    "numero": "60",
+    "nome": "Cromo 60",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/60.jpg"
+  },
+  {
+    "numero": "61",
+    "nome": "Cromo 61",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/61.jpg"
+  },
+  {
+    "numero": "62",
+    "nome": "Cromo 62",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/62.jpg"
+  },
+  {
+    "numero": "63",
+    "nome": "Cromo 63",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/63.jpg"
+  },
+  {
+    "numero": "64",
+    "nome": "Cromo 64",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/64.jpg"
+  },
+  {
+    "numero": "65",
+    "nome": "Cromo 65",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/65.jpg"
+  },
+  {
+    "numero": "66",
+    "nome": "Cromo 66",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/66.jpg"
+  },
+  {
+    "numero": "67",
+    "nome": "Cromo 67",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/67.jpg"
+  },
+  {
+    "numero": "68",
+    "nome": "Cromo 68",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/68.jpg"
+  },
+  {
+    "numero": "69",
+    "nome": "Cromo 69",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/69.jpg"
+  },
+  {
+    "numero": "70",
+    "nome": "Cromo 70",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/70.jpg"
+  },
+  {
+    "numero": "71",
+    "nome": "Cromo 71",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/71.jpg"
+  },
+  {
+    "numero": "72",
+    "nome": "Cromo 72",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/72.jpg"
+  },
+  {
+    "numero": "73",
+    "nome": "Cromo 73",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/73.jpg"
+  },
+  {
+    "numero": "74",
+    "nome": "Cromo 74",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/74.jpg"
+  },
+  {
+    "numero": "75",
+    "nome": "Cromo 75",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/75.jpg"
+  },
+  {
+    "numero": "76",
+    "nome": "Cromo 76",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/76.jpg"
+  },
+  {
+    "numero": "77",
+    "nome": "Cromo 77",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/77.jpg"
+  },
+  {
+    "numero": "78",
+    "nome": "Cromo 78",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/78.jpg"
+  },
+  {
+    "numero": "79",
+    "nome": "Cromo 79",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/79.jpg"
+  },
+  {
+    "numero": "80",
+    "nome": "Cromo 80",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/80.jpg"
+  },
+  {
+    "numero": "81",
+    "nome": "Cromo 81",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/81.jpg"
+  },
+  {
+    "numero": "82",
+    "nome": "Cromo 82",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/82.jpg"
+  },
+  {
+    "numero": "83",
+    "nome": "Cromo 83",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/83.jpg"
+  },
+  {
+    "numero": "84",
+    "nome": "Cromo 84",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/84.jpg"
+  },
+  {
+    "numero": "85",
+    "nome": "Cromo 85",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/85.jpg"
+  },
+  {
+    "numero": "86",
+    "nome": "Cromo 86",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/86.jpg"
+  },
+  {
+    "numero": "87",
+    "nome": "Cromo 87",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/87.jpg"
+  },
+  {
+    "numero": "88",
+    "nome": "Cromo 88",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/88.jpg"
+  },
+  {
+    "numero": "89",
+    "nome": "Cromo 89",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/89.jpg"
+  },
+  {
+    "numero": "90",
+    "nome": "Cromo 90",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/90.jpg"
+  },
+  {
+    "numero": "91",
+    "nome": "Cromo 91",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/91.jpg"
+  },
+  {
+    "numero": "92",
+    "nome": "Cromo 92",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/92.jpg"
+  },
+  {
+    "numero": "93",
+    "nome": "Cromo 93",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/93.jpg"
+  },
+  {
+    "numero": "94",
+    "nome": "Cromo 94",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/94.jpg"
+  },
+  {
+    "numero": "95",
+    "nome": "Cromo 95",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/95.jpg"
+  },
+  {
+    "numero": "96",
+    "nome": "Cromo 96",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/96.jpg"
+  },
+  {
+    "numero": "97",
+    "nome": "Cromo 97",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/97.jpg"
+  },
+  {
+    "numero": "98",
+    "nome": "Cromo 98",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/98.jpg"
+  },
+  {
+    "numero": "99",
+    "nome": "Cromo 99",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/99.jpg"
+  },
+  {
+    "numero": "100",
+    "nome": "Cromo 100",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/100.jpg"
+  },
+  {
+    "numero": "101",
+    "nome": "Cromo 101",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/101.jpg"
+  },
+  {
+    "numero": "102",
+    "nome": "Cromo 102",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/102.jpg"
+  },
+  {
+    "numero": "103",
+    "nome": "Cromo 103",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/103.jpg"
+  },
+  {
+    "numero": "104",
+    "nome": "Cromo 104",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/104.jpg"
+  },
+  {
+    "numero": "105",
+    "nome": "Cromo 105",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/105.jpg"
+  },
+  {
+    "numero": "106",
+    "nome": "Cromo 106",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/106.jpg"
+  },
+  {
+    "numero": "107",
+    "nome": "Cromo 107",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/107.jpg"
+  },
+  {
+    "numero": "108",
+    "nome": "Cromo 108",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/108.jpg"
+  },
+  {
+    "numero": "109",
+    "nome": "Cromo 109",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/109.jpg"
+  },
+  {
+    "numero": "110",
+    "nome": "Cromo 110",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/110.jpg"
+  },
+  {
+    "numero": "111",
+    "nome": "Cromo 111",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/111.jpg"
+  },
+  {
+    "numero": "112",
+    "nome": "Cromo 112",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/112.jpg"
+  },
+  {
+    "numero": "113",
+    "nome": "Cromo 113",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/113.jpg"
+  },
+  {
+    "numero": "114",
+    "nome": "Cromo 114",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/114.jpg"
+  },
+  {
+    "numero": "115",
+    "nome": "Cromo 115",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/115.jpg"
+  },
+  {
+    "numero": "116",
+    "nome": "Cromo 116",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/116.jpg"
+  },
+  {
+    "numero": "117",
+    "nome": "Cromo 117",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/117.jpg"
+  },
+  {
+    "numero": "118",
+    "nome": "Cromo 118",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/118.jpg"
+  },
+  {
+    "numero": "119",
+    "nome": "Cromo 119",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/119.jpg"
+  },
+  {
+    "numero": "120",
+    "nome": "Cromo 120",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/120.jpg"
+  },
+  {
+    "numero": "121",
+    "nome": "Cromo 121",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/121.jpg"
+  },
+  {
+    "numero": "122",
+    "nome": "Cromo 122",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/122.jpg"
+  },
+  {
+    "numero": "123",
+    "nome": "Cromo 123",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/123.jpg"
+  },
+  {
+    "numero": "124",
+    "nome": "Cromo 124",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/124.jpg"
+  },
+  {
+    "numero": "125",
+    "nome": "Cromo 125",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/125.jpg"
+  },
+  {
+    "numero": "126",
+    "nome": "Cromo 126",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/126.jpg"
+  },
+  {
+    "numero": "127",
+    "nome": "Cromo 127",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/127.jpg"
+  },
+  {
+    "numero": "128",
+    "nome": "Cromo 128",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/128.jpg"
+  },
+  {
+    "numero": "129",
+    "nome": "Cromo 129",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/129.jpg"
+  },
+  {
+    "numero": "130",
+    "nome": "Cromo 130",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/130.jpg"
+  },
+  {
+    "numero": "131",
+    "nome": "Cromo 131",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/131.jpg"
+  },
+  {
+    "numero": "132",
+    "nome": "Cromo 132",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/132.jpg"
+  },
+  {
+    "numero": "133",
+    "nome": "Cromo 133",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/133.jpg"
+  },
+  {
+    "numero": "134",
+    "nome": "Cromo 134",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/134.jpg"
+  },
+  {
+    "numero": "135",
+    "nome": "Cromo 135",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/135.jpg"
+  },
+  {
+    "numero": "136",
+    "nome": "Cromo 136",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/136.jpg"
+  },
+  {
+    "numero": "137",
+    "nome": "Cromo 137",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/137.jpg"
+  },
+  {
+    "numero": "138",
+    "nome": "Cromo 138",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/138.jpg"
+  },
+  {
+    "numero": "139",
+    "nome": "Cromo 139",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/139.jpg"
+  },
+  {
+    "numero": "140",
+    "nome": "Cromo 140",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/140.jpg"
+  },
+  {
+    "numero": "141",
+    "nome": "Cromo 141",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/141.jpg"
+  },
+  {
+    "numero": "142",
+    "nome": "Cromo 142",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/142.jpg"
+  },
+  {
+    "numero": "143",
+    "nome": "Cromo 143",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/143.jpg"
+  },
+  {
+    "numero": "144",
+    "nome": "Cromo 144",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/144.jpg"
+  },
+  {
+    "numero": "145",
+    "nome": "Cromo 145",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/145.jpg"
+  },
+  {
+    "numero": "146",
+    "nome": "Cromo 146",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/146.jpg"
+  },
+  {
+    "numero": "147",
+    "nome": "Cromo 147",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/147.jpg"
+  },
+  {
+    "numero": "148",
+    "nome": "Cromo 148",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/148.jpg"
+  },
+  {
+    "numero": "149",
+    "nome": "Cromo 149",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/149.jpg"
+  },
+  {
+    "numero": "150",
+    "nome": "Cromo 150",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/150.jpg"
+  },
+  {
+    "numero": "151",
+    "nome": "Cromo 151",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/151.jpg"
+  },
+  {
+    "numero": "152",
+    "nome": "Cromo 152",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/152.jpg"
+  },
+  {
+    "numero": "153",
+    "nome": "Cromo 153",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/153.jpg"
+  },
+  {
+    "numero": "154",
+    "nome": "Cromo 154",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/154.jpg"
+  },
+  {
+    "numero": "155",
+    "nome": "Cromo 155",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/155.jpg"
+  },
+  {
+    "numero": "156",
+    "nome": "Cromo 156",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/156.jpg"
+  },
+  {
+    "numero": "157",
+    "nome": "Cromo 157",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/157.jpg"
+  },
+  {
+    "numero": "158",
+    "nome": "Cromo 158",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/158.jpg"
+  },
+  {
+    "numero": "159",
+    "nome": "Cromo 159",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/159.jpg"
+  },
+  {
+    "numero": "160",
+    "nome": "Cromo 160",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/160.jpg"
+  },
+  {
+    "numero": "161",
+    "nome": "Cromo 161",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/161.jpg"
+  },
+  {
+    "numero": "162",
+    "nome": "Cromo 162",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/162.jpg"
+  },
+  {
+    "numero": "163",
+    "nome": "Cromo 163",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/163.jpg"
+  },
+  {
+    "numero": "164",
+    "nome": "Cromo 164",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/164.jpg"
+  },
+  {
+    "numero": "165",
+    "nome": "Cromo 165",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/165.jpg"
+  },
+  {
+    "numero": "166",
+    "nome": "Cromo 166",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/166.jpg"
+  },
+  {
+    "numero": "167",
+    "nome": "Cromo 167",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/167.jpg"
+  },
+  {
+    "numero": "168",
+    "nome": "Cromo 168",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/168.jpg"
+  },
+  {
+    "numero": "169",
+    "nome": "Cromo 169",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/169.jpg"
+  },
+  {
+    "numero": "170",
+    "nome": "Cromo 170",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/170.jpg"
+  },
+  {
+    "numero": "171",
+    "nome": "Cromo 171",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/171.jpg"
+  },
+  {
+    "numero": "172",
+    "nome": "Cromo 172",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/172.jpg"
+  },
+  {
+    "numero": "173",
+    "nome": "Cromo 173",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/173.jpg"
+  },
+  {
+    "numero": "174",
+    "nome": "Cromo 174",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/174.jpg"
+  },
+  {
+    "numero": "175",
+    "nome": "Cromo 175",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/175.jpg"
+  },
+  {
+    "numero": "176",
+    "nome": "Cromo 176",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/176.jpg"
+  },
+  {
+    "numero": "177",
+    "nome": "Cromo 177",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/177.jpg"
+  },
+  {
+    "numero": "178",
+    "nome": "Cromo 178",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/178.jpg"
+  },
+  {
+    "numero": "179",
+    "nome": "Cromo 179",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/179.jpg"
+  },
+  {
+    "numero": "180",
+    "nome": "Cromo 180",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/180.jpg"
+  },
+  {
+    "numero": "181",
+    "nome": "Cromo 181",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/181.jpg"
+  },
+  {
+    "numero": "182",
+    "nome": "Cromo 182",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/182.jpg"
+  },
+  {
+    "numero": "183",
+    "nome": "Cromo 183",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/183.jpg"
+  },
+  {
+    "numero": "184",
+    "nome": "Cromo 184",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/184.jpg"
+  },
+  {
+    "numero": "185",
+    "nome": "Cromo 185",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/185.jpg"
+  },
+  {
+    "numero": "186",
+    "nome": "Cromo 186",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/186.jpg"
+  },
+  {
+    "numero": "187",
+    "nome": "Cromo 187",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/187.jpg"
+  },
+  {
+    "numero": "188",
+    "nome": "Cromo 188",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/188.jpg"
+  },
+  {
+    "numero": "189",
+    "nome": "Cromo 189",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/189.jpg"
+  },
+  {
+    "numero": "190",
+    "nome": "Cromo 190",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/190.jpg"
+  },
+  {
+    "numero": "191",
+    "nome": "Cromo 191",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/191.jpg"
+  },
+  {
+    "numero": "192",
+    "nome": "Cromo 192",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/192.jpg"
+  },
+  {
+    "numero": "193",
+    "nome": "Cromo 193",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/193.jpg"
+  },
+  {
+    "numero": "194",
+    "nome": "Cromo 194",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/194.jpg"
+  },
+  {
+    "numero": "195",
+    "nome": "Cromo 195",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/195.jpg"
+  },
+  {
+    "numero": "196",
+    "nome": "Cromo 196",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/196.jpg"
+  },
+  {
+    "numero": "197",
+    "nome": "Cromo 197",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/197.jpg"
+  },
+  {
+    "numero": "198",
+    "nome": "Cromo 198",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/198.jpg"
+  },
+  {
+    "numero": "199",
+    "nome": "Cromo 199",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/199.jpg"
+  },
+  {
+    "numero": "200",
+    "nome": "Cromo 200",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/200.jpg"
+  },
+  {
+    "numero": "201",
+    "nome": "Cromo 201",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/201.jpg"
+  },
+  {
+    "numero": "202",
+    "nome": "Cromo 202",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/202.jpg"
+  },
+  {
+    "numero": "203",
+    "nome": "Cromo 203",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/203.jpg"
+  },
+  {
+    "numero": "204",
+    "nome": "Cromo 204",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/204.jpg"
+  },
+  {
+    "numero": "205",
+    "nome": "Cromo 205",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/205.jpg"
+  },
+  {
+    "numero": "206",
+    "nome": "Cromo 206",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/206.jpg"
+  },
+  {
+    "numero": "207",
+    "nome": "Cromo 207",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/207.jpg"
+  },
+  {
+    "numero": "208",
+    "nome": "Cromo 208",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Arte e Futebol/208.jpg"
+  }
+]
