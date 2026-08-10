@@ -129,7 +129,9 @@
     position:relative;
     overflow:hidden;
   }
-  .cad-card .cover img{ width:100%; height:100%; object-fit:cover; }
+  .cad-card .cover img{ width:100%; height:100%; object-fit:cover; display:block; }
+  .cad-card .cover.imagem-auto{ aspect-ratio:auto; background:var(--paper-darker); }
+  .cad-card .cover.imagem-auto img{ height:auto; object-fit:contain; }
   .cad-card .cover .placeholder{
     font-family:'Anton', sans-serif;
     color:#f2ead4d0;
@@ -207,7 +209,9 @@
     background:linear-gradient(135deg, var(--teal), #1f4e47);
     display:flex; align-items:center; justify-content:center; overflow:hidden; flex-shrink:0;
   }
-  .detail-cover img{ width:100%; height:100%; object-fit:cover; }
+  .detail-cover img{ width:100%; height:100%; object-fit:cover; display:block; }
+  .detail-cover.imagem-auto{ aspect-ratio:auto; height:auto; background:var(--paper-darker); }
+  .detail-cover.imagem-auto img{ height:auto; object-fit:contain; }
   .detail-cover .placeholder{ font-family:'Anton',sans-serif; color:#f2ead4d0; font-size:1.8rem; }
   .detail-title h2{ font-family:'Anton', sans-serif; font-weight:400; font-size:1.8rem; margin:0 0 4px; }
   .detail-title .editora-ano{ font-family:'Space Mono', monospace; font-size:0.78rem; color:var(--stamp-red); text-transform:uppercase; letter-spacing:0.06em; }
@@ -244,26 +248,31 @@
     border-style:dashed;
     color:var(--ink-soft);
   }
-  .cromo.tem-imagem{ padding:0; justify-content:flex-end; }
+  .cromo.tem-imagem{
+    padding:0;
+    justify-content:flex-end;
+    aspect-ratio:auto;
+    display:block;
+    align-self:start;
+  }
   .cromo.tem-imagem img{
-    position:absolute; inset:0;
-    width:100%; height:100%;
-    object-fit:cover;
-    z-index:0;
+    position:static;
+    width:100%;
+    height:auto;
+    display:block;
   }
   .cromo.tem-imagem.falta img{ filter: grayscale(0.85) brightness(0.9); opacity:0.55; }
   .cromo.tem-imagem .num-badge{
-    position:relative; z-index:1;
-    align-self:flex-start;
+    position:absolute; top:4px; left:4px; z-index:1;
     background:var(--ink);
     color:var(--paper);
     font-size:0.6rem;
     font-weight:700;
     padding:1px 4px;
-    margin:2px;
     border-radius:2px;
   }
   .cromo.tem-imagem .nome-overlay{
+    position:absolute; left:0; right:0; bottom:0; z-index:1;
     position:relative; z-index:1;
     width:100%;
     background:linear-gradient(to top, rgba(0,0,0,0.75), transparent);
@@ -451,7 +460,7 @@ async function renderGrid(){
     card.tabIndex = 0;
     card.setAttribute('role','button');
     card.innerHTML = `
-      <div class="cover">
+      <div class="cover ${c.capa ? 'imagem-auto' : ''}">
         <div class="tape"></div>
         ${c.capa ? `<img src="${resolvePath(c.capa)}" alt="Capa ${c.nome}">` : `<div class="placeholder">${initials(c.nome)}</div>`}
         <div class="stamp-badge ${s.falta===0 ? 'complete':''}">${s.pct}%</div>
@@ -490,6 +499,7 @@ async function openDetail(id, pushHistory=true){
   document.getElementById('detailCover').innerHTML = c.capa
     ? `<img src="${resolvePath(c.capa)}" alt="Capa ${c.nome}">`
     : `<div class="placeholder">${initials(c.nome)}</div>`;
+  document.getElementById('detailCover').className = 'detail-cover' + (c.capa ? ' imagem-auto' : '');
   document.getElementById('detailNome').textContent = c.nome;
   document.getElementById('detailEditoraAno').textContent = `${c.editora} · ${c.ano}`;
   document.getElementById('detailTenho').textContent = s.tenho;
