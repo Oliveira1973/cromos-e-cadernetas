@@ -2,25 +2,25 @@
   {
     "id": "Offside 88 89",
     "nome": "Offside 88/89",
-    "editora": "-",
+    "editora": "Edições Flash",
     "ano": 1988,
-    "totalCromos": 350,
+    "totalCromos": 260,
     "capa": "images/capas/Offside 88 89.jpg"
   },
   {
     "id": "Festa do Futebol 81 82",
     "nome": "Festa do Futebol 81/82",
-    "editora": "-",
+    "editora": "Sorcácius",
     "ano": 1981,
-    "totalCromos": 350,
+    "totalCromos": 224,
     "capa": "images/capas/Festa do Futebol 81 82.jpg"
   },
   {
     "id": "Futebol 82",
     "nome": "Futebol 82",
     "editora": "APR",
-    "ano": 1082,
-    "totalCromos": 350,
+    "ano": 1081,
+    "totalCromos": 305,
     "capa": "images/capas/Futebol 82.jpg"
   },
   {
@@ -44,7 +44,7 @@
     "nome": "Mundial Espanha 82",
     "editora": "Mabilgráfica",
     "ano": 1982,
-    "totalCromos": 168,
+    "totalCromos": 288,
     "capa": "images/capas/Mundial Espanha 82.jpg"
   },
   {
