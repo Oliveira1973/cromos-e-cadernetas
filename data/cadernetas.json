@@ -56,83 +56,67 @@
     "capa": "images/capas/O Golo STOP.jpg"
   },
   {
-    "id": "Nacional 82 83",
-    "nome": "Nacional 82 83",
+    "id": "Bola ao Centro",
+    "nome": "Bola ao Centro",
     "editora": "Mabilgráfica",
     "ano": 1982,
+    "totalCromos": 204,
+    "capa": "images/capas/Bola ao Centro.jpg"
+  },
+  {
+    "id": "Futebol Post 84",
+    "nome": "Futebol Post 84",
+    "editora": "Mabilgráfica",
+    "ano": 1984,
+    "totalCromos": 208,
+    "capa": "images/capas/Futebol Post 84.jpg"
+  },
+  {
+    "id": "Gira a Nota 83 84",
+    "nome": "Gira a Nota 83 84",
+    "editora": "Mabilgráfica",
+    "ano": 1983,
     "totalCromos": 192,
-    "capa": "images/capas/Nacional 82 83.jpg"
+    "capa": "images/capas/Gira a Nota 83 84.jpg"
   },
   {
-    "id": "Futebol 82",
-    "nome": "Futebol 82",
-    "editora": "APR",
-    "ano": 1082,
-    "totalCromos": 350,
-    "capa": "images/capas/Futebol 82.jpg"
+    "id": "Ases Mundial 82",
+    "nome": "Ases Mundial 82",
+    "editora": "Francisco Más",
+    "ano": 1982,
+    "totalCromos": 140,
+    "capa": "images/capas/Ases Mundial 82.jpg"
   },
   {
-    "id": "Futebol 82",
-    "nome": "Futebol 82",
-    "editora": "APR",
-    "ano": 1082,
-    "totalCromos": 350,
-    "capa": "images/capas/Futebol 82.jpg"
+    "id": "Humor e Futebol 78 79",
+    "nome": "Humor e Futebol 78 79",
+    "editora": "Sorcácius",
+    "ano": 1979,
+    "totalCromos": 259,
+    "capa": "images/capas/Humor e Futebol 78 79.jpg"
   },
   {
-    "id": "Futebol 82",
-    "nome": "Futebol 82",
-    "editora": "APR",
-    "ano": 1082,
-    "totalCromos": 350,
-    "capa": "images/capas/Futebol 82.jpg"
+    "id": "Idolos de Portugal",
+    "nome": "Idolos de Portugal",
+    "editora": "Mabilgráfica",
+    "ano": 1980,
+    "totalCromos": 256,
+    "capa": "images/capas/Idolos de Portugal.jpg"
   },
   {
-    "id": "Futebol 82",
-    "nome": "Futebol 82",
-    "editora": "APR",
-    "ano": 1082,
-    "totalCromos": 350,
-    "capa": "images/capas/Futebol 82.jpg"
+    "id": "Top Futebol",
+    "nome": "Top Futebol",
+    "editora": "Sorcácius",
+    "ano": 1980,
+    "totalCromos": 224,
+    "capa": "images/capas/Top Futebol.jpg"
   },
   {
-    "id": "Futebol 82",
-    "nome": "Futebol 82",
-    "editora": "APR",
-    "ano": 1082,
-    "totalCromos": 350,
-    "capa": "images/capas/Futebol 82.jpg"
-  },
-  {
-    "id": "Futebol 82",
-    "nome": "Futebol 82",
-    "editora": "APR",
-    "ano": 1082,
-    "totalCromos": 350,
-    "capa": "images/capas/Futebol 82.jpg"
-  },
-  {
-    "id": "Futebol 82",
-    "nome": "Futebol 82",
-    "editora": "APR",
-    "ano": 1082,
-    "totalCromos": 350,
-    "capa": "images/capas/Futebol 82.jpg"
-  },
-  {
-    "id": "Futebol 82",
-    "nome": "Futebol 82",
-    "editora": "APR",
-    "ano": 1082,
-    "totalCromos": 350,
-    "capa": "images/capas/Futebol 82.jpg"
-  },
-  {
-    "id": "Futebol 82",
-    "nome": "Futebol 82",
-    "editora": "APR",
-    "ano": 1082,
-    "totalCromos": 350,
-    "capa": "images/capas/Futebol 82.jpg"
+    "id": "Arte e Futebol",
+    "nome": "Arte e Futebol",
+    "editora": "Mabilgráfica",
+    "ano": 1979,
+    "totalCromos": 208,
+    "capa": "images/capas/Arte e Futebol.jpg"
   }
 ]
