@@ -125,7 +125,7 @@
     "editora": "Sorcácius",
     "ano": 1988,
     "totalCromos": 260,
-    "capa": ""
+    "capa": "images/capas/Norte e Sul 88 89.jpg"
   },
   {
     "id": "Pontapé de Saída 82 83",
@@ -133,7 +133,7 @@
     "editora": "Sorcácius",
     "ano": 1982,
     "totalCromos": 224,
-    "capa": ""
+    "capa": "images/capas/Pontapé de Saída 82 83.jpg"
   },
   {
     "id": "O Planeta da Bola 80",
@@ -141,7 +141,7 @@
     "editora": "Sorcácius",
     "ano": 1980,
     "totalCromos": 208,
-    "capa": ""
+    "capa": "images/capas/O Planeta da Bola 80.jpg"
   },
   {
     "id": "Campeões 78 80",
@@ -149,7 +149,7 @@
     "editora": "Mabilgráfica",
     "ano": 1979,
     "totalCromos": 224,
-    "capa": ""
+    "capa": "images/capas/Campeões 78 80.jpg"
   },
   {
     "id": "Futebol 77",
@@ -157,7 +157,7 @@
     "editora": "Edições Acrópole",
     "ano": 1976,
     "totalCromos": 192,
-    "capa": ""
+    "capa": "images/capas/Futebol 77.jpg"
   },
   {
     "id": "Dribling 87 88",
@@ -165,7 +165,7 @@
     "editora": "Edições APS",
     "ano": 1987,
     "totalCromos": 300,
-    "capa": ""
+    "capa": "images/capas/Dribling 87 88.jpg"
   },
   {
     "id": "Futebol 93 94",
@@ -173,7 +173,7 @@
     "editora": "Panini",
     "ano": 1993,
     "totalCromos": 378,
-    "capa": ""
+    "capa": "images/capas/Futebol 93 94.jpg"
   },
   {
     "id": "Futebol 95 96",
@@ -181,7 +181,7 @@
     "editora": "Panini",
     "ano": 1995,
     "totalCromos": 362,
-    "capa": ""
+    "capa": "images/capas/Futebol 95 96.jpg"
   },
   {
     "id": "Futebol 94 95",
@@ -189,7 +189,7 @@
     "editora": "Panini",
     "ano": 1994,
     "totalCromos": 367,
-    "capa": ""
+    "capa": "images/capas/Futebol 94 95.jpg"
   },
   {
     "id": "Futebol 2005 2006",
@@ -197,7 +197,7 @@
     "editora": "Panini",
     "ano": 2005,
     "totalCromos": 486,
-    "capa": ""
+    "capa": "images/capas/Futebol 2005 2006.jpg"
   },
   {
     "id": "Futebol 2006 2007",
@@ -205,7 +205,7 @@
     "editora": "Panini",
     "ano": 2006,
     "totalCromos": 404,
-    "capa": ""
+    "capa": "images/capas/Futebol 2006 2007.jpg"
   },
   {
     "id": "Futebol 2007 2008",
@@ -213,7 +213,7 @@
     "editora": "Panini",
     "ano": 2007,
     "totalCromos": 404,
-    "capa": ""
+    "capa": "images/capas/Futebol 2007 2008.jpg"
   },
   {
     "id": "Futebol 2008 2009",
@@ -221,7 +221,7 @@
     "editora": "Panini",
     "ano": 2008,
     "totalCromos": 404,
-    "capa": ""
+    "capa": "images/capas/Futebol 2008 2009.jpg"
   },
   {
     "id": "Futebol 2009 2010",
@@ -229,7 +229,7 @@
     "editora": "Panini",
     "ano": 2009,
     "totalCromos": 405,
-    "capa": ""
+    "capa": "images/capas/Futebol 2009 2010.jpg"
   },
   {
     "id": "Futebol 2010 2011",
@@ -237,6 +237,6 @@
     "editora": "Panini",
     "ano": 2010,
     "totalCromos": 412,
-    "capa": ""
+    "capa": "images/capas/Futebol 2010 2011.jpg"
   }
 ]
