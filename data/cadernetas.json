@@ -118,5 +118,125 @@
     "ano": 1979,
     "totalCromos": 208,
     "capa": "images/capas/Arte e Futebol.jpg"
+  },
+  {
+    "id": "Norte e Sul 88 89",
+    "nome": "Norte e Sul 88 89",
+    "editora": "Sorcácius",
+    "ano": 1988,
+    "totalCromos": 260,
+    "capa": ""
+  },
+  {
+    "id": "Pontapé de Saída 82 83",
+    "nome": "Pontapé de Saída 82 83",
+    "editora": "Sorcácius",
+    "ano": 1982,
+    "totalCromos": 224,
+    "capa": ""
+  },
+  {
+    "id": "O Planeta da Bola 80",
+    "nome": "O Planeta da Bola 80",
+    "editora": "Sorcácius",
+    "ano": 1980,
+    "totalCromos": 208,
+    "capa": ""
+  },
+  {
+    "id": "Campeões 78 80",
+    "nome": "Campeões 78 80",
+    "editora": "Mabilgráfica",
+    "ano": 1979,
+    "totalCromos": 224,
+    "capa": ""
+  },
+  {
+    "id": "Futebol 77",
+    "nome": "Futebol 77",
+    "editora": "Edições Acrópole",
+    "ano": 1976,
+    "totalCromos": 192,
+    "capa": ""
+  },
+  {
+    "id": "Dribling 87 88",
+    "nome": "Dribling 87 88",
+    "editora": "Edições APS",
+    "ano": 1987,
+    "totalCromos": 300,
+    "capa": ""
+  },
+  {
+    "id": "Futebol 93 94",
+    "nome": "Futebol 93 94",
+    "editora": "Panini",
+    "ano": 1993,
+    "totalCromos": 378,
+    "capa": ""
+  },
+  {
+    "id": "Futebol 95 96",
+    "nome": "Futebol 95 96",
+    "editora": "Panini",
+    "ano": 1995,
+    "totalCromos": 362,
+    "capa": ""
+  },
+  {
+    "id": "Futebol 94 95",
+    "nome": "Futebol 94 95",
+    "editora": "Panini",
+    "ano": 1994,
+    "totalCromos": 367,
+    "capa": ""
+  },
+  {
+    "id": "Futebol 2005 2006",
+    "nome": "Futebol 2005 2006",
+    "editora": "Panini",
+    "ano": 2005,
+    "totalCromos": 486,
+    "capa": ""
+  },
+  {
+    "id": "Futebol 2006 2007",
+    "nome": "Futebol 2006 2007",
+    "editora": "Panini",
+    "ano": 2006,
+    "totalCromos": 404,
+    "capa": ""
+  },
+  {
+    "id": "Futebol 2007 2008",
+    "nome": "Futebol 2007 2008",
+    "editora": "Panini",
+    "ano": 2007,
+    "totalCromos": 404,
+    "capa": ""
+  },
+  {
+    "id": "Futebol 2008 2009",
+    "nome": "Futebol 2008 2009",
+    "editora": "Panini",
+    "ano": 2008,
+    "totalCromos": 404,
+    "capa": ""
+  },
+  {
+    "id": "Futebol 2009 2010",
+    "nome": "Futebol 2009 2010",
+    "editora": "Panini",
+    "ano": 2009,
+    "totalCromos": 405,
+    "capa": ""
+  },
+  {
+    "id": "Futebol 2010 2011",
+    "nome": "Futebol 2010 2011",
+    "editora": "Panini",
+    "ano": 2010,
+    "totalCromos": 412,
+    "capa": ""
   }
 ]
