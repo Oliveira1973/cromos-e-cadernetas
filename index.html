@@ -382,6 +382,7 @@ async function loadCadernetas(){
   const res = await fetch(resolvePath('data/cadernetas.json'), {cache:"no-store"});
   if(!res.ok) throw new Error("Não foi possível carregar data/cadernetas.json");
   cadernetas = await res.json();
+  cadernetas.sort((a,b) => (a.ano - b.ano) || a.nome.localeCompare(b.nome, 'pt'));
 }
 
 async function loadCromos(id){
@@ -474,13 +475,17 @@ function initials(nome){
   return nome.split(' ').slice(0,2).map(w=>w[0]).join('').toUpperCase();
 }
 
-async function openDetail(id){
+async function openDetail(id, pushHistory=true){
   const c = cadernetas.find(x=>x.id===id);
   const cromos = await loadCromos(id);
   const s = stats(cromos);
 
   document.getElementById('listView').classList.add('hidden');
   document.getElementById('detail').classList.add('active');
+
+  if(pushHistory){
+    history.pushState({view:'detail', id}, '', '#' + encodeURIComponent(id));
+  }
 
   document.getElementById('detailCover').innerHTML = c.capa
     ? `<img src="${resolvePath(c.capa)}" alt="Capa ${c.nome}">`
@@ -536,9 +541,22 @@ function renderCromosGrid(cromos){
   });
 }
 
-document.getElementById('backBtn').addEventListener('click', ()=>{
+function showList(){
   document.getElementById('detail').classList.remove('active');
   document.getElementById('listView').classList.remove('hidden');
+}
+
+document.getElementById('backBtn').addEventListener('click', ()=>{
+  history.back();
+});
+
+window.addEventListener('popstate', (e)=>{
+  const state = e.state;
+  if(state && state.view === 'detail' && state.id){
+    openDetail(state.id, false);
+  } else {
+    showList();
+  }
 });
 
 document.getElementById('searchInput').addEventListener('input', renderGrid);
@@ -560,6 +578,13 @@ async function init(){
     populateEditoraFilter();
     renderGlobalStats();
     await renderGrid();
+
+    history.replaceState({view:'list'}, '', location.pathname + location.search);
+
+    const idNaUrl = decodeURIComponent(location.hash.replace('#',''));
+    if(idNaUrl && cadernetas.some(c=>c.id===idNaUrl)){
+      await openDetail(idNaUrl);
+    }
   }catch(err){
     document.getElementById('cadGrid').innerHTML = '';
     document.getElementById('emptyState').style.display = 'block';
