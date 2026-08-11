@@ -105,8 +105,8 @@
 
   /* grid of cadernetas */
   .grid{
-    display:flex;
-    flex-wrap:wrap;
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 20px;
   }
   .cad-card{
@@ -119,9 +119,7 @@
     transition: transform 0.15s ease, box-shadow 0.15s ease;
     box-shadow: 4px 4px 0 var(--paper-darker);
     overflow:hidden;
-    width:210px;
   }
-  .cad-card.tem-capa{ width:auto; max-width:380px; }
   .cad-card:hover{ transform: translate(-2px,-2px); box-shadow: 6px 6px 0 var(--paper-darker); }
   .cad-card:focus-visible{ outline: 3px solid var(--teal); outline-offset:2px; }
   .cad-card .cover{
@@ -132,20 +130,8 @@
     overflow:hidden;
   }
   .cad-card .cover img{ width:100%; height:100%; object-fit:cover; display:block; }
-  .cad-card .cover.imagem-auto{
-    aspect-ratio:auto;
-    height:230px;
-    width:auto;
-    max-width:380px;
-    background:var(--paper-darker);
-  }
-  .cad-card .cover.imagem-auto img{
-    height:100%;
-    width:auto;
-    max-width:100%;
-    object-fit:contain;
-    display:block;
-  }
+  .cad-card .cover.imagem-auto{ aspect-ratio:auto; background:var(--paper-darker); }
+  .cad-card .cover.imagem-auto img{ height:auto; object-fit:contain; }
   .cad-card .cover .placeholder{
     font-family:'Anton', sans-serif;
     color:#f2ead4d0;
@@ -246,7 +232,7 @@
   .cromo{
     position:relative;
     width:90px;
-    aspect-ratio:3/4;
+    height:120px;
     border:2px solid var(--ink);
     border-radius:2px;
     display:flex; flex-direction:column; align-items:center; justify-content:center;
@@ -256,6 +242,7 @@
     padding:2px;
     text-align:center;
     overflow:hidden;
+    flex-shrink:0;
   }
   .cromo.tenho{ background:#dfe9d8; border-color:var(--teal); }
   .cromo.falta{
@@ -265,19 +252,19 @@
   }
   .cromo.tem-imagem{
     padding:0;
-    justify-content:flex-end;
-    aspect-ratio:auto;
     display:block;
-    width:auto;
-    height:100px;
-    max-width:220px;
+    width:90px;
+    height:120px;
+  }
+  .cromo.tem-imagem.paisagem{
+    width:120px;
+    height:90px;
   }
   .cromo.tem-imagem img{
     position:static;
-    width:auto;
+    width:100%;
     height:100%;
-    max-width:100%;
-    object-fit:contain;
+    object-fit:cover;
     display:block;
   }
   .cromo.tem-imagem.falta img{ filter: grayscale(0.85) brightness(0.9); opacity:0.55; }
@@ -292,7 +279,6 @@
   }
   .cromo.tem-imagem .nome-overlay{
     position:absolute; left:0; right:0; bottom:0; z-index:1;
-    position:relative; z-index:1;
     width:100%;
     background:linear-gradient(to top, rgba(0,0,0,0.75), transparent);
     color:#fff;
@@ -475,7 +461,7 @@ async function renderGrid(){
 
     shown++;
     const card = document.createElement('div');
-    card.className = 'cad-card' + (c.capa ? ' tem-capa' : '');
+    card.className = 'cad-card';
     card.tabIndex = 0;
     card.setAttribute('role','button');
     card.innerHTML = `
@@ -559,6 +545,12 @@ function renderCromosGrid(cromos){
         ${cr.nome ? `<div class="nome-overlay">${cr.nome}</div>` : ''}
         ${cr.especial ? '<div class="star">★</div>' : ''}
       `;
+      const img = el.querySelector('img');
+      const aplicarOrientacao = () => {
+        if(img.naturalWidth > img.naturalHeight) el.classList.add('paisagem');
+      };
+      if(img.complete && img.naturalWidth) aplicarOrientacao();
+      else img.addEventListener('load', aplicarOrientacao);
     } else {
       el.innerHTML = `
         <div class="num">${cr.numero}</div>
