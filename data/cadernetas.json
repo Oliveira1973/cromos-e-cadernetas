@@ -192,6 +192,14 @@
     "capa": "images/capas/Futebol 94 95.jpg"
   },
   {
+    "id": "Futebol 2000 2001",
+    "nome": "Futebol 2000 2001",
+    "editora": "Panini",
+    "ano": 2000,
+    "totalCromos": 360,
+    "capa": "images/capas/Futebol 2000 2001.jpg"
+  },
+  {
     "id": "Futebol 2005 2006",
     "nome": "Futebol 2005 2006",
     "editora": "Panini",
