@@ -798,6 +798,13 @@
     "imagem": "images/capas/Futebol 2000 2001/108.jpg"
   },
   {
+    "numero": "G",
+    "nome": "G",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2000 2001/Guimaraes.jpg"
+  },
+  {
     "numero": "109",
     "nome": "Cromo 109",
     "tenho": true,
@@ -922,6 +929,13 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2000 2001/126.jpg"
+  },
+  {
+    "numero": "H",
+    "nome": "H",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2000 2001/Estrela.jpg"
   },
   {
     "numero": "127",
@@ -1050,6 +1064,13 @@
     "imagem": "images/capas/Futebol 2000 2001/144.jpg"
   },
   {
+    "numero": "I",
+    "nome": "I",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2000 2001/Braga.jpg"
+  },
+  {
     "numero": "145",
     "nome": "Cromo 145",
     "tenho": true,
@@ -1174,6 +1195,13 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2000 2001/162.jpg"
+  },
+  {
+    "numero": "J",
+    "nome": "J",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2000 2001/Leiria.jpg"
   },
   {
     "numero": "163",
@@ -1302,6 +1330,13 @@
     "imagem": "images/capas/Futebol 2000 2001/180.jpg"
   },
   {
+    "numero": "K",
+    "nome": "K",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2000 2001/Alverca.jpg"
+  },
+  {
     "numero": "181",
     "nome": "Cromo 181",
     "tenho": true,
@@ -1426,6 +1461,13 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2000 2001/198.jpg"
+  },
+  {
+    "numero": "L",
+    "nome": "L",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2000 2001/Belenenses.jpg"
   },
   {
     "numero": "199",
@@ -1554,6 +1596,13 @@
     "imagem": "images/capas/Futebol 2000 2001/216.jpg"
   },
   {
+    "numero": "M",
+    "nome": "M",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2000 2001/Campomaiorense.jpg"
+  },
+  {
     "numero": "217",
     "nome": "Cromo 217",
     "tenho": true,
@@ -1678,6 +1727,13 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2000 2001/234.jpg"
+  },
+  {
+    "numero": "N",
+    "nome": "N",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2000 2001/Farense.jpg"
   },
   {
     "numero": "235",
@@ -1806,6 +1862,13 @@
     "imagem": "images/capas/Futebol 2000 2001/252.jpg"
   },
   {
+    "numero": "O",
+    "nome": "O",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2000 2001/Salgueiros.jpg"
+  },
+  {
     "numero": "253",
     "nome": "Cromo 253",
     "tenho": true,
@@ -1930,6 +1993,13 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2000 2001/270.jpg"
+  },
+  {
+    "numero": "P",
+    "nome": "P",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2000 2001/Paços.jpg"
   },
   {
     "numero": "271",
@@ -2058,6 +2128,13 @@
     "imagem": "images/capas/Futebol 2000 2001/288.jpg"
   },
   {
+    "numero": "Q",
+    "nome": "Q",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2000 2001/Beira Mar.jpg"
+  },
+  {
     "numero": "289",
     "nome": "Cromo 289",
     "tenho": true,
@@ -2182,6 +2259,13 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2000 2001/306.jpg"
+  },
+  {
+    "numero": "R",
+    "nome": "R",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2000 2001/Aves.jpg"
   },
   {
     "numero": "307",
