@@ -1,0 +1,3334 @@
+[
+  {
+    "numero": "1",
+    "nome": "Cromo 1",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/1.jpg"
+  },
+  {
+    "numero": "2",
+    "nome": "Cromo 2",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/2.jpg"
+  },
+  {
+    "numero": "3",
+    "nome": "Cromo 3",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/3.jpg"
+  },
+  {
+    "numero": "4",
+    "nome": "Cromo 4",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/4.jpg"
+  },
+  {
+    "numero": "5",
+    "nome": "Cromo 5",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/5.jpg"
+  },
+  {
+    "numero": "6",
+    "nome": "Cromo 6",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/6.jpg"
+  },
+  {
+    "numero": "7",
+    "nome": "Cromo 7",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/7.jpg"
+  },
+  {
+    "numero": "8",
+    "nome": "Cromo 8",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/8.jpg"
+  },
+  {
+    "numero": "9",
+    "nome": "Cromo 9",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/9.jpg"
+  },
+  {
+    "numero": "10",
+    "nome": "Cromo 10",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/10.jpg"
+  },
+  {
+    "numero": "11",
+    "nome": "Cromo 11",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/11.jpg"
+  },
+  {
+    "numero": "12",
+    "nome": "Cromo 12",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/12.jpg"
+  },
+  {
+    "numero": "13",
+    "nome": "Cromo 13",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/13.jpg"
+  },
+  {
+    "numero": "14",
+    "nome": "Cromo 14",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/14.jpg"
+  },
+  {
+    "numero": "15",
+    "nome": "Cromo 15",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/15.jpg"
+  },
+  {
+    "numero": "16",
+    "nome": "Cromo 16",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/16.jpg"
+  },
+  {
+    "numero": "17",
+    "nome": "Cromo 17",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/17.jpg"
+  },
+  {
+    "numero": "18",
+    "nome": "Cromo 18",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/18.jpg"
+  },
+  {
+    "numero": "19",
+    "nome": "Cromo 19",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/19.jpg"
+  },
+  {
+    "numero": "20",
+    "nome": "Cromo 20",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/20.jpg"
+  },
+  {
+    "numero": "21",
+    "nome": "Cromo 21",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/21.jpg"
+  },
+  {
+    "numero": "22",
+    "nome": "Cromo 22",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/22.jpg"
+  },
+  {
+    "numero": "23",
+    "nome": "Cromo 23",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/23.jpg"
+  },
+  {
+    "numero": "24",
+    "nome": "Cromo 24",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/24.jpg"
+  },
+  {
+    "numero": "25",
+    "nome": "Cromo 25",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/25.jpg"
+  },
+  {
+    "numero": "26",
+    "nome": "Cromo 26",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/26.jpg"
+  },
+  {
+    "numero": "27",
+    "nome": "Cromo 27",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/27.jpg"
+  },
+  {
+    "numero": "28",
+    "nome": "Cromo 28",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/28.jpg"
+  },
+  {
+    "numero": "29",
+    "nome": "Cromo 29",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/29.jpg"
+  },
+  {
+    "numero": "30",
+    "nome": "Cromo 30",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/30.jpg"
+  },
+  {
+    "numero": "31",
+    "nome": "Cromo 31",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/31.jpg"
+  },
+  {
+    "numero": "32",
+    "nome": "Cromo 32",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/32.jpg"
+  },
+  {
+    "numero": "33",
+    "nome": "Cromo 33",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/33.jpg"
+  },
+  {
+    "numero": "34",
+    "nome": "Cromo 34",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/34.jpg"
+  },
+  {
+    "numero": "35",
+    "nome": "Cromo 35",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/35.jpg"
+  },
+  {
+    "numero": "36",
+    "nome": "Cromo 36",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/36.jpg"
+  },
+  {
+    "numero": "37",
+    "nome": "Cromo 37",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/37.jpg"
+  },
+  {
+    "numero": "38",
+    "nome": "Cromo 38",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/38.jpg"
+  },
+  {
+    "numero": "39",
+    "nome": "Cromo 39",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/39.jpg"
+  },
+  {
+    "numero": "40",
+    "nome": "Cromo 40",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/40.jpg"
+  },
+  {
+    "numero": "41",
+    "nome": "Cromo 41",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/41.jpg"
+  },
+  {
+    "numero": "42",
+    "nome": "Cromo 42",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/42.jpg"
+  },
+  {
+    "numero": "43",
+    "nome": "Cromo 43",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/43.jpg"
+  },
+  {
+    "numero": "44",
+    "nome": "Cromo 44",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/44.jpg"
+  },
+  {
+    "numero": "45",
+    "nome": "Cromo 45",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/45.jpg"
+  },
+  {
+    "numero": "46",
+    "nome": "Cromo 46",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/46.jpg"
+  },
+  {
+    "numero": "47",
+    "nome": "Cromo 47",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/47.jpg"
+  },
+  {
+    "numero": "48",
+    "nome": "Cromo 48",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/48.jpg"
+  },
+  {
+    "numero": "49",
+    "nome": "Cromo 49",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/49.jpg"
+  },
+  {
+    "numero": "50",
+    "nome": "Cromo 50",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/50.jpg"
+  },
+  {
+    "numero": "51",
+    "nome": "Cromo 51",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/51.jpg"
+  },
+  {
+    "numero": "52",
+    "nome": "Cromo 52",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/52.jpg"
+  },
+  {
+    "numero": "53",
+    "nome": "Cromo 53",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/53.jpg"
+  },
+  {
+    "numero": "54",
+    "nome": "Cromo 54",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/54.jpg"
+  },
+  {
+    "numero": "55",
+    "nome": "Cromo 55",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/55.jpg"
+  },
+  {
+    "numero": "56",
+    "nome": "Cromo 56",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/56.jpg"
+  },
+  {
+    "numero": "57",
+    "nome": "Cromo 57",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/57.jpg"
+  },
+  {
+    "numero": "58",
+    "nome": "Cromo 58",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/58.jpg"
+  },
+  {
+    "numero": "59",
+    "nome": "Cromo 59",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/59.jpg"
+  },
+  {
+    "numero": "60",
+    "nome": "Cromo 60",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/60.jpg"
+  },
+  {
+    "numero": "61",
+    "nome": "Cromo 61",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/61.jpg"
+  },
+  {
+    "numero": "62",
+    "nome": "Cromo 62",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/62.jpg"
+  },
+  {
+    "numero": "63",
+    "nome": "Cromo 63",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/63.jpg"
+  },
+  {
+    "numero": "64",
+    "nome": "Cromo 64",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/64.jpg"
+  },
+  {
+    "numero": "65",
+    "nome": "Cromo 65",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/65.jpg"
+  },
+  {
+    "numero": "66",
+    "nome": "Cromo 66",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/66.jpg"
+  },
+  {
+    "numero": "67",
+    "nome": "Cromo 67",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/67.jpg"
+  },
+  {
+    "numero": "68",
+    "nome": "Cromo 68",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/68.jpg"
+  },
+  {
+    "numero": "69",
+    "nome": "Cromo 69",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/69.jpg"
+  },
+  {
+    "numero": "70",
+    "nome": "Cromo 70",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/70.jpg"
+  },
+  {
+    "numero": "71",
+    "nome": "Cromo 71",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/71.jpg"
+  },
+  {
+    "numero": "72",
+    "nome": "Cromo 72",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/72.jpg"
+  },
+  {
+    "numero": "73",
+    "nome": "Cromo 73",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/73.jpg"
+  },
+  {
+    "numero": "74",
+    "nome": "Cromo 74",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/74.jpg"
+  },
+  {
+    "numero": "75",
+    "nome": "Cromo 75",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/75.jpg"
+  },
+  {
+    "numero": "76",
+    "nome": "Cromo 76",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/76.jpg"
+  },
+  {
+    "numero": "77",
+    "nome": "Cromo 77",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/77.jpg"
+  },
+  {
+    "numero": "78",
+    "nome": "Cromo 78",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/78.jpg"
+  },
+  {
+    "numero": "79",
+    "nome": "Cromo 79",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/79.jpg"
+  },
+  {
+    "numero": "80",
+    "nome": "Cromo 80",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/80.jpg"
+  },
+  {
+    "numero": "81",
+    "nome": "Cromo 81",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/81.jpg"
+  },
+  {
+    "numero": "82",
+    "nome": "Cromo 82",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/82.jpg"
+  },
+  {
+    "numero": "83",
+    "nome": "Cromo 83",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/83.jpg"
+  },
+  {
+    "numero": "84",
+    "nome": "Cromo 84",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/84.jpg"
+  },
+  {
+    "numero": "85",
+    "nome": "Cromo 85",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/85.jpg"
+  },
+  {
+    "numero": "86",
+    "nome": "Cromo 86",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/86.jpg"
+  },
+  {
+    "numero": "87",
+    "nome": "Cromo 87",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/87.jpg"
+  },
+  {
+    "numero": "88",
+    "nome": "Cromo 88",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/88.jpg"
+  },
+  {
+    "numero": "89",
+    "nome": "Cromo 89",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/89.jpg"
+  },
+  {
+    "numero": "90",
+    "nome": "Cromo 90",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/90.jpg"
+  },
+  {
+    "numero": "91",
+    "nome": "Cromo 91",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/91.jpg"
+  },
+  {
+    "numero": "92",
+    "nome": "Cromo 92",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/92.jpg"
+  },
+  {
+    "numero": "93",
+    "nome": "Cromo 93",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/93.jpg"
+  },
+  {
+    "numero": "94",
+    "nome": "Cromo 94",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/94.jpg"
+  },
+  {
+    "numero": "95",
+    "nome": "Cromo 95",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/95.jpg"
+  },
+  {
+    "numero": "96",
+    "nome": "Cromo 96",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/96.jpg"
+  },
+  {
+    "numero": "97",
+    "nome": "Cromo 97",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/97.jpg"
+  },
+  {
+    "numero": "98",
+    "nome": "Cromo 98",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/98.jpg"
+  },
+  {
+    "numero": "99",
+    "nome": "Cromo 99",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/99.jpg"
+  },
+  {
+    "numero": "100",
+    "nome": "Cromo 100",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/100.jpg"
+  },
+  {
+    "numero": "101",
+    "nome": "Cromo 101",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/101.jpg"
+  },
+  {
+    "numero": "102",
+    "nome": "Cromo 102",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/102.jpg"
+  },
+  {
+    "numero": "103",
+    "nome": "Cromo 103",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/103.jpg"
+  },
+  {
+    "numero": "104",
+    "nome": "Cromo 104",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/104.jpg"
+  },
+  {
+    "numero": "105",
+    "nome": "Cromo 105",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/105.jpg"
+  },
+  {
+    "numero": "106",
+    "nome": "Cromo 106",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/106.jpg"
+  },
+  {
+    "numero": "107",
+    "nome": "Cromo 107",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/107.jpg"
+  },
+  {
+    "numero": "108",
+    "nome": "Cromo 108",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/108.jpg"
+  },
+  {
+    "numero": "109",
+    "nome": "Cromo 109",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/109.jpg"
+  },
+  {
+    "numero": "110",
+    "nome": "Cromo 110",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/110.jpg"
+  },
+  {
+    "numero": "111",
+    "nome": "Cromo 111",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/111.jpg"
+  },
+  {
+    "numero": "112",
+    "nome": "Cromo 112",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/112.jpg"
+  },
+  {
+    "numero": "113",
+    "nome": "Cromo 113",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/113.jpg"
+  },
+  {
+    "numero": "114",
+    "nome": "Cromo 114",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/114.jpg"
+  },
+  {
+    "numero": "115",
+    "nome": "Cromo 115",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/115.jpg"
+  },
+  {
+    "numero": "116",
+    "nome": "Cromo 116",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/116.jpg"
+  },
+  {
+    "numero": "117",
+    "nome": "Cromo 117",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/117.jpg"
+  },
+  {
+    "numero": "118",
+    "nome": "Cromo 118",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/118.jpg"
+  },
+  {
+    "numero": "119",
+    "nome": "Cromo 119",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/119.jpg"
+  },
+  {
+    "numero": "120",
+    "nome": "Cromo 120",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/120.jpg"
+  },
+  {
+    "numero": "121",
+    "nome": "Cromo 121",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/121.jpg"
+  },
+  {
+    "numero": "122",
+    "nome": "Cromo 122",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/122.jpg"
+  },
+  {
+    "numero": "123",
+    "nome": "Cromo 123",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/123.jpg"
+  },
+  {
+    "numero": "124",
+    "nome": "Cromo 124",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/124.jpg"
+  },
+  {
+    "numero": "125",
+    "nome": "Cromo 125",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/125.jpg"
+  },
+  {
+    "numero": "126",
+    "nome": "Cromo 126",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/126.jpg"
+  },
+  {
+    "numero": "127",
+    "nome": "Cromo 127",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/127.jpg"
+  },
+  {
+    "numero": "128",
+    "nome": "Cromo 128",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/128.jpg"
+  },
+  {
+    "numero": "129",
+    "nome": "Cromo 129",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/129.jpg"
+  },
+  {
+    "numero": "130",
+    "nome": "Cromo 130",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/130.jpg"
+  },
+  {
+    "numero": "131",
+    "nome": "Cromo 131",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/131.jpg"
+  },
+  {
+    "numero": "132",
+    "nome": "Cromo 132",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/132.jpg"
+  },
+  {
+    "numero": "133",
+    "nome": "Cromo 133",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/133.jpg"
+  },
+  {
+    "numero": "134",
+    "nome": "Cromo 134",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/134.jpg"
+  },
+  {
+    "numero": "135",
+    "nome": "Cromo 135",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/135.jpg"
+  },
+  {
+    "numero": "136",
+    "nome": "Cromo 136",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/136.jpg"
+  },
+  {
+    "numero": "137",
+    "nome": "Cromo 137",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/137.jpg"
+  },
+  {
+    "numero": "138",
+    "nome": "Cromo 138",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/138.jpg"
+  },
+  {
+    "numero": "139",
+    "nome": "Cromo 139",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/139.jpg"
+  },
+  {
+    "numero": "140",
+    "nome": "Cromo 140",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/140.jpg"
+  },
+  {
+    "numero": "141",
+    "nome": "Cromo 141",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/141.jpg"
+  },
+  {
+    "numero": "142",
+    "nome": "Cromo 142",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/142.jpg"
+  },
+  {
+    "numero": "143",
+    "nome": "Cromo 143",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/143.jpg"
+  },
+  {
+    "numero": "144",
+    "nome": "Cromo 144",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/144.jpg"
+  },
+  {
+    "numero": "145",
+    "nome": "Cromo 145",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/145.jpg"
+  },
+  {
+    "numero": "146",
+    "nome": "Cromo 146",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/146.jpg"
+  },
+  {
+    "numero": "147",
+    "nome": "Cromo 147",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/147.jpg"
+  },
+  {
+    "numero": "148",
+    "nome": "Cromo 148",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/148.jpg"
+  },
+  {
+    "numero": "149",
+    "nome": "Cromo 149",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/149.jpg"
+  },
+  {
+    "numero": "150",
+    "nome": "Cromo 150",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/150.jpg"
+  },
+  {
+    "numero": "151",
+    "nome": "Cromo 151",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/151.jpg"
+  },
+  {
+    "numero": "152",
+    "nome": "Cromo 152",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/152.jpg"
+  },
+  {
+    "numero": "153",
+    "nome": "Cromo 153",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/153.jpg"
+  },
+  {
+    "numero": "154",
+    "nome": "Cromo 154",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/154.jpg"
+  },
+  {
+    "numero": "155",
+    "nome": "Cromo 155",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/155.jpg"
+  },
+  {
+    "numero": "156",
+    "nome": "Cromo 156",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/156.jpg"
+  },
+  {
+    "numero": "157",
+    "nome": "Cromo 157",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/157.jpg"
+  },
+  {
+    "numero": "158",
+    "nome": "Cromo 158",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/158.jpg"
+  },
+  {
+    "numero": "159",
+    "nome": "Cromo 159",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/159.jpg"
+  },
+  {
+    "numero": "160",
+    "nome": "Cromo 160",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/160.jpg"
+  },
+  {
+    "numero": "161",
+    "nome": "Cromo 161",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/161.jpg"
+  },
+  {
+    "numero": "162",
+    "nome": "Cromo 162",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/162.jpg"
+  },
+  {
+    "numero": "163",
+    "nome": "Cromo 163",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/163.jpg"
+  },
+  {
+    "numero": "164",
+    "nome": "Cromo 164",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/164.jpg"
+  },
+  {
+    "numero": "165",
+    "nome": "Cromo 165",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/165.jpg"
+  },
+  {
+    "numero": "166",
+    "nome": "Cromo 166",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/166.jpg"
+  },
+  {
+    "numero": "167",
+    "nome": "Cromo 167",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/167.jpg"
+  },
+  {
+    "numero": "168",
+    "nome": "Cromo 168",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/168.jpg"
+  },
+  {
+    "numero": "169",
+    "nome": "Cromo 169",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/169.jpg"
+  },
+  {
+    "numero": "170",
+    "nome": "Cromo 170",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/170.jpg"
+  },
+  {
+    "numero": "171",
+    "nome": "Cromo 171",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/171.jpg"
+  },
+  {
+    "numero": "172",
+    "nome": "Cromo 172",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/172.jpg"
+  },
+  {
+    "numero": "173",
+    "nome": "Cromo 173",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/173.jpg"
+  },
+  {
+    "numero": "174",
+    "nome": "Cromo 174",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/174.jpg"
+  },
+  {
+    "numero": "175",
+    "nome": "Cromo 175",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/175.jpg"
+  },
+  {
+    "numero": "176",
+    "nome": "Cromo 176",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/176.jpg"
+  },
+  {
+    "numero": "177",
+    "nome": "Cromo 177",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/177.jpg"
+  },
+  {
+    "numero": "178",
+    "nome": "Cromo 178",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/178.jpg"
+  },
+  {
+    "numero": "179",
+    "nome": "Cromo 179",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/179.jpg"
+  },
+  {
+    "numero": "180",
+    "nome": "Cromo 180",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/180.jpg"
+  },
+  {
+    "numero": "181",
+    "nome": "Cromo 181",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/181.jpg"
+  },
+  {
+    "numero": "182",
+    "nome": "Cromo 182",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/182.jpg"
+  },
+  {
+    "numero": "183",
+    "nome": "Cromo 183",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/183.jpg"
+  },
+  {
+    "numero": "184",
+    "nome": "Cromo 184",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/184.jpg"
+  },
+  {
+    "numero": "185",
+    "nome": "Cromo 185",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/185.jpg"
+  },
+  {
+    "numero": "186",
+    "nome": "Cromo 186",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/186.jpg"
+  },
+  {
+    "numero": "187",
+    "nome": "Cromo 187",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/187.jpg"
+  },
+  {
+    "numero": "188",
+    "nome": "Cromo 188",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/188.jpg"
+  },
+  {
+    "numero": "189",
+    "nome": "Cromo 189",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/189.jpg"
+  },
+  {
+    "numero": "190",
+    "nome": "Cromo 190",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/190.jpg"
+  },
+  {
+    "numero": "191",
+    "nome": "Cromo 191",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/191.jpg"
+  },
+  {
+    "numero": "192",
+    "nome": "Cromo 192",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/192.jpg"
+  },
+  {
+    "numero": "193",
+    "nome": "Cromo 193",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/193.jpg"
+  },
+  {
+    "numero": "194",
+    "nome": "Cromo 194",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/194.jpg"
+  },
+  {
+    "numero": "195",
+    "nome": "Cromo 195",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/195.jpg"
+  },
+  {
+    "numero": "196",
+    "nome": "Cromo 196",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/196.jpg"
+  },
+  {
+    "numero": "197",
+    "nome": "Cromo 197",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/197.jpg"
+  },
+  {
+    "numero": "198",
+    "nome": "Cromo 198",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/198.jpg"
+  },
+  {
+    "numero": "199",
+    "nome": "Cromo 199",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/199.jpg"
+  },
+  {
+    "numero": "200",
+    "nome": "Cromo 200",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/200.jpg"
+  },
+  {
+    "numero": "201",
+    "nome": "Cromo 201",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/201.jpg"
+  },
+  {
+    "numero": "202",
+    "nome": "Cromo 202",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/202.jpg"
+  },
+  {
+    "numero": "203",
+    "nome": "Cromo 203",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/203.jpg"
+  },
+  {
+    "numero": "204",
+    "nome": "Cromo 204",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/204.jpg"
+  },
+  {
+    "numero": "205",
+    "nome": "Cromo 205",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/205.jpg"
+  },
+  {
+    "numero": "206",
+    "nome": "Cromo 206",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/206.jpg"
+  },
+  {
+    "numero": "207",
+    "nome": "Cromo 207",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/207.jpg"
+  },
+  {
+    "numero": "208",
+    "nome": "Cromo 208",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/208.jpg"
+  },
+  {
+    "numero": "209",
+    "nome": "Cromo 209",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/209.jpg"
+  },
+  {
+    "numero": "210",
+    "nome": "Cromo 210",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/210.jpg"
+  },
+  {
+    "numero": "211",
+    "nome": "Cromo 211",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/211.jpg"
+  },
+  {
+    "numero": "212",
+    "nome": "Cromo 212",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/212.jpg"
+  },
+  {
+    "numero": "213",
+    "nome": "Cromo 213",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/213.jpg"
+  },
+  {
+    "numero": "214",
+    "nome": "Cromo 214",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/214.jpg"
+  },
+  {
+    "numero": "215",
+    "nome": "Cromo 215",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/215.jpg"
+  },
+  {
+    "numero": "216",
+    "nome": "Cromo 216",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/216.jpg"
+  },
+  {
+    "numero": "217",
+    "nome": "Cromo 217",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/217.jpg"
+  },
+  {
+    "numero": "218",
+    "nome": "Cromo 218",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/218.jpg"
+  },
+  {
+    "numero": "219",
+    "nome": "Cromo 219",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/219.jpg"
+  },
+  {
+    "numero": "220",
+    "nome": "Cromo 220",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/220.jpg"
+  },
+  {
+    "numero": "221",
+    "nome": "Cromo 221",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/221.jpg"
+  },
+  {
+    "numero": "222",
+    "nome": "Cromo 222",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/222.jpg"
+  },
+  {
+    "numero": "223",
+    "nome": "Cromo 223",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/223.jpg"
+  },
+  {
+    "numero": "224",
+    "nome": "Cromo 224",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/224.jpg"
+  },
+  {
+    "numero": "225",
+    "nome": "Cromo 225",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/225.jpg"
+  },
+  {
+    "numero": "226",
+    "nome": "Cromo 226",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/226.jpg"
+  },
+  {
+    "numero": "227",
+    "nome": "Cromo 227",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/227.jpg"
+  },
+  {
+    "numero": "228",
+    "nome": "Cromo 228",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/228.jpg"
+  },
+  {
+    "numero": "229",
+    "nome": "Cromo 229",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/229.jpg"
+  },
+  {
+    "numero": "230",
+    "nome": "Cromo 230",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/230.jpg"
+  },
+  {
+    "numero": "231",
+    "nome": "Cromo 231",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/231.jpg"
+  },
+  {
+    "numero": "232",
+    "nome": "Cromo 232",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/232.jpg"
+  },
+  {
+    "numero": "233",
+    "nome": "Cromo 233",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/233.jpg"
+  },
+  {
+    "numero": "234",
+    "nome": "Cromo 234",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/234.jpg"
+  },
+  {
+    "numero": "235",
+    "nome": "Cromo 235",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/235.jpg"
+  },
+  {
+    "numero": "236",
+    "nome": "Cromo 236",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/236.jpg"
+  },
+  {
+    "numero": "237",
+    "nome": "Cromo 237",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/237.jpg"
+  },
+  {
+    "numero": "238",
+    "nome": "Cromo 238",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/238.jpg"
+  },
+  {
+    "numero": "239",
+    "nome": "Cromo 239",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/239.jpg"
+  },
+  {
+    "numero": "240",
+    "nome": "Cromo 240",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/240.jpg"
+  },
+  {
+    "numero": "241",
+    "nome": "Cromo 241",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/241.jpg"
+  },
+  {
+    "numero": "242",
+    "nome": "Cromo 242",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/242.jpg"
+  },
+  {
+    "numero": "243",
+    "nome": "Cromo 243",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/243.jpg"
+  },
+  {
+    "numero": "244",
+    "nome": "Cromo 244",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/244.jpg"
+  },
+  {
+    "numero": "245",
+    "nome": "Cromo 245",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/245.jpg"
+  },
+  {
+    "numero": "246",
+    "nome": "Cromo 246",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/246.jpg"
+  },
+  {
+    "numero": "247",
+    "nome": "Cromo 247",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/247.jpg"
+  },
+  {
+    "numero": "248",
+    "nome": "Cromo 248",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/248.jpg"
+  },
+  {
+    "numero": "249",
+    "nome": "Cromo 249",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/249.jpg"
+  },
+  {
+    "numero": "250",
+    "nome": "Cromo 250",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/250.jpg"
+  },
+  {
+    "numero": "251",
+    "nome": "Cromo 251",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/251.jpg"
+  },
+  {
+    "numero": "252",
+    "nome": "Cromo 252",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/252.jpg"
+  },
+  {
+    "numero": "253",
+    "nome": "Cromo 253",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/253.jpg"
+  },
+  {
+    "numero": "254",
+    "nome": "Cromo 254",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/254.jpg"
+  },
+  {
+    "numero": "255",
+    "nome": "Cromo 255",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/255.jpg"
+  },
+  {
+    "numero": "256",
+    "nome": "Cromo 256",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/256.jpg"
+  },
+  {
+    "numero": "257",
+    "nome": "Cromo 257",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/257.jpg"
+  },
+  {
+    "numero": "258",
+    "nome": "Cromo 258",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/258.jpg"
+  },
+  {
+    "numero": "259",
+    "nome": "Cromo 259",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/259.jpg"
+  },
+  {
+    "numero": "260",
+    "nome": "Cromo 260",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/260.jpg"
+  },
+  {
+    "numero": "261",
+    "nome": "Cromo 261",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/261.jpg"
+  },
+  {
+    "numero": "262",
+    "nome": "Cromo 262",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/262.jpg"
+  },
+  {
+    "numero": "263",
+    "nome": "Cromo 263",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/263.jpg"
+  },
+  {
+    "numero": "264",
+    "nome": "Cromo 264",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/264.jpg"
+  },
+  {
+    "numero": "265",
+    "nome": "Cromo 265",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/265.jpg"
+  },
+  {
+    "numero": "266",
+    "nome": "Cromo 266",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/266.jpg"
+  },
+  {
+    "numero": "267",
+    "nome": "Cromo 267",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/267.jpg"
+  },
+  {
+    "numero": "268",
+    "nome": "Cromo 268",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/268.jpg"
+  },
+  {
+    "numero": "269",
+    "nome": "Cromo 269",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/269.jpg"
+  },
+  {
+    "numero": "270",
+    "nome": "Cromo 270",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/270.jpg"
+  },
+  {
+    "numero": "271",
+    "nome": "Cromo 271",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/271.jpg"
+  },
+  {
+    "numero": "272",
+    "nome": "Cromo 272",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/272.jpg"
+  },
+  {
+    "numero": "273",
+    "nome": "Cromo 273",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/273.jpg"
+  },
+  {
+    "numero": "274",
+    "nome": "Cromo 274",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/274.jpg"
+  },
+  {
+    "numero": "275",
+    "nome": "Cromo 275",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/275.jpg"
+  },
+  {
+    "numero": "276",
+    "nome": "Cromo 276",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/276.jpg"
+  },
+  {
+    "numero": "277",
+    "nome": "Cromo 277",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/277.jpg"
+  },
+  {
+    "numero": "278",
+    "nome": "Cromo 278",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/278.jpg"
+  },
+  {
+    "numero": "279",
+    "nome": "Cromo 279",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/279.jpg"
+  },
+  {
+    "numero": "280",
+    "nome": "Cromo 280",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/280.jpg"
+  },
+  {
+    "numero": "281",
+    "nome": "Cromo 281",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/281.jpg"
+  },
+  {
+    "numero": "282",
+    "nome": "Cromo 282",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/282.jpg"
+  },
+  {
+    "numero": "283",
+    "nome": "Cromo 283",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/283.jpg"
+  },
+  {
+    "numero": "284",
+    "nome": "Cromo 284",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/284.jpg"
+  },
+  {
+    "numero": "285",
+    "nome": "Cromo 285",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/285.jpg"
+  },
+  {
+    "numero": "286",
+    "nome": "Cromo 286",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/286.jpg"
+  },
+  {
+    "numero": "287",
+    "nome": "Cromo 287",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/287.jpg"
+  },
+  {
+    "numero": "288",
+    "nome": "Cromo 288",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/288.jpg"
+  },
+  {
+    "numero": "289",
+    "nome": "Cromo 289",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/289.jpg"
+  },
+  {
+    "numero": "290",
+    "nome": "Cromo 290",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/290.jpg"
+  },
+  {
+    "numero": "291",
+    "nome": "Cromo 291",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/291.jpg"
+  },
+  {
+    "numero": "292",
+    "nome": "Cromo 292",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/292.jpg"
+  },
+  {
+    "numero": "293",
+    "nome": "Cromo 293",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/293.jpg"
+  },
+  {
+    "numero": "294",
+    "nome": "Cromo 294",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/294.jpg"
+  },
+  {
+    "numero": "295",
+    "nome": "Cromo 295",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/295.jpg"
+  },
+  {
+    "numero": "296",
+    "nome": "Cromo 296",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/296.jpg"
+  },
+  {
+    "numero": "297",
+    "nome": "Cromo 297",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/297.jpg"
+  },
+  {
+    "numero": "298",
+    "nome": "Cromo 298",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/298.jpg"
+  },
+  {
+    "numero": "299",
+    "nome": "Cromo 299",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/299.jpg"
+  },
+  {
+    "numero": "300",
+    "nome": "Cromo 300",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/300.jpg"
+  },
+  {
+    "numero": "301",
+    "nome": "Cromo 301",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/301.jpg"
+  },
+  {
+    "numero": "302",
+    "nome": "Cromo 302",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/302.jpg"
+  },
+  {
+    "numero": "303",
+    "nome": "Cromo 303",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/303.jpg"
+  },
+  {
+    "numero": "304",
+    "nome": "Cromo 304",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/304.jpg"
+  },
+  {
+    "numero": "305",
+    "nome": "Cromo 305",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/305.jpg"
+  },
+  {
+    "numero": "306",
+    "nome": "Cromo 306",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/306.jpg"
+  },
+  {
+    "numero": "307",
+    "nome": "Cromo 307",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/307.jpg"
+  },
+  {
+    "numero": "308",
+    "nome": "Cromo 308",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/308.jpg"
+  },
+  {
+    "numero": "309",
+    "nome": "Cromo 309",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/309.jpg"
+  },
+  {
+    "numero": "310",
+    "nome": "Cromo 310",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/310.jpg"
+  },
+  {
+    "numero": "311",
+    "nome": "Cromo 311",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/311.jpg"
+  },
+  {
+    "numero": "312",
+    "nome": "Cromo 312",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/312.jpg"
+  },
+  {
+    "numero": "313",
+    "nome": "Cromo 313",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/313.jpg"
+  },
+  {
+    "numero": "314",
+    "nome": "Cromo 314",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/314.jpg"
+  },
+  {
+    "numero": "315",
+    "nome": "Cromo 315",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/315.jpg"
+  },
+  {
+    "numero": "316",
+    "nome": "Cromo 316",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/316.jpg"
+  },
+  {
+    "numero": "317",
+    "nome": "Cromo 317",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/317.jpg"
+  },
+  {
+    "numero": "318",
+    "nome": "Cromo 318",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/318.jpg"
+  },
+  {
+    "numero": "319",
+    "nome": "Cromo 319",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/319.jpg"
+  },
+  {
+    "numero": "320",
+    "nome": "Cromo 320",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/320.jpg"
+  },
+  {
+    "numero": "321",
+    "nome": "Cromo 321",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/321.jpg"
+  },
+  {
+    "numero": "322",
+    "nome": "Cromo 322",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/322.jpg"
+  },
+  {
+    "numero": "323",
+    "nome": "Cromo 323",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/323.jpg"
+  },
+  {
+    "numero": "324",
+    "nome": "Cromo 324",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/324.jpg"
+  },
+  {
+    "numero": "325",
+    "nome": "Cromo 325",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/325.jpg"
+  },
+  {
+    "numero": "326",
+    "nome": "Cromo 326",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/326.jpg"
+  },
+  {
+    "numero": "327",
+    "nome": "Cromo 327",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/327.jpg"
+  },
+  {
+    "numero": "328",
+    "nome": "Cromo 328",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/328.jpg"
+  },
+  {
+    "numero": "329",
+    "nome": "Cromo 329",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/329.jpg"
+  },
+  {
+    "numero": "330",
+    "nome": "Cromo 330",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/330.jpg"
+  },
+  {
+    "numero": "331",
+    "nome": "Cromo 331",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/331.jpg"
+  },
+  {
+    "numero": "332",
+    "nome": "Cromo 332",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/332.jpg"
+  },
+  {
+    "numero": "333",
+    "nome": "Cromo 333",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/333.jpg"
+  },
+  {
+    "numero": "334",
+    "nome": "Cromo 334",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/334.jpg"
+  },
+  {
+    "numero": "335",
+    "nome": "Cromo 335",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/335.jpg"
+  },
+  {
+    "numero": "336",
+    "nome": "Cromo 336",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/336.jpg"
+  },
+  {
+    "numero": "337",
+    "nome": "Cromo 337",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/337.jpg"
+  },
+  {
+    "numero": "338",
+    "nome": "Cromo 338",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/338.jpg"
+  },
+  {
+    "numero": "339",
+    "nome": "Cromo 339",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/339.jpg"
+  },
+  {
+    "numero": "340",
+    "nome": "Cromo 340",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/340.jpg"
+  },
+  {
+    "numero": "341",
+    "nome": "Cromo 341",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/341.jpg"
+  },
+  {
+    "numero": "342",
+    "nome": "Cromo 342",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/342.jpg"
+  },
+  {
+    "numero": "343",
+    "nome": "Cromo 343",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/343.jpg"
+  },
+  {
+    "numero": "344",
+    "nome": "Cromo 344",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/344.jpg"
+  },
+  {
+    "numero": "345",
+    "nome": "Cromo 345",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/345.jpg"
+  },
+  {
+    "numero": "346",
+    "nome": "Cromo 346",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/346.jpg"
+  },
+  {
+    "numero": "347",
+    "nome": "Cromo 347",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/347.jpg"
+  },
+  {
+    "numero": "348",
+    "nome": "Cromo 348",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/348.jpg"
+  },
+  {
+    "numero": "349",
+    "nome": "Cromo 349",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/349.jpg"
+  },
+  {
+    "numero": "350",
+    "nome": "Cromo 350",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/350.jpg"
+  },
+  {
+    "numero": "351",
+    "nome": "Cromo 351",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/351.jpg"
+  },
+  {
+    "numero": "352",
+    "nome": "Cromo 352",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/352.jpg"
+  },
+  {
+    "numero": "353",
+    "nome": "Cromo 353",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/353.jpg"
+  },
+  {
+    "numero": "354",
+    "nome": "Cromo 354",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/354.jpg"
+  },
+  {
+    "numero": "355",
+    "nome": "Cromo 355",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/355.jpg"
+  },
+  {
+    "numero": "356",
+    "nome": "Cromo 356",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/356.jpg"
+  },
+  {
+    "numero": "357",
+    "nome": "Cromo 357",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/357.jpg"
+  },
+  {
+    "numero": "358",
+    "nome": "Cromo 358",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/358.jpg"
+  },
+  {
+    "numero": "359",
+    "nome": "Cromo 359",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/359.jpg"
+  },
+  {
+    "numero": "360",
+    "nome": "Cromo 360",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/360.jpg"
+  },
+  {
+    "numero": "361",
+    "nome": "Cromo 361",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/361.jpg"
+  },
+  {
+    "numero": "362",
+    "nome": "Cromo 362",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/362.jpg"
+  },
+  {
+    "numero": "363",
+    "nome": "Cromo 363",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/363.jpg"
+  },
+  {
+    "numero": "364",
+    "nome": "Cromo 364",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/364.jpg"
+  },
+  {
+    "numero": "365",
+    "nome": "Cromo 365",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/365.jpg"
+  },
+  {
+    "numero": "366",
+    "nome": "Cromo 366",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/366.jpg"
+  },
+  {
+    "numero": "367",
+    "nome": "Cromo 367",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/367.jpg"
+  },
+  {
+    "numero": "368",
+    "nome": "Cromo 368",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/368.jpg"
+  },
+  {
+    "numero": "369",
+    "nome": "Cromo 369",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/369.jpg"
+  },
+  {
+    "numero": "370",
+    "nome": "Cromo 370",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/370.jpg"
+  },
+  {
+    "numero": "371",
+    "nome": "Cromo 371",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/371.jpg"
+  },
+  {
+    "numero": "372",
+    "nome": "Cromo 372",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/372.jpg"
+  },
+  {
+    "numero": "373",
+    "nome": "Cromo 373",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/373.jpg"
+  },
+  {
+    "numero": "374",
+    "nome": "Cromo 374",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/374.jpg"
+  },
+  {
+    "numero": "375",
+    "nome": "Cromo 375",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/375.jpg"
+  },
+  {
+    "numero": "376",
+    "nome": "Cromo 376",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/376.jpg"
+  },
+  {
+    "numero": "377",
+    "nome": "Cromo 377",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/377.jpg"
+  },
+  {
+    "numero": "378",
+    "nome": "Cromo 378",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/378.jpg"
+  },
+  {
+    "numero": "379",
+    "nome": "Cromo 379",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/379.jpg"
+  },
+  {
+    "numero": "380",
+    "nome": "Cromo 380",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/380.jpg"
+  },
+  {
+    "numero": "381",
+    "nome": "Cromo 381",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/381.jpg"
+  },
+  {
+    "numero": "382",
+    "nome": "Cromo 382",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/382.jpg"
+  },
+  {
+    "numero": "383",
+    "nome": "Cromo 383",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/383.jpg"
+  },
+  {
+    "numero": "384",
+    "nome": "Cromo 384",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/384.jpg"
+  },
+  {
+    "numero": "385",
+    "nome": "Cromo 385",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/385.jpg"
+  },
+  {
+    "numero": "386",
+    "nome": "Cromo 386",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/386.jpg"
+  },
+  {
+    "numero": "387",
+    "nome": "Cromo 387",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/387.jpg"
+  },
+  {
+    "numero": "388",
+    "nome": "Cromo 388",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/388.jpg"
+  },
+  {
+    "numero": "389",
+    "nome": "Cromo 389",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/389.jpg"
+  },
+  {
+    "numero": "390",
+    "nome": "Cromo 390",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/390.jpg"
+  },
+  {
+    "numero": "391",
+    "nome": "Cromo 391",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/391.jpg"
+  },
+  {
+    "numero": "392",
+    "nome": "Cromo 392",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/392.jpg"
+  },
+  {
+    "numero": "393",
+    "nome": "Cromo 393",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/393.jpg"
+  },
+  {
+    "numero": "394",
+    "nome": "Cromo 394",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/394.jpg"
+  },
+  {
+    "numero": "395",
+    "nome": "Cromo 395",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/395.jpg"
+  },
+  {
+    "numero": "396",
+    "nome": "Cromo 396",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/396.jpg"
+  },
+  {
+    "numero": "397",
+    "nome": "Cromo 397",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/397.jpg"
+  },
+  {
+    "numero": "398",
+    "nome": "Cromo 398",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/398.jpg"
+  },
+  {
+    "numero": "399",
+    "nome": "Cromo 399",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/399.jpg"
+  },
+  {
+    "numero": "400",
+    "nome": "Cromo 400",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/400.jpg"
+  },
+  {
+    "numero": "401",
+    "nome": "Cromo 401",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/401.jpg"
+  },
+  {
+    "numero": "402",
+    "nome": "Cromo 402",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/402.jpg"
+  },
+  {
+    "numero": "403",
+    "nome": "Cromo 403",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/403.jpg"
+  },
+  {
+    "numero": "404",
+    "nome": "Cromo 404",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/404.jpg"
+  },
+  {
+    "numero": "405",
+    "nome": "Cromo 405",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/405.jpg"
+  },
+  {
+    "numero": "406",
+    "nome": "Cromo 406",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/406.jpg"
+  },
+  {
+    "numero": "407",
+    "nome": "Cromo 407",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/407.jpg"
+  },
+  {
+    "numero": "408",
+    "nome": "Cromo 408",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/408.jpg"
+  },
+  {
+    "numero": "409",
+    "nome": "Cromo 409",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/409.jpg"
+  },
+  {
+    "numero": "410",
+    "nome": "Cromo 410",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/410.jpg"
+  },
+  {
+    "numero": "411",
+    "nome": "Cromo 411",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/411.jpg"
+  },
+  {
+    "numero": "412",
+    "nome": "Cromo 412",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/412.jpg"
+  },
+  {
+    "numero": "413",
+    "nome": "Cromo 413",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/413.jpg"
+  },
+  {
+    "numero": "414",
+    "nome": "Cromo 414",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/414.jpg"
+  },
+  {
+    "numero": "415",
+    "nome": "Cromo 415",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/415.jpg"
+  },
+  {
+    "numero": "416",
+    "nome": "Cromo 416",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/416.jpg"
+  },
+  {
+    "numero": "417",
+    "nome": "Cromo 417",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/417.jpg"
+  },
+  {
+    "numero": "418",
+    "nome": "Cromo 418",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/418.jpg"
+  },
+  {
+    "numero": "419",
+    "nome": "Cromo 419",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/419.jpg"
+  },
+  {
+    "numero": "420",
+    "nome": "Cromo 420",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/420.jpg"
+  },
+  {
+    "numero": "421",
+    "nome": "Cromo 421",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/421.jpg"
+  },
+  {
+    "numero": "422",
+    "nome": "Cromo 422",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/422.jpg"
+  },
+  {
+    "numero": "423",
+    "nome": "Cromo 423",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/423.jpg"
+  },
+  {
+    "numero": "424",
+    "nome": "Cromo 424",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/424.jpg"
+  },
+  {
+    "numero": "425",
+    "nome": "Cromo 425",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/425.jpg"
+  },
+  {
+    "numero": "426",
+    "nome": "Cromo 426",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/426.jpg"
+  },
+  {
+    "numero": "427",
+    "nome": "Cromo 427",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/427.jpg"
+  },
+  {
+    "numero": "428",
+    "nome": "Cromo 428",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/428.jpg"
+  },
+  {
+    "numero": "429",
+    "nome": "Cromo 429",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/429.jpg"
+  },
+  {
+    "numero": "430",
+    "nome": "Cromo 430",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/430.jpg"
+  },
+  {
+    "numero": "431",
+    "nome": "Cromo 431",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/431.jpg"
+  },
+  {
+    "numero": "432",
+    "nome": "Cromo 432",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/432.jpg"
+  },
+  {
+    "numero": "433",
+    "nome": "Cromo 433",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/433.jpg"
+  },
+  {
+    "numero": "434",
+    "nome": "Cromo 434",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/434.jpg"
+  },
+  {
+    "numero": "435",
+    "nome": "Cromo 435",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/435.jpg"
+  },
+  {
+    "numero": "436",
+    "nome": "Cromo 436",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/436.jpg"
+  },
+  {
+    "numero": "437",
+    "nome": "Cromo 437",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/437.jpg"
+  },
+  {
+    "numero": "438",
+    "nome": "Cromo 438",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/438.jpg"
+  },
+  {
+    "numero": "439",
+    "nome": "Cromo 439",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/439.jpg"
+  },
+  {
+    "numero": "440",
+    "nome": "Cromo 440",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/440.jpg"
+  },
+  {
+    "numero": "441",
+    "nome": "Cromo 441",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/441.jpg"
+  },
+  {
+    "numero": "442",
+    "nome": "Cromo 442",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/442.jpg"
+  },
+  {
+    "numero": "443",
+    "nome": "Cromo 443",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/443.jpg"
+  },
+  {
+    "numero": "444",
+    "nome": "Cromo 444",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/444.jpg"
+  },
+  {
+    "numero": "445",
+    "nome": "Cromo 445",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/445.jpg"
+  },
+  {
+    "numero": "446",
+    "nome": "Cromo 446",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/446.jpg"
+  },
+  {
+    "numero": "447",
+    "nome": "Cromo 447",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/447.jpg"
+  },
+  {
+    "numero": "448",
+    "nome": "Cromo 448",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/448.jpg"
+  },
+  {
+    "numero": "449",
+    "nome": "Cromo 449",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/449.jpg"
+  },
+  {
+    "numero": "450",
+    "nome": "Cromo 450",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/450.jpg"
+  },
+  {
+    "numero": "451",
+    "nome": "Cromo 451",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/451.jpg"
+  },
+  {
+    "numero": "452",
+    "nome": "Cromo 452",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/452.jpg"
+  },
+  {
+    "numero": "453",
+    "nome": "Cromo 453",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/453.jpg"
+  },
+  {
+    "numero": "454",
+    "nome": "Cromo 454",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/454.jpg"
+  },
+  {
+    "numero": "455",
+    "nome": "Cromo 455",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/455.jpg"
+  },
+  {
+    "numero": "456",
+    "nome": "Cromo 456",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/456.jpg"
+  },
+  {
+    "numero": "457",
+    "nome": "Cromo 457",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/457.jpg"
+  },
+  {
+    "numero": "458",
+    "nome": "Cromo 458",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/458.jpg"
+  },
+  {
+    "numero": "459",
+    "nome": "Cromo 459",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/459.jpg"
+  },
+  {
+    "numero": "460",
+    "nome": "Cromo 460",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/460.jpg"
+  },
+  {
+    "numero": "461",
+    "nome": "Cromo 461",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/461.jpg"
+  },
+  {
+    "numero": "462",
+    "nome": "Cromo 462",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/462.jpg"
+  },
+  {
+    "numero": "463",
+    "nome": "Cromo 463",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/463.jpg"
+  },
+  {
+    "numero": "464",
+    "nome": "Cromo 464",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/464.jpg"
+  },
+  {
+    "numero": "465",
+    "nome": "Cromo 465",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/465.jpg"
+  },
+  {
+    "numero": "466",
+    "nome": "Cromo 466",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/466.jpg"
+  },
+  {
+    "numero": "467",
+    "nome": "Cromo 467",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/467.jpg"
+  },
+  {
+    "numero": "468",
+    "nome": "Cromo 468",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/468.jpg"
+  },
+  {
+    "numero": "469",
+    "nome": "Cromo 469",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/469.jpg"
+  },
+  {
+    "numero": "470",
+    "nome": "Cromo 470",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/470.jpg"
+  },
+  {
+    "numero": "471",
+    "nome": "Cromo 471",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/471.jpg"
+  },
+  {
+    "numero": "472",
+    "nome": "Cromo 472",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/472.jpg"
+  },
+  {
+    "numero": "473",
+    "nome": "Cromo 473",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/473.jpg"
+  },
+  {
+    "numero": "474",
+    "nome": "Cromo 474",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/474.jpg"
+  },
+  {
+    "numero": "475",
+    "nome": "Cromo 475",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/475.jpg"
+  },
+  {
+    "numero": "476",
+    "nome": "Cromo 476",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/476.jpg"
+  }
+]
