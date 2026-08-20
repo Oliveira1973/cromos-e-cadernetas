@@ -1694,6 +1694,13 @@
     "imagem": "images/capas/Futebol 2022 2023/242.jpg"
   },
   {
+    "numero": "242s",
+    "nome": "Cromo 242s",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Futebol 2022 2023/242s.jpg"
+  },
+  {
     "numero": "243",
     "nome": "Cromo 243",
     "tenho": true,
