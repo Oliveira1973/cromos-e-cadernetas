@@ -246,5 +246,13 @@
     "ano": 2010,
     "totalCromos": 412,
     "capa": "images/capas/Futebol 2010 2011.jpg"
+  },
+  {
+    "id": "Futebol 2022 2023",
+    "nome": "Futebol 2022 2023",
+    "editora": "Panini",
+    "ano": 2022,
+    "totalCromos": 476,
+    "capa": "images/capas/Futebol 2022 2023.jpg"
   }
 ]
