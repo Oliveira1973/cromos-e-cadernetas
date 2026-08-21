@@ -261,7 +261,7 @@
     "editora": "Panini",
     "ano": 2012,
     "totalCromos": 426,
-    "capa": ""
+    "capa": "images/capas/Futebol 2012 2013.jpg"
   },
   {
     "id": "Futebol 2011 2012",
@@ -269,7 +269,7 @@
     "editora": "Panini",
     "ano": 2011,
     "totalCromos": 431,
-    "capa": ""
+    "capa": "images/capas/Futebol 2011 2012.jpg"
   },
   {
     "id": "Futebol 2013 2014",
@@ -277,7 +277,7 @@
     "editora": "Panini",
     "ano": 2013,
     "totalCromos": 418,
-    "capa": ""
+    "capa": "images/capas/Futebol 2013 2014.jpg"
   },
   {
     "id": "Futebol 2014 2015",
@@ -285,7 +285,7 @@
     "editora": "Panini",
     "ano": 2014,
     "totalCromos": 406,
-    "capa": ""
+    "capa": "images/capas/Futebol 2014 2015.jpg"
   },
   {
     "id": "Futebol 2015 2016",
@@ -293,7 +293,7 @@
     "editora": "Panini",
     "ano": 2015,
     "totalCromos": 436,
-    "capa": ""
+    "capa": "images/capas/Futebol 2015 2016.jpg"
   },
   {
     "id": "Futebol 2016 2017",
@@ -301,7 +301,7 @@
     "editora": "Panini",
     "ano": 2016,
     "totalCromos": 442,
-    "capa": ""
+    "capa": "images/capas/Futebol 2016 2017.jpg"
   },
   {
     "id": "Futebol 2017 2018",
@@ -309,7 +309,7 @@
     "editora": "Panini",
     "ano": 2017,
     "totalCromos": 398,
-    "capa": ""
+    "capa": "images/capas/Futebol 2017 2018.jpg"
   },
   {
     "id": "Futebol 2018 2019",
@@ -317,7 +317,7 @@
     "editora": "Panini",
     "ano": 2018,
     "totalCromos": 432,
-    "capa": ""
+    "capa": "images/capas/Futebol 2018 2019.jpg"
   },
   {
     "id": "Futebol 2019 2020",
@@ -325,7 +325,7 @@
     "editora": "Panini",
     "ano": 2019,
     "totalCromos": 445,
-    "capa": ""
+    "capa": "images/capas/Futebol 2019 2020.jpg"
   },
   {
     "id": "Futebol 2021 2022",
@@ -333,7 +333,7 @@
     "editora": "Panini",
     "ano": 2021,
     "totalCromos": 438,
-    "capa": ""
+    "capa": "images/capas/Futebol 2021 2022.jpg"
   },
   {
     "id": "Futebol 2023 2024",
@@ -341,7 +341,7 @@
     "editora": "Panini",
     "ano": 2023,
     "totalCromos": 527,
-    "capa": ""
+    "capa": "images/capas/Futebol 2023 2024.jpg"
   },
   {
     "id": "Futebol 2024 2025",
@@ -349,7 +349,7 @@
     "editora": "Panini",
     "ano": 2024,
     "totalCromos": 528,
-    "capa": ""
+    "capa": "images/capas/Futebol 2024 2025.jpg"
   },
   {
     "id": "Futebol 2025 2026",
@@ -357,6 +357,6 @@
     "editora": "Panini",
     "ano": 2025,
     "totalCromos": 526,
-    "capa": ""
+    "capa": "images/capas/Futebol 2025 2026.jpg"
   }
 ]
