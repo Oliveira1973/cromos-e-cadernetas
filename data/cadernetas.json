@@ -324,8 +324,16 @@
     "nome": "Futebol 2019 2020",
     "editora": "Panini",
     "ano": 2019,
-    "totalCromos": 445,
+    "totalCromos": 423,
     "capa": "images/capas/Futebol 2019 2020.jpg"
+  },
+  {
+    "id": "Futebol 2020 2021",
+    "nome": "Futebol 2020 2021",
+    "editora": "Panini",
+    "ano": 2019,
+    "totalCromos": 445,
+    "capa": "images/capas/Futebol 2020 2021.jpg"
   },
   {
     "id": "Futebol 2021 2022",
