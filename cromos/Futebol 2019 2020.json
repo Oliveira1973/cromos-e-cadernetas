@@ -175,13 +175,6 @@
     "imagem": "images/capas/Futebol 2019 2020/25.jpg"
   },
   {
-    "numero": "25bis",
-    "nome": "Cromo 25bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/25bis.jpg"
-  },
-  {
     "numero": "26",
     "nome": "Cromo 26",
     "tenho": true,
@@ -266,6 +259,13 @@
     "imagem": "images/capas/Futebol 2019 2020/37.jpg"
   },
   {
+    "numero": "37bis",
+    "nome": "Cromo 37bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/37bis.jpg"
+  },
+  {
     "numero": "38",
     "nome": "Cromo 38",
     "tenho": true,
@@ -322,13 +322,6 @@
     "imagem": "images/capas/Futebol 2019 2020/44.jpg"
   },
   {
-    "numero": "44bis",
-    "nome": "Cromo 44bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/44bis.jpg"
-  },
-  {
     "numero": "45",
     "nome": "Cromo 45",
     "tenho": true,
@@ -350,11 +343,25 @@
     "imagem": "images/capas/Futebol 2019 2020/47.jpg"
   },
   {
+    "numero": "47bis",
+    "nome": "Cromo 47bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/47bis.jpg"
+  },
+  {
     "numero": "48",
     "nome": "Cromo 48",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/48.jpg"
+  },
+  {
+    "numero": "48bis",
+    "nome": "Cromo 48bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/48bis.jpg"
   },
   {
     "numero": "49",
@@ -378,11 +385,25 @@
     "imagem": "images/capas/Futebol 2019 2020/51.jpg"
   },
   {
+    "numero": "51bis",
+    "nome": "Cromo 51bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/51bis.jpg"
+  },
+  {
     "numero": "52",
     "nome": "Cromo 52",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/52.jpg"
+  },
+  {
+    "numero": "52bis",
+    "nome": "Cromo 52bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/52bis.jpg"
   },
   {
     "numero": "53",
@@ -397,13 +418,6 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/54.jpg"
-  },
-  {
-    "numero": "54bis",
-    "nome": "Cromo 54bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/54bis.jpg"
   },
   {
     "numero": "55",
@@ -432,13 +446,6 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/58.jpg"
-  },
-  {
-    "numero": "58bis",
-    "nome": "Cromo 58bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/58bis.jpg"
   },
   {
     "numero": "59",
@@ -490,6 +497,13 @@
     "imagem": "images/capas/Futebol 2019 2020/65.jpg"
   },
   {
+    "numero": "65bis",
+    "nome": "Cromo 65bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/65bis.jpg"
+  },
+  {
     "numero": "66",
     "nome": "Cromo 66",
     "tenho": true,
@@ -504,13 +518,6 @@
     "imagem": "images/capas/Futebol 2019 2020/67.jpg"
   },
   {
-    "numero": "67bis",
-    "nome": "Cromo 67bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/67bis.jpg"
-  },
-  {
     "numero": "68",
     "nome": "Cromo 68",
     "tenho": true,
@@ -523,6 +530,13 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/69.jpg"
+  },
+  {
+    "numero": "69bis",
+    "nome": "Cromo 69bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/69bis.jpg"
   },
   {
     "numero": "70",
@@ -581,6 +595,13 @@
     "imagem": "images/capas/Futebol 2019 2020/77.jpg"
   },
   {
+    "numero": "77bis",
+    "nome": "Cromo 77bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/77bis.jpg"
+  },
+  {
     "numero": "78",
     "nome": "Cromo 78",
     "tenho": true,
@@ -607,6 +628,13 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/81.jpg"
+  },
+  {
+    "numero": "81bis",
+    "nome": "Cromo 81bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/81bis.jpg"
   },
   {
     "numero": "82",
@@ -677,13 +705,6 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/91.jpg"
-  },
-  {
-    "numero": "91bis",
-    "nome": "Cromo 91bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/91bis.jpg"
   },
   {
     "numero": "92",
@@ -770,13 +791,6 @@
     "imagem": "images/capas/Futebol 2019 2020/103.jpg"
   },
   {
-    "numero": "103bis",
-    "nome": "Cromo 103bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/103bis.jpg"
-  },
-  {
     "numero": "104",
     "nome": "Cromo 104",
     "tenho": true,
@@ -817,13 +831,6 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/108.jpg"
-  },
-  {
-    "numero": "108bis",
-    "nome": "Cromo 108bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/108bis.jpg"
   },
   {
     "numero": "109",
@@ -936,6 +943,13 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/124.jpg"
+  },
+  {
+    "numero": "124bis",
+    "nome": "Cromo 124bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/124bis.jpg"
   },
   {
     "numero": "125",
@@ -1055,13 +1069,6 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/141.jpg"
-  },
-  {
-    "numero": "141bis",
-    "nome": "Cromo 141bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/141bis.jpg"
   },
   {
     "numero": "142",
@@ -1197,13 +1204,6 @@
     "imagem": "images/capas/Futebol 2019 2020/160.jpg"
   },
   {
-    "numero": "160bis",
-    "nome": "Cromo 160bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/160bis.jpg"
-  },
-  {
     "numero": "161",
     "nome": "Cromo 161",
     "tenho": true,
@@ -1267,6 +1267,13 @@
     "imagem": "images/capas/Futebol 2019 2020/169.jpg"
   },
   {
+    "numero": "169bis",
+    "nome": "Cromo 169bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/169bis.jpg"
+  },
+  {
     "numero": "170",
     "nome": "Cromo 170",
     "tenho": true,
@@ -1288,13 +1295,6 @@
     "imagem": "images/capas/Futebol 2019 2020/172.jpg"
   },
   {
-    "numero": "172bis",
-    "nome": "Cromo 172bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/172bis.jpg"
-  },
-  {
     "numero": "173",
     "nome": "Cromo 173",
     "tenho": true,
@@ -1307,6 +1307,13 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/174.jpg"
+  },
+  {
+    "numero": "174bis",
+    "nome": "Cromo 174bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/174bis.jpg"
   },
   {
     "numero": "175",
@@ -1351,13 +1358,6 @@
     "imagem": "images/capas/Futebol 2019 2020/180.jpg"
   },
   {
-    "numero": "180bis",
-    "nome": "Cromo 180bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/180bis.jpg"
-  },
-  {
     "numero": "181",
     "nome": "Cromo 181",
     "tenho": true,
@@ -1365,11 +1365,25 @@
     "imagem": "images/capas/Futebol 2019 2020/181.jpg"
   },
   {
+    "numero": "181bis",
+    "nome": "Cromo 181bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/181bis.jpg"
+  },
+  {
     "numero": "182",
     "nome": "Cromo 182",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/182.jpg"
+  },
+  {
+    "numero": "182bis",
+    "nome": "Cromo 182bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/182bis.jpg"
   },
   {
     "numero": "183",
@@ -1533,6 +1547,13 @@
     "imagem": "images/capas/Futebol 2019 2020/205.jpg"
   },
   {
+    "numero": "205bis",
+    "nome": "Cromo 205bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/205bis.jpg"
+  },
+  {
     "numero": "206",
     "nome": "Cromo 206",
     "tenho": true,
@@ -1554,6 +1575,13 @@
     "imagem": "images/capas/Futebol 2019 2020/208.jpg"
   },
   {
+    "numero": "208bis",
+    "nome": "Cromo 208bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/208bis.jpg"
+  },
+  {
     "numero": "209",
     "nome": "Cromo 209",
     "tenho": true,
@@ -1573,13 +1601,6 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/211.jpg"
-  },
-  {
-    "numero": "211bis",
-    "nome": "Cromo 211bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/211bis.jpg"
   },
   {
     "numero": "212",
@@ -1659,13 +1680,6 @@
     "imagem": "images/capas/Futebol 2019 2020/222.jpg"
   },
   {
-    "numero": "222bis",
-    "nome": "Cromo 222bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/222bis.jpg"
-  },
-  {
     "numero": "223",
     "nome": "Cromo 223",
     "tenho": true,
@@ -1678,13 +1692,6 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/224.jpg"
-  },
-  {
-    "numero": "224bis",
-    "nome": "Cromo 224bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/224bis.jpg"
   },
   {
     "numero": "225",
@@ -1778,13 +1785,6 @@
     "imagem": "images/capas/Futebol 2019 2020/237.jpg"
   },
   {
-    "numero": "237bis",
-    "nome": "Cromo 237bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/237bis.jpg"
-  },
-  {
     "numero": "238",
     "nome": "Cromo 238",
     "tenho": true,
@@ -1820,25 +1820,11 @@
     "imagem": "images/capas/Futebol 2019 2020/242.jpg"
   },
   {
-    "numero": "242bis",
-    "nome": "Cromo 242bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/242bis.jpg"
-  },
-  {
     "numero": "243",
     "nome": "Cromo 243",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/243.jpg"
-  },
-  {
-    "numero": "243bis",
-    "nome": "Cromo 243bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/243bis.jpg"
   },
   {
     "numero": "244",
@@ -1874,13 +1860,6 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/248.jpg"
-  },
-  {
-    "numero": "248bis",
-    "nome": "Cromo 248bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/248bis.jpg"
   },
   {
     "numero": "249",
@@ -1939,6 +1918,13 @@
     "imagem": "images/capas/Futebol 2019 2020/256.jpg"
   },
   {
+    "numero": "256bis",
+    "nome": "Cromo 256bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/256bis.jpg"
+  },
+  {
     "numero": "257",
     "nome": "Cromo 257",
     "tenho": true,
@@ -1958,13 +1944,6 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/259.jpg"
-  },
-  {
-    "numero": "259bis",
-    "nome": "Cromo 259bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/259bis.jpg"
   },
   {
     "numero": "260",
@@ -2009,6 +1988,13 @@
     "imagem": "images/capas/Futebol 2019 2020/265.jpg"
   },
   {
+    "numero": "265bis",
+    "nome": "Cromo 265bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/265bis.jpg"
+  },
+  {
     "numero": "266",
     "nome": "Cromo 266",
     "tenho": true,
@@ -2044,6 +2030,13 @@
     "imagem": "images/capas/Futebol 2019 2020/270.jpg"
   },
   {
+    "numero": "270bis",
+    "nome": "Cromo 270bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/270bis.jpg"
+  },
+  {
     "numero": "271",
     "nome": "Cromo 271",
     "tenho": true,
@@ -2063,6 +2056,13 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/273.jpg"
+  },
+  {
+    "numero": "273bis",
+    "nome": "Cromo 273bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/273bis.jpg"
   },
   {
     "numero": "274",
@@ -2149,13 +2149,6 @@
     "imagem": "images/capas/Futebol 2019 2020/285.jpg"
   },
   {
-    "numero": "285bis",
-    "nome": "Cromo 285bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/285bis.jpg"
-  },
-  {
     "numero": "286",
     "nome": "Cromo 286",
     "tenho": true,
@@ -2182,6 +2175,13 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/289.jpg"
+  },
+  {
+    "numero": "289bis",
+    "nome": "Cromo 289bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/289bis.jpg"
   },
   {
     "numero": "290",
@@ -2224,13 +2224,6 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/295.jpg"
-  },
-  {
-    "numero": "295bis",
-    "nome": "Cromo 295bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/295bis.jpg"
   },
   {
     "numero": "296",
@@ -2303,13 +2296,6 @@
     "imagem": "images/capas/Futebol 2019 2020/304.jpg"
   },
   {
-    "numero": "304bis",
-    "nome": "Cromo 304bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/304bis.jpg"
-  },
-  {
     "numero": "305",
     "nome": "Cromo 305",
     "tenho": true,
@@ -2329,6 +2315,13 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/307.jpg"
+  },
+  {
+    "numero": "307bis",
+    "nome": "Cromo 307bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/307bis.jpg"
   },
   {
     "numero": "308",
@@ -2385,6 +2378,13 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/315.jpg"
+  },
+  {
+    "numero": "315bis",
+    "nome": "Cromo 315bis",
+    "tenho": true,
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/315bis.jpg"
   },
   {
     "numero": "316",
@@ -2546,13 +2546,6 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/338.jpg"
-  },
-  {
-    "numero": "338bis",
-    "nome": "Cromo 338bis",
-    "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Futebol 2019 2020/338bis.jpg"
   },
   {
     "numero": "339",
@@ -2830,7 +2823,7 @@
   {
     "numero": "378",
     "nome": "Cromo 378",
-    "tenho": true,
+    "tenho": false,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/378.jpg"
   },
@@ -2886,7 +2879,7 @@
   {
     "numero": "386",
     "nome": "Cromo 386",
-    "tenho": true,
+    "tenho": false,
     "especial": false,
     "imagem": "images/capas/Futebol 2019 2020/386.jpg"
   },
@@ -2947,24 +2940,24 @@
     "imagem": "images/capas/Futebol 2019 2020/394.jpg"
   },
   {
-    "numero": "TO1",
-    "nome": "TO1",
+    "numero": "T01",
+    "nome": "Cromo T01",
     "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2019 2020/TO1.jpg"
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/T01.jpg"
   },
   {
-    "numero": "TO2",
-    "nome": "TO2",
+    "numero": "T02",
+    "nome": "Cromo T02",
     "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2019 2020/TO2.jpg"
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/T02.jpg"
   },
   {
-    "numero": "TO3",
-    "nome": "Cromo TO3",
+    "numero": "T03",
+    "nome": "Cromo T03",
     "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2019 2020/TO3.jpg"
+    "especial": true,
+    "imagem": "images/capas/Futebol 2019 2020/T03.jpg"
   }
 ]
