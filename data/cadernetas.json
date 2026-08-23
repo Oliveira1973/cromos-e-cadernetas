@@ -366,5 +366,69 @@
     "ano": 2025,
     "totalCromos": 526,
     "capa": "images/capas/Futebol 2025 2026.jpg"
+  },
+  {
+    "id": "ESPANA 82",
+    "nome": "ESPANA 82",
+    "editora": "Panini",
+    "ano": 1982,
+    "totalCromos": 427,
+    "capa": "images/capas/ESPANA 82.jpg"
+  },
+  {
+    "id": "MEXICO 86",
+    "nome": "MEXICO 86",
+    "editora": "Panini",
+    "ano": 1986,
+    "totalCromos": 427,
+    "capa": "images/capas/MEXICO 86.jpg"
+  },
+  {
+    "id": "ITALIA 90",
+    "nome": "ITALIA 90",
+    "editora": "Panini",
+    "ano": 1990,
+    "totalCromos": 448,
+    "capa": "images/capas/ITALIA 90.jpg"
+  },
+  {
+    "id": "USA 94",
+    "nome": "USA 94",
+    "editora": "Panini",
+    "ano": 1994,
+    "totalCromos": 444,
+    "capa": "images/capas/USA 94.jpg"
+  },
+  {
+    "id": "FRANCE 98",
+    "nome": "FRANCE 98",
+    "editora": "Panini",
+    "ano": 1998,
+    "totalCromos": 561,
+    "capa": "images/capas/FRANCE 98.jpg"
+  },
+  {
+    "id": "KOREA JAPAN 2002",
+    "nome": "KOREA JAPAN 2002",
+    "editora": "Panini",
+    "ano": 2002,
+    "totalCromos": 581,
+    "capa": "images/capas/KOREA JAPAN 2002.jpg"
+  },
+  {
+    "id": "GERMANY 2006",
+    "nome": "GERMANY 2006",
+    "editora": "Panini",
+    "ano": 2006,
+    "totalCromos": 605,
+    "capa": "images/capas/GERMANY 2006.jpg"
+  },
+  {
+    "id": "SOUTH AFRICA 2010",
+    "nome": "SOUTH AFRICA 2010",
+    "editora": "Panini",
+    "ano": 2010,
+    "totalCromos": 717,
+    "capa": "images/capas/SOUTH AFRICA 2010.jpg"
   }
 ]
