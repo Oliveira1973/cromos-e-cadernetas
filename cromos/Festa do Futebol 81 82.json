@@ -1339,7 +1339,7 @@
   {
     "numero": "192",
     "nome": "Cromo 192",
-    "tenho": false,
+    "tenho": true,
     "especial": false,
     "imagem": "images/capas/Festa do Futebol 81 82/192.jpg"
   },
@@ -1381,7 +1381,7 @@
   {
     "numero": "198",
     "nome": "Cromo 198",
-    "tenho": true,
+    "tenho": false,
     "especial": false,
     "imagem": "images/capas/Festa do Futebol 81 82/198.jpg"
   },
