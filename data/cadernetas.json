@@ -430,5 +430,21 @@
     "ano": 2010,
     "totalCromos": 717,
     "capa": "images/capas/SOUTH AFRICA 2010.jpg"
+  },
+  {
+    "id": "BRASIL 2014",
+    "nome": "BRASIL 2014",
+    "editora": "Panini",
+    "ano": 2014,
+    "totalCromos": 711,
+    "capa": "images/capas/BRASIL 2014.jpg"
+  },
+  {
+    "id": "RUSSIA 2018",
+    "nome": "RUSSIA 2018",
+    "editora": "Panini",
+    "ano": 2017,
+    "totalCromos": 774,
+    "capa": "images/capas/RUSSIA 2018.jpg"
   }
 ]
