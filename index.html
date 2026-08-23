@@ -307,6 +307,57 @@
     font-family:'Space Mono', monospace; font-size:0.7rem; color:var(--ink-soft);
   }
 
+  /* lightbox de ampliação do cromo */
+  .cromo.tem-imagem{ cursor:zoom-in; }
+  .lightbox{
+    position:fixed; inset:0; z-index:1000;
+    background:rgba(20,16,12,0.82);
+    display:none;
+    align-items:center; justify-content:center;
+    padding:24px;
+    cursor:zoom-out;
+  }
+  .lightbox.aberto{ display:flex; }
+  .lightbox-conteudo{
+    max-width:min(88vw, 480px);
+    max-height:88vh;
+    display:flex; flex-direction:column; align-items:center;
+    animation: lightbox-pop 0.16s ease-out;
+  }
+  @keyframes lightbox-pop{
+    from{ transform:scale(0.92); opacity:0; }
+    to{ transform:scale(1); opacity:1; }
+  }
+  .lightbox-conteudo img{
+    max-width:100%;
+    max-height:75vh;
+    width:auto; height:auto;
+    display:block;
+    border:3px solid var(--paper);
+    border-radius:3px;
+    box-shadow:0 12px 32px rgba(0,0,0,0.5);
+    background:var(--card-bg);
+  }
+  .lightbox-legenda{
+    margin-top:14px;
+    font-family:'Space Mono', monospace;
+    color:var(--paper);
+    text-align:center;
+    display:flex; align-items:baseline; gap:10px; justify-content:center;
+    flex-wrap:wrap;
+  }
+  .lightbox-legenda #lightboxNum{
+    background:var(--stamp-red);
+    color:var(--paper);
+    padding:3px 9px;
+    border-radius:2px;
+    font-weight:700;
+    font-size:0.85rem;
+  }
+  .lightbox-legenda #lightboxNome{
+    font-size:0.95rem;
+  }
+
   @media (prefers-reduced-motion: reduce){
     .cad-card{ transition:none; }
   }
@@ -369,6 +420,16 @@
   </div>
 
   <footer>dados guardados no GitHub &middot; edita os ficheiros JSON para atualizar</footer>
+</div>
+
+<div id="lightbox" class="lightbox">
+  <div class="lightbox-conteudo">
+    <img id="lightboxImg" src="" alt="">
+    <div class="lightbox-legenda">
+      <span id="lightboxNum"></span>
+      <span id="lightboxNome"></span>
+    </div>
+  </div>
 </div>
 
 <script>
@@ -551,6 +612,8 @@ function renderCromosGrid(cromos){
       };
       if(img.complete && img.naturalWidth) aplicarOrientacao();
       else img.addEventListener('load', aplicarOrientacao);
+
+      el.addEventListener('click', ()=> abrirLightbox(cr));
     } else {
       el.innerHTML = `
         <div class="num">${cr.numero}</div>
@@ -586,6 +649,23 @@ document.getElementById('incompleteOnly').addEventListener('change', renderGrid)
 document.getElementById('cromoSearch').addEventListener('input', ()=>renderCromosGrid(cromosCache[currentId()]));
 document.getElementById('cromoFaltaOnly').addEventListener('change', ()=>renderCromosGrid(cromosCache[currentId()]));
 document.getElementById('cromoEspecialOnly').addEventListener('change', ()=>renderCromosGrid(cromosCache[currentId()]));
+
+function abrirLightbox(cr){
+  document.getElementById('lightboxImg').src = resolvePath(cr.imagem);
+  document.getElementById('lightboxImg').alt = `Cromo ${cr.numero}`;
+  document.getElementById('lightboxNum').textContent = cr.numero;
+  document.getElementById('lightboxNome').textContent = cr.nome || '';
+  document.getElementById('lightbox').classList.add('aberto');
+}
+
+function fecharLightbox(){
+  document.getElementById('lightbox').classList.remove('aberto');
+}
+
+document.getElementById('lightbox').addEventListener('click', fecharLightbox);
+document.addEventListener('keydown', (e)=>{
+  if(e.key === 'Escape') fecharLightbox();
+});
 
 function currentId(){
   const nome = document.getElementById('detailNome').textContent;
