@@ -454,5 +454,61 @@
     "ano": 2022,
     "totalCromos": 750,
     "capa": "images/capas/QATAR 2022.jpg"
+  },
+  {
+    "id": "Euro 84",
+    "nome": "Euro 84",
+    "editora": "Panini",
+    "ano": 1984,
+    "totalCromos": 258,
+    "capa": "images/capas/Euro 84.jpg"
+  },
+  {
+    "id": "Euro 88",
+    "nome": "Euro 88",
+    "editora": "Panini",
+    "ano": 1988,
+    "totalCromos": 268,
+    "capa": "images/capas/Euro 88.jpg"
+  },
+  {
+    "id": "Euro 92",
+    "nome": "Euro 92",
+    "editora": "Panini",
+    "ano": 1992,
+    "totalCromos": 261,
+    "capa": "images/capas/Euro 92.jpg"
+  },
+  {
+    "id": "Euro 96",
+    "nome": "Euro 96",
+    "editora": "Panini",
+    "ano": 1996,
+    "totalCromos": 354,
+    "capa": "images/capas/Euro 96.jpg"
+  },
+  {
+    "id": "Euro 2000",
+    "nome": "Euro 2000",
+    "editora": "Panini",
+    "ano": 2000,
+    "totalCromos": 358,
+    "capa": "images/capas/Euro 2000.jpg"
+  },
+  {
+    "id": "Euro 2004",
+    "nome": "Euro 2004",
+    "editora": "Panini",
+    "ano": 2004,
+    "totalCromos": 334,
+    "capa": "images/capas/Euro 2004.jpg"
+  },
+  {
+    "id": "Euro 2008",
+    "nome": "Euro 2008",
+    "editora": "Panini",
+    "ano": 2008,
+    "totalCromos": 568,
+    "capa": "images/capas/Euro 2008.jpg"
   }
 ]
