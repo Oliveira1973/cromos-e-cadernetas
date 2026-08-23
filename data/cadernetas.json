@@ -446,5 +446,13 @@
     "ano": 2017,
     "totalCromos": 774,
     "capa": "images/capas/RUSSIA 2018.jpg"
+  },
+   {
+    "id": "QATAR 2022",
+    "nome": "QATAR 2022",
+    "editora": "Panini",
+    "ano": 2022,
+    "totalCromos": 750,
+    "capa": "images/capas/QATAR 2022.jpg"
   }
 ]
