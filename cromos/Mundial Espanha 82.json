@@ -1,1178 +1,2018 @@
 [
   {
     "numero": "1",
-    "nome": "Cromo 1",
+    "nome": "Schumacher",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/1.jpg"
   },
   {
     "numero": "2",
-    "nome": "Cromo 2",
+    "nome": "Stielike",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/2.jpg"
   },
   {
     "numero": "3",
-    "nome": "Cromo 3",
+    "nome": "Briegel",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/3.jpg"
   },
   {
     "numero": "4",
-    "nome": "Cromo 4",
+    "nome": "Berndt Forster",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/4.jpg"
   },
   {
     "numero": "5",
-    "nome": "Cromo 5",
+    "nome": "Kaltz",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/5.jpg"
   },
   {
     "numero": "6",
-    "nome": "Cromo 6",
+    "nome": "Magath",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/6.jpg"
   },
   {
     "numero": "7",
-    "nome": "Cromo 7",
+    "nome": "Breitner",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/7.jpg"
   },
   {
     "numero": "8",
-    "nome": "Cromo 8",
+    "nome": "Dremmler",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/8.jpg"
   },
   {
     "numero": "9",
-    "nome": "Cromo 9",
+    "nome": "Rummenigge",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/9.jpg"
   },
   {
     "numero": "10",
-    "nome": "Cromo 10",
+    "nome": "Hrubesch",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/10.jpg"
   },
   {
     "numero": "11",
-    "nome": "Cromo 11",
+    "nome": "Muller",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/11.jpg"
   },
   {
     "numero": "12",
-    "nome": "Cromo 12",
+    "nome": "Flag - Alemanha",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/12.jpg"
   },
   {
     "numero": "13",
-    "nome": "Cromo 13",
+    "nome": "Fillol",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/13.jpg"
   },
   {
     "numero": "14",
-    "nome": "Cromo 14",
+    "nome": "Olguin",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/14.jpg"
   },
   {
     "numero": "15",
-    "nome": "Cromo 15",
+    "nome": "Galvan",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/15.jpg"
   },
   {
     "numero": "16",
-    "nome": "Cromo 16",
+    "nome": "Passarella",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/16.jpg"
   },
   {
     "numero": "17",
-    "nome": "Cromo 17",
+    "nome": "Tarantini",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/17.jpg"
   },
   {
     "numero": "18",
-    "nome": "Cromo 18",
+    "nome": "Gallego",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/18.jpg"
   },
   {
     "numero": "19",
-    "nome": "Cromo 19",
+    "nome": "Ardiles",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/19.jpg"
   },
   {
     "numero": "20",
-    "nome": "Cromo 20",
+    "nome": "Diego Maradona",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/20.jpg"
   },
   {
     "numero": "21",
-    "nome": "Cromo 21",
+    "nome": "Bertoni",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/21.jpg"
   },
   {
     "numero": "22",
-    "nome": "Cromo 22",
+    "nome": "Diaz",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/22.jpg"
   },
   {
     "numero": "23",
-    "nome": "Cromo 23",
+    "nome": "Mario Kempes",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/23.jpg"
   },
   {
     "numero": "24",
-    "nome": "Cromo 24",
+    "nome": "Flag - Argentina",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/24.jpg"
   },
   {
     "numero": "25",
-    "nome": "Cromo 25",
+    "nome": "Cerbah",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/25.jpg"
   },
   {
     "numero": "26",
-    "nome": "Cromo 26",
+    "nome": "Gamouh",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/26.jpg"
   },
   {
     "numero": "27",
-    "nome": "Cromo 27",
+    "nome": "Guendouz",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/27.jpg"
   },
   {
     "numero": "28",
-    "nome": "Cromo 28",
+    "nome": "Kourichi",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/28.jpg"
   },
   {
     "numero": "29",
-    "nome": "Cromo 29",
+    "nome": "Larbes",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/29.jpg"
   },
   {
     "numero": "30",
-    "nome": "Cromo 30",
+    "nome": "Mansouri",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/30.jpg"
   },
   {
     "numero": "31",
-    "nome": "Cromo 31",
+    "nome": "Kaci Said",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/31.jpg"
   },
   {
     "numero": "32",
-    "nome": "Cromo 32",
+    "nome": "Mahyouz",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/32.jpg"
   },
   {
     "numero": "33",
-    "nome": "Cromo 33",
+    "nome": "Madijer",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/33.jpg"
   },
   {
     "numero": "34",
-    "nome": "Cromo 34",
+    "nome": "Belloumi",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/34.jpg"
   },
   {
     "numero": "35",
-    "nome": "Cromo 35",
+    "nome": "Zidane",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/35.jpg"
   },
   {
     "numero": "36",
-    "nome": "Cromo 36",
+    "nome": "Flag - Argélia",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/36.jpg"
   },
   {
     "numero": "37",
-    "nome": "Cromo 37",
+    "nome": "Koncilia",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/37.jpg"
   },
   {
     "numero": "38",
-    "nome": "Cromo 38",
+    "nome": "Kreuz",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/38.jpg"
   },
   {
     "numero": "39",
-    "nome": "Cromo 39",
+    "nome": "Weber",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/39.jpg"
   },
   {
     "numero": "40",
-    "nome": "Cromo 40",
+    "nome": "Pezzey",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/40.jpg"
   },
   {
     "numero": "41",
-    "nome": "Cromo 41",
+    "nome": "Mirnegg",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/41.jpg"
   },
   {
     "numero": "42",
-    "nome": "Cromo 42",
+    "nome": "Hintermaier",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/42.jpg"
   },
   {
     "numero": "43",
-    "nome": "Cromo 43",
+    "nome": "Prohaska",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/43.jpg"
   },
   {
     "numero": "44",
-    "nome": "Cromo 44",
+    "nome": "Jara",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/44.jpg"
   },
   {
     "numero": "45",
-    "nome": "Cromo 45",
+    "nome": "Schachner",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/45.jpg"
   },
   {
     "numero": "46",
-    "nome": "Cromo 46",
+    "nome": "Krankl",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/46.jpg"
   },
   {
     "numero": "47",
-    "nome": "Cromo 47",
+    "nome": "Welzl",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/47.jpg"
   },
   {
     "numero": "48",
-    "nome": "Cromo 48",
+    "nome": "Flag - Austria",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/48.jpg"
   },
   {
     "numero": "49",
-    "nome": "Cromo 49",
+    "nome": "Pfaff",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/49.jpg"
   },
   {
     "numero": "50",
-    "nome": "Cromo 50",
+    "nome": "Renquin",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/50.jpg"
   },
   {
     "numero": "51",
-    "nome": "Cromo 51",
+    "nome": "Meeuws",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/51.jpg"
   },
   {
     "numero": "52",
-    "nome": "Cromo 52",
+    "nome": "Luc Millecamps",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/52.jpg"
   },
   {
     "numero": "53",
-    "nome": "Cromo 53",
+    "nome": "Gerets",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/53.jpg"
   },
   {
     "numero": "54",
-    "nome": "Cromo 54",
+    "nome": "Vercauteren",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/54.jpg"
   },
   {
     "numero": "55",
-    "nome": "Cromo 55",
+    "nome": "Plessers",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/55.jpg"
   },
   {
     "numero": "56",
-    "nome": "Cromo 56",
+    "nome": "Vandereycken",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/56.jpg"
   },
   {
     "numero": "57",
-    "nome": "Cromo 57",
+    "nome": "Marc Millecamps",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/57.jpg"
   },
   {
     "numero": "58",
-    "nome": "Cromo 58",
+    "nome": "Voordeckers",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/58.jpg"
   },
   {
     "numero": "59",
-    "nome": "Cromo 59",
+    "nome": "Vandenbergh",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/59.jpg"
   },
   {
     "numero": "60",
-    "nome": "Cromo 60",
+    "nome": "Flag - Belgica",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/60.jpg"
   },
   {
     "numero": "61",
-    "nome": "Cromo 61",
+    "nome": "Carlos",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/61.jpg"
   },
   {
     "numero": "62",
-    "nome": "Cromo 62",
+    "nome": "Edevaldo",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/62.jpg"
   },
   {
     "numero": "63",
-    "nome": "Cromo 63",
+    "nome": "Oscar",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/63.jpg"
   },
   {
     "numero": "64",
-    "nome": "Cromo 64",
+    "nome": "Luisinho",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/64.jpg"
   },
   {
     "numero": "65",
-    "nome": "Cromo 65",
+    "nome": "Junior",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/65.jpg"
   },
   {
     "numero": "66",
-    "nome": "Cromo 66",
+    "nome": "Paulo Isidoro",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/66.jpg"
   },
   {
     "numero": "67",
-    "nome": "Cromo 67",
+    "nome": "Cerezo",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/67.jpg"
   },
   {
     "numero": "68",
-    "nome": "Cromo 68",
+    "nome": "Socrates",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/68.jpg"
   },
   {
     "numero": "69",
-    "nome": "Cromo 69",
+    "nome": "Reinaldo",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/69.jpg"
   },
   {
     "numero": "70",
-    "nome": "Cromo 70",
+    "nome": "Zico",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/70.jpg"
   },
   {
     "numero": "71",
-    "nome": "Cromo 71",
+    "nome": "Ze Sergio",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/71.jpg"
   },
   {
     "numero": "72",
-    "nome": "Cromo 72",
+    "nome": "Flag - Brasil",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/72.jpg"
   },
   {
     "numero": "73",
-    "nome": "Cromo 73",
+    "nome": "N'Kono",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/73.jpg"
   },
   {
     "numero": "74",
-    "nome": "Cromo 74",
+    "nome": "Kaham",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/74.jpg"
   },
   {
     "numero": "75",
-    "nome": "Cromo 75",
+    "nome": "Aoudou",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/75.jpg"
   },
   {
     "numero": "76",
-    "nome": "Cromo 76",
+    "nome": "N'Dumbe Lea",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/76.jpg"
   },
   {
     "numero": "77",
-    "nome": "Cromo 77",
+    "nome": "M'Bow",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/77.jpg"
   },
   {
     "numero": "78",
-    "nome": "Cromo 78",
+    "nome": "Kunde",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/78.jpg"
   },
   {
     "numero": "79",
-    "nome": "Cromo 79",
+    "nome": "Abega",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/79.jpg"
   },
   {
     "numero": "80",
-    "nome": "Cromo 80",
+    "nome": "Tokoto",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/80.jpg"
   },
   {
     "numero": "81",
-    "nome": "Cromo 81",
+    "nome": "Bahoken",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/81.jpg"
   },
   {
     "numero": "82",
-    "nome": "Cromo 82",
+    "nome": "Milla",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/82.jpg"
   },
   {
     "numero": "83",
-    "nome": "Cromo 83",
+    "nome": "N'Guea",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/83.jpg"
   },
   {
     "numero": "84",
-    "nome": "Cromo 84",
+    "nome": "Flag - Camarões",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/84.jpg"
   },
   {
     "numero": "85",
-    "nome": "Cromo 85",
+    "nome": "Netolicka",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/85.jpg"
   },
   {
     "numero": "86",
-    "nome": "Cromo 86",
+    "nome": "Jakubec",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/86.jpg"
   },
   {
     "numero": "87",
-    "nome": "Cromo 87",
+    "nome": "Vojacek",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/87.jpg"
   },
   {
     "numero": "88",
-    "nome": "Cromo 88",
+    "nome": "Fiala",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/88.jpg"
   },
   {
     "numero": "89",
-    "nome": "Cromo 89",
+    "nome": "Barmos",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/89.jpg"
   },
   {
     "numero": "90",
-    "nome": "Cromo 90",
+    "nome": "Jurkemik",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/90.jpg"
   },
   {
     "numero": "91",
-    "nome": "Cromo 91",
+    "nome": "Kozak",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/91.jpg"
   },
   {
     "numero": "92",
-    "nome": "Cromo 92",
+    "nome": "Panenka",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/92.jpg"
   },
   {
     "numero": "93",
-    "nome": "Cromo 93",
+    "nome": "Masny",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/93.jpg"
   },
   {
     "numero": "94",
-    "nome": "Cromo 94",
+    "nome": "Nehoda",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/94.jpg"
   },
   {
     "numero": "95",
-    "nome": "Cromo 95",
+    "nome": "Kriz",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/95.jpg"
   },
   {
     "numero": "96",
-    "nome": "Cromo 96",
+    "nome": "Flag - Checoslováquia",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/96.jpg"
   },
   {
     "numero": "97",
-    "nome": "Cromo 97",
+    "nome": "Osben",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/97.jpg"
   },
   {
     "numero": "98",
-    "nome": "Cromo 98",
+    "nome": "Garrido",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/98.jpg"
   },
   {
     "numero": "99",
-    "nome": "Cromo 99",
+    "nome": "Soto",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/99.jpg"
   },
   {
     "numero": "100",
-    "nome": "Cromo 100",
+    "nome": "Valenzuela",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/100.jpg"
   },
   {
     "numero": "101",
-    "nome": "Cromo 101",
+    "nome": "Bigorra",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/101.jpg"
   },
   {
     "numero": "102",
-    "nome": "Cromo 102",
+    "nome": "Dubo",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/102.jpg"
   },
   {
     "numero": "103",
-    "nome": "Cromo 103",
+    "nome": "Neira",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/103.jpg"
   },
   {
     "numero": "104",
-    "nome": "Cromo 104",
+    "nome": "Rivas",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/104.jpg"
   },
   {
     "numero": "105",
-    "nome": "Cromo 105",
+    "nome": "Yanez",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/105.jpg"
   },
   {
     "numero": "106",
-    "nome": "Cromo 106",
+    "nome": "Mondaca",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/106.jpg"
   },
   {
     "numero": "107",
-    "nome": "Cromo 107",
+    "nome": "Moscoso",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/107.jpg"
   },
   {
     "numero": "108",
-    "nome": "Cromo 108",
+    "nome": "Flag - Chile",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/108.jpg"
   },
   {
     "numero": "109",
-    "nome": "Cromo 109",
+    "nome": "Alan Rough",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/109.jpg"
   },
   {
     "numero": "110",
-    "nome": "Cromo 110",
+    "nome": "Danny McGrain",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/110.jpg"
   },
   {
     "numero": "111",
-    "nome": "Cromo 111",
+    "nome": "Alan Hansen",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/111.jpg"
   },
   {
     "numero": "112",
-    "nome": "Cromo 112",
+    "nome": "Willie Miller",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/112.jpg"
   },
   {
     "numero": "113",
-    "nome": "Cromo 113",
+    "nome": "Frank Gray",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/113.jpg"
   },
   {
     "numero": "114",
-    "nome": "Cromo 114",
+    "nome": "Gordon Strachan",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/114.jpg"
   },
   {
     "numero": "115",
-    "nome": "Cromo 115",
+    "nome": "Graham Souness",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/115.jpg"
   },
   {
     "numero": "116",
-    "nome": "Cromo 116",
+    "nome": "Asa Hartford",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/116.jpg"
   },
   {
     "numero": "117",
-    "nome": "Cromo 117",
+    "nome": "Kenny Dalglish",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/117.jpg"
   },
   {
     "numero": "118",
-    "nome": "Cromo 118",
+    "nome": "Steve Archibald",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/118.jpg"
   },
   {
     "numero": "119",
-    "nome": "Cromo 119",
+    "nome": "John Robertson",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/119.jpg"
   },
   {
     "numero": "120",
-    "nome": "Cromo 120",
+    "nome": "Flag - Escócia",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/120.jpg"
   },
   {
     "numero": "121",
-    "nome": "Cromo 121",
+    "nome": "Arconada",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/121.jpg"
   },
   {
     "numero": "122",
-    "nome": "Cromo 122",
+    "nome": "Camacho",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/122.jpg"
   },
   {
     "numero": "123",
-    "nome": "Cromo 123",
+    "nome": "Alesanco",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/123.jpg"
   },
   {
     "numero": "124",
-    "nome": "Cromo 124",
+    "nome": "Tendillo",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/124.jpg"
   },
   {
     "numero": "125",
-    "nome": "Cromo 125",
+    "nome": "Gordillo",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/125.jpg"
   },
   {
     "numero": "126",
-    "nome": "Cromo 126",
+    "nome": "Munoz",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/126.jpg"
   },
   {
     "numero": "127",
-    "nome": "Cromo 127",
+    "nome": "Alonso",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/127.jpg"
   },
   {
     "numero": "128",
-    "nome": "Cromo 128",
+    "nome": "Zamora",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/128.jpg"
   },
   {
     "numero": "129",
-    "nome": "Cromo 129",
+    "nome": "Satrustegui",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/129.jpg"
   },
   {
     "numero": "130",
-    "nome": "Cromo 130",
+    "nome": "Quini",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/130.jpg"
   },
   {
     "numero": "131",
-    "nome": "Cromo 131",
+    "nome": "Ufarte",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/131.jpg"
   },
   {
     "numero": "132",
-    "nome": "Cromo 132",
+    "nome": "Flag - Espanha",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/132.jpg"
   },
   {
     "numero": "133",
-    "nome": "Cromo 133",
+    "nome": "Castaneda",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/133.jpg"
   },
   {
     "numero": "134",
-    "nome": "Cromo 134",
+    "nome": "Janvion",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/134.jpg"
   },
   {
     "numero": "135",
-    "nome": "Cromo 135",
+    "nome": "Bossis",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/135.jpg"
   },
   {
     "numero": "136",
-    "nome": "Cromo 136",
+    "nome": "Tresor",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/136.jpg"
   },
   {
     "numero": "137",
-    "nome": "Cromo 137",
+    "nome": "Lopez",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/137.jpg"
   },
   {
     "numero": "138",
-    "nome": "Cromo 138",
+    "nome": "Genghini",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/138.jpg"
   },
   {
     "numero": "139",
-    "nome": "Cromo 139",
+    "nome": "Rocheteau",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/139.jpg"
   },
   {
     "numero": "140",
-    "nome": "Cromo 140",
+    "nome": "Giresse",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/140.jpg"
   },
   {
     "numero": "141",
-    "nome": "Cromo 141",
+    "nome": "Lacombe",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/141.jpg"
   },
   {
     "numero": "142",
-    "nome": "Cromo 142",
+    "nome": "Michel Platini",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/142.jpg"
   },
   {
     "numero": "143",
-    "nome": "Cromo 143",
+    "nome": "Didier Six",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/143.jpg"
   },
   {
     "numero": "144",
-    "nome": "Cromo 144",
+    "nome": "Flag - França",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/144.jpg"
   },
   {
     "numero": "145",
-    "nome": "Cromo 145",
+    "nome": "Arzu",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/145.jpg"
   },
   {
     "numero": "146",
-    "nome": "Cromo 146",
+    "nome": "Gutierrez",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/146.jpg"
   },
   {
     "numero": "147",
-    "nome": "Cromo 147",
+    "nome": "Villegas",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/147.jpg"
   },
   {
     "numero": "148",
-    "nome": "Cromo 148",
+    "nome": "Anton Costly",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/148.jpg"
   },
   {
     "numero": "149",
-    "nome": "Cromo 149",
+    "nome": "Fernando Bulnes",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/149.jpg"
   },
   {
     "numero": "150",
-    "nome": "Cromo 150",
+    "nome": "David Bueso",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/150.jpg"
   },
   {
     "numero": "151",
-    "nome": "Cromo 151",
+    "nome": "Zelaya",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/151.jpg"
   },
   {
     "numero": "152",
-    "nome": "Cromo 152",
+    "nome": "Maradiaga",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/152.jpg"
   },
   {
     "numero": "153",
-    "nome": "Cromo 153",
+    "nome": "Caballero",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/153.jpg"
   },
   {
     "numero": "154",
-    "nome": "Cromo 154",
+    "nome": "Urquia",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/154.jpg"
   },
   {
     "numero": "155",
-    "nome": "Cromo 155",
+    "nome": "Figueroa",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/155.jpg"
   },
   {
     "numero": "156",
-    "nome": "Cromo 156",
+    "nome": "Flag - Honduras",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/156.jpg"
   },
   {
     "numero": "157",
-    "nome": "Cromo 157",
+    "nome": "Meszaros",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/157.jpg"
   },
   {
     "numero": "158",
-    "nome": "Cromo 158",
+    "nome": "Martos",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/158.jpg"
   },
   {
     "numero": "159",
-    "nome": "Cromo 159",
+    "nome": "Balint",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/159.jpg"
   },
   {
     "numero": "160",
-    "nome": "Cromo 160",
+    "nome": "Garaba",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/160.jpg"
   },
   {
     "numero": "161",
-    "nome": "Cromo 161",
+    "nome": "Toth",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/161.jpg"
   },
   {
     "numero": "162",
-    "nome": "Cromo 162",
+    "nome": "Sandor Muller",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/162.jpg"
   },
   {
     "numero": "163",
-    "nome": "Cromo 163",
+    "nome": "Nyilasi",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/163.jpg"
   },
   {
     "numero": "164",
-    "nome": "Cromo 164",
+    "nome": "Sallai",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/164.jpg"
   },
   {
     "numero": "165",
-    "nome": "Cromo 165",
+    "nome": "Laszlo Fazekas",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/165.jpg"
   },
   {
     "numero": "166",
-    "nome": "Cromo 166",
+    "nome": "Torocsik",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/166.jpg"
   },
   {
     "numero": "167",
-    "nome": "Cromo 167",
+    "nome": "Kiss",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/167.jpg"
   },
   {
     "numero": "168",
-    "nome": "Cromo 168",
+    "nome": "Flag - Hungria",
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Mundial Espanha 82/168.jpg"
+  },
+  {
+    "numero": "169",
+    "nome": "Peter Shilton",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/169.jpg"
+  },
+  {
+    "numero": "170",
+    "nome": "Anderson",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/170.jpg"
+  },
+  {
+    "numero": "171",
+    "nome": "Phil Neal",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/171.jpg"
+  },
+  {
+    "numero": "172",
+    "nome": "Phil Thompson",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/172.jpg"
+  },
+  {
+    "numero": "173",
+    "nome": "Mick Mills",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/173.jpg"
+  },
+  {
+    "numero": "174",
+    "nome": "Steve Coppell",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/174.jpg"
+  },
+  {
+    "numero": "175",
+    "nome": "Terry McDermott",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/175.jpg"
+  },
+  {
+    "numero": "176",
+    "nome": "Bryan Robson",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/176.jpg"
+  },
+  {
+    "numero": "177",
+    "nome": "Kevin Keegan",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/177.jpg"
+  },
+  {
+    "numero": "178",
+    "nome": "Tony Woodcock",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/178.jpg"
+  },
+  {
+    "numero": "179",
+    "nome": "Paul Mariner",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/179.jpg"
+  },
+  {
+    "numero": "180",
+    "nome": "Flag - Inglaterra",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/180.jpg"
+  },
+  {
+    "numero": "181",
+    "nome": "Pat Jennings",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/181.jpg"
+  },
+  {
+    "numero": "182",
+    "nome": "Jimmy Nicholl",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/182.jpg"
+  },
+  {
+    "numero": "183",
+    "nome": "Chris Nicholl",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/183.jpg"
+  },
+  {
+    "numero": "184",
+    "nome": "J. O'Neill",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/184.jpg"
+  },
+  {
+    "numero": "185",
+    "nome": "Mal Donaghy",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/185.jpg"
+  },
+  {
+    "numero": "186",
+    "nome": "Martin O'Neill",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/186.jpg"
+  },
+  {
+    "numero": "187",
+    "nome": "Cassidy",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/187.jpg"
+  },
+  {
+    "numero": "188",
+    "nome": "Sammy McIlroy",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/188.jpg"
+  },
+  {
+    "numero": "189",
+    "nome": "Noel Brotherston",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/189.jpg"
+  },
+  {
+    "numero": "190",
+    "nome": "Gerry Armstrong",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/190.jpg"
+  },
+  {
+    "numero": "191",
+    "nome": "Hamilton",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/191.jpg"
+  },
+  {
+    "numero": "192",
+    "nome": "Flag - Irlanda do Norte",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/192.jpg"
+  },
+  {
+    "numero": "193",
+    "nome": "Zoff",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/193.jpg"
+  },
+  {
+    "numero": "194",
+    "nome": "Gentile",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/194.jpg"
+  },
+  {
+    "numero": "195",
+    "nome": "Cabrini",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/195.jpg"
+  },
+  {
+    "numero": "196",
+    "nome": "Altobelli",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/196.jpg"
+  },
+  {
+    "numero": "197",
+    "nome": "Collovati",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/197.jpg"
+  },
+  {
+    "numero": "198",
+    "nome": "Scirea",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/198.jpg"
+  },
+  {
+    "numero": "199",
+    "nome": "Conti",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/199.jpg"
+  },
+  {
+    "numero": "200",
+    "nome": "Dossena",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/200.jpg"
+  },
+  {
+    "numero": "201",
+    "nome": "Tardelli",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/201.jpg"
+  },
+  {
+    "numero": "202",
+    "nome": "Antognoni",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/202.jpg"
+  },
+  {
+    "numero": "203",
+    "nome": "Bettega",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/203.jpg"
+  },
+  {
+    "numero": "204",
+    "nome": "Flag - Itália",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/204.jpg"
+  },
+  {
+    "numero": "205",
+    "nome": "Pantelic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/205.jpg"
+  },
+  {
+    "numero": "206",
+    "nome": "Buljan",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/206.jpg"
+  },
+  {
+    "numero": "207",
+    "nome": "Stojkovic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/207.jpg"
+  },
+  {
+    "numero": "208",
+    "nome": "Zajec",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/208.jpg"
+  },
+  {
+    "numero": "209",
+    "nome": "Gudelj",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/209.jpg"
+  },
+  {
+    "numero": "210",
+    "nome": "Slijvo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/210.jpg"
+  },
+  {
+    "numero": "211",
+    "nome": "Vujovic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/211.jpg"
+  },
+  {
+    "numero": "212",
+    "nome": "Petrovic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/212.jpg"
+  },
+  {
+    "numero": "213",
+    "nome": "Halilhodzic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/213.jpg"
+  },
+  {
+    "numero": "214",
+    "nome": "Surjak",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/214.jpg"
+  },
+  {
+    "numero": "215",
+    "nome": "Pasic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/215.jpg"
+  },
+  {
+    "numero": "216",
+    "nome": "Flag - Jugoslávia",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/216.jpg"
+  },
+  {
+    "numero": "217",
+    "nome": "Al-Tarabulsi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/217.jpg"
+  },
+  {
+    "numero": "218",
+    "nome": "Saad",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/218.jpg"
+  },
+  {
+    "numero": "219",
+    "nome": "Abdullah Maayuf",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/219.jpg"
+  },
+  {
+    "numero": "220",
+    "nome": "Jomah",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/220.jpg"
+  },
+  {
+    "numero": "221",
+    "nome": "Karam",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/221.jpg"
+  },
+  {
+    "numero": "222",
+    "nome": "Al-Buloushi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/222.jpg"
+  },
+  {
+    "numero": "223",
+    "nome": "Al-Houti",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/223.jpg"
+  },
+  {
+    "numero": "224",
+    "nome": "Fathi Kameel",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/224.jpg"
+  },
+  {
+    "numero": "225",
+    "nome": "Yaqoub",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/225.jpg"
+  },
+  {
+    "numero": "226",
+    "nome": "Al-Dakheel",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/226.jpg"
+  },
+  {
+    "numero": "227",
+    "nome": "Al-Anbari",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/227.jpg"
+  },
+  {
+    "numero": "228",
+    "nome": "Flag - Kuwait",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/228.jpg"
+  },
+  {
+    "numero": "229",
+    "nome": "Wilson",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/229.jpg"
+  },
+  {
+    "numero": "230",
+    "nome": "Dods",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/230.jpg"
+  },
+  {
+    "numero": "231",
+    "nome": "Herbert",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/231.jpg"
+  },
+  {
+    "numero": "232",
+    "nome": "Almond",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/232.jpg"
+  },
+  {
+    "numero": "233",
+    "nome": "Elrick",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/233.jpg"
+  },
+  {
+    "numero": "234",
+    "nome": "Mackay",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/234.jpg"
+  },
+  {
+    "numero": "235",
+    "nome": "Sumner",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/235.jpg"
+  },
+  {
+    "numero": "236",
+    "nome": "Duncan Cole",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/236.jpg"
+  },
+  {
+    "numero": "237",
+    "nome": "Brian Turner",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/237.jpg"
+  },
+  {
+    "numero": "238",
+    "nome": "Woodin",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/238.jpg"
+  },
+  {
+    "numero": "239",
+    "nome": "Turner",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/239.jpg"
+  },
+  {
+    "numero": "240",
+    "nome": "Flag - Nova Zelandia",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/240.jpg"
+  },
+  {
+    "numero": "241",
+    "nome": "Quiroga",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/241.jpg"
+  },
+  {
+    "numero": "242",
+    "nome": "Duarte",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/242.jpg"
+  },
+  {
+    "numero": "243",
+    "nome": "Velasquez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/243.jpg"
+  },
+  {
+    "numero": "244",
+    "nome": "Diaz",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/244.jpg"
+  },
+  {
+    "numero": "245",
+    "nome": "Rojas",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/245.jpg"
+  },
+  {
+    "numero": "246",
+    "nome": "Cueto",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/246.jpg"
+  },
+  {
+    "numero": "247",
+    "nome": "Uribe",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/247.jpg"
+  },
+  {
+    "numero": "248",
+    "nome": "Cubillas",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/248.jpg"
+  },
+  {
+    "numero": "249",
+    "nome": "Barbadillo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/249.jpg"
+  },
+  {
+    "numero": "250",
+    "nome": "La Rosa",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/250.jpg"
+  },
+  {
+    "numero": "251",
+    "nome": "Oblitas",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/251.jpg"
+  },
+  {
+    "numero": "252",
+    "nome": "Flag - Perú",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/252.jpg"
+  },
+  {
+    "numero": "253",
+    "nome": "Mowlik",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/253.jpg"
+  },
+  {
+    "numero": "254",
+    "nome": "Dziuba",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/254.jpg"
+  },
+  {
+    "numero": "255",
+    "nome": "Zmuda",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/255.jpg"
+  },
+  {
+    "numero": "256",
+    "nome": "Jalocha",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/256.jpg"
+  },
+  {
+    "numero": "257",
+    "nome": "Janas",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/257.jpg"
+  },
+  {
+    "numero": "258",
+    "nome": "Matysik",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/258.jpg"
+  },
+  {
+    "numero": "259",
+    "nome": "Lato",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/259.jpg"
+  },
+  {
+    "numero": "260",
+    "nome": "Iwan",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/260.jpg"
+  },
+  {
+    "numero": "261",
+    "nome": "Boniek",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/261.jpg"
+  },
+  {
+    "numero": "262",
+    "nome": "Smolarck",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/262.jpg"
+  },
+  {
+    "numero": "263",
+    "nome": "Szarmach",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/263.jpg"
+  },
+  {
+    "numero": "264",
+    "nome": "Flag - Polonia",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/264.jpg"
+  },
+  {
+    "numero": "265",
+    "nome": "Mora",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/265.jpg"
+  },
+  {
+    "numero": "266",
+    "nome": "Jovel",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/266.jpg"
+  },
+  {
+    "numero": "267",
+    "nome": "Osorto",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/267.jpg"
+  },
+  {
+    "numero": "268",
+    "nome": "Carlos Recino",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/268.jpg"
+  },
+  {
+    "numero": "269",
+    "nome": "Diaz",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/269.jpg"
+  },
+  {
+    "numero": "270",
+    "nome": "Guerrero",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/270.jpg"
+  },
+  {
+    "numero": "271",
+    "nome": "Huezo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/271.jpg"
+  },
+  {
+    "numero": "272",
+    "nome": "Alfaro",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/272.jpg"
+  },
+  {
+    "numero": "273",
+    "nome": "Jorge Gonzalez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/273.jpg"
+  },
+  {
+    "numero": "274",
+    "nome": "Miguel Gonzalez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/274.jpg"
+  },
+  {
+    "numero": "275",
+    "nome": "Alberto",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/275.jpg"
+  },
+  {
+    "numero": "276",
+    "nome": "Flag - El Salvador",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/276.jpg"
+  },
+  {
+    "numero": "277",
+    "nome": "Dasaev",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/277.jpg"
+  },
+  {
+    "numero": "278",
+    "nome": "Sulakvelidze",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/278.jpg"
+  },
+  {
+    "numero": "279",
+    "nome": "Civadze",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/279.jpg"
+  },
+  {
+    "numero": "280",
+    "nome": "Susloparov",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/280.jpg"
+  },
+  {
+    "numero": "281",
+    "nome": "Kostawa",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/281.jpg"
+  },
+  {
+    "numero": "282",
+    "nome": "Vitalij Darasselia",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/282.jpg"
+  },
+  {
+    "numero": "283",
+    "nome": "Kipiani",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/283.jpg"
+  },
+  {
+    "numero": "284",
+    "nome": "Oganesyan",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/284.jpg"
+  },
+  {
+    "numero": "285",
+    "nome": "Gutsaiev",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/285.jpg"
+  },
+  {
+    "numero": "286",
+    "nome": "Scenghelija",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/286.jpg"
+  },
+  {
+    "numero": "287",
+    "nome": "Oleg Blochin",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/287.jpg"
+  },
+  {
+    "numero": "288",
+    "nome": "Flag - U.S.S.R",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/Mundial Espanha 82/288.jpg"
   }
 ]
