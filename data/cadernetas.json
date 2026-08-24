@@ -510,5 +510,13 @@
     "ano": 2008,
     "totalCromos": 568,
     "capa": "images/capas/Euro 2008.jpg"
+  },
+  {
+    "id": "Euro 2024",
+    "nome": "Euro 2024",
+    "editora": "Topps",
+    "ano": 2024,
+    "totalCromos": 578,
+    "capa": "images/capas/Euro 2024.jpg"
   }
 ]
