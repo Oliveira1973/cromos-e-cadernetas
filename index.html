@@ -619,11 +619,17 @@ function renderCromosGrid(cromos){
         ${cr.especial ? '<div class="star">★</div>' : ''}
       `;
       const img = el.querySelector('img');
-      const aplicarOrientacao = () => {
-        if(img.naturalWidth > img.naturalHeight) el.classList.add('paisagem');
-      };
-      if(img.complete && img.naturalWidth) aplicarOrientacao();
-      else img.addEventListener('load', aplicarOrientacao);
+      // se o JSON indicar explicitamente a orientação (campo "orientacao"),
+      // usa-a de imediato -- mais fiável do que esperar pela deteção automática
+      if(cr.orientacao === 'paisagem'){
+        el.classList.add('paisagem');
+      } else if(cr.orientacao !== 'retrato'){
+        const aplicarOrientacao = () => {
+          if(img.naturalWidth > img.naturalHeight) el.classList.add('paisagem');
+        };
+        if(img.complete && img.naturalWidth) aplicarOrientacao();
+        else img.addEventListener('load', aplicarOrientacao);
+      }
 
       el.addEventListener('click', ()=> abrirLightbox(cr));
     } else {
