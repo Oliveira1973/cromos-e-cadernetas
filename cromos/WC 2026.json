@@ -1,0 +1,6946 @@
+[
+  {
+    "numero": "1",
+    "nome": "0\Panini Logo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/1.jpg"
+  },
+  {
+    "numero": "2",
+    "nome": "FWC1\Official Emblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/2.jpg"
+  },
+  {
+    "numero": "3",
+    "nome": "FWC2\Official Emblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/3.jpg"
+  },
+  {
+    "numero": "4",
+    "nome": "FWC3\Official Mascots",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/4.jpg"
+  },
+  {
+    "numero": "5",
+    "nome": "FWC4\Official Slogan",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/5.jpg"
+  },
+  {
+    "numero": "6",
+    "nome": "FWC5\Official Ball",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/6.jpg"
+  },
+  {
+    "numero": "7",
+    "nome": "FWC6\Canada",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/7.jpg"
+  },
+  {
+    "numero": "8",
+    "nome": "FWC7\tMexico",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/8.jpg"
+  },
+  {
+    "numero": "9",
+    "nome": "FWC8\tUSA",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/9.jpg"
+  },
+  {
+    "numero": "10",
+    "nome": "MEX1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/10.jpg"
+  },
+  {
+    "numero": "11",
+    "nome": "MEX2\tLuis Malagón",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/11.jpg"
+  },
+  {
+    "numero": "12",
+    "nome": "MEX3\tJohan Vasquez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/12.jpg"
+  },
+  {
+    "numero": "13",
+    "nome": "MEX4\tJorge Sánchez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/13.jpg"
+  },
+  {
+    "numero": "14",
+    "nome": "MEX5\tCesar Montes",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/14.jpg"
+  },
+  {
+    "numero": "15",
+    "nome": "MEX6\tJesus Gallardo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/15.jpg"
+  },
+  {
+    "numero": "16",
+    "nome": "MEX7\tIsrael Reyes",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/16.jpg"
+  },
+  {
+    "numero": "17",
+    "nome": "MEX8\tDiego Lainez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/17.jpg"
+  },
+  {
+    "numero": "18",
+    "nome": "MEX9\tCarlos Rodriguez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/18.jpg"
+  },
+  {
+    "numero": "19",
+    "nome": "MEX10\tEdson Alvarez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/19.jpg"
+  },
+  {
+    "numero": "20",
+    "nome": "MEX11\tOrbelin Pineda",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/20.jpg"
+  },
+  {
+    "numero": "21",
+    "nome": "MEX12\tMarcel Ruiz",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/21.jpg"
+  },
+  {
+    "numero": "22",
+    "nome": "MEX13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/22.jpg"
+  },
+  {
+    "numero": "23",
+    "nome": "MEX14\tÉrick Sánchez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/23.jpg"
+  },
+  {
+    "numero": "24",
+    "nome": "MEX15\tHirving Lozano",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/24.jpg"
+  },
+  {
+    "numero": "25",
+    "nome": "MEX16\tSantiago Giménez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/25.jpg"
+  },
+  {
+    "numero": "26",
+    "nome": "MEX17\tRaúl Jiménez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/26.jpg"
+  },
+  {
+    "numero": "27",
+    "nome": "MEX18\tAlexis Vega",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/27.jpg"
+  },
+  {
+    "numero": "28",
+    "nome": "MEX19\tRoberto Alvarado",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/28.jpg"
+  },
+  {
+    "numero": "29",
+    "nome": "MEX20\tCesar Huerta",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/29.jpg"
+  },
+  {
+    "numero": "30",
+    "nome": "RSA1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/30.jpg"
+  },
+  {
+    "numero": "31",
+    "nome": "RSA2\tRonwen Williams",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/31.jpg"
+  },
+  {
+    "numero": "32",
+    "nome": "RSA3\tSipho Chaine",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/32.jpg"
+  },
+  {
+    "numero": "33",
+    "nome": "RSA4\tAubrey Modiba",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/33.jpg"
+  },
+  {
+    "numero": "34",
+    "nome": "RSA5\tSamukele Kabini",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/34.jpg"
+  },
+  {
+    "numero": "35",
+    "nome": "RSA6\tMbekezeli Mbokazi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/35.jpg"
+  },
+  {
+    "numero": "36",
+    "nome": "RSA7\tKhulumani Ndamane",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/36.jpg"
+  },
+  {
+    "numero": "37",
+    "nome": "RSA8\tSiyabonga Ngezana",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/37.jpg"
+  },
+  {
+    "numero": "38",
+    "nome": "RSA9\tKhuliso Mudau",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/38.jpg"
+  },
+  {
+    "numero": "39",
+    "nome": "RSA10\tNkosinathi Sibisi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/39.jpg"
+  },
+  {
+    "numero": "40",
+    "nome": "RSA11\tTeboho Mokoena",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/40.jpg"
+  },
+  {
+    "numero": "41",
+    "nome": "RSA12\tThalente Mbatha",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/41.jpg"
+  },
+  {
+    "numero": "42",
+    "nome": "RSA13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/42.jpg"
+  },
+  {
+    "numero": "43",
+    "nome": "RSA14\tBathusi Aubaas",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/43.jpg"
+  },
+  {
+    "numero": "44",
+    "nome": "RSA15\tYaya Sithole",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/44.jpg"
+  },
+  {
+    "numero": "45",
+    "nome": "RSA16\tSipho Mbule",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/45.jpg"
+  },
+  {
+    "numero": "46",
+    "nome": "RSA17\tLyle Foster",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/46.jpg"
+  },
+  {
+    "numero": "47",
+    "nome": "RSA18\tIqraam Rayners",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/47.jpg"
+  },
+  {
+    "numero": "48",
+    "nome": "RSA19\tMohau Nkota",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/48.jpg"
+  },
+  {
+    "numero": "49",
+    "nome": "RSA20\tOswin Appollis",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/49.jpg"
+  },
+  {
+    "numero": "50",
+    "nome": "KOR1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/50.jpg"
+  },
+  {
+    "numero": "51",
+    "nome": "KOR2\tHyeon-woo Jo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/51.jpg"
+  },
+  {
+    "numero": "52",
+    "nome": "KOR3\tSeung-Gyu Kim",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/52.jpg"
+  },
+  {
+    "numero": "53",
+    "nome": "KOR4\tMin-jae Kim",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/53.jpg"
+  },
+  {
+    "numero": "54",
+    "nome": "KOR5\tYu-min Cho",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/54.jpg"
+  },
+  {
+    "numero": "55",
+    "nome": "KOR6\tYoung-woo Seol",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/55.jpg"
+  },
+  {
+    "numero": "56",
+    "nome": "KOR7\tHan-beom Lee",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/56.jpg"
+  },
+  {
+    "numero": "57",
+    "nome": "KOR8\tTae-seok Lee",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/57.jpg"
+  },
+  {
+    "numero": "58",
+    "nome": "KOR9\tMyung-jae Lee",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/58.jpg"
+  },
+  {
+    "numero": "59",
+    "nome": "KOR10\tJae-sung Lee",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/59.jpg"
+  },
+  {
+    "numero": "60",
+    "nome": "KOR11\tIn-beom Hwang",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/60.jpg"
+  },
+  {
+    "numero": "61",
+    "nome": "KOR12\tKang-in Lee",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/61.jpg"
+  },
+  {
+    "numero": "62",
+    "nome": "KOR13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/62.jpg"
+  },
+  {
+    "numero": "63",
+    "nome": "KOR14\tSeung-ho Paik",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/63.jpg"
+  },
+  {
+    "numero": "64",
+    "nome": "KOR15\tJens Castrop",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/64.jpg"
+  },
+  {
+    "numero": "65",
+    "nome": "KOR16\tDongg-yeong Lee",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/65.jpg"
+  },
+  {
+    "numero": "66",
+    "nome": "KOR17\tGue-sung Cho",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/66.jpg"
+  },
+  {
+    "numero": "67",
+    "nome": "KOR18\tHeung-min Son",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/67.jpg"
+  },
+  {
+    "numero": "68",
+    "nome": "KOR19\tHee-chan Hwang",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/68.jpg"
+  },
+  {
+    "numero": "69",
+    "nome": "KOR20\tHyeon-Gyu Oh",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/69.jpg"
+  },
+  {
+    "numero": "70",
+    "nome": "CZE1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/70.jpg"
+  },
+  {
+    "numero": "71",
+    "nome": "CZE2\tMatej Kovar",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/71.jpg"
+  },
+  {
+    "numero": "72",
+    "nome": "CZE3\tJindrich Stanek",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/72.jpg"
+  },
+  {
+    "numero": "73",
+    "nome": "CZE4\tLadislav Krejci",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/73.jpg"
+  },
+  {
+    "numero": "74",
+    "nome": "CZE5\tVladimir Coufal",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/74.jpg"
+  },
+  {
+    "numero": "75",
+    "nome": "CZE6\tJaroslav Zeleny",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/75.jpg"
+  },
+  {
+    "numero": "76",
+    "nome": "CZE7\tTomas Holes",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/76.jpg"
+  },
+  {
+    "numero": "77",
+    "nome": "CZE8\tDavid Zima",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/77.jpg"
+  },
+  {
+    "numero": "78",
+    "nome": "CZE9\tMichal Sadilek",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/78.jpg"
+  },
+  {
+    "numero": "79",
+    "nome": "CZE10\tLukas Provod",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/79.jpg"
+  },
+  {
+    "numero": "80",
+    "nome": "CZE11\tLukas Cerv",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/80.jpg"
+  },
+  {
+    "numero": "81",
+    "nome": "CZE12\tTomas Soucek",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/81.jpg"
+  },
+  {
+    "numero": "82",
+    "nome": "CZE13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/82.jpg"
+  },
+  {
+    "numero": "83",
+    "nome": "CZE14\tPavel Sulc",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/83.jpg"
+  },
+  {
+    "numero": "84",
+    "nome": "CZE15\tMatej Vydra",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/84.jpg"
+  },
+  {
+    "numero": "85",
+    "nome": "CZE16\tVasil Kusej",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/85.jpg"
+  },
+  {
+    "numero": "86",
+    "nome": "CZE17\tTomas Chory",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/86.jpg"
+  },
+  {
+    "numero": "87",
+    "nome": "CZE18\tVaclav Cerny",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/87.jpg"
+  },
+  {
+    "numero": "88",
+    "nome": "CZE19\tAdam Hlozek",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/88.jpg"
+  },
+  {
+    "numero": "89",
+    "nome": "CZE20\tPatrik Schick",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/89.jpg"
+  },
+  {
+    "numero": "90",
+    "nome": "CAN1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/90.jpg"
+  },
+  {
+    "numero": "91",
+    "nome": "CAN2\tDayne St.Clair",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/91.jpg"
+  },
+  {
+    "numero": "92",
+    "nome": "CAN3\tAlphonso Davies",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/92.jpg"
+  },
+  {
+    "numero": "93",
+    "nome": "CAN4\tAlistair Johnston",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/93.jpg"
+  },
+  {
+    "numero": "94",
+    "nome": "CAN5\tSamuel Adekugbe",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/94.jpg"
+  },
+  {
+    "numero": "95",
+    "nome": "CAN6\tRichie Laryea",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/95.jpg"
+  },
+  {
+    "numero": "96",
+    "nome": "CAN7\tDerek Cornelius",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/96.jpg"
+  },
+  {
+    "numero": "97",
+    "nome": "CAN8\tMoïse Bombito",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/97.jpg"
+  },
+  {
+    "numero": "98",
+    "nome": "CAN9\tKamal Miller",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/98.jpg"
+  },
+  {
+    "numero": "99",
+    "nome": "CAN10\tStephen Eustáquio",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/99.jpg"
+  },
+  {
+    "numero": "100",
+    "nome": "CAN11\tIsmaël Koné",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/100.jpg"
+  },
+  {
+    "numero": "101",
+    "nome": "CAN12\tJonathan Osorio",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/101.jpg"
+  },
+  {
+    "numero": "102",
+    "nome": "CAN13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/102.jpg"
+  },
+  {
+    "numero": "103",
+    "nome": "CAN14\tJacob Shaffelburg",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/103.jpg"
+  },
+  {
+    "numero": "104",
+    "nome": "CAN15\tMathieu Choinière",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/104.jpg"
+  },
+  {
+    "numero": "105",
+    "nome": "CAN16\tNiko Sigur",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/105.jpg"
+  },
+  {
+    "numero": "106",
+    "nome": "CAN17\tTajon Buchanan",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/106.jpg"
+  },
+  {
+    "numero": "107",
+    "nome": "CAN18\tLiam Millar",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/107.jpg"
+  },
+  {
+    "numero": "108",
+    "nome": "CAN19\tCyle Larin",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/108.jpg"
+  },
+  {
+    "numero": "109",
+    "nome": "CAN20\tJonathan David",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/109.jpg"
+  },
+  {
+    "numero": "110",
+    "nome": "BIH1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/110.jpg"
+  },
+  {
+    "numero": "111",
+    "nome": "BIH2\tNikola Vasilj",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/111.jpg"
+  },
+  {
+    "numero": "112",
+    "nome": "BIH3\tAmer Dedic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/112.jpg"
+  },
+  {
+    "numero": "113",
+    "nome": "BIH4\tSead Kolasinac",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/113.jpg"
+  },
+  {
+    "numero": "114",
+    "nome": "BIH5\tTarik Muharemovic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/114.jpg"
+  },
+  {
+    "numero": "115",
+    "nome": "BIH6\tNihad Mujakic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/115.jpg"
+  },
+  {
+    "numero": "116",
+    "nome": "BIH7\tNikola Katic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/116.jpg"
+  },
+  {
+    "numero": "117",
+    "nome": "BIH8\tAmir Hadziahmetovic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/117.jpg"
+  },
+  {
+    "numero": "118",
+    "nome": "BIH9\tBenjamin Tahirovic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/118.jpg"
+  },
+  {
+    "numero": "119",
+    "nome": "BIH10\tArmin Gigovic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/119.jpg"
+  },
+  {
+    "numero": "120",
+    "nome": "BIH11\tIvan Sunjic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/120.jpg"
+  },
+  {
+    "numero": "121",
+    "nome": "BIH12\tIvan Basic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/121.jpg"
+  },
+  {
+    "numero": "122",
+    "nome": "BIH13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/122.jpg"
+  },
+  {
+    "numero": "123",
+    "nome": "BIH14\tDzenis Burnic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/123.jpg"
+  },
+  {
+    "numero": "124",
+    "nome": "BIH15\tEsmir Bajraktarevic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/124.jpg"
+  },
+  {
+    "numero": "125",
+    "nome": "BIH16\tAmar Memic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/125.jpg"
+  },
+  {
+    "numero": "126",
+    "nome": "BIH17\tErmedin Demirovic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/126.jpg"
+  },
+  {
+    "numero": "127",
+    "nome": "BIH18\tEdin Dzeko",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/127.jpg"
+  },
+  {
+    "numero": "128",
+    "nome": "BIH19\tSamed Bazdar",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/128.jpg"
+  },
+  {
+    "numero": "129",
+    "nome": "BIH20\tHaris Tabakovic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/129.jpg"
+  },
+  {
+    "numero": "130",
+    "nome": "QAT1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/130.jpg"
+  },
+  {
+    "numero": "131",
+    "nome": "QAT2\tMeshaal Barsham",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/131.jpg"
+  },
+  {
+    "numero": "132",
+    "nome": "QAT3\tSultan Albrake",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/132.jpg"
+  },
+  {
+    "numero": "133",
+    "nome": "QAT4\tLucas Mendes",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/133.jpg"
+  },
+  {
+    "numero": "134",
+    "nome": "QAT5\tHomam Ahmed",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/134.jpg"
+  },
+  {
+    "numero": "135",
+    "nome": "QAT6\tBoualem Khoukhi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/135.jpg"
+  },
+  {
+    "numero": "136",
+    "nome": "QAT7\tPedro Miguel",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/136.jpg"
+  },
+  {
+    "numero": "137",
+    "nome": "QAT8\tTarek Salman",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/137.jpg"
+  },
+  {
+    "numero": "138",
+    "nome": "QAT9\tMohamed Al-Mannai",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/138.jpg"
+  },
+  {
+    "numero": "139",
+    "nome": "QAT10\tKarim Boudiaf",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/139.jpg"
+  },
+  {
+    "numero": "140",
+    "nome": "QAT11\tAssim Madibo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/140.jpg"
+  },
+  {
+    "numero": "141",
+    "nome": "QAT12\tAhmed Fatehi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/141.jpg"
+  },
+  {
+    "numero": "142",
+    "nome": "QAT13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/142.jpg"
+  },
+  {
+    "numero": "143",
+    "nome": "QAT14\tMohammed Waad",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/143.jpg"
+  },
+  {
+    "numero": "144",
+    "nome": "QAT15\tAbdulaziz Hatem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/144.jpg"
+  },
+  {
+    "numero": "145",
+    "nome": "QAT16\tHassan Al-Haydos",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/145.jpg"
+  },
+  {
+    "numero": "146",
+    "nome": "QAT17\tEdmilson Junior",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/146.jpg"
+  },
+  {
+    "numero": "147",
+    "nome": "QAT18\tAkram Hassan Afif",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/147.jpg"
+  },
+  {
+    "numero": "148",
+    "nome": "QAT19\tAhmed Al Ganehi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/148.jpg"
+  },
+  {
+    "numero": "149",
+    "nome": "QAT20\tAlmoez Ali",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/149.jpg"
+  },
+  {
+    "numero": "150",
+    "nome": "SUI1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/150.jpg"
+  },
+  {
+    "numero": "151",
+    "nome": "SUI2\tGregor Kobel",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/151.jpg"
+  },
+  {
+    "numero": "152",
+    "nome": "SUI3\tYvon Mvogo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/152.jpg"
+  },
+  {
+    "numero": "153",
+    "nome": "SUI4\tManuel Akanji",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/153.jpg"
+  },
+  {
+    "numero": "154",
+    "nome": "SUI5\tRicardo Rodriguez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/154.jpg"
+  },
+  {
+    "numero": "155",
+    "nome": "SUI6\tNico Elvedi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/155.jpg"
+  },
+  {
+    "numero": "156",
+    "nome": "SUI7\tAurèle Amenda",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/156.jpg"
+  },
+  {
+    "numero": "157",
+    "nome": "SUI8\tSilvan Widmer",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/157.jpg"
+  },
+  {
+    "numero": "158",
+    "nome": "SUI9\tGranit Xhaka",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/158.jpg"
+  },
+  {
+    "numero": "159",
+    "nome": "SUI10\tDenis Zakaria",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/159.jpg"
+  },
+  {
+    "numero": "160",
+    "nome": "SUI11\tRemo Freuler",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/160.jpg"
+  },
+  {
+    "numero": "161",
+    "nome": "SUI12\tFabian Rieder",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/161.jpg"
+  },
+  {
+    "numero": "162",
+    "nome": "SUI13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/162.jpg"
+  },
+  {
+    "numero": "163",
+    "nome": "SUI14\tArdon Jashari",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/163.jpg"
+  },
+  {
+    "numero": "164",
+    "nome": "SUI15\tJohan Manzambi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/164.jpg"
+  },
+  {
+    "numero": "165",
+    "nome": "SUI16\tMichel Aebischer",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/165.jpg"
+  },
+  {
+    "numero": "166",
+    "nome": "SUI17\tBreel Embolo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/166.jpg"
+  },
+  {
+    "numero": "167",
+    "nome": "SUI18\tRuben Vargas",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/167.jpg"
+  },
+  {
+    "numero": "168",
+    "nome": "SUI19\tDan Ndoye",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/168.jpg"
+  },
+  {
+    "numero": "169",
+    "nome": "SUI20\tZeki Amdouni",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/169.jpg"
+  },
+  {
+    "numero": "170",
+    "nome": "BRA1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/170.jpg"
+  },
+  {
+    "numero": "171",
+    "nome": "BRA2\tAlisson",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/171.jpg"
+  },
+  {
+    "numero": "172",
+    "nome": "BRA3\tBento",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/172.jpg"
+  },
+  {
+    "numero": "173",
+    "nome": "BRA4\tMarquinhos",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/173.jpg"
+  },
+  {
+    "numero": "174",
+    "nome": "BRA5\tÉder Militão",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/174.jpg"
+  },
+  {
+    "numero": "175",
+    "nome": "BRA6\tGabriel Magalhães",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/175.jpg"
+  },
+  {
+    "numero": "176",
+    "nome": "BRA7\tDanilo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/176.jpg"
+  },
+  {
+    "numero": "177",
+    "nome": "BRA8\tWesley",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/177.jpg"
+  },
+  {
+    "numero": "178",
+    "nome": "BRA9\tLucas Paquetá",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/178.jpg"
+  },
+  {
+    "numero": "179",
+    "nome": "BRA10\tCasemiro",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/179.jpg"
+  },
+  {
+    "numero": "180",
+    "nome": "BRA11\tBruno Guimarães",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/180.jpg"
+  },
+  {
+    "numero": "181",
+    "nome": "BRA12\tLuiz Henrique",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/181.jpg"
+  },
+  {
+    "numero": "182",
+    "nome": "BRA13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/182.jpg"
+  },
+  {
+    "numero": "183",
+    "nome": "BRA14\tVinicius Júnior",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/183.jpg"
+  },
+  {
+    "numero": "184",
+    "nome": "BRA15\tRodrygo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/184.jpg"
+  },
+  {
+    "numero": "185",
+    "nome": "BRA16\tJoão Pedro",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/185.jpg"
+  },
+  {
+    "numero": "186",
+    "nome": "BRA17\tMatheus Cunha",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/186.jpg"
+  },
+  {
+    "numero": "187",
+    "nome": "BRA18\tGabriel Martinelli",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/187.jpg"
+  },
+  {
+    "numero": "188",
+    "nome": "BRA19\tRaphinha",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/188.jpg"
+  },
+  {
+    "numero": "189",
+    "nome": "BRA20\tEstévão",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/189.jpg"
+  },
+  {
+    "numero": "190",
+    "nome": "MAR1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/190.jpg"
+  },
+  {
+    "numero": "191",
+    "nome": "MAR2\tYassine Bounou",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/191.jpg"
+  },
+  {
+    "numero": "192",
+    "nome": "MAR3\tMunir El Kajoui",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/192.jpg"
+  },
+  {
+    "numero": "193",
+    "nome": "MAR4\tAchraf Hakimi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/193.jpg"
+  },
+  {
+    "numero": "194",
+    "nome": "MAR5\tNoussair Mazraoui",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/194.jpg"
+  },
+  {
+    "numero": "195",
+    "nome": "MAR6\tNayef Aguerd",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/195.jpg"
+  },
+  {
+    "numero": "196",
+    "nome": "MAR7\tRomain Saïss",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/196.jpg"
+  },
+  {
+    "numero": "197",
+    "nome": "MAR8\tJawad El Yamiq",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/197.jpg"
+  },
+  {
+    "numero": "198",
+    "nome": "MAR9\tAdam Masina",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/198.jpg"
+  },
+  {
+    "numero": "199",
+    "nome": "MAR10\tSofyan Amrabat",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/199.jpg"
+  },
+  {
+    "numero": "200",
+    "nome": "MAR11\tAzzedine Ounahi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/200.jpg"
+  },
+  {
+    "numero": "201",
+    "nome": "MAR12\tEliesse Ben Seghir",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/201.jpg"
+  },
+  {
+    "numero": "202",
+    "nome": "MAR13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/202.jpg"
+  },
+  {
+    "numero": "203",
+    "nome": "MAR14\tBilal El Khannouss",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/203.jpg"
+  },
+  {
+    "numero": "204",
+    "nome": "MAR15\tIsmael Saibari",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/204.jpg"
+  },
+  {
+    "numero": "205",
+    "nome": "MAR16\tYoussef En-Nesyri",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/205.jpg"
+  },
+  {
+    "numero": "206",
+    "nome": "MAR17\tAbde Ezzalzouli",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/206.jpg"
+  },
+  {
+    "numero": "207",
+    "nome": "MAR18\tSoufiane Rahimi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/207.jpg"
+  },
+  {
+    "numero": "208",
+    "nome": "MAR19\tBrahim Diaz",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/208.jpg"
+  },
+  {
+    "numero": "209",
+    "nome": "MAR20\tAyoub El Kaabi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/209.jpg"
+  },
+  {
+    "numero": "210",
+    "nome": "HAI1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/210.jpg"
+  },
+  {
+    "numero": "211",
+    "nome": "HAI2\tJohny Placide",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/211.jpg"
+  },
+  {
+    "numero": "212",
+    "nome": "HAI3\tCarlens Arcus",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/212.jpg"
+  },
+  {
+    "numero": "213",
+    "nome": "HAI4\tMartin Expérience",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/213.jpg"
+  },
+  {
+    "numero": "214",
+    "nome": "HAI5\tJean-Kevin Duverne",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/214.jpg"
+  },
+  {
+    "numero": "215",
+    "nome": "HAI6\tRicardo Adé",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/215.jpg"
+  },
+  {
+    "numero": "216",
+    "nome": "HAI7\tDuke Lacroix",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/216.jpg"
+  },
+  {
+    "numero": "217",
+    "nome": "HAI8\tGarven Metusala",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/217.jpg"
+  },
+  {
+    "numero": "218",
+    "nome": "HAI9\tHannes Delcroix",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/218.jpg"
+  },
+  {
+    "numero": "219",
+    "nome": "HAI10\tLeverton Pierre",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/219.jpg"
+  },
+  {
+    "numero": "220",
+    "nome": "HAI11\tDanley Jean Jacques",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/220.jpg"
+  },
+  {
+    "numero": "221",
+    "nome": "HAI12\tJean-Ricner Bellegarde",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/221.jpg"
+  },
+  {
+    "numero": "222",
+    "nome": "HAI13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/222.jpg"
+  },
+  {
+    "numero": "223",
+    "nome": "HAI14\tChristopher Attys",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/223.jpg"
+  },
+  {
+    "numero": "224",
+    "nome": "HAI15\tDerrick Etienne Jr",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/224.jpg"
+  },
+  {
+    "numero": "225",
+    "nome": "HAI16\tJosue Casimir",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/225.jpg"
+  },
+  {
+    "numero": "226",
+    "nome": "HAI17\tRuben Providence",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/226.jpg"
+  },
+  {
+    "numero": "227",
+    "nome": "HAI18\tDuckens Nazon",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/227.jpg"
+  },
+  {
+    "numero": "228",
+    "nome": "HAI19\tLouicius Deedson",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/228.jpg"
+  },
+  {
+    "numero": "229",
+    "nome": "HAI20\tFrantzdy Pierrot",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/229.jpg"
+  },
+  {
+    "numero": "230",
+    "nome": "SCO1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/230.jpg"
+  },
+  {
+    "numero": "231",
+    "nome": "SCO2\tAngus Gunn",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/231.jpg"
+  },
+  {
+    "numero": "232",
+    "nome": "SCO3\tJack Hendry",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/232.jpg"
+  },
+  {
+    "numero": "233",
+    "nome": "SCO4\tKieran Tierney",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/233.jpg"
+  },
+  {
+    "numero": "234",
+    "nome": "SCO5\tAaron Hickey",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/234.jpg"
+  },
+  {
+    "numero": "235",
+    "nome": "SCO6\tAndrew Robertson",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/235.jpg"
+  },
+  {
+    "numero": "236",
+    "nome": "SCO7\tScott McKenna",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/236.jpg"
+  },
+  {
+    "numero": "237",
+    "nome": "SCO8\tJohn Souttar",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/237.jpg"
+  },
+  {
+    "numero": "238",
+    "nome": "SCO9\tAnthony Ralston",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/238.jpg"
+  },
+  {
+    "numero": "239",
+    "nome": "SCO10\tGrant Hanley",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/239.jpg"
+  },
+  {
+    "numero": "240",
+    "nome": "SCO11\tScott McTominay",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/240.jpg"
+  },
+  {
+    "numero": "241",
+    "nome": "SCO12\tBilly Gilmour",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/241.jpg"
+  },
+  {
+    "numero": "242",
+    "nome": "SCO13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/242.jpg"
+  },
+  {
+    "numero": "243",
+    "nome": "SCO14\tLewis Ferguson",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/243.jpg"
+  },
+  {
+    "numero": "244",
+    "nome": "SCO15\tRyan Christie",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/244.jpg"
+  },
+  {
+    "numero": "245",
+    "nome": "SCO16\tKenny McLean",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/245.jpg"
+  },
+  {
+    "numero": "246",
+    "nome": "SCO17\tJohn McGinn",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/246.jpg"
+  },
+  {
+    "numero": "247",
+    "nome": "SCO18\tLyndon Dykes",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/247.jpg"
+  },
+  {
+    "numero": "248",
+    "nome": "SCO19\tChe Adams",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/248.jpg"
+  },
+  {
+    "numero": "249",
+    "nome": "SCO20\tBen Gannon-Doak",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/249.jpg"
+  },
+  {
+    "numero": "250",
+    "nome": "USA1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/250.jpg"
+  },
+  {
+    "numero": "251",
+    "nome": "USA2\tMatt Freese",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/251.jpg"
+  },
+  {
+    "numero": "252",
+    "nome": "USA3\tChris Richards",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/252.jpg"
+  },
+  {
+    "numero": "253",
+    "nome": "USA4\tTim Ream",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/253.jpg"
+  },
+  {
+    "numero": "254",
+    "nome": "USA5\tMark McKenzie",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/254.jpg"
+  },
+  {
+    "numero": "255",
+    "nome": "USA6\tAlex Freeman",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/255.jpg"
+  },
+  {
+    "numero": "256",
+    "nome": "USA7\tAntonee Robinson",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/256.jpg"
+  },
+  {
+    "numero": "257",
+    "nome": "USA8\tTyler Adams",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/257.jpg"
+  },
+  {
+    "numero": "258",
+    "nome": "USA9\tTanner Tessmann",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/258.jpg"
+  },
+  {
+    "numero": "259",
+    "nome": "USA10\tWeston McKenny",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/259.jpg"
+  },
+  {
+    "numero": "260",
+    "nome": "USA11\tChristian Roldan",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/260.jpg"
+  },
+  {
+    "numero": "261",
+    "nome": "USA12\tTimothy Weah",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/261.jpg"
+  },
+  {
+    "numero": "262",
+    "nome": "USA13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/262.jpg"
+  },
+  {
+    "numero": "263",
+    "nome": "USA14\tDiego Luna",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/263.jpg"
+  },
+  {
+    "numero": "264",
+    "nome": "USA15\tMalik Tillman",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/264.jpg"
+  },
+  {
+    "numero": "265",
+    "nome": "USA16\tChristian Pulisic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/265.jpg"
+  },
+  {
+    "numero": "266",
+    "nome": "USA17\tBrenden Aaronson",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/266.jpg"
+  },
+  {
+    "numero": "267",
+    "nome": "USA18\tRicardo Pepi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/267.jpg"
+  },
+  {
+    "numero": "268",
+    "nome": "USA19\tHaji Wright",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/268.jpg"
+  },
+  {
+    "numero": "269",
+    "nome": "USA20\tFolarin Balogun",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/269.jpg"
+  },
+  {
+    "numero": "270",
+    "nome": "PAR1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/270.jpg"
+  },
+  {
+    "numero": "271",
+    "nome": "PAR2\tRoberto Fernandez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/271.jpg"
+  },
+  {
+    "numero": "272",
+    "nome": "PAR3\tOrlando Gill",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/272.jpg"
+  },
+  {
+    "numero": "273",
+    "nome": "PAR4\tGustavo Gomez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/273.jpg"
+  },
+  {
+    "numero": "274",
+    "nome": "PAR5\tFabián Balbuena",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/274.jpg"
+  },
+  {
+    "numero": "275",
+    "nome": "PAR6\tJuan José Cáceres",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/275.jpg"
+  },
+  {
+    "numero": "276",
+    "nome": "PAR7\tOmar Alderete",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/276.jpg"
+  },
+  {
+    "numero": "277",
+    "nome": "PAR8\tJunior Alonso",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/277.jpg"
+  },
+  {
+    "numero": "278",
+    "nome": "PAR9\tMathías Villasanti",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/278.jpg"
+  },
+  {
+    "numero": "279",
+    "nome": "PAR10\tDiego Gomez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/279.jpg"
+  },
+  {
+    "numero": "280",
+    "nome": "PAR11\tDamián Bobadilla",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/280.jpg"
+  },
+  {
+    "numero": "281",
+    "nome": "PAR12\tAndres Cubas",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/281.jpg"
+  },
+  {
+    "numero": "282",
+    "nome": "PAR13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/282.jpg"
+  },
+  {
+    "numero": "283",
+    "nome": "PAR14\tMatias Galarza Fonda",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/283.jpg"
+  },
+  {
+    "numero": "284",
+    "nome": "PAR15\tJulio Enciso",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/284.jpg"
+  },
+  {
+    "numero": "285",
+    "nome": "PAR16\tAlejandro Romero Gamarra",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/285.jpg"
+  },
+  {
+    "numero": "286",
+    "nome": "PAR17\tMiguel Almirón",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/286.jpg"
+  },
+  {
+    "numero": "287",
+    "nome": "PAR18\tRamon Sosa",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/287.jpg"
+  },
+  {
+    "numero": "288",
+    "nome": "PAR19\tAngel Romero",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/288.jpg"
+  },
+  {
+    "numero": "289",
+    "nome": "PAR20\tAntonio Sanabria",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/289.jpg"
+  },
+  {
+    "numero": "290",
+    "nome": "AUS1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/290.jpg"
+  },
+  {
+    "numero": "291",
+    "nome": "AUS2\tMathew Ryan",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/291.jpg"
+  },
+  {
+    "numero": "292",
+    "nome": "AUS3\tJoe Gauci",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/292.jpg"
+  },
+  {
+    "numero": "293",
+    "nome": "AUS4\tHarry Souttar",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/293.jpg"
+  },
+  {
+    "numero": "294",
+    "nome": "AUS5\tAlessandro Circati",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/294.jpg"
+  },
+  {
+    "numero": "295",
+    "nome": "AUS6\tJordan Bos",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/295.jpg"
+  },
+  {
+    "numero": "296",
+    "nome": "AUS7\tAziz Behich",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/296.jpg"
+  },
+  {
+    "numero": "297",
+    "nome": "AUS8\tCameron Burgess",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/297.jpg"
+  },
+  {
+    "numero": "298",
+    "nome": "AUS9\tLewis Miller",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/298.jpg"
+  },
+  {
+    "numero": "299",
+    "nome": "AUS10\tMilos Degenek",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/299.jpg"
+  },
+  {
+    "numero": "300",
+    "nome": "AUS11\tJackson Irvine",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/300.jpg"
+  },
+  {
+    "numero": "301",
+    "nome": "AUS12\tRiley McGree",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/301.jpg"
+  },
+  {
+    "numero": "302",
+    "nome": "AUS13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/302.jpg"
+  },
+  {
+    "numero": "303",
+    "nome": "AUS14\tAiden O'Neill",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/303.jpg"
+  },
+  {
+    "numero": "304",
+    "nome": "AUS15\tConnor Metcalfe",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/304.jpg"
+  },
+  {
+    "numero": "305",
+    "nome": "AUS16\tPatrick Yazbek",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/305.jpg"
+  },
+  {
+    "numero": "306",
+    "nome": "AUS17\tCraig Goodwin",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/306.jpg"
+  },
+  {
+    "numero": "307",
+    "nome": "AUS18\tKusini Yengi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/307.jpg"
+  },
+  {
+    "numero": "308",
+    "nome": "AUS19\tNestory Irankunda",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/308.jpg"
+  },
+  {
+    "numero": "309",
+    "nome": "AUS20\tMohamed Touré",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/309.jpg"
+  },
+  {
+    "numero": "310",
+    "nome": "TUR1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/310.jpg"
+  },
+  {
+    "numero": "311",
+    "nome": "TUR2\tUgurcan Cakir",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/311.jpg"
+  },
+  {
+    "numero": "312",
+    "nome": "TUR3\tMert Muldur",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/312.jpg"
+  },
+  {
+    "numero": "313",
+    "nome": "TUR4\tZeki Celik",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/313.jpg"
+  },
+  {
+    "numero": "314",
+    "nome": "TUR5\tAbdulkerim Bardakci",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/314.jpg"
+  },
+  {
+    "numero": "315",
+    "nome": "TUR6\tCaglar Soyuncu",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/315.jpg"
+  },
+  {
+    "numero": "316",
+    "nome": "TUR7\tMerih Demiral",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/316.jpg"
+  },
+  {
+    "numero": "317",
+    "nome": "TUR8\tFerdi Kadioglu",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/317.jpg"
+  },
+  {
+    "numero": "318",
+    "nome": "TUR9\tKaan Ayhan",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/318.jpg"
+  },
+  {
+    "numero": "319",
+    "nome": "TUR10\tIsmail Yuksek",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/319.jpg"
+  },
+  {
+    "numero": "320",
+    "nome": "TUR11\tHakan Calhanoglu",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/320.jpg"
+  },
+  {
+    "numero": "321",
+    "nome": "TUR12\tOrkun Kokcu",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/321.jpg"
+  },
+  {
+    "numero": "322",
+    "nome": "TUR13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/322.jpg"
+  },
+  {
+    "numero": "323",
+    "nome": "TUR14\tArda Guler",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/323.jpg"
+  },
+  {
+    "numero": "324",
+    "nome": "TUR15\tIrfan Can Kahveci",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/324.jpg"
+  },
+  {
+    "numero": "325",
+    "nome": "TUR16\tYunus Akgun",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/325.jpg"
+  },
+  {
+    "numero": "326",
+    "nome": "TUR17\tCan Uzun",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/326.jpg"
+  },
+  {
+    "numero": "327",
+    "nome": "TUR18\tBaris Alper Yilmaz",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/327.jpg"
+  },
+  {
+    "numero": "328",
+    "nome": "TUR19\tKerem Akturkoglu",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/328.jpg"
+  },
+  {
+    "numero": "329",
+    "nome": "TUR20\tKenan Yildiz",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/329.jpg"
+  },
+  {
+    "numero": "330",
+    "nome": "GER1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/330.jpg"
+  },
+  {
+    "numero": "331",
+    "nome": "GER2\tMarc-André ter Stegen",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/331.jpg"
+  },
+  {
+    "numero": "332",
+    "nome": "GER3\tJonathan Tah",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/332.jpg"
+  },
+  {
+    "numero": "333",
+    "nome": "GER4\tDavid Raum",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/333.jpg"
+  },
+  {
+    "numero": "334",
+    "nome": "GER5\tNico Schlotterbeck",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/334.jpg"
+  },
+  {
+    "numero": "335",
+    "nome": "GER6\tAntonio Rüdiger",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/335.jpg"
+  },
+  {
+    "numero": "336",
+    "nome": "GER7\tWaldemar Anton",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/336.jpg"
+  },
+  {
+    "numero": "337",
+    "nome": "GER8\tRidle Baku",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/337.jpg"
+  },
+  {
+    "numero": "338",
+    "nome": "GER9\tMaximilian Mittelstadt",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/338.jpg"
+  },
+  {
+    "numero": "339",
+    "nome": "GER10\tJoshua Kimmich",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/339.jpg"
+  },
+  {
+    "numero": "340",
+    "nome": "GER11\tFlorian Wirtz",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/340.jpg"
+  },
+  {
+    "numero": "341",
+    "nome": "GER12\tFelix Nmecha",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/341.jpg"
+  },
+  {
+    "numero": "342",
+    "nome": "GER13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/342.jpg"
+  },
+  {
+    "numero": "343",
+    "nome": "GER14\tLeon Goretzka",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/343.jpg"
+  },
+  {
+    "numero": "344",
+    "nome": "GER15\tJamal Musiala",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/344.jpg"
+  },
+  {
+    "numero": "345",
+    "nome": "GER16\tSerge Gnabry",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/345.jpg"
+  },
+  {
+    "numero": "346",
+    "nome": "GER17\tKai Havertz",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/346.jpg"
+  },
+  {
+    "numero": "347",
+    "nome": "GER18\tLeroy Sane",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/347.jpg"
+  },
+  {
+    "numero": "348",
+    "nome": "GER19\tKarim Adeyemi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/348.jpg"
+  },
+  {
+    "numero": "349",
+    "nome": "GER20\tNick Woltemade",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/349.jpg"
+  },
+  {
+    "numero": "350",
+    "nome": "CUW1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/350.jpg"
+  },
+  {
+    "numero": "351",
+    "nome": "CUW2\tEloy Room",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/351.jpg"
+  },
+  {
+    "numero": "352",
+    "nome": "CUW3\tArmando Obispo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/352.jpg"
+  },
+  {
+    "numero": "353",
+    "nome": "CUW4\tSherel Floranus",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/353.jpg"
+  },
+  {
+    "numero": "354",
+    "nome": "CUW5\tJurien Gaari",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/354.jpg"
+  },
+  {
+    "numero": "355",
+    "nome": "CUW6\tJoshua Brenet",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/355.jpg"
+  },
+  {
+    "numero": "356",
+    "nome": "CUW7\tRoshon Van Eijma",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/356.jpg"
+  },
+  {
+    "numero": "357",
+    "nome": "CUW8\tShurandy Sambo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/357.jpg"
+  },
+  {
+    "numero": "358",
+    "nome": "CUW9\tLivano Comenencia",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/358.jpg"
+  },
+  {
+    "numero": "359",
+    "nome": "CUW10\tGodfried Roemeratoe",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/359.jpg"
+  },
+  {
+    "numero": "360",
+    "nome": "CUW11\tJuninho Bacuna",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/360.jpg"
+  },
+  {
+    "numero": "361",
+    "nome": "CUW12\tLeandro Bacuna",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/361.jpg"
+  },
+  {
+    "numero": "362",
+    "nome": "CUW13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/362.jpg"
+  },
+  {
+    "numero": "363",
+    "nome": "CUW14\tTahith Chong",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/363.jpg"
+  },
+  {
+    "numero": "364",
+    "nome": "CUW15\tKenji Gorre",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/364.jpg"
+  },
+  {
+    "numero": "365",
+    "nome": "CUW16\tJearl Margaritha",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/365.jpg"
+  },
+  {
+    "numero": "366",
+    "nome": "CUW17\tJurgen Locadia",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/366.jpg"
+  },
+  {
+    "numero": "367",
+    "nome": "CUW18\tJeremy Antonisse",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/367.jpg"
+  },
+  {
+    "numero": "368",
+    "nome": "CUW19\tGervane Kastaneer",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/368.jpg"
+  },
+  {
+    "numero": "369",
+    "nome": "CUW20\tSontje Hansen",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/369.jpg"
+  },
+  {
+    "numero": "370",
+    "nome": "CIV1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/370.jpg"
+  },
+  {
+    "numero": "371",
+    "nome": "CIV2\tYahia Fofana",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/371.jpg"
+  },
+  {
+    "numero": "372",
+    "nome": "CIV3\tGhislain Konan",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/372.jpg"
+  },
+  {
+    "numero": "373",
+    "nome": "CIV4\tWilfried Singo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/373.jpg"
+  },
+  {
+    "numero": "374",
+    "nome": "CIV5\tOdilon Kossounou",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/374.jpg"
+  },
+  {
+    "numero": "375",
+    "nome": "CIV6\tEvan Ndicka",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/375.jpg"
+  },
+  {
+    "numero": "376",
+    "nome": "CIV7\tWilly Boly",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/376.jpg"
+  },
+  {
+    "numero": "377",
+    "nome": "CIV8\tEmmanuel Agbadou",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/377.jpg"
+  },
+  {
+    "numero": "378",
+    "nome": "CIV9\tOusmane Diomande",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/378.jpg"
+  },
+  {
+    "numero": "379",
+    "nome": "CIV10\tFranck Kessie",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/379.jpg"
+  },
+  {
+    "numero": "380",
+    "nome": "CIV11\tSeko Fofana",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/380.jpg"
+  },
+  {
+    "numero": "381",
+    "nome": "CIV12\tIbrahim Sangare",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/381.jpg"
+  },
+  {
+    "numero": "382",
+    "nome": "CIV13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/382.jpg"
+  },
+  {
+    "numero": "383",
+    "nome": "CIV14\tJean-Philippe Gbamin",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/383.jpg"
+  },
+  {
+    "numero": "384",
+    "nome": "CIV15\tAmad Diallo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/384.jpg"
+  },
+  {
+    "numero": "385",
+    "nome": "CIV16\tSébastien Haller",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/385.jpg"
+  },
+  {
+    "numero": "386",
+    "nome": "CIV17\tSimon Adingra",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/386.jpg"
+  },
+  {
+    "numero": "387",
+    "nome": "CIV18\tYan Diomande",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/387.jpg"
+  },
+  {
+    "numero": "388",
+    "nome": "CIV19\tEvann Guessand",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/388.jpg"
+  },
+  {
+    "numero": "389",
+    "nome": "CIV20\tOumar Diakite",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/389.jpg"
+  },
+  {
+    "numero": "390",
+    "nome": "ECU1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/390.jpg"
+  },
+  {
+    "numero": "391",
+    "nome": "ECU2\tHernán Galíndez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/391.jpg"
+  },
+  {
+    "numero": "392",
+    "nome": "ECU3\tGonzalo Valle",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/392.jpg"
+  },
+  {
+    "numero": "393",
+    "nome": "ECU4\tPiero Hincapié",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/393.jpg"
+  },
+  {
+    "numero": "394",
+    "nome": "ECU5\tPervis Estupiñán",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/394.jpg"
+  },
+  {
+    "numero": "395",
+    "nome": "ECU6\tWillian Pacho",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/395.jpg"
+  },
+  {
+    "numero": "396",
+    "nome": "ECU7\tÁngelo Preciado",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/396.jpg"
+  },
+  {
+    "numero": "397",
+    "nome": "ECU8\tJoel Ordóñez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/397.jpg"
+  },
+  {
+    "numero": "398",
+    "nome": "ECU9\tMoises Caicedo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/398.jpg"
+  },
+  {
+    "numero": "399",
+    "nome": "ECU10\tAlan Franco",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/399.jpg"
+  },
+  {
+    "numero": "400",
+    "nome": "ECU11\tKendry Paez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/400.jpg"
+  },
+  {
+    "numero": "401",
+    "nome": "ECU12\tPedro Vite",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/401.jpg"
+  },
+  {
+    "numero": "402",
+    "nome": "ECU13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/402.jpg"
+  },
+  {
+    "numero": "403",
+    "nome": "ECU14\tJohn Yeboah",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/403.jpg"
+  },
+  {
+    "numero": "404",
+    "nome": "ECU15\tLeonardo Campana",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/404.jpg"
+  },
+  {
+    "numero": "405",
+    "nome": "ECU16\tGonzalo Plata",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/405.jpg"
+  },
+  {
+    "numero": "406",
+    "nome": "ECU17\tNilson Angulo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/406.jpg"
+  },
+  {
+    "numero": "407",
+    "nome": "ECU18\tAlan Minda",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/407.jpg"
+  },
+  {
+    "numero": "408",
+    "nome": "ECU19\tKevin Rodriguez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/408.jpg"
+  },
+  {
+    "numero": "409",
+    "nome": "ECU20\tEnner Valencia",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/409.jpg"
+  },
+  {
+    "numero": "410",
+    "nome": "NED1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/410.jpg"
+  },
+  {
+    "numero": "411",
+    "nome": "NED2\tBart Verbruggen",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/411.jpg"
+  },
+  {
+    "numero": "412",
+    "nome": "NED3\tVirgil van Dijk",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/412.jpg"
+  },
+  {
+    "numero": "413",
+    "nome": "NED4\tMicky van de Ven",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/413.jpg"
+  },
+  {
+    "numero": "414",
+    "nome": "NED5\tJurrien Timber",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/414.jpg"
+  },
+  {
+    "numero": "415",
+    "nome": "NED6\tDenzel Dumfries",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/415.jpg"
+  },
+  {
+    "numero": "416",
+    "nome": "NED7\tNathan Aké",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/416.jpg"
+  },
+  {
+    "numero": "417",
+    "nome": "NED8\tJeremie Frimpong",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/417.jpg"
+  },
+  {
+    "numero": "418",
+    "nome": "NED9\tJan Paul van Hecke",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/418.jpg"
+  },
+  {
+    "numero": "419",
+    "nome": "NED10\tTijjani Reijnders",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/419.jpg"
+  },
+  {
+    "numero": "420",
+    "nome": "NED11\tRyan Gravenberch",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/420.jpg"
+  },
+  {
+    "numero": "421",
+    "nome": "NED12\tTeun Koopmeiners",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/421.jpg"
+  },
+  {
+    "numero": "422",
+    "nome": "NED13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/422.jpg"
+  },
+  {
+    "numero": "423",
+    "nome": "NED14\tFrenkie de Jong",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/423.jpg"
+  },
+  {
+    "numero": "424",
+    "nome": "NED15\tXavi Simons",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/424.jpg"
+  },
+  {
+    "numero": "425",
+    "nome": "NED16\tJustin Kluivert",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/425.jpg"
+  },
+  {
+    "numero": "426",
+    "nome": "NED17\tMemphis Depay",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/426.jpg"
+  },
+  {
+    "numero": "427",
+    "nome": "NED18\tDonyell Malen",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/427.jpg"
+  },
+  {
+    "numero": "428",
+    "nome": "NED19\tWout Weghorst",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/428.jpg"
+  },
+  {
+    "numero": "429",
+    "nome": "NED20\tCody Gakpo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/429.jpg"
+  },
+  {
+    "numero": "430",
+    "nome": "JPN1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/430.jpg"
+  },
+  {
+    "numero": "431",
+    "nome": "JPN2\tZion Suzuki",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/431.jpg"
+  },
+  {
+    "numero": "432",
+    "nome": "JPN3\tHenry Heroki Mochizuki",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/432.jpg"
+  },
+  {
+    "numero": "433",
+    "nome": "JPN4\tAyumu Seko",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/433.jpg"
+  },
+  {
+    "numero": "434",
+    "nome": "JPN5\tJunnosuke Suzuki",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/434.jpg"
+  },
+  {
+    "numero": "435",
+    "nome": "JPN6\tShogo Taniguchi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/435.jpg"
+  },
+  {
+    "numero": "436",
+    "nome": "JPN7\tTsuyoshi Watanabe",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/436.jpg"
+  },
+  {
+    "numero": "437",
+    "nome": "JPN8\tKaishu Sano",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/437.jpg"
+  },
+  {
+    "numero": "438",
+    "nome": "JPN9\tYuki Soma",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/438.jpg"
+  },
+  {
+    "numero": "439",
+    "nome": "JPN10\tAo Tanaka",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/439.jpg"
+  },
+  {
+    "numero": "440",
+    "nome": "JPN11\tDaichi Kamada",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/440.jpg"
+  },
+  {
+    "numero": "441",
+    "nome": "JPN12\tTakefusa Kubo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/441.jpg"
+  },
+  {
+    "numero": "442",
+    "nome": "JPN13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/442.jpg"
+  },
+  {
+    "numero": "443",
+    "nome": "JPN14\tRitsu Doan",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/443.jpg"
+  },
+  {
+    "numero": "444",
+    "nome": "JPN15\tKeito Nakamura",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/444.jpg"
+  },
+  {
+    "numero": "445",
+    "nome": "JPN16\tTakumi Minamino",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/445.jpg"
+  },
+  {
+    "numero": "446",
+    "nome": "JPN17\tShuto Machino",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/446.jpg"
+  },
+  {
+    "numero": "447",
+    "nome": "JPN18\tJunya Ito",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/447.jpg"
+  },
+  {
+    "numero": "448",
+    "nome": "JPN19\tKoki Ogawa",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/448.jpg"
+  },
+  {
+    "numero": "449",
+    "nome": "JPN20\tAyase Ueda",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/449.jpg"
+  },
+  {
+    "numero": "450",
+    "nome": "SWE1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/450.jpg"
+  },
+  {
+    "numero": "451",
+    "nome": "SWE2\tVictor Johansson",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/451.jpg"
+  },
+  {
+    "numero": "452",
+    "nome": "SWE3\tIsak Hien",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/452.jpg"
+  },
+  {
+    "numero": "453",
+    "nome": "SWE4\tGabriel Gudmundsson",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/453.jpg"
+  },
+  {
+    "numero": "454",
+    "nome": "SWE5\tEmil Holm",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/454.jpg"
+  },
+  {
+    "numero": "455",
+    "nome": "SWE6\tVictor Nilsson Lindelöf",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/455.jpg"
+  },
+  {
+    "numero": "456",
+    "nome": "SWE7\tGustaf Lagerbielke",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/456.jpg"
+  },
+  {
+    "numero": "457",
+    "nome": "SWE8\tLucas Bergvall",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/457.jpg"
+  },
+  {
+    "numero": "458",
+    "nome": "SWE9\tHugo Larsson",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/458.jpg"
+  },
+  {
+    "numero": "459",
+    "nome": "SWE10\tJesper Karlström",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/459.jpg"
+  },
+  {
+    "numero": "460",
+    "nome": "SWE11\tYasin Ayari",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/460.jpg"
+  },
+  {
+    "numero": "461",
+    "nome": "SWE12\tMattias Svanberg",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/461.jpg"
+  },
+  {
+    "numero": "462",
+    "nome": "SWE13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/462.jpg"
+  },
+  {
+    "numero": "463",
+    "nome": "SWE14\tDaniel Svensson",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/463.jpg"
+  },
+  {
+    "numero": "464",
+    "nome": "SWE15\tKen Sema",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/464.jpg"
+  },
+  {
+    "numero": "465",
+    "nome": "SWE16\tRoony Bardghji",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/465.jpg"
+  },
+  {
+    "numero": "466",
+    "nome": "SWE17\tDejan Kulusevski",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/466.jpg"
+  },
+  {
+    "numero": "467",
+    "nome": "SWE18\tAnthony Elanga",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/467.jpg"
+  },
+  {
+    "numero": "468",
+    "nome": "SWE19\tAlexander Isak",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/468.jpg"
+  },
+  {
+    "numero": "469",
+    "nome": "SWE20\tViktor Gyökeres",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/469.jpg"
+  },
+  {
+    "numero": "470",
+    "nome": "TUN1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/470.jpg"
+  },
+  {
+    "numero": "471",
+    "nome": "TUN2\tBechir Ben Said",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/471.jpg"
+  },
+  {
+    "numero": "472",
+    "nome": "TUN3\tAymen Dahmen",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/472.jpg"
+  },
+  {
+    "numero": "473",
+    "nome": "TUN4\tYan Valery",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/473.jpg"
+  },
+  {
+    "numero": "474",
+    "nome": "TUN5\tMontassar Talbi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/474.jpg"
+  },
+  {
+    "numero": "475",
+    "nome": "TUN6\tYassine Meriah",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/475.jpg"
+  },
+  {
+    "numero": "476",
+    "nome": "TUN7\tAli Abdi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/476.jpg"
+  },
+  {
+    "numero": "477",
+    "nome": "TUN8\tDylan Bronn",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/477.jpg"
+  },
+  {
+    "numero": "478",
+    "nome": "TUN9\tEllyes Skhiri",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/478.jpg"
+  },
+  {
+    "numero": "479",
+    "nome": "TUN10\tAissa Laidouni",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/479.jpg"
+  },
+  {
+    "numero": "480",
+    "nome": "TUN11\tFerjani Sassi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/480.jpg"
+  },
+  {
+    "numero": "481",
+    "nome": "TUN12\tMohamed Ali Ben Romdhane",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/481.jpg"
+  },
+  {
+    "numero": "482",
+    "nome": "TUN13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/482.jpg"
+  },
+  {
+    "numero": "483",
+    "nome": "TUN14\tHannibal Mejbri",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/483.jpg"
+  },
+  {
+    "numero": "484",
+    "nome": "TUN15\tElias Achouri",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/484.jpg"
+  },
+  {
+    "numero": "485",
+    "nome": "TUN16\tElias Saad",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/485.jpg"
+  },
+  {
+    "numero": "486",
+    "nome": "TUN17\tHazem Mastouri",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/486.jpg"
+  },
+  {
+    "numero": "487",
+    "nome": "TUN18\tIsmael Gharbi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/487.jpg"
+  },
+  {
+    "numero": "488",
+    "nome": "TUN19\tSayfallah Ltaief",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/488.jpg"
+  },
+  {
+    "numero": "489",
+    "nome": "TUN20\tNaim Sliti",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/489.jpg"
+  },
+  {
+    "numero": "490",
+    "nome": "BEL1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/490.jpg"
+  },
+  {
+    "numero": "491",
+    "nome": "BEL2\tThibaut Courtois",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/491.jpg"
+  },
+  {
+    "numero": "492",
+    "nome": "BEL3\tArthur Theate",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/492.jpg"
+  },
+  {
+    "numero": "493",
+    "nome": "BEL4\tTimothy Castagne",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/493.jpg"
+  },
+  {
+    "numero": "494",
+    "nome": "BEL5\tZeno Debast",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/494.jpg"
+  },
+  {
+    "numero": "495",
+    "nome": "BEL6\tBrandon Mechele",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/495.jpg"
+  },
+  {
+    "numero": "496",
+    "nome": "BEL7\tMaxim De Cuyper",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/496.jpg"
+  },
+  {
+    "numero": "497",
+    "nome": "BEL8\tThomas Meunier",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/497.jpg"
+  },
+  {
+    "numero": "498",
+    "nome": "BEL9\tYouri Tielemans",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/498.jpg"
+  },
+  {
+    "numero": "499",
+    "nome": "BEL10\tAmadou Onana",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/499.jpg"
+  },
+  {
+    "numero": "500",
+    "nome": "BEL11\tNicolas Raskin",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/500.jpg"
+  },
+  {
+    "numero": "501",
+    "nome": "BEL12\tAlexis Saelemaekers",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/501.jpg"
+  },
+  {
+    "numero": "502",
+    "nome": "BEL13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/502.jpg"
+  },
+  {
+    "numero": "503",
+    "nome": "BEL14\tHans Vanaken",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/503.jpg"
+  },
+  {
+    "numero": "504",
+    "nome": "BEL15\tKevin De Bruyne",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/504.jpg"
+  },
+  {
+    "numero": "505",
+    "nome": "BEL16\tJérémy Doku",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/505.jpg"
+  },
+  {
+    "numero": "506",
+    "nome": "BEL17\tCharles De Ketelaere",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/506.jpg"
+  },
+  {
+    "numero": "507",
+    "nome": "BEL18\tLeandro Trossard",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/507.jpg"
+  },
+  {
+    "numero": "508",
+    "nome": "BEL19\tLoïs Openda",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/508.jpg"
+  },
+  {
+    "numero": "509",
+    "nome": "BEL20\tRomelu Lukaku",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/509.jpg"
+  },
+  {
+    "numero": "510",
+    "nome": "EGY1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/510.jpg"
+  },
+  {
+    "numero": "511",
+    "nome": "EGY2\tMohamed El Shenawy",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/511.jpg"
+  },
+  {
+    "numero": "512",
+    "nome": "EGY3\tMohamed Hany",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/512.jpg"
+  },
+  {
+    "numero": "513",
+    "nome": "EGY4\tMohamed Hamdy",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/513.jpg"
+  },
+  {
+    "numero": "514",
+    "nome": "EGY5\tYasser Ibrahim",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/514.jpg"
+  },
+  {
+    "numero": "515",
+    "nome": "EGY6\tKhaled Sobhi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/515.jpg"
+  },
+  {
+    "numero": "516",
+    "nome": "EGY7\tRamy Rabia",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/516.jpg"
+  },
+  {
+    "numero": "517",
+    "nome": "EGY8\tHossam Abdelmaguid",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/517.jpg"
+  },
+  {
+    "numero": "518",
+    "nome": "EGY9\tAhmed Fatouh",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/518.jpg"
+  },
+  {
+    "numero": "519",
+    "nome": "EGY10\tMarwan Attia",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/519.jpg"
+  },
+  {
+    "numero": "520",
+    "nome": "EGY11\tZizo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/520.jpg"
+  },
+  {
+    "numero": "521",
+    "nome": "EGY12\tHamdy Fathy",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/521.jpg"
+  },
+  {
+    "numero": "522",
+    "nome": "EGY13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/522.jpg"
+  },
+  {
+    "numero": "523",
+    "nome": "EGY14\tMohamed Lasheen",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/523.jpg"
+  },
+  {
+    "numero": "524",
+    "nome": "EGY15\tEmam Ashour",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/524.jpg"
+  },
+  {
+    "numero": "525",
+    "nome": "EGY16\tOsama Faisal",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/525.jpg"
+  },
+  {
+    "numero": "526",
+    "nome": "EGY17\tMohamed Salah",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/526.jpg"
+  },
+  {
+    "numero": "527",
+    "nome": "EGY18\tMostafa Mohamed",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/527.jpg"
+  },
+  {
+    "numero": "528",
+    "nome": "EGY19\tTrezeguet",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/528.jpg"
+  },
+  {
+    "numero": "529",
+    "nome": "EGY20\tOmar Marmoush",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/529.jpg"
+  },
+  {
+    "numero": "530",
+    "nome": "IRN1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/530.jpg"
+  },
+  {
+    "numero": "531",
+    "nome": "IRN2\tAlireza Beiranvand",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/531.jpg"
+  },
+  {
+    "numero": "532",
+    "nome": "IRN3\tMorteza Pouraliganji",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/532.jpg"
+  },
+  {
+    "numero": "533",
+    "nome": "IRN4\tEhsan Hajsafi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/533.jpg"
+  },
+  {
+    "numero": "534",
+    "nome": "IRN5\tMilad Mohammadi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/534.jpg"
+  },
+  {
+    "numero": "535",
+    "nome": "IRN6\tShojae Khalilzadeh",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/535.jpg"
+  },
+  {
+    "numero": "536",
+    "nome": "IRN7\tRamin Rezaeian",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/536.jpg"
+  },
+  {
+    "numero": "537",
+    "nome": "IRN8\tHossein Kanaani",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/537.jpg"
+  },
+  {
+    "numero": "538",
+    "nome": "IRN9\tSadegh Moharrami",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/538.jpg"
+  },
+  {
+    "numero": "539",
+    "nome": "IRN10\tSaleh Hardani",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/539.jpg"
+  },
+  {
+    "numero": "540",
+    "nome": "IRN11\tSaeed Ezatolahi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/540.jpg"
+  },
+  {
+    "numero": "541",
+    "nome": "IRN12\tSaman Ghoddos",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/541.jpg"
+  },
+  {
+    "numero": "542",
+    "nome": "IRN13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/542.jpg"
+  },
+  {
+    "numero": "543",
+    "nome": "IRN14\tOmid Noorafkan",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/543.jpg"
+  },
+  {
+    "numero": "544",
+    "nome": "IRN15\tRoozbeh Cheshmi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/544.jpg"
+  },
+  {
+    "numero": "545",
+    "nome": "IRN16\tMohammad Mohebi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/545.jpg"
+  },
+  {
+    "numero": "546",
+    "nome": "IRN17\tSardar Azmoun",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/546.jpg"
+  },
+  {
+    "numero": "547",
+    "nome": "IRN18\tMehdi Taremi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/547.jpg"
+  },
+  {
+    "numero": "548",
+    "nome": "IRN19\tAlireza Jahanbakhsh",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/548.jpg"
+  },
+  {
+    "numero": "549",
+    "nome": "IRN20\tAli Gholizadeh",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/549.jpg"
+  },
+  {
+    "numero": "550",
+    "nome": "NZL1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/550.jpg"
+  },
+  {
+    "numero": "551",
+    "nome": "NZL2\tMax Crocombe",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/551.jpg"
+  },
+  {
+    "numero": "552",
+    "nome": "NZL3\tAlex Paulsen",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/552.jpg"
+  },
+  {
+    "numero": "553",
+    "nome": "NZL4\tMichael Boxall",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/553.jpg"
+  },
+  {
+    "numero": "554",
+    "nome": "NZL5\tLiberato Cacace",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/554.jpg"
+  },
+  {
+    "numero": "555",
+    "nome": "NZL6\tTim Payne",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/555.jpg"
+  },
+  {
+    "numero": "556",
+    "nome": "NZL7\tTyler Bindon",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/556.jpg"
+  },
+  {
+    "numero": "557",
+    "nome": "NZL8\tFrancis de Vries",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/557.jpg"
+  },
+  {
+    "numero": "558",
+    "nome": "NZL9\tFinn Surman",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/558.jpg"
+  },
+  {
+    "numero": "559",
+    "nome": "NZL10\tJoe Bell",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/559.jpg"
+  },
+  {
+    "numero": "560",
+    "nome": "NZL11\tSarpreet Singh",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/560.jpg"
+  },
+  {
+    "numero": "561",
+    "nome": "NZL12\tRyan Thomas",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/561.jpg"
+  },
+  {
+    "numero": "562",
+    "nome": "NZL13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/562.jpg"
+  },
+  {
+    "numero": "563",
+    "nome": "NZL14\tMatthew Garbett",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/563.jpg"
+  },
+  {
+    "numero": "564",
+    "nome": "NZL15\tMarko Stamenić",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/564.jpg"
+  },
+  {
+    "numero": "565",
+    "nome": "NZL16\tBen Old",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/565.jpg"
+  },
+  {
+    "numero": "566",
+    "nome": "NZL17\tChris Wood",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/566.jpg"
+  },
+  {
+    "numero": "567",
+    "nome": "NZL18\tElijah Just",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/567.jpg"
+  },
+  {
+    "numero": "568",
+    "nome": "NZL19\tCallum McCowatt",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/568.jpg"
+  },
+  {
+    "numero": "569",
+    "nome": "NZL20\tKosta Barbarouses",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/569.jpg"
+  },
+  {
+    "numero": "570",
+    "nome": "ESP1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/570.jpg"
+  },
+  {
+    "numero": "571",
+    "nome": "ESP2\tUnai Simon",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/571.jpg"
+  },
+  {
+    "numero": "572",
+    "nome": "ESP3\tRobin Le Normand",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/572.jpg"
+  },
+  {
+    "numero": "573",
+    "nome": "ESP4\tAymeric Laporte",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/573.jpg"
+  },
+  {
+    "numero": "574",
+    "nome": "ESP5\tDean Huijsen",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/574.jpg"
+  },
+  {
+    "numero": "575",
+    "nome": "ESP6\tPedro Porro",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/575.jpg"
+  },
+  {
+    "numero": "576",
+    "nome": "ESP7\tDani Carvajal",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/576.jpg"
+  },
+  {
+    "numero": "577",
+    "nome": "ESP8\tMarc Cucurella",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/577.jpg"
+  },
+  {
+    "numero": "578",
+    "nome": "ESP9\tMartín Zubimendi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/578.jpg"
+  },
+  {
+    "numero": "579",
+    "nome": "ESP10\tRodri",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/579.jpg"
+  },
+  {
+    "numero": "580",
+    "nome": "ESP11\tPedri",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/580.jpg"
+  },
+  {
+    "numero": "581",
+    "nome": "ESP12\tFabian Ruiz",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/581.jpg"
+  },
+  {
+    "numero": "582",
+    "nome": "ESP13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/582.jpg"
+  },
+  {
+    "numero": "583",
+    "nome": "ESP14\tMikel Merino",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/583.jpg"
+  },
+  {
+    "numero": "584",
+    "nome": "ESP15\tLamine Yamal",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/584.jpg"
+  },
+  {
+    "numero": "585",
+    "nome": "ESP16\tDani Olmo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/585.jpg"
+  },
+  {
+    "numero": "586",
+    "nome": "ESP17\tNico Williams",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/586.jpg"
+  },
+  {
+    "numero": "587",
+    "nome": "ESP18\tFerran Torres",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/587.jpg"
+  },
+  {
+    "numero": "588",
+    "nome": "ESP19\tÁlvaro Morata",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/588.jpg"
+  },
+  {
+    "numero": "589",
+    "nome": "ESP20\tMikel Oyarzabal",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/589.jpg"
+  },
+  {
+    "numero": "590",
+    "nome": "CPV1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/590.jpg"
+  },
+  {
+    "numero": "591",
+    "nome": "CPV2\tVozinha",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/591.jpg"
+  },
+  {
+    "numero": "592",
+    "nome": "CPV3\tLogan Costa",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/592.jpg"
+  },
+  {
+    "numero": "593",
+    "nome": "CPV4\tPico",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/593.jpg"
+  },
+  {
+    "numero": "594",
+    "nome": "CPV5\tDiney",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/594.jpg"
+  },
+  {
+    "numero": "595",
+    "nome": "CPV6\tSteven Moreira",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/595.jpg"
+  },
+  {
+    "numero": "596",
+    "nome": "CPV7\tWagner Pina",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/596.jpg"
+  },
+  {
+    "numero": "597",
+    "nome": "CPV8\tJoao Paulo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/597.jpg"
+  },
+  {
+    "numero": "598",
+    "nome": "CPV9\tYannick Semedo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/598.jpg"
+  },
+  {
+    "numero": "599",
+    "nome": "CPV10\tKevin Pina",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/599.jpg"
+  },
+  {
+    "numero": "600",
+    "nome": "CPV11\tPatrick Andrade",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/600.jpg"
+  },
+  {
+    "numero": "601",
+    "nome": "CPV12\tJamiro Monteiro",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/601.jpg"
+  },
+  {
+    "numero": "602",
+    "nome": "CPV13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/602.jpg"
+  },
+  {
+    "numero": "603",
+    "nome": "CPV14\tDeroy Duarte",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/603.jpg"
+  },
+  {
+    "numero": "604",
+    "nome": "CPV15\tGarry Rodrigues",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/604.jpg"
+  },
+  {
+    "numero": "605",
+    "nome": "CPV16\tJovane Cabral",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/605.jpg"
+  },
+  {
+    "numero": "606",
+    "nome": "CPV17\tRyan Mendes",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/606.jpg"
+  },
+  {
+    "numero": "607",
+    "nome": "CPV18\tDailon Livramento",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/607.jpg"
+  },
+  {
+    "numero": "608",
+    "nome": "CPV19\tWilly Semedo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/608.jpg"
+  },
+  {
+    "numero": "609",
+    "nome": "CPV20\tBebe",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/609.jpg"
+  },
+  {
+    "numero": "610",
+    "nome": "KSA1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/610.jpg"
+  },
+  {
+    "numero": "611",
+    "nome": "KSA2\tNawaf Alaqidi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/611.jpg"
+  },
+  {
+    "numero": "612",
+    "nome": "KSA3\tAbdulrahman Al-Sanbi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/612.jpg"
+  },
+  {
+    "numero": "613",
+    "nome": "KSA4\tSaud Abdulhamid",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/613.jpg"
+  },
+  {
+    "numero": "614",
+    "nome": "KSA5\tNawaf Bouwashl",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/614.jpg"
+  },
+  {
+    "numero": "615",
+    "nome": "KSA6\tJihad Thakri",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/615.jpg"
+  },
+  {
+    "numero": "616",
+    "nome": "KSA7\tMoteb Al-Harbi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/616.jpg"
+  },
+  {
+    "numero": "617",
+    "nome": "KSA8\tHassan Altambakti",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/617.jpg"
+  },
+  {
+    "numero": "618",
+    "nome": "KSA9\tMusab Aljuwayr",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/618.jpg"
+  },
+  {
+    "numero": "619",
+    "nome": "KSA10\tZiyad Aljohani",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/619.jpg"
+  },
+  {
+    "numero": "620",
+    "nome": "KSA11\tAbdullah Alkhaibari",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/620.jpg"
+  },
+  {
+    "numero": "621",
+    "nome": "KSA12\tNasser Aldawsari",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/621.jpg"
+  },
+  {
+    "numero": "622",
+    "nome": "KSA13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/622.jpg"
+  },
+  {
+    "numero": "623",
+    "nome": "KSA14\tSaleh Abu Alshamat",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/623.jpg"
+  },
+  {
+    "numero": "624",
+    "nome": "KSA15\tMarwan Alsahafi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/624.jpg"
+  },
+  {
+    "numero": "625",
+    "nome": "KSA16\tSalem Aldawsari",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/625.jpg"
+  },
+  {
+    "numero": "626",
+    "nome": "KSA17\tAbdulrahman Al-Aboud",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/626.jpg"
+  },
+  {
+    "numero": "627",
+    "nome": "KSA18\tFeras Akbrikan",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/627.jpg"
+  },
+  {
+    "numero": "628",
+    "nome": "KSA19\tSaleh Alshehri",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/628.jpg"
+  },
+  {
+    "numero": "629",
+    "nome": "KSA20\tAbdullah Al-Hamdan",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/629.jpg"
+  },
+  {
+    "numero": "630",
+    "nome": "URU1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/630.jpg"
+  },
+  {
+    "numero": "631",
+    "nome": "URU2\tSergio Rochet",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/631.jpg"
+  },
+  {
+    "numero": "632",
+    "nome": "URU3\tSantiago Mele",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/632.jpg"
+  },
+  {
+    "numero": "633",
+    "nome": "URU4\tRonald Araujo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/633.jpg"
+  },
+  {
+    "numero": "634",
+    "nome": "URU5\tJosé María Giménez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/634.jpg"
+  },
+  {
+    "numero": "635",
+    "nome": "URU6\tSebastian Caceres",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/635.jpg"
+  },
+  {
+    "numero": "636",
+    "nome": "URU7\tMathias Olivera",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/636.jpg"
+  },
+  {
+    "numero": "637",
+    "nome": "URU8\tGuillermo Varela",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/637.jpg"
+  },
+  {
+    "numero": "638",
+    "nome": "URU9\tNahitan Nandez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/638.jpg"
+  },
+  {
+    "numero": "639",
+    "nome": "URU10\tFederico Valverde",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/639.jpg"
+  },
+  {
+    "numero": "640",
+    "nome": "URU11\tGiorgian De Arrascaeta",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/640.jpg"
+  },
+  {
+    "numero": "641",
+    "nome": "URU12\tRodrigo Bentancur",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/641.jpg"
+  },
+  {
+    "numero": "642",
+    "nome": "URU13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/642.jpg"
+  },
+  {
+    "numero": "643",
+    "nome": "URU14\tManuel Ugarte",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/643.jpg"
+  },
+  {
+    "numero": "644",
+    "nome": "URU15\tNicolás de la Cruz",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/644.jpg"
+  },
+  {
+    "numero": "645",
+    "nome": "URU16\tMaxi Araujo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/645.jpg"
+  },
+  {
+    "numero": "646",
+    "nome": "URU17\tDarwin Núñez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/646.jpg"
+  },
+  {
+    "numero": "647",
+    "nome": "URU18\tFederico Viñas",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/647.jpg"
+  },
+  {
+    "numero": "648",
+    "nome": "URU19\tRodrigo Aguirre",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/648.jpg"
+  },
+  {
+    "numero": "649",
+    "nome": "URU20\tFacundo Pellistri",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/649.jpg"
+  },
+  {
+    "numero": "650",
+    "nome": "FRA1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/650.jpg"
+  },
+  {
+    "numero": "651",
+    "nome": "FRA2\tMike Maignan",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/651.jpg"
+  },
+  {
+    "numero": "652",
+    "nome": "FRA3\tTheo Hernandez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/652.jpg"
+  },
+  {
+    "numero": "653",
+    "nome": "FRA4\tWilliam Saliba",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/653.jpg"
+  },
+  {
+    "numero": "654",
+    "nome": "FRA5\tJules Kounde",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/654.jpg"
+  },
+  {
+    "numero": "655",
+    "nome": "FRA6\tIbrahima Konate",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/655.jpg"
+  },
+  {
+    "numero": "656",
+    "nome": "FRA7\tDayot Upamecano",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/656.jpg"
+  },
+  {
+    "numero": "657",
+    "nome": "FRA8\tLucas Digne",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/657.jpg"
+  },
+  {
+    "numero": "658",
+    "nome": "FRA9\tAurélien Tchouaméni",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/658.jpg"
+  },
+  {
+    "numero": "659",
+    "nome": "FRA10\tEduardo Camavinga",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/659.jpg"
+  },
+  {
+    "numero": "660",
+    "nome": "FRA11\tManu Kone",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/660.jpg"
+  },
+  {
+    "numero": "661",
+    "nome": "FRA12\tAdrien Rabiot",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/661.jpg"
+  },
+  {
+    "numero": "662",
+    "nome": "FRA13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/662.jpg"
+  },
+  {
+    "numero": "663",
+    "nome": "FRA14\tMichael Olise",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/663.jpg"
+  },
+  {
+    "numero": "664",
+    "nome": "FRA15\tOusmane Dembele",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/664.jpg"
+  },
+  {
+    "numero": "665",
+    "nome": "FRA16\tBradley Barcola",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/665.jpg"
+  },
+  {
+    "numero": "666",
+    "nome": "FRA17\tDésiré Doué",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/666.jpg"
+  },
+  {
+    "numero": "667",
+    "nome": "FRA18\tKingsley Coman",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/667.jpg"
+  },
+  {
+    "numero": "668",
+    "nome": "FRA19\tHugo Ekitike",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/668.jpg"
+  },
+  {
+    "numero": "669",
+    "nome": "FRA20\tKylian Mbappe",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/669.jpg"
+  },
+  {
+    "numero": "670",
+    "nome": "SEN1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/670.jpg"
+  },
+  {
+    "numero": "671",
+    "nome": "SEN2\tÉdouard Mendy",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/671.jpg"
+  },
+  {
+    "numero": "672",
+    "nome": "SEN3\tYehvann Diouf",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/672.jpg"
+  },
+  {
+    "numero": "673",
+    "nome": "SEN4\tMoussa Niakhaté",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/673.jpg"
+  },
+  {
+    "numero": "674",
+    "nome": "SEN5\tAbdoulaye Seck",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/674.jpg"
+  },
+  {
+    "numero": "675",
+    "nome": "SEN6\tIsmail Jakobs",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/675.jpg"
+  },
+  {
+    "numero": "676",
+    "nome": "SEN7\tEl Hadji Malick Diouf",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/676.jpg"
+  },
+  {
+    "numero": "677",
+    "nome": "SEN8\tKalidou Koulibaly",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/677.jpg"
+  },
+  {
+    "numero": "678",
+    "nome": "SEN9\tIdrissa Gana Gueye",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/678.jpg"
+  },
+  {
+    "numero": "679",
+    "nome": "SEN10\tPape Matar Sarr",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/679.jpg"
+  },
+  {
+    "numero": "680",
+    "nome": "SEN11\tPape Gueye",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/680.jpg"
+  },
+  {
+    "numero": "681",
+    "nome": "SEN12\tHabib Diarra",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/681.jpg"
+  },
+  {
+    "numero": "682",
+    "nome": "SEN13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/682.jpg"
+  },
+  {
+    "numero": "683",
+    "nome": "SEN14\tLamine Camara",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/683.jpg"
+  },
+  {
+    "numero": "684",
+    "nome": "SEN15\tSadio Mane",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/684.jpg"
+  },
+  {
+    "numero": "685",
+    "nome": "SEN16\tIsmaïla Sarr",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/685.jpg"
+  },
+  {
+    "numero": "686",
+    "nome": "SEN17\tBoulaye Dia",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/686.jpg"
+  },
+  {
+    "numero": "687",
+    "nome": "SEN18\tIliman Ndiaye",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/687.jpg"
+  },
+  {
+    "numero": "688",
+    "nome": "SEN19\tNicolas Jackson",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/688.jpg"
+  },
+  {
+    "numero": "689",
+    "nome": "SEN20\tKrepin Diatta",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/689.jpg"
+  },
+  {
+    "numero": "690",
+    "nome": "IRQ1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/690.jpg"
+  },
+  {
+    "numero": "691",
+    "nome": "IRQ2\tJalal Hassan",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/691.jpg"
+  },
+  {
+    "numero": "692",
+    "nome": "IRQ3\tRebin Sulaka",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/692.jpg"
+  },
+  {
+    "numero": "693",
+    "nome": "IRQ4\tHussein Ali",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/693.jpg"
+  },
+  {
+    "numero": "694",
+    "nome": "IRQ5\tAkam Hashem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/694.jpg"
+  },
+  {
+    "numero": "695",
+    "nome": "IRQ6\tMerchas Doski",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/695.jpg"
+  },
+  {
+    "numero": "696",
+    "nome": "IRQ7\tZaid Tahseen",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/696.jpg"
+  },
+  {
+    "numero": "697",
+    "nome": "IRQ8\tManaf Younis",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/697.jpg"
+  },
+  {
+    "numero": "698",
+    "nome": "IRQ9\tZidane Iqbal",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/698.jpg"
+  },
+  {
+    "numero": "699",
+    "nome": "IRQ10\tAmir Al-Ammari",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/699.jpg"
+  },
+  {
+    "numero": "700",
+    "nome": "IRQ11\tIbrahim Bavesh",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/700.jpg"
+  },
+  {
+    "numero": "701",
+    "nome": "IRQ12\tAli Jasim",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/701.jpg"
+  },
+  {
+    "numero": "702",
+    "nome": "IRQ13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/702.jpg"
+  },
+  {
+    "numero": "703",
+    "nome": "IRQ14\tYoussef Amyn",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/703.jpg"
+  },
+  {
+    "numero": "704",
+    "nome": "IRQ15\tAimar Sher",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/704.jpg"
+  },
+  {
+    "numero": "705",
+    "nome": "IRQ16\tMarko Farji",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/705.jpg"
+  },
+  {
+    "numero": "706",
+    "nome": "IRQ17\tOsama Rashid",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/706.jpg"
+  },
+  {
+    "numero": "707",
+    "nome": "IRQ18\tAli Al-Hamadi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/707.jpg"
+  },
+  {
+    "numero": "708",
+    "nome": "IRQ19\tAymen Hussein",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/708.jpg"
+  },
+  {
+    "numero": "709",
+    "nome": "IRQ20\tMohanad Ali",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/709.jpg"
+  },
+  {
+    "numero": "710",
+    "nome": "NOR1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/710.jpg"
+  },
+  {
+    "numero": "711",
+    "nome": "NOR2\tOrjan Nyland",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/711.jpg"
+  },
+  {
+    "numero": "712",
+    "nome": "NOR3\tJulian Ryerson",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/712.jpg"
+  },
+  {
+    "numero": "713",
+    "nome": "NOR4\tLeo Ostigård",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/713.jpg"
+  },
+  {
+    "numero": "714",
+    "nome": "NOR5\tKristoffer Vassbakk Ajer",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/714.jpg"
+  },
+  {
+    "numero": "715",
+    "nome": "NOR6\tMarcus Holmgren Pedersen",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/715.jpg"
+  },
+  {
+    "numero": "716",
+    "nome": "NOR7\tDavid Møller Wolfe",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/716.jpg"
+  },
+  {
+    "numero": "717",
+    "nome": "NOR8\tTorbjørn Heggem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/717.jpg"
+  },
+  {
+    "numero": "718",
+    "nome": "NOR9\tMorten Thorsby",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/718.jpg"
+  },
+  {
+    "numero": "719",
+    "nome": "NOR10\tMartin Ødegaard",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/719.jpg"
+  },
+  {
+    "numero": "720",
+    "nome": "NOR11\tSander Berge",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/720.jpg"
+  },
+  {
+    "numero": "721",
+    "nome": "NOR12\tAndreas Schjelderup",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/721.jpg"
+  },
+  {
+    "numero": "722",
+    "nome": "NOR13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/722.jpg"
+  },
+  {
+    "numero": "723",
+    "nome": "NOR14\tPatrick Berg",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/723.jpg"
+  },
+  {
+    "numero": "724",
+    "nome": "NOR15\tErling Haaland",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/724.jpg"
+  },
+  {
+    "numero": "725",
+    "nome": "NOR16\tAlexander Sørloth",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/725.jpg"
+  },
+  {
+    "numero": "726",
+    "nome": "NOR17\tAron Dønnum",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/726.jpg"
+  },
+  {
+    "numero": "727",
+    "nome": "NOR18\tJorgen Strand Larsen",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/727.jpg"
+  },
+  {
+    "numero": "728",
+    "nome": "NOR19\tAntonio Nusa",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/728.jpg"
+  },
+  {
+    "numero": "729",
+    "nome": "NOR20\tOscar Bobb",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/729.jpg"
+  },
+  {
+    "numero": "730",
+    "nome": "ARG1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/730.jpg"
+  },
+  {
+    "numero": "731",
+    "nome": "ARG2\tEmiliano Martinez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/731.jpg"
+  },
+  {
+    "numero": "732",
+    "nome": "ARG3\tNahuel Molina",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/732.jpg"
+  },
+  {
+    "numero": "733",
+    "nome": "ARG4\tCristian Romero",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/733.jpg"
+  },
+  {
+    "numero": "734",
+    "nome": "ARG5\tNicolas Otamendi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/734.jpg"
+  },
+  {
+    "numero": "735",
+    "nome": "ARG6\tNicolas Tagliafico",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/735.jpg"
+  },
+  {
+    "numero": "736",
+    "nome": "ARG7\tLeonardo Balerdi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/736.jpg"
+  },
+  {
+    "numero": "737",
+    "nome": "ARG8\tEnzo Fernandez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/737.jpg"
+  },
+  {
+    "numero": "738",
+    "nome": "ARG9\tAlexis Mac Allister",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/738.jpg"
+  },
+  {
+    "numero": "739",
+    "nome": "ARG10\tRodrigo De Paul",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/739.jpg"
+  },
+  {
+    "numero": "740",
+    "nome": "ARG11\tExequiel Palacios",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/740.jpg"
+  },
+  {
+    "numero": "741",
+    "nome": "ARG12\tLeandro Paredes",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/741.jpg"
+  },
+  {
+    "numero": "742",
+    "nome": "ARG13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/742.jpg"
+  },
+  {
+    "numero": "743",
+    "nome": "ARG14\tNico Paz",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/743.jpg"
+  },
+  {
+    "numero": "744",
+    "nome": "ARG15\tFranco Mastantuono",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/744.jpg"
+  },
+  {
+    "numero": "745",
+    "nome": "ARG16\tNico Gonzalez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/745.jpg"
+  },
+  {
+    "numero": "746",
+    "nome": "ARG17\tLionel Messi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/746.jpg"
+  },
+  {
+    "numero": "747",
+    "nome": "ARG18\tLautaro Martinez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/747.jpg"
+  },
+  {
+    "numero": "748",
+    "nome": "ARG19\tJulian Alvarez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/748.jpg"
+  },
+  {
+    "numero": "749",
+    "nome": "ARG20\tGiuliano Simeone",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/749.jpg"
+  },
+  {
+    "numero": "750",
+    "nome": "ALG1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/750.jpg"
+  },
+  {
+    "numero": "751",
+    "nome": "ALG2\tAlexis Guendouz",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/751.jpg"
+  },
+  {
+    "numero": "752",
+    "nome": "ALG3\tRamy Bensebaini",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/752.jpg"
+  },
+  {
+    "numero": "753",
+    "nome": "ALG4\tYoucef Atal",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/753.jpg"
+  },
+  {
+    "numero": "754",
+    "nome": "ALG5\tRayan Aït-Nouri",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/754.jpg"
+  },
+  {
+    "numero": "755",
+    "nome": "ALG6\tMohamed Amine Tougai",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/755.jpg"
+  },
+  {
+    "numero": "756",
+    "nome": "ALG7\tAïssa Mandi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/756.jpg"
+  },
+  {
+    "numero": "757",
+    "nome": "ALG8\tIsmael Bennacer",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/757.jpg"
+  },
+  {
+    "numero": "758",
+    "nome": "ALG9\tHoussem Aouar",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/758.jpg"
+  },
+  {
+    "numero": "759",
+    "nome": "ALG10\tHicham Boudaoui",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/759.jpg"
+  },
+  {
+    "numero": "760",
+    "nome": "ALG11\tRamiz Zerrouki",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/760.jpg"
+  },
+  {
+    "numero": "761",
+    "nome": "ALG12\tNabil Bentaleb",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/761.jpg"
+  },
+  {
+    "numero": "762",
+    "nome": "ALG13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/762.jpg"
+  },
+  {
+    "numero": "763",
+    "nome": "ALG14\tFarés Chaibi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/763.jpg"
+  },
+  {
+    "numero": "764",
+    "nome": "ALG15\tRiyad Mahrez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/764.jpg"
+  },
+  {
+    "numero": "765",
+    "nome": "ALG16\tSaid Benrahma",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/765.jpg"
+  },
+  {
+    "numero": "766",
+    "nome": "ALG17\tAnis Hadj Moussa",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/766.jpg"
+  },
+  {
+    "numero": "767",
+    "nome": "ALG18\tAmine Gouiri",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/767.jpg"
+  },
+  {
+    "numero": "768",
+    "nome": "ALG19\tBaghdad Bounedjah",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/768.jpg"
+  },
+  {
+    "numero": "769",
+    "nome": "ALG20\tMohammed Amoura",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/769.jpg"
+  },
+  {
+    "numero": "770",
+    "nome": "AUT1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/770.jpg"
+  },
+  {
+    "numero": "771",
+    "nome": "AUT2\tAlexander Schlager",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/771.jpg"
+  },
+  {
+    "numero": "772",
+    "nome": "AUT3\tPatrick Pentz",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/772.jpg"
+  },
+  {
+    "numero": "773",
+    "nome": "AUT4\tDavid Alaba",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/773.jpg"
+  },
+  {
+    "numero": "774",
+    "nome": "AUT5\tKevin Danso",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/774.jpg"
+  },
+  {
+    "numero": "775",
+    "nome": "AUT6\tPhilipp Lienhart",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/775.jpg"
+  },
+  {
+    "numero": "776",
+    "nome": "AUT7\tStefan Posch",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/776.jpg"
+  },
+  {
+    "numero": "777",
+    "nome": "AUT8\tPhillipp Mwene",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/777.jpg"
+  },
+  {
+    "numero": "778",
+    "nome": "AUT9\tAlexander Prass",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/778.jpg"
+  },
+  {
+    "numero": "779",
+    "nome": "AUT10\tXaver Schlager",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/779.jpg"
+  },
+  {
+    "numero": "780",
+    "nome": "AUT11\tMarcel Sabitzer",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/780.jpg"
+  },
+  {
+    "numero": "781",
+    "nome": "AUT12\tKonrad Laimer",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/781.jpg"
+  },
+  {
+    "numero": "782",
+    "nome": "AUT13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/782.jpg"
+  },
+  {
+    "numero": "783",
+    "nome": "AUT14\tFlorian Grillitsch",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/783.jpg"
+  },
+  {
+    "numero": "784",
+    "nome": "AUT15\tNicolas Seiwald",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/784.jpg"
+  },
+  {
+    "numero": "785",
+    "nome": "AUT16\tRomano Schmid",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/785.jpg"
+  },
+  {
+    "numero": "786",
+    "nome": "AUT17\tPatrick Wimmer",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/786.jpg"
+  },
+  {
+    "numero": "787",
+    "nome": "AUT18\tChristoph Baumgartner",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/787.jpg"
+  },
+  {
+    "numero": "788",
+    "nome": "AUT19\tMichael Gregoritsch",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/788.jpg"
+  },
+  {
+    "numero": "789",
+    "nome": "AUT20\tMarko Arnautović",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/789.jpg"
+  },
+  {
+    "numero": "790",
+    "nome": "JOR1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/790.jpg"
+  },
+  {
+    "numero": "791",
+    "nome": "JOR2\tYazeed Abulaila",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/791.jpg"
+  },
+  {
+    "numero": "792",
+    "nome": "JOR3\tIhsan Haddad",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/792.jpg"
+  },
+  {
+    "numero": "793",
+    "nome": "JOR4\tMohammad Abu Hashish",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/793.jpg"
+  },
+  {
+    "numero": "794",
+    "nome": "JOR5\tYazan Al-Arab",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/794.jpg"
+  },
+  {
+    "numero": "795",
+    "nome": "JOR6\tAbdallah Nasib",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/795.jpg"
+  },
+  {
+    "numero": "796",
+    "nome": "JOR7\tSaleem Obaid",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/796.jpg"
+  },
+  {
+    "numero": "797",
+    "nome": "JOR8\tMohammad Abualnadi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/797.jpg"
+  },
+  {
+    "numero": "798",
+    "nome": "JOR9\tIbrahim Saadeh",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/798.jpg"
+  },
+  {
+    "numero": "799",
+    "nome": "JOR10\tNizar Al-Rashdan",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/799.jpg"
+  },
+  {
+    "numero": "800",
+    "nome": "JOR11\tNoor Al-Rawabdeh",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/800.jpg"
+  },
+  {
+    "numero": "801",
+    "nome": "JOR12\tMohannad Abu Taha",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/801.jpg"
+  },
+  {
+    "numero": "802",
+    "nome": "JOR13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/802.jpg"
+  },
+  {
+    "numero": "803",
+    "nome": "JOR14\tAmer Jamous",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/803.jpg"
+  },
+  {
+    "numero": "804",
+    "nome": "JOR15\tMusa Al-Taamari",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/804.jpg"
+  },
+  {
+    "numero": "805",
+    "nome": "JOR16\tYazan Al-Naimat",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/805.jpg"
+  },
+  {
+    "numero": "806",
+    "nome": "JOR17\tMahmoud Al-Mardi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/806.jpg"
+  },
+  {
+    "numero": "807",
+    "nome": "JOR18\tAli Olwan",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/807.jpg"
+  },
+  {
+    "numero": "808",
+    "nome": "JOR19\tMohammad Abu Zrayq",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/808.jpg"
+  },
+  {
+    "numero": "809",
+    "nome": "JOR20\tIbrahim Sabra",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/809.jpg"
+  },
+  {
+    "numero": "810",
+    "nome": "POR1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/810.jpg"
+  },
+  {
+    "numero": "811",
+    "nome": "POR2\tDiogo Costa",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/811.jpg"
+  },
+  {
+    "numero": "812",
+    "nome": "POR3\tJosé Sá",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/812.jpg"
+  },
+  {
+    "numero": "813",
+    "nome": "POR4\tRuben Dias",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/813.jpg"
+  },
+  {
+    "numero": "814",
+    "nome": "POR5\tJoão Cancelo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/814.jpg"
+  },
+  {
+    "numero": "815",
+    "nome": "POR6\tDiogo Dalot",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/815.jpg"
+  },
+  {
+    "numero": "816",
+    "nome": "POR7\tNuno Mendes",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/816.jpg"
+  },
+  {
+    "numero": "817",
+    "nome": "POR8\tGonçalo Inácio",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/817.jpg"
+  },
+  {
+    "numero": "818",
+    "nome": "POR9\tBernardo Silva",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/818.jpg"
+  },
+  {
+    "numero": "819",
+    "nome": "POR10\tBruno Fernandes",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/819.jpg"
+  },
+  {
+    "numero": "820",
+    "nome": "POR11\tRuben Neves",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/820.jpg"
+  },
+  {
+    "numero": "821",
+    "nome": "POR12\tVitinha",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/821.jpg"
+  },
+  {
+    "numero": "822",
+    "nome": "POR13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/822.jpg"
+  },
+  {
+    "numero": "823",
+    "nome": "POR14\tJoão Neves",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/823.jpg"
+  },
+  {
+    "numero": "824",
+    "nome": "POR15\tCristiano Ronaldo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/824.jpg"
+  },
+  {
+    "numero": "825",
+    "nome": "POR16\tFrancisco Trincao",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/825.jpg"
+  },
+  {
+    "numero": "826",
+    "nome": "POR17\tJoão Felix",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/826.jpg"
+  },
+  {
+    "numero": "827",
+    "nome": "POR18\tGonçalo Ramos",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/827.jpg"
+  },
+  {
+    "numero": "828",
+    "nome": "POR19\tPedro Neto",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/828.jpg"
+  },
+  {
+    "numero": "829",
+    "nome": "POR20\tRafael Leão",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/829.jpg"
+  },
+  {
+    "numero": "830",
+    "nome": "COD1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/830.jpg"
+  },
+  {
+    "numero": "831",
+    "nome": "COD2\tLionel Mpasi-Nzau",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/831.jpg"
+  },
+  {
+    "numero": "832",
+    "nome": "COD3\tAaron Wan-Bissaka",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/832.jpg"
+  },
+  {
+    "numero": "833",
+    "nome": "COD4\tAxel Tuanzebe",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/833.jpg"
+  },
+  {
+    "numero": "834",
+    "nome": "COD5\tArthur Masuaku",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/834.jpg"
+  },
+  {
+    "numero": "835",
+    "nome": "COD6\tChancel Mbemba",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/835.jpg"
+  },
+  {
+    "numero": "836",
+    "nome": "COD7\tJoris Kayembe",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/836.jpg"
+  },
+  {
+    "numero": "837",
+    "nome": "COD8\tCharles Pickel",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/837.jpg"
+  },
+  {
+    "numero": "838",
+    "nome": "COD9\tNgal'ayel Mukau",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/838.jpg"
+  },
+  {
+    "numero": "839",
+    "nome": "COD10\tEdo Kayembe",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/839.jpg"
+  },
+  {
+    "numero": "840",
+    "nome": "COD11\tSamuel Moutoussamy",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/840.jpg"
+  },
+  {
+    "numero": "841",
+    "nome": "COD12\tNoah Sadiki",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/841.jpg"
+  },
+  {
+    "numero": "842",
+    "nome": "COD13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/842.jpg"
+  },
+  {
+    "numero": "843",
+    "nome": "COD14\tThéo Bongonda",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/843.jpg"
+  },
+  {
+    "numero": "844",
+    "nome": "COD15\tMeschak Elia",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/844.jpg"
+  },
+  {
+    "numero": "845",
+    "nome": "COD16\tYoane Wissa",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/845.jpg"
+  },
+  {
+    "numero": "846",
+    "nome": "COD17\tBrian Cipenga",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/846.jpg"
+  },
+  {
+    "numero": "847",
+    "nome": "COD18\tFiston Mayele",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/847.jpg"
+  },
+  {
+    "numero": "848",
+    "nome": "COD19\tCédric Bakambu",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/848.jpg"
+  },
+  {
+    "numero": "849",
+    "nome": "COD20\tNathanaël Mbuku",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/849.jpg"
+  },
+  {
+    "numero": "850",
+    "nome": "UZB1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/850.jpg"
+  },
+  {
+    "numero": "851",
+    "nome": "UZB2\tUtkir Yusupov",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/851.jpg"
+  },
+  {
+    "numero": "852",
+    "nome": "UZB3\tFarrukh Savfiev",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/852.jpg"
+  },
+  {
+    "numero": "853",
+    "nome": "UZB4\tSherzod Nasrullaev",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/853.jpg"
+  },
+  {
+    "numero": "854",
+    "nome": "UZB5\tUmar Eshmurodov",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/854.jpg"
+  },
+  {
+    "numero": "855",
+    "nome": "UZB6\tHusniddin Aliqulov",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/855.jpg"
+  },
+  {
+    "numero": "856",
+    "nome": "UZB7\tRustamjon Ashurmatov",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/856.jpg"
+  },
+  {
+    "numero": "857",
+    "nome": "UZB8\tKhojiakbar Alijonov",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/857.jpg"
+  },
+  {
+    "numero": "858",
+    "nome": "UZB9\tAbdukodir Khusanov",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/858.jpg"
+  },
+  {
+    "numero": "859",
+    "nome": "UZB10\tOdiljon Hamrobekov",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/859.jpg"
+  },
+  {
+    "numero": "860",
+    "nome": "UZB11\tOtabek Shukurov",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/860.jpg"
+  },
+  {
+    "numero": "861",
+    "nome": "UZB12\tJamshid Iskanderov",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/861.jpg"
+  },
+  {
+    "numero": "862",
+    "nome": "UZB13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/862.jpg"
+  },
+  {
+    "numero": "863",
+    "nome": "UZB14\tAzizbek Turgunboev",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/863.jpg"
+  },
+  {
+    "numero": "864",
+    "nome": "UZB15\tKhojimat Erkinov",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/864.jpg"
+  },
+  {
+    "numero": "865",
+    "nome": "UZB16\tEldor Shomurodov",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/865.jpg"
+  },
+  {
+    "numero": "866",
+    "nome": "UZB17\tOston Urunov",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/866.jpg"
+  },
+  {
+    "numero": "867",
+    "nome": "UZB18\tJaloliddin Masharipov",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/867.jpg"
+  },
+  {
+    "numero": "868",
+    "nome": "UZB19\tIgor Sergeev",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/868.jpg"
+  },
+  {
+    "numero": "869",
+    "nome": "UZB20\tAbbosbek Fayzullaev",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/869.jpg"
+  },
+  {
+    "numero": "870",
+    "nome": "COL1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/870.jpg"
+  },
+  {
+    "numero": "871",
+    "nome": "COL2\tCamilo Vargas",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/871.jpg"
+  },
+  {
+    "numero": "872",
+    "nome": "COL3\tDavid Ospina",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/872.jpg"
+  },
+  {
+    "numero": "873",
+    "nome": "COL4\tDávinson Sánchez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/873.jpg"
+  },
+  {
+    "numero": "874",
+    "nome": "COL5\tYerry Mina",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/874.jpg"
+  },
+  {
+    "numero": "875",
+    "nome": "COL6\tDaniel Munoz",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/875.jpg"
+  },
+  {
+    "numero": "876",
+    "nome": "COL7\tJohan Mojica",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/876.jpg"
+  },
+  {
+    "numero": "877",
+    "nome": "COL8\tJhon Lucumí",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/877.jpg"
+  },
+  {
+    "numero": "878",
+    "nome": "COL9\tSantiago Arias",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/878.jpg"
+  },
+  {
+    "numero": "879",
+    "nome": "COL10\tJefferson Lerma",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/879.jpg"
+  },
+  {
+    "numero": "880",
+    "nome": "COL11\tKevin Castaño",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/880.jpg"
+  },
+  {
+    "numero": "881",
+    "nome": "COL12\tRichard Rios",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/881.jpg"
+  },
+  {
+    "numero": "882",
+    "nome": "COL13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/882.jpg"
+  },
+  {
+    "numero": "883",
+    "nome": "COL14\tJames Rodriguez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/883.jpg"
+  },
+  {
+    "numero": "884",
+    "nome": "COL15\tJuan Fernando Quintero",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/884.jpg"
+  },
+  {
+    "numero": "885",
+    "nome": "COL16\tJorge Carrascal",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/885.jpg"
+  },
+  {
+    "numero": "886",
+    "nome": "COL17\tJhon Arias",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/886.jpg"
+  },
+  {
+    "numero": "887",
+    "nome": "COL18\tJhon Córdoba",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/887.jpg"
+  },
+  {
+    "numero": "888",
+    "nome": "COL19\tLuis Suarez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/888.jpg"
+  },
+  {
+    "numero": "889",
+    "nome": "COL20\tLuis Diaz",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/889.jpg"
+  },
+  {
+    "numero": "890",
+    "nome": "ENG1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/890.jpg"
+  },
+  {
+    "numero": "891",
+    "nome": "ENG2\tJordan Pickford",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/891.jpg"
+  },
+  {
+    "numero": "892",
+    "nome": "ENG3\tJohn Stones",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/892.jpg"
+  },
+  {
+    "numero": "893",
+    "nome": "ENG4\tMarc Guéhi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/893.jpg"
+  },
+  {
+    "numero": "894",
+    "nome": "ENG5\tEzri Konsa",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/894.jpg"
+  },
+  {
+    "numero": "895",
+    "nome": "ENG6\tTrent Alexander-Arnold",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/895.jpg"
+  },
+  {
+    "numero": "896",
+    "nome": "ENG7\tReece James",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/896.jpg"
+  },
+  {
+    "numero": "897",
+    "nome": "ENG8\tDan Burn",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/897.jpg"
+  },
+  {
+    "numero": "898",
+    "nome": "ENG9\tJordan Henderson",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/898.jpg"
+  },
+  {
+    "numero": "899",
+    "nome": "ENG10\tDeclan Rice",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/899.jpg"
+  },
+  {
+    "numero": "900",
+    "nome": "ENG11\tJude Bellingham",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/900.jpg"
+  },
+  {
+    "numero": "901",
+    "nome": "ENG12\tCole Palmer",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/901.jpg"
+  },
+  {
+    "numero": "902",
+    "nome": "ENG13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/902.jpg"
+  },
+  {
+    "numero": "903",
+    "nome": "ENG14\tMorgan Rogers",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/903.jpg"
+  },
+  {
+    "numero": "904",
+    "nome": "ENG15\tAnthony Gordon",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/904.jpg"
+  },
+  {
+    "numero": "905",
+    "nome": "ENG16\tPhil Foden",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/905.jpg"
+  },
+  {
+    "numero": "906",
+    "nome": "ENG17\tBukayo Saka",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/906.jpg"
+  },
+  {
+    "numero": "907",
+    "nome": "ENG18\tHarry Kane",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/907.jpg"
+  },
+  {
+    "numero": "908",
+    "nome": "ENG19\tMarcus Rashford",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/908.jpg"
+  },
+  {
+    "numero": "909",
+    "nome": "ENG20\tOllie Watkins",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/909.jpg"
+  },
+  {
+    "numero": "910",
+    "nome": "CRO1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/910.jpg"
+  },
+  {
+    "numero": "911",
+    "nome": "CRO2\tDominik Livaković",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/911.jpg"
+  },
+  {
+    "numero": "912",
+    "nome": "CRO3\tDuje Caleta-Car",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/912.jpg"
+  },
+  {
+    "numero": "913",
+    "nome": "CRO4\tJosko Gvardiol",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/913.jpg"
+  },
+  {
+    "numero": "914",
+    "nome": "CRO5\tJosip Stanišić",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/914.jpg"
+  },
+  {
+    "numero": "915",
+    "nome": "CRO6\tLuka Vušković",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/915.jpg"
+  },
+  {
+    "numero": "916",
+    "nome": "CRO7\tJosip Sutalo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/916.jpg"
+  },
+  {
+    "numero": "917",
+    "nome": "CRO8\tKristijan Jakic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/917.jpg"
+  },
+  {
+    "numero": "918",
+    "nome": "CRO9\tLuka Modrić",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/918.jpg"
+  },
+  {
+    "numero": "919",
+    "nome": "CRO10\tMateo Kovacic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/919.jpg"
+  },
+  {
+    "numero": "920",
+    "nome": "CRO11\tMartin Baturina",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/920.jpg"
+  },
+  {
+    "numero": "921",
+    "nome": "CRO12\tLovro Majer",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/921.jpg"
+  },
+  {
+    "numero": "922",
+    "nome": "CRO13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/922.jpg"
+  },
+  {
+    "numero": "923",
+    "nome": "CRO14\tMario Pasalic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/923.jpg"
+  },
+  {
+    "numero": "924",
+    "nome": "CRO15\tPetar Sucic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/924.jpg"
+  },
+  {
+    "numero": "925",
+    "nome": "CRO16\tIvan Perišić",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/925.jpg"
+  },
+  {
+    "numero": "926",
+    "nome": "CRO17\tMarco Pasalic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/926.jpg"
+  },
+  {
+    "numero": "927",
+    "nome": "CRO18\tAnte Budimir",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/927.jpg"
+  },
+  {
+    "numero": "928",
+    "nome": "CRO19\tAndrej Kramarić",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/928.jpg"
+  },
+  {
+    "numero": "929",
+    "nome": "CRO20\tFranjo Ivanovic",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/929.jpg"
+  },
+  {
+    "numero": "930",
+    "nome": "GHA1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/930.jpg"
+  },
+  {
+    "numero": "931",
+    "nome": "GHA2\tLawrence Ati Zigi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/931.jpg"
+  },
+  {
+    "numero": "932",
+    "nome": "GHA3\tTariq Lamptey",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/932.jpg"
+  },
+  {
+    "numero": "933",
+    "nome": "GHA4\tMohammed Salisu",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/933.jpg"
+  },
+  {
+    "numero": "934",
+    "nome": "GHA5\tAlidu Seidu",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/934.jpg"
+  },
+  {
+    "numero": "935",
+    "nome": "GHA6\tAlexander Djiku",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/935.jpg"
+  },
+  {
+    "numero": "936",
+    "nome": "GHA7\tGideon Mensah",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/936.jpg"
+  },
+  {
+    "numero": "937",
+    "nome": "GHA8\tCaleb Yirenkyi",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/937.jpg"
+  },
+  {
+    "numero": "938",
+    "nome": "GHA9\tAbdul Issahaku Fatawu",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/938.jpg"
+  },
+  {
+    "numero": "939",
+    "nome": "GHA10\tThomas Partey",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/939.jpg"
+  },
+  {
+    "numero": "940",
+    "nome": "GHA11\tSalis Abdul Samed",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/940.jpg"
+  },
+  {
+    "numero": "941",
+    "nome": "GHA12\tKamaldeen Sulemana",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/941.jpg"
+  },
+  {
+    "numero": "942",
+    "nome": "GHA13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/942.jpg"
+  },
+  {
+    "numero": "943",
+    "nome": "GHA14\tMohammed Kudus",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/943.jpg"
+  },
+  {
+    "numero": "944",
+    "nome": "GHA15\tInaki Williams",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/944.jpg"
+  },
+  {
+    "numero": "945",
+    "nome": "GHA16\tJordan Ayew",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/945.jpg"
+  },
+  {
+    "numero": "946",
+    "nome": "GHA17\tAndré Ayew",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/946.jpg"
+  },
+  {
+    "numero": "947",
+    "nome": "GHA18\tJoseph Paintsil",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/947.jpg"
+  },
+  {
+    "numero": "948",
+    "nome": "GHA19\tOsman Bukari",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/948.jpg"
+  },
+  {
+    "numero": "949",
+    "nome": "GHA20\tAntoine Semenyo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/949.jpg"
+  },
+  {
+    "numero": "950",
+    "nome": "PAN1\tEmblem",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/950.jpg"
+  },
+  {
+    "numero": "951",
+    "nome": "PAN2\tOrlando Mosquera",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/951.jpg"
+  },
+  {
+    "numero": "952",
+    "nome": "PAN3\tLuis Mejia",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/952.jpg"
+  },
+  {
+    "numero": "953",
+    "nome": "PAN4\tFidel Escobar",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/953.jpg"
+  },
+  {
+    "numero": "954",
+    "nome": "PAN5\tAndres Andrade",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/954.jpg"
+  },
+  {
+    "numero": "955",
+    "nome": "PAN6\tMichael Amir Murillo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/955.jpg"
+  },
+  {
+    "numero": "956",
+    "nome": "PAN7\tEric Davis",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/956.jpg"
+  },
+  {
+    "numero": "957",
+    "nome": "PAN8\tJose Cordoba",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/957.jpg"
+  },
+  {
+    "numero": "958",
+    "nome": "PAN9\tCesar Blackman",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/958.jpg"
+  },
+  {
+    "numero": "959",
+    "nome": "PAN10\tCristian Martinez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/959.jpg"
+  },
+  {
+    "numero": "960",
+    "nome": "PAN11\tAníbal Godoy",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/960.jpg"
+  },
+  {
+    "numero": "961",
+    "nome": "PAN12\tAdalberto Carrasquilla",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/961.jpg"
+  },
+  {
+    "numero": "962",
+    "nome": "PAN13\tTeam Photo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/962.jpg"
+  },
+  {
+    "numero": "963",
+    "nome": "PAN14\tÉdgar Bárcenas",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/963.jpg"
+  },
+  {
+    "numero": "964",
+    "nome": "PAN15\tCarlos Harvey",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/964.jpg"
+  },
+  {
+    "numero": "965",
+    "nome": "PAN16\tIsmael Díaz",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/965.jpg"
+  },
+  {
+    "numero": "966",
+    "nome": "PAN17\tJose Fajardo",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/966.jpg"
+  },
+  {
+    "numero": "967",
+    "nome": "PAN18\tCecilio Waterman",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/967.jpg"
+  },
+  {
+    "numero": "968",
+    "nome": "PAN19\tJose Luiz Rodriguez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/968.jpg"
+  },
+  {
+    "numero": "969",
+    "nome": "PAN20\tAlberto Quintero",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/969.jpg"
+  },
+  {
+    "numero": "970",
+    "nome": "FWC9\tItaly 1934",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/970.jpg"
+  },
+  {
+    "numero": "971",
+    "nome": "FWC10\tUruguay 1950",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/971.jpg"
+  },
+  {
+    "numero": "972",
+    "nome": "FWC11\tWest Germany 1954",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/972.jpg"
+  },
+  {
+    "numero": "973",
+    "nome": "FWC12\tBrazil 1962",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/973.jpg"
+  },
+  {
+    "numero": "974",
+    "nome": "FWC13\tWest Germany 1974",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/974.jpg"
+  },
+  {
+    "numero": "975",
+    "nome": "FWC14\tArgentina 1986",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/975.jpg"
+  },
+  {
+    "numero": "976",
+    "nome": "FWC15\tBrazil 1994",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/976.jpg"
+  },
+  {
+    "numero": "977",
+    "nome": "FWC16\tBrazil 2002",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/977.jpg"
+  },
+  {
+    "numero": "978",
+    "nome": "FWC17\tItaly 2006",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/978.jpg"
+  },
+  {
+    "numero": "979",
+    "nome": "FWC18\tGermany 2014",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/979.jpg"
+  },
+  {
+    "numero": "980",
+    "nome": "FWC19\tArgentina 2022",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/980.jpg"
+  },
+  {
+    "numero": "981",
+    "nome": "CC-EU1\tLamine Yamal",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/981.jpg"
+  },
+  {
+    "numero": "982",
+    "nome": "CC-EU2\tJoshua Kimmich",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/982.jpg"
+  },
+  {
+    "numero": "983",
+    "nome": "CC-EU3\tEduardo Camavinga",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/983.jpg"
+  },
+  {
+    "numero": "984",
+    "nome": "CC-EU4\tJosko Gvardiol",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/984.jpg"
+  },
+  {
+    "numero": "985",
+    "nome": "CC-EU5\tFederico Valverde",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/985.jpg"
+  },
+  {
+    "numero": "986",
+    "nome": "CC-EU6\tVirgil van Dijk",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/986.jpg"
+  },
+  {
+    "numero": "987",
+    "nome": "CC-EU7\tAlphonso Davies",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/987.jpg"
+  },
+  {
+    "numero": "988",
+    "nome": "CC-EU8\tRaúl Jiménez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/988.jpg"
+  },
+  {
+    "numero": "989",
+    "nome": "CC-EU9\tWilliam Saliba",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/989.jpg"
+  },
+  {
+    "numero": "990",
+    "nome": "CC-EU10\tLautaro Martínez",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/990.jpg"
+  },
+  {
+    "numero": "991",
+    "nome": "CC-EU11\tHarry Kane",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/991.jpg"
+  },
+  {
+    "numero": "992",
+    "nome": "CC-EU12\tAntonee Robinson",
+    "tenho": true,
+    "especial": false,
+    "imagem": "images/capas/WC 2026/992.jpg"
+  }
+]
