@@ -518,5 +518,13 @@
     "ano": 2024,
     "totalCromos": 578,
     "capa": "images/capas/Euro 2024.jpg"
+  },
+  {
+    "id": "WC 2026",
+    "nome": "World Cup 2026",
+    "editora": "Panini",
+    "ano": 2026,
+    "totalCromos": 992,
+    "capa": "images/capas/WC 2026.jpg"
   }
 ]
