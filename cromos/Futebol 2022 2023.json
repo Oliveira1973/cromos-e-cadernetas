@@ -131,6 +131,7 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2022 2023/19.jpg"
+    "orientacao": "paisagem"
   },
   {
     "numero": "20",
@@ -264,6 +265,7 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2022 2023/38.jpg"
+    "orientacao": "paisagem"
   },
   {
     "numero": "39",
@@ -397,6 +399,7 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2022 2023/57.jpg"
+    "orientacao": "paisagem"
   },
   {
     "numero": "58",
@@ -530,6 +533,7 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2022 2023/76.jpg"
+    "orientacao": "paisagem"
   },
   {
     "numero": "77",
@@ -663,6 +667,7 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2022 2023/95.jpg"
+    "orientacao": "paisagem"
   },
   {
     "numero": "96",
@@ -796,6 +801,7 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2022 2023/114.jpg"
+    "orientacao": "paisagem"
   },
   {
     "numero": "115",
@@ -929,6 +935,7 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2022 2023/133.jpg"
+    "orientacao": "paisagem"
   },
   {
     "numero": "134",
@@ -1062,6 +1069,7 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2022 2023/152.jpg"
+    "orientacao": "paisagem"
   },
   {
     "numero": "153",
@@ -1195,6 +1203,7 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2022 2023/171.jpg"
+    "orientacao": "paisagem"
   },
   {
     "numero": "172",
@@ -1328,6 +1337,7 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2022 2023/190.jpg"
+    "orientacao": "paisagem"
   },
   {
     "numero": "191",
@@ -1461,6 +1471,7 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2022 2023/209.jpg"
+    "orientacao": "paisagem"
   },
   {
     "numero": "210",
@@ -1594,6 +1605,7 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2022 2023/228.jpg"
+    "orientacao": "paisagem"
   },
   {
     "numero": "229",
@@ -1698,7 +1710,7 @@
     "nome": "Rui Gomes",
     "tenho": true,
     "especial": true,
-    "imagem": "images/capas/Futebol 2022 2023/242b.jpg"
+    "imagem": "images/capas/Futebol 2022 2023/242A.jpg"
   },
   {
     "numero": "243",
@@ -1734,6 +1746,7 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2022 2023/247.jpg"
+    "orientacao": "paisagem"
   },
   {
     "numero": "248",
@@ -1867,6 +1880,7 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2022 2023/266.jpg"
+    "orientacao": "paisagem"
   },
   {
     "numero": "267",
@@ -2000,6 +2014,7 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2022 2023/285.jpg"
+    "orientacao": "paisagem"
   },
   {
     "numero": "286",
@@ -2133,6 +2148,7 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2022 2023/304.jpg"
+    "orientacao": "paisagem"
   },
   {
     "numero": "305",
@@ -2266,6 +2282,7 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2022 2023/323.jpg"
+    "orientacao": "paisagem"
   },
   {
     "numero": "324",
@@ -2399,6 +2416,7 @@
     "tenho": true,
     "especial": false,
     "imagem": "images/capas/Futebol 2022 2023/342.jpg"
+    "orientacao": "paisagem"
   },
   {
     "numero": "343",
