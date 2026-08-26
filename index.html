@@ -254,22 +254,17 @@
     padding:0;
     display:flex;
     flex-direction:column;
-    width:90px;
+    width:100px;
     height:auto;
     align-items:stretch;
-  }
-  .cromo.tem-imagem.paisagem{
-    width:120px;
   }
   .cromo.tem-imagem img{
     position:static;
     width:100%;
-    height:120px;
-    object-fit:cover;
+    height:110px;
+    object-fit:contain;
+    background:var(--paper-darker);
     display:block;
-  }
-  .cromo.tem-imagem.paisagem img{
-    height:90px;
   }
   .cromo.tem-imagem.falta img{ filter: grayscale(0.85) brightness(0.9); opacity:0.55; }
   .cromo.tem-imagem .legenda{
@@ -618,19 +613,6 @@ function renderCromosGrid(cromos){
         </div>
         ${cr.especial ? '<div class="star">★</div>' : ''}
       `;
-      const img = el.querySelector('img');
-      // se o JSON indicar explicitamente a orientação (campo "orientacao"),
-      // usa-a de imediato -- mais fiável do que esperar pela deteção automática
-      if(cr.orientacao === 'paisagem'){
-        el.classList.add('paisagem');
-      } else if(cr.orientacao !== 'retrato'){
-        const aplicarOrientacao = () => {
-          if(img.naturalWidth > img.naturalHeight) el.classList.add('paisagem');
-        };
-        if(img.complete && img.naturalWidth) aplicarOrientacao();
-        else img.addEventListener('load', aplicarOrientacao);
-      }
-
       el.addEventListener('click', ()=> abrirLightbox(cr));
     } else {
       el.innerHTML = `
