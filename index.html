@@ -613,7 +613,18 @@ function renderCromosGrid(cromos){
         </div>
         ${cr.especial ? '<div class="star">★</div>' : ''}
       `;
-      el.addEventListener('click', ()=> abrirLightbox(cr));
+      // se a foto não existir/falhar a carregar, volta ao visual simples
+      // (número + nome) em vez de mostrar o ícone de imagem partida
+      const img = el.querySelector('img');
+      img.addEventListener('error', () => {
+        el.classList.remove('tem-imagem');
+        el.innerHTML = `
+          <div class="num">${cr.numero}</div>
+          <div class="nome">${cr.nome||''}</div>
+          ${cr.especial ? '<div class="star">★</div>' : ''}
+        `;
+      }, { once: true });
+      el.addEventListener('click', ()=>{ if(el.classList.contains('tem-imagem')) abrirLightbox(cr); });
     } else {
       el.innerHTML = `
         <div class="num">${cr.numero}</div>
