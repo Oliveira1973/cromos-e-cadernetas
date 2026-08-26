@@ -166,6 +166,10 @@
     font-size:0.68rem; text-transform:uppercase; letter-spacing:0.07em;
     color:var(--stamp-red); margin-bottom:2px;
   }
+  .cad-card .tema-tag{
+    color:var(--teal);
+    font-weight:700;
+  }
   .cad-card h3{
     font-family:'Anton', sans-serif; font-weight:400;
     font-size:1.15rem; margin:0 0 6px; line-height:1.05;
@@ -385,6 +389,9 @@
       <select id="editoraFilter">
         <option value="">Todas as editoras</option>
       </select>
+      <select id="temaFilter">
+        <option value="">Todos os temas</option>
+      </select>
       <label class="switch">
         <input type="checkbox" id="incompleteOnly">
         só por completar
@@ -508,10 +515,21 @@ function populateEditoraFilter(){
   });
 }
 
+function populateTemaFilter(){
+  const sel = document.getElementById('temaFilter');
+  const temas = [...new Set(cadernetas.map(c=>c.tema).filter(Boolean))].sort();
+  temas.forEach(t=>{
+    const opt = document.createElement('option');
+    opt.value = t; opt.textContent = t;
+    sel.appendChild(opt);
+  });
+}
+
 async function renderGrid(){
   const grid = document.getElementById('cadGrid');
   const search = document.getElementById('searchInput').value.toLowerCase();
   const editora = document.getElementById('editoraFilter').value;
+  const tema = document.getElementById('temaFilter').value;
   const incompleteOnly = document.getElementById('incompleteOnly').checked;
 
   grid.innerHTML = '';
@@ -519,6 +537,7 @@ async function renderGrid(){
 
   for(const c of cadernetas){
     if(editora && c.editora !== editora) continue;
+    if(tema && c.tema !== tema) continue;
     if(search && !(c.nome.toLowerCase().includes(search) || c.editora.toLowerCase().includes(search))) continue;
 
     const cromos = await loadCromos(c.id);
@@ -537,7 +556,7 @@ async function renderGrid(){
         <div class="stamp-badge ${s.falta===0 ? 'complete':''}">${s.pct}%</div>
       </div>
       <div class="info">
-        <div class="editora">${c.editora} &middot; ${c.ano}</div>
+        <div class="editora">${c.editora} &middot; ${c.ano}${c.tema ? ` &middot; <span class="tema-tag">${c.tema}</span>` : ''}</div>
         <h3>${c.nome}</h3>
         <div class="meta">${s.tenho} / ${s.total} cromos</div>
         <div class="bar-track"><div class="bar-fill ${s.falta===0?'complete':''}" style="width:${s.pct}%"></div></div>
@@ -656,6 +675,7 @@ window.addEventListener('popstate', (e)=>{
 
 document.getElementById('searchInput').addEventListener('input', renderGrid);
 document.getElementById('editoraFilter').addEventListener('change', renderGrid);
+document.getElementById('temaFilter').addEventListener('change', renderGrid);
 document.getElementById('incompleteOnly').addEventListener('change', renderGrid);
 document.getElementById('cromoSearch').addEventListener('input', ()=>renderCromosGrid(cromosCache[currentId()]));
 document.getElementById('cromoFaltaOnly').addEventListener('change', ()=>renderCromosGrid(cromosCache[currentId()]));
@@ -688,6 +708,7 @@ async function init(){
   try{
     await loadCadernetas();
     populateEditoraFilter();
+    populateTemaFilter();
     renderGlobalStats();
     await renderGrid();
 
