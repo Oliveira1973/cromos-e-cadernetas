@@ -235,50 +235,48 @@
   }
   .cromo{
     position:relative;
-    width:90px;
-    height:120px;
+    width:100px;
+    height:auto;
     border:2px solid var(--ink);
     border-radius:2px;
-    display:flex; flex-direction:column; align-items:center; justify-content:center;
+    display:flex;
+    flex-direction:column;
+    align-items:stretch;
     font-family:'Space Mono', monospace;
     background:var(--card-bg);
     cursor:default;
-    padding:2px;
+    padding:0;
     text-align:center;
     overflow:hidden;
     flex-shrink:0;
   }
-  .cromo.tenho{ background:#dfe9d8; border-color:var(--teal); }
-  .cromo.falta{
-    background:repeating-linear-gradient(45deg, var(--paper-darker), var(--paper-darker) 4px, var(--card-bg) 4px, var(--card-bg) 8px);
-    border-style:dashed;
-    color:var(--ink-soft);
-  }
-  .cromo.tem-imagem{
-    padding:0;
-    display:flex;
-    flex-direction:column;
-    width:100px;
-    height:auto;
-    align-items:stretch;
-  }
-  .cromo.tem-imagem img{
-    position:static;
-    width:100%;
+  .cromo.tenho{ border-color:var(--teal); }
+  .cromo.falta{ border-style:dashed; color:var(--ink-soft); }
+  .cromo .conteudo{
     height:110px;
+    background:var(--card-bg);
+  }
+  .cromo.tenho .conteudo{ background:#dfe9d8; }
+  .cromo.falta .conteudo{
+    background:repeating-linear-gradient(45deg, var(--paper-darker), var(--paper-darker) 4px, var(--card-bg) 4px, var(--card-bg) 8px);
+  }
+  .cromo.tem-imagem{ cursor:zoom-in; }
+  .cromo .conteudo img{
+    width:100%;
+    height:100%;
     object-fit:contain;
     background:var(--paper-darker);
     display:block;
   }
-  .cromo.tem-imagem.falta img{ filter: grayscale(0.85) brightness(0.9); opacity:0.55; }
-  .cromo.tem-imagem .legenda{
+  .cromo.tem-imagem.falta .conteudo img{ filter: grayscale(0.85) brightness(0.9); opacity:0.55; }
+  .cromo .legenda{
     display:flex; align-items:center; gap:4px;
     background:var(--ink);
     padding:3px 4px;
     min-width:0;
   }
-  .cromo.tem-imagem.falta .legenda{ background:var(--ink-soft); }
-  .cromo.tem-imagem .legenda .num{
+  .cromo.falta .legenda{ background:var(--ink-soft); }
+  .cromo .legenda .num{
     flex-shrink:0;
     background:var(--stamp-red);
     color:var(--paper);
@@ -287,7 +285,7 @@
     padding:1px 5px;
     border-radius:2px;
   }
-  .cromo.tem-imagem .legenda .nome{
+  .cromo .legenda .nome{
     display:block;
     margin-top:0;
     color:var(--paper);
@@ -298,8 +296,6 @@
     white-space:nowrap;
     min-width:0;
   }
-  .cromo .num{ font-weight:700; font-size:1rem; }
-  .cromo .nome{ font-size:0.64rem; margin-top:2px; line-height:1.15; color:var(--ink-soft); overflow:hidden; text-overflow:ellipsis; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; }
   .cromo .star{
     position:absolute; top:-7px; right:-7px;
     width:18px; height:18px;
@@ -317,7 +313,6 @@
   }
 
   /* lightbox de ampliação do cromo */
-  .cromo.tem-imagem{ cursor:zoom-in; }
   .lightbox{
     position:fixed; inset:0; z-index:1000;
     background:rgba(20,16,12,0.82);
@@ -622,34 +617,30 @@ function renderCromosGrid(cromos){
 
     const el = document.createElement('div');
     const temImagem = !!cr.imagem;
+    const legendaHtml = `
+      <div class="legenda">
+        <span class="num">${cr.numero}</span>
+        ${cr.nome ? `<span class="nome">${cr.nome}</span>` : ''}
+      </div>
+      ${cr.especial ? '<div class="star">★</div>' : ''}
+    `;
     el.className = 'cromo ' + (cr.tenho ? 'tenho' : 'falta') + (temImagem ? ' tem-imagem' : '');
     if(temImagem){
       el.innerHTML = `
-        <img src="${resolvePath(cr.imagem)}" alt="Cromo ${cr.numero}" loading="lazy">
-        <div class="legenda">
-          <span class="num">${cr.numero}</span>
-          ${cr.nome ? `<span class="nome">${cr.nome}</span>` : ''}
-        </div>
-        ${cr.especial ? '<div class="star">★</div>' : ''}
+        <div class="conteudo"><img src="${resolvePath(cr.imagem)}" alt="Cromo ${cr.numero}" loading="lazy"></div>
+        ${legendaHtml}
       `;
       // se a foto não existir/falhar a carregar, volta ao visual simples
-      // (número + nome) em vez de mostrar o ícone de imagem partida
+      // (só a barra número + nome, sem imagem) em vez de mostrar o ícone
+      // de imagem partida
       const img = el.querySelector('img');
       img.addEventListener('error', () => {
         el.classList.remove('tem-imagem');
-        el.innerHTML = `
-          <div class="num">${cr.numero}</div>
-          <div class="nome">${cr.nome||''}</div>
-          ${cr.especial ? '<div class="star">★</div>' : ''}
-        `;
+        el.innerHTML = `<div class="conteudo"></div>${legendaHtml}`;
       }, { once: true });
       el.addEventListener('click', ()=>{ if(el.classList.contains('tem-imagem')) abrirLightbox(cr); });
     } else {
-      el.innerHTML = `
-        <div class="num">${cr.numero}</div>
-        <div class="nome">${cr.nome||''}</div>
-        ${cr.especial ? '<div class="star">★</div>' : ''}
-      `;
+      el.innerHTML = `<div class="conteudo"></div>${legendaHtml}`;
     }
     grid.appendChild(el);
   });
