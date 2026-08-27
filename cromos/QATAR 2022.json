@@ -1,58 +1,74 @@
 [
   {
-    "numero": "0",
+    "numero": "00",
     "nome": "Panini",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/QATAR 2022/0.jpg"
+    "clube": "Content",
+    "tipo": "foil",
+    "imagem": "images/capas/QATAR 2022/00.jpg"
   },
   {
     "numero": "FWC1",
     "nome": "FIFA",
     "tenho": true,
     "especial": false,
+    "clube": "Content",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FWC1.jpg"
   },
   {
     "numero": "FWC2",
-    "nome": "Official Trophy",
+    "nome": "Official Trophy 1",
     "tenho": true,
     "especial": false,
+    "clube": "Content",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/FWC2.jpg"
   },
   {
     "numero": "FWC3",
-    "nome": "Official Trophy",
+    "nome": "Official Trophy 2",
     "tenho": true,
     "especial": false,
+    "clube": "Content",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/FWC3.jpg"
   },
   {
     "numero": "FWC4",
-    "nome": "Official Mascot",
+    "nome": "Official Mascot 1",
     "tenho": true,
     "especial": false,
+    "clube": "Content",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/FWC4.jpg"
   },
   {
     "numero": "FWC5",
-    "nome": "Official Mascot",
+    "nome": "Official Mascot 2",
     "tenho": true,
     "especial": false,
+    "clube": "Content",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/FWC5.jpg"
   },
   {
     "numero": "FWC6",
-    "nome": "Official Emblem",
+    "nome": "Official Emblem 1",
     "tenho": true,
     "especial": false,
+    "clube": "Content",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/FWC6.jpg"
   },
   {
     "numero": "FWC7",
-    "nome": "Official Emblem",
+    "nome": "Official Emblem 2",
     "tenho": true,
     "especial": false,
+    "clube": "Content",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/FWC7.jpg"
   },
   {
@@ -60,6 +76,8 @@
     "nome": "Ahmad Bin Ali Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FWC8.jpg"
   },
   {
@@ -67,6 +85,8 @@
     "nome": "Al Janoub Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FWC9.jpg"
   },
   {
@@ -74,6 +94,8 @@
     "nome": "Al Thumama Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FWC10.jpg"
   },
   {
@@ -81,6 +103,8 @@
     "nome": "Education City Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FWC11.jpg"
   },
   {
@@ -88,6 +112,8 @@
     "nome": "Khalifa International Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FWC12.jpg"
   },
   {
@@ -95,6 +121,8 @@
     "nome": "Stadium 974",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FWC13.jpg"
   },
   {
@@ -102,6 +130,8 @@
     "nome": "Al Bayt Stadium outdoor",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FWC14.jpg"
   },
   {
@@ -109,6 +139,8 @@
     "nome": "Al Bayt Stadium indoor",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FWC15.jpg"
   },
   {
@@ -116,6 +148,8 @@
     "nome": "Lusail Stadium outdoor",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FWC16.jpg"
   },
   {
@@ -123,6 +157,8 @@
     "nome": "Lusail Stadium indoor",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FWC17.jpg"
   },
   {
@@ -130,6 +166,8 @@
     "nome": "Al Rihla",
     "tenho": true,
     "especial": false,
+    "clube": "Official Match Ball",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FWC18.jpg"
   },
   {
@@ -137,6 +175,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Qatar",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/QAT1.jpg"
   },
   {
@@ -144,6 +184,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Qatar",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/QAT2.jpg"
   },
   {
@@ -151,6 +193,8 @@
     "nome": "Saad Al Sheeb",
     "tenho": true,
     "especial": false,
+    "clube": "Qatar",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/QAT3.jpg"
   },
   {
@@ -158,6 +202,8 @@
     "nome": "Meshaal Barsham",
     "tenho": true,
     "especial": false,
+    "clube": "Qatar",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/QAT4.jpg"
   },
   {
@@ -165,6 +211,8 @@
     "nome": "Homam Ahmed",
     "tenho": true,
     "especial": false,
+    "clube": "Qatar",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/QAT5.jpg"
   },
   {
@@ -172,6 +220,8 @@
     "nome": "Bassam Alrawi",
     "tenho": true,
     "especial": false,
+    "clube": "Qatar",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/QAT6.jpg"
   },
   {
@@ -179,6 +229,8 @@
     "nome": "Abdulkarim Hassan",
     "tenho": true,
     "especial": false,
+    "clube": "Qatar",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/QAT7.jpg"
   },
   {
@@ -186,6 +238,8 @@
     "nome": "Musaab Khidir",
     "tenho": true,
     "especial": false,
+    "clube": "Qatar",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/QAT8.jpg"
   },
   {
@@ -193,6 +247,8 @@
     "nome": "Boualem Khoukhi",
     "tenho": true,
     "especial": false,
+    "clube": "Qatar",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/QAT9.jpg"
   },
   {
@@ -200,6 +256,8 @@
     "nome": "Pedro Miguel",
     "tenho": true,
     "especial": false,
+    "clube": "Qatar",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/QAT10.jpg"
   },
   {
@@ -207,6 +265,8 @@
     "nome": "Tarek Salman",
     "tenho": true,
     "especial": false,
+    "clube": "Qatar",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/QAT11.jpg"
   },
   {
@@ -214,6 +274,8 @@
     "nome": "Karim Boudiaf",
     "tenho": true,
     "especial": false,
+    "clube": "Qatar",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/QAT12.jpg"
   },
   {
@@ -221,6 +283,8 @@
     "nome": "Abdulaziz Hatem",
     "tenho": true,
     "especial": false,
+    "clube": "Qatar",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/QAT13.jpg"
   },
   {
@@ -228,6 +292,8 @@
     "nome": "Assim Omer Madibo",
     "tenho": true,
     "especial": false,
+    "clube": "Qatar",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/QAT14.jpg"
   },
   {
@@ -235,6 +301,8 @@
     "nome": "Yousuf Abdurisag",
     "tenho": true,
     "especial": false,
+    "clube": "Qatar",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/QAT15.jpg"
   },
   {
@@ -242,6 +310,8 @@
     "nome": "Akram Hassan Afif",
     "tenho": true,
     "especial": false,
+    "clube": "Qatar",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/QAT16.jpg"
   },
   {
@@ -249,6 +319,8 @@
     "nome": "Ahmad Alaaeldin",
     "tenho": true,
     "especial": false,
+    "clube": "Qatar",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/QAT17.jpg"
   },
   {
@@ -256,6 +328,8 @@
     "nome": "Hasan Al-Haydos",
     "tenho": true,
     "especial": false,
+    "clube": "Qatar",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/QAT18.jpg"
   },
   {
@@ -263,6 +337,8 @@
     "nome": "Almoez Ali",
     "tenho": true,
     "especial": false,
+    "clube": "Qatar",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/QAT19.jpg"
   },
   {
@@ -270,6 +346,8 @@
     "nome": "Mohammed Muntari",
     "tenho": true,
     "especial": false,
+    "clube": "Qatar",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/QAT20.jpg"
   },
   {
@@ -277,6 +355,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ECU1.jpg"
   },
   {
@@ -284,6 +364,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/ECU2.jpg"
   },
   {
@@ -291,6 +373,8 @@
     "nome": "Hernán Galíndez",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ECU3.jpg"
   },
   {
@@ -298,6 +382,8 @@
     "nome": "Alexander Domínguez",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ECU4.jpg"
   },
   {
@@ -305,6 +391,8 @@
     "nome": "Robert Arboleda",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ECU5.jpg"
   },
   {
@@ -312,6 +400,8 @@
     "nome": "Byron Castillo",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ECU6.jpg"
   },
   {
@@ -319,6 +409,8 @@
     "nome": "Pervis Estupiñán",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ECU7.jpg"
   },
   {
@@ -326,6 +418,8 @@
     "nome": "Piero Hincapié",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ECU8.jpg"
   },
   {
@@ -333,6 +427,8 @@
     "nome": "Ángelo Preciado",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ECU9.jpg"
   },
   {
@@ -340,6 +436,8 @@
     "nome": "Félix Torres",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ECU10.jpg"
   },
   {
@@ -347,6 +445,8 @@
     "nome": "Moisés Caicedo",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ECU11.jpg"
   },
   {
@@ -354,6 +454,8 @@
     "nome": "Alan Franco",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ECU12.jpg"
   },
   {
@@ -361,6 +463,8 @@
     "nome": "Carlos Gruezo",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ECU13.jpg"
   },
   {
@@ -368,6 +472,8 @@
     "nome": "Jhegson Méndez",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ECU14.jpg"
   },
   {
@@ -375,6 +481,8 @@
     "nome": "Jeremy Sarmiento",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ECU15.jpg"
   },
   {
@@ -382,6 +490,8 @@
     "nome": "Michael Estrada",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ECU16.jpg"
   },
   {
@@ -389,6 +499,8 @@
     "nome": "Ángel Mena",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ECU17.jpg"
   },
   {
@@ -396,6 +508,8 @@
     "nome": "Gonzalo Plata",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ECU18.jpg"
   },
   {
@@ -403,6 +517,8 @@
     "nome": "Ayrton Preciado",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ECU19.jpg"
   },
   {
@@ -410,6 +526,8 @@
     "nome": "Enner Valencia",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ECU20.jpg"
   },
   {
@@ -417,6 +535,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SEN1.jpg"
   },
   {
@@ -424,6 +544,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/SEN2.jpg"
   },
   {
@@ -431,6 +553,8 @@
     "nome": "Édouard Mendy",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SEN3.jpg"
   },
   {
@@ -438,6 +562,8 @@
     "nome": "Alfred Gomis",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SEN4.jpg"
   },
   {
@@ -445,6 +571,8 @@
     "nome": "Saliou Ciss",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SEN5.jpg"
   },
   {
@@ -452,6 +580,8 @@
     "nome": "Pape Abou Cissé",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SEN6.jpg"
   },
   {
@@ -459,6 +589,8 @@
     "nome": "Abdou Diallo",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SEN7.jpg"
   },
   {
@@ -466,6 +598,8 @@
     "nome": "Kalidou Koulibaly",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SEN8.jpg"
   },
   {
@@ -473,6 +607,8 @@
     "nome": "Ibrahima Mbaye",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SEN9.jpg"
   },
   {
@@ -480,6 +616,8 @@
     "nome": "Bouna Sarr",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SEN10.jpg"
   },
   {
@@ -487,6 +625,8 @@
     "nome": "Krépin Diatta",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SEN11.jpg"
   },
   {
@@ -494,6 +634,8 @@
     "nome": "Idrissa Gueye",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SEN12.jpg"
   },
   {
@@ -501,6 +643,8 @@
     "nome": "Pape Gueye",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SEN13.jpg"
   },
   {
@@ -508,6 +652,8 @@
     "nome": "Cheikhou Kouyaté",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SEN14.jpg"
   },
   {
@@ -515,6 +661,8 @@
     "nome": "Nampalys Mendy",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SEN15.jpg"
   },
   {
@@ -522,6 +670,8 @@
     "nome": "Boulaye Dia",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SEN16.jpg"
   },
   {
@@ -529,6 +679,8 @@
     "nome": "Famara Diédhiou",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SEN17.jpg"
   },
   {
@@ -536,6 +688,8 @@
     "nome": "Bamba Dieng",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SEN18.jpg"
   },
   {
@@ -543,6 +697,8 @@
     "nome": "Sadio Mané",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SEN19.jpg"
   },
   {
@@ -550,6 +706,8 @@
     "nome": "Ismaïla Sarr",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SEN20.jpg"
   },
   {
@@ -557,6 +715,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/NED1.jpg"
   },
   {
@@ -564,6 +724,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Netherlands",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/NED2.jpg"
   },
   {
@@ -571,6 +733,8 @@
     "nome": "Justin Bijlow",
     "tenho": true,
     "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/NED3.jpg"
   },
   {
@@ -578,6 +742,8 @@
     "nome": "Jasper Cillessen",
     "tenho": true,
     "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/NED4.jpg"
   },
   {
@@ -585,6 +751,8 @@
     "nome": "Daley Blind",
     "tenho": true,
     "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/NED5.jpg"
   },
   {
@@ -592,6 +760,8 @@
     "nome": "Matthijs de Ligt",
     "tenho": true,
     "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/NED6.jpg"
   },
   {
@@ -599,6 +769,8 @@
     "nome": "Stefan de Vrij",
     "tenho": true,
     "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/NED7.jpg"
   },
   {
@@ -606,6 +778,8 @@
     "nome": "Denzel Dumfries",
     "tenho": true,
     "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/NED8.jpg"
   },
   {
@@ -613,6 +787,8 @@
     "nome": "Virgil van Dijk",
     "tenho": true,
     "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/NED9.jpg"
   },
   {
@@ -620,6 +796,8 @@
     "nome": "Steven Berghuis",
     "tenho": true,
     "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/NED10.jpg"
   },
   {
@@ -627,6 +805,8 @@
     "nome": "Frenkie de Jong",
     "tenho": true,
     "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/NED11.jpg"
   },
   {
@@ -634,6 +814,8 @@
     "nome": "Ryan Gravenberch",
     "tenho": true,
     "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/NED12.jpg"
   },
   {
@@ -641,6 +823,8 @@
     "nome": "Davy Klaassen",
     "tenho": true,
     "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/NED13.jpg"
   },
   {
@@ -648,6 +832,8 @@
     "nome": "Teun Koopmeiners",
     "tenho": true,
     "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/NED14.jpg"
   },
   {
@@ -655,6 +841,8 @@
     "nome": "Georginio Wijnaldum",
     "tenho": true,
     "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/NED15.jpg"
   },
   {
@@ -662,6 +850,8 @@
     "nome": "Steven Bergwijn",
     "tenho": true,
     "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/NED16.jpg"
   },
   {
@@ -669,6 +859,8 @@
     "nome": "Arnaut Danjuma",
     "tenho": true,
     "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/NED17.jpg"
   },
   {
@@ -676,6 +868,8 @@
     "nome": "Memphis Depay",
     "tenho": true,
     "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/NED18.jpg"
   },
   {
@@ -683,6 +877,8 @@
     "nome": "Cody Gakpo",
     "tenho": true,
     "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/NED19.jpg"
   },
   {
@@ -690,6 +886,8 @@
     "nome": "Donyell Malen",
     "tenho": true,
     "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/NED20.jpg"
   },
   {
@@ -697,6 +895,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ENG1.jpg"
   },
   {
@@ -704,6 +904,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/ENG2.jpg"
   },
   {
@@ -711,6 +913,8 @@
     "nome": "Jordan Pickford",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ENG3.jpg"
   },
   {
@@ -718,6 +922,8 @@
     "nome": "Aaron Ramsdale",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ENG4.jpg"
   },
   {
@@ -725,6 +931,8 @@
     "nome": "Trent Alexander-Arnold",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ENG5.jpg"
   },
   {
@@ -732,6 +940,8 @@
     "nome": "Conor Coady",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ENG6.jpg"
   },
   {
@@ -739,6 +949,8 @@
     "nome": "Harry Maguire",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ENG7.jpg"
   },
   {
@@ -746,6 +958,8 @@
     "nome": "Luke Shaw",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ENG8.jpg"
   },
   {
@@ -753,6 +967,8 @@
     "nome": "John Stones",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ENG9.jpg"
   },
   {
@@ -760,6 +976,8 @@
     "nome": "Kyle Walker",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ENG10.jpg"
   },
   {
@@ -767,6 +985,8 @@
     "nome": "Jude Bellingham",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ENG11.jpg"
   },
   {
@@ -774,6 +994,8 @@
     "nome": "Jack Grealish",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ENG12.jpg"
   },
   {
@@ -781,6 +1003,8 @@
     "nome": "Jordan Henderson",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ENG13.jpg"
   },
   {
@@ -788,6 +1012,8 @@
     "nome": "Mason Mount",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ENG14.jpg"
   },
   {
@@ -795,6 +1021,8 @@
     "nome": "Kalvin Phillips",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ENG15.jpg"
   },
   {
@@ -802,6 +1030,8 @@
     "nome": "Declan Rice",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ENG16.jpg"
   },
   {
@@ -809,6 +1039,8 @@
     "nome": "Phil Foden",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ENG17.jpg"
   },
   {
@@ -816,6 +1048,8 @@
     "nome": "Harry Kane",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ENG18.jpg"
   },
   {
@@ -823,6 +1057,8 @@
     "nome": "Bukayo Saka",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ENG19.jpg"
   },
   {
@@ -830,6 +1066,8 @@
     "nome": "Raheem Sterling",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ENG20.jpg"
   },
   {
@@ -837,6 +1075,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/IRN1.jpg"
   },
   {
@@ -844,6 +1084,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/IRN2.jpg"
   },
   {
@@ -851,6 +1093,8 @@
     "nome": "Amir Abedzadeh",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/IRN3.jpg"
   },
   {
@@ -858,6 +1102,8 @@
     "nome": "Alireza Beiranvand",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/IRN4.jpg"
   },
   {
@@ -865,6 +1111,8 @@
     "nome": "Ehsan Hajsafi",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/IRN5.jpg"
   },
   {
@@ -872,6 +1120,8 @@
     "nome": "Majid Hosseini",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/IRN6.jpg"
   },
   {
@@ -879,6 +1129,8 @@
     "nome": "Hossein Kanaani",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/IRN7.jpg"
   },
   {
@@ -886,6 +1138,8 @@
     "nome": "Shoja Khalilzadeh",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/IRN8.jpg"
   },
   {
@@ -893,6 +1147,8 @@
     "nome": "Milad Mohammadi",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/IRN9.jpg"
   },
   {
@@ -900,6 +1156,8 @@
     "nome": "Sadegh Moharrami",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/IRN10.jpg"
   },
   {
@@ -907,6 +1165,8 @@
     "nome": "Omid Noorafkan",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/IRN11.jpg"
   },
   {
@@ -914,6 +1174,8 @@
     "nome": "Vahid Amiri",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/IRN12.jpg"
   },
   {
@@ -921,6 +1183,8 @@
     "nome": "Saeid Ezatolahi",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/IRN13.jpg"
   },
   {
@@ -928,6 +1192,8 @@
     "nome": "Ali Gholizadeh",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/IRN14.jpg"
   },
   {
@@ -935,6 +1201,8 @@
     "nome": "Alireza Jahanbakhsh",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/IRN15.jpg"
   },
   {
@@ -942,6 +1210,8 @@
     "nome": "Ahmad Nourollahi",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/IRN16.jpg"
   },
   {
@@ -949,6 +1219,8 @@
     "nome": "Karim Ansarifard",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/IRN17.jpg"
   },
   {
@@ -956,6 +1228,8 @@
     "nome": "Sardar Azmoun",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/IRN18.jpg"
   },
   {
@@ -963,6 +1237,8 @@
     "nome": "Saman Ghoddos",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/IRN19.jpg"
   },
   {
@@ -970,6 +1246,8 @@
     "nome": "Mehdi Taremi",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/IRN20.jpg"
   },
   {
@@ -977,6 +1255,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/USA1.jpg"
   },
   {
@@ -984,6 +1264,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/USA2.jpg"
   },
   {
@@ -991,6 +1273,8 @@
     "nome": "Matt Turner",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/USA3.jpg"
   },
   {
@@ -998,6 +1282,8 @@
     "nome": "Zack Steffen",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/USA4.jpg"
   },
   {
@@ -1005,6 +1291,8 @@
     "nome": "Sergiño Dest",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/USA5.jpg"
   },
   {
@@ -1012,6 +1300,8 @@
     "nome": "Aaron Long",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/USA6.jpg"
   },
   {
@@ -1019,6 +1309,8 @@
     "nome": "Chris Richards",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/USA7.jpg"
   },
   {
@@ -1026,6 +1318,8 @@
     "nome": "Antonee Robinson",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/USA8.jpg"
   },
   {
@@ -1033,6 +1327,8 @@
     "nome": "DeAndre Yedlin",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/USA9.jpg"
   },
   {
@@ -1040,6 +1336,8 @@
     "nome": "Walker Zimmerman",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/USA10.jpg"
   },
   {
@@ -1047,6 +1345,8 @@
     "nome": "Brenden Aaronson",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/USA11.jpg"
   },
   {
@@ -1054,6 +1354,8 @@
     "nome": "Kellyn Acosta",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/USA12.jpg"
   },
   {
@@ -1061,6 +1363,8 @@
     "nome": "Tyler Adams",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/USA13.jpg"
   },
   {
@@ -1068,6 +1372,8 @@
     "nome": "Weston McKennie",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/USA14.jpg"
   },
   {
@@ -1075,6 +1381,8 @@
     "nome": "Yunus Musah",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/USA15.jpg"
   },
   {
@@ -1082,6 +1390,8 @@
     "nome": "Jesús Ferreira",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/USA16.jpg"
   },
   {
@@ -1089,6 +1399,8 @@
     "nome": "Ricardo Pepi",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/USA17.jpg"
   },
   {
@@ -1096,6 +1408,8 @@
     "nome": "Christian Pulisic",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/USA18.jpg"
   },
   {
@@ -1103,6 +1417,8 @@
     "nome": "Giovanni Reyna",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/USA19.jpg"
   },
   {
@@ -1110,6 +1426,8 @@
     "nome": "Timothy Weah",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/USA20.jpg"
   },
   {
@@ -1117,6 +1435,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/WAL1.jpg"
   },
   {
@@ -1124,6 +1444,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Wales",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/WAL2.jpg"
   },
   {
@@ -1131,6 +1453,8 @@
     "nome": "Danny Ward",
     "tenho": true,
     "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/WAL3.jpg"
   },
   {
@@ -1138,6 +1462,8 @@
     "nome": "Wayne Hennessey",
     "tenho": true,
     "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/WAL4.jpg"
   },
   {
@@ -1145,6 +1471,8 @@
     "nome": "Ethan Ampadu",
     "tenho": true,
     "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/WAL5.jpg"
   },
   {
@@ -1152,6 +1480,8 @@
     "nome": "Ben Davies",
     "tenho": true,
     "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/WAL6.jpg"
   },
   {
@@ -1159,6 +1489,8 @@
     "nome": "Chris Gunter",
     "tenho": true,
     "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/WAL7.jpg"
   },
   {
@@ -1166,6 +1498,8 @@
     "nome": "Chris Mepham",
     "tenho": true,
     "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/WAL8.jpg"
   },
   {
@@ -1173,6 +1507,8 @@
     "nome": "Connor Roberts",
     "tenho": true,
     "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/WAL9.jpg"
   },
   {
@@ -1180,6 +1516,8 @@
     "nome": "Joe Rodon",
     "tenho": true,
     "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/WAL10.jpg"
   },
   {
@@ -1187,6 +1525,8 @@
     "nome": "Neco Williams",
     "tenho": true,
     "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/WAL11.jpg"
   },
   {
@@ -1194,6 +1534,8 @@
     "nome": "Joe Allen",
     "tenho": true,
     "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/WAL12.jpg"
   },
   {
@@ -1201,6 +1543,8 @@
     "nome": "Joe Morrell",
     "tenho": true,
     "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/WAL13.jpg"
   },
   {
@@ -1208,6 +1552,8 @@
     "nome": "Aaron Ramsey",
     "tenho": true,
     "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/WAL14.jpg"
   },
   {
@@ -1215,6 +1561,8 @@
     "nome": "Jonathan Williams",
     "tenho": true,
     "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/WAL15.jpg"
   },
   {
@@ -1222,6 +1570,8 @@
     "nome": "Harry Wilson",
     "tenho": true,
     "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/WAL16.jpg"
   },
   {
@@ -1229,6 +1579,8 @@
     "nome": "Gareth Bale",
     "tenho": true,
     "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/WAL17.jpg"
   },
   {
@@ -1236,6 +1588,8 @@
     "nome": "Daniel James",
     "tenho": true,
     "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/WAL18.jpg"
   },
   {
@@ -1243,6 +1597,8 @@
     "nome": "Brennan Johnson",
     "tenho": true,
     "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/WAL19.jpg"
   },
   {
@@ -1250,6 +1606,8 @@
     "nome": "Kieffer Moore",
     "tenho": true,
     "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/WAL20.jpg"
   },
   {
@@ -1257,6 +1615,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ARG1.jpg"
   },
   {
@@ -1264,6 +1624,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/ARG2.jpg"
   },
   {
@@ -1271,6 +1633,8 @@
     "nome": "Emiliano Martínez",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ARG3.jpg"
   },
   {
@@ -1278,6 +1642,8 @@
     "nome": "Franco Armani",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ARG4.jpg"
   },
   {
@@ -1285,6 +1651,8 @@
     "nome": "Marcos Acuña",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ARG5.jpg"
   },
   {
@@ -1292,6 +1660,8 @@
     "nome": "Nahuel Molina",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ARG6.jpg"
   },
   {
@@ -1299,6 +1669,8 @@
     "nome": "Nicolás Otamendi",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ARG7.jpg"
   },
   {
@@ -1306,6 +1678,8 @@
     "nome": "Germán Pezzella",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ARG8.jpg"
   },
   {
@@ -1313,6 +1687,8 @@
     "nome": "Cristian Romero",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ARG9.jpg"
   },
   {
@@ -1320,6 +1696,8 @@
     "nome": "Rodrigo De Paul",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ARG10.jpg"
   },
   {
@@ -1327,6 +1705,8 @@
     "nome": "Ángel Di María",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ARG11.jpg"
   },
   {
@@ -1334,6 +1714,8 @@
     "nome": "Giovani Lo Celso",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ARG12.jpg"
   },
   {
@@ -1341,6 +1723,8 @@
     "nome": "Leandro Paredes",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ARG13.jpg"
   },
   {
@@ -1348,6 +1732,8 @@
     "nome": "Guido Rodríguez",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ARG14.jpg"
   },
   {
@@ -1355,6 +1741,8 @@
     "nome": "Julián Álvarez",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ARG15.jpg"
   },
   {
@@ -1362,6 +1750,8 @@
     "nome": "Joaquín Correa",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ARG16.jpg"
   },
   {
@@ -1369,6 +1759,8 @@
     "nome": "Alejandro Gómez",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ARG17.jpg"
   },
   {
@@ -1376,6 +1768,8 @@
     "nome": "Nicolás González",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ARG18.jpg"
   },
   {
@@ -1383,6 +1777,8 @@
     "nome": "Lautaro Martínez",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ARG19.jpg"
   },
   {
@@ -1390,6 +1786,8 @@
     "nome": "Lionel Messi",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ARG20.jpg"
   },
   {
@@ -1397,6 +1795,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KSA1.jpg"
   },
   {
@@ -1404,6 +1804,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/KSA2.jpg"
   },
   {
@@ -1411,6 +1813,8 @@
     "nome": "Mohammed Al-Owais",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KSA3.jpg"
   },
   {
@@ -1418,6 +1822,8 @@
     "nome": "Mohammed Al-Rubaie",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KSA4.jpg"
   },
   {
@@ -1425,6 +1831,8 @@
     "nome": "Abdulelah Al-Amri",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KSA5.jpg"
   },
   {
@@ -1432,6 +1840,8 @@
     "nome": "Ali Al-Boleahi",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KSA6.jpg"
   },
   {
@@ -1439,6 +1849,8 @@
     "nome": "Mohammed Al-Burayk",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KSA7.jpg"
   },
   {
@@ -1446,6 +1858,8 @@
     "nome": "Sultan Al-Ghannam",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KSA8.jpg"
   },
   {
@@ -1453,6 +1867,8 @@
     "nome": "Yasser Al-Shahrani",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KSA9.jpg"
   },
   {
@@ -1460,6 +1876,8 @@
     "nome": "Hassan Al-Tambakti",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KSA10.jpg"
   },
   {
@@ -1467,6 +1885,8 @@
     "nome": "Abdullah Madu",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KSA11.jpg"
   },
   {
@@ -1474,6 +1894,8 @@
     "nome": "Salman Al-Faraj",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KSA12.jpg"
   },
   {
@@ -1481,6 +1903,8 @@
     "nome": "Abdulelah Al-Malki",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KSA13.jpg"
   },
   {
@@ -1488,6 +1912,8 @@
     "nome": "Sami Al-Najei",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KSA14.jpg"
   },
   {
@@ -1495,6 +1921,8 @@
     "nome": "Hattan Bahebri",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KSA15.jpg"
   },
   {
@@ -1502,6 +1930,8 @@
     "nome": "Mohamed Kanno",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KSA16.jpg"
   },
   {
@@ -1509,6 +1939,8 @@
     "nome": "Abdullah Otayf",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KSA17.jpg"
   },
   {
@@ -1516,6 +1948,8 @@
     "nome": "Firas Al-Buraikan",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KSA18.jpg"
   },
   {
@@ -1523,6 +1957,8 @@
     "nome": "Salem Al-Dawsari",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KSA19.jpg"
   },
   {
@@ -1530,6 +1966,8 @@
     "nome": "Khalid Al-Ghannam",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KSA20.jpg"
   },
   {
@@ -1537,6 +1975,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/MEX1.jpg"
   },
   {
@@ -1544,6 +1984,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/MEX2.jpg"
   },
   {
@@ -1551,6 +1993,8 @@
     "nome": "Guillermo Ochoa",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/MEX3.jpg"
   },
   {
@@ -1558,6 +2002,8 @@
     "nome": "Alfredo Talavera",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/MEX4.jpg"
   },
   {
@@ -1565,6 +2011,8 @@
     "nome": "Néstor Araújo",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/MEX5.jpg"
   },
   {
@@ -1572,6 +2020,8 @@
     "nome": "Jesús Gallardo",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/MEX6.jpg"
   },
   {
@@ -1579,6 +2029,8 @@
     "nome": "César Montes",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/MEX7.jpg"
   },
   {
@@ -1586,6 +2038,8 @@
     "nome": "Héctor Moreno",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/MEX8.jpg"
   },
   {
@@ -1593,6 +2047,8 @@
     "nome": "Luis Romo",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/MEX9.jpg"
   },
   {
@@ -1600,6 +2056,8 @@
     "nome": "Jorge Sánchez",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/MEX10.jpg"
   },
   {
@@ -1607,6 +2065,8 @@
     "nome": "Edson Álvarez",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/MEX11.jpg"
   },
   {
@@ -1614,6 +2074,8 @@
     "nome": "Jesús Manuel Corona",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/MEX12.jpg"
   },
   {
@@ -1621,6 +2083,8 @@
     "nome": "Andrés Guardado",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/MEX13.jpg"
   },
   {
@@ -1628,6 +2092,8 @@
     "nome": "Érick Gutiérrez",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/MEX14.jpg"
   },
   {
@@ -1635,6 +2101,8 @@
     "nome": "Héctor Herrera",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/MEX15.jpg"
   },
   {
@@ -1642,6 +2110,8 @@
     "nome": "Diego Lainez",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/MEX16.jpg"
   },
   {
@@ -1649,6 +2119,8 @@
     "nome": "Carlos Rodríguez",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/MEX17.jpg"
   },
   {
@@ -1656,6 +2128,8 @@
     "nome": "Rogelio Funes Mori",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/MEX18.jpg"
   },
   {
@@ -1663,6 +2137,8 @@
     "nome": "Raúl Jiménez",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/MEX19.jpg"
   },
   {
@@ -1670,6 +2146,8 @@
     "nome": "Hirving Lozano",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/MEX20.jpg"
   },
   {
@@ -1677,6 +2155,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POL1.jpg"
   },
   {
@@ -1684,6 +2164,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/POL2.jpg"
   },
   {
@@ -1691,6 +2173,8 @@
     "nome": "Wojciech Szczęsny",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POL3.jpg"
   },
   {
@@ -1698,6 +2182,8 @@
     "nome": "Łukasz Skorupski",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POL4.jpg"
   },
   {
@@ -1705,6 +2191,8 @@
     "nome": "Jan Bednarek",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POL5.jpg"
   },
   {
@@ -1712,6 +2200,8 @@
     "nome": "Bartosz Bereszyński",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POL6.jpg"
   },
   {
@@ -1719,6 +2209,8 @@
     "nome": "Matty Cash",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POL7.jpg"
   },
   {
@@ -1726,6 +2218,8 @@
     "nome": "Kamil Glik",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POL8.jpg"
   },
   {
@@ -1733,6 +2227,8 @@
     "nome": "Tymoteusz Puchacz",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POL9.jpg"
   },
   {
@@ -1740,6 +2236,8 @@
     "nome": "Maciej Rybus",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POL10.jpg"
   },
   {
@@ -1747,6 +2245,8 @@
     "nome": "Kamil Jóźwiak",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POL11.jpg"
   },
   {
@@ -1754,6 +2254,8 @@
     "nome": "Mateusz Klich",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POL12.jpg"
   },
   {
@@ -1761,6 +2263,8 @@
     "nome": "Grzegorz Krychowiak",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POL13.jpg"
   },
   {
@@ -1768,6 +2272,8 @@
     "nome": "Jakub Moder",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POL14.jpg"
   },
   {
@@ -1775,6 +2281,8 @@
     "nome": "Sebastian Szymański",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POL15.jpg"
   },
   {
@@ -1782,6 +2290,8 @@
     "nome": "Piotr Zieliński",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POL16.jpg"
   },
   {
@@ -1789,6 +2299,8 @@
     "nome": "Robert Lewandowski",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POL17.jpg"
   },
   {
@@ -1796,6 +2308,8 @@
     "nome": "Arkadiusz Milik",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POL18.jpg"
   },
   {
@@ -1803,6 +2317,8 @@
     "nome": "Krzysztof Piątek",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POL19.jpg"
   },
   {
@@ -1810,6 +2326,8 @@
     "nome": "Karol Świderski",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POL20.jpg"
   },
   {
@@ -1817,6 +2335,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FRA1.jpg"
   },
   {
@@ -1824,6 +2344,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/FRA2.jpg"
   },
   {
@@ -1831,6 +2353,8 @@
     "nome": "Hugo Lloris",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FRA3.jpg"
   },
   {
@@ -1838,6 +2362,8 @@
     "nome": "Mike Maignan",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FRA4.jpg"
   },
   {
@@ -1845,6 +2371,8 @@
     "nome": "Lucas Hernández",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FRA5.jpg"
   },
   {
@@ -1852,6 +2380,8 @@
     "nome": "Theo Hernández",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FRA6.jpg"
   },
   {
@@ -1859,6 +2389,8 @@
     "nome": "Presnel Kimpembe",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FRA7.jpg"
   },
   {
@@ -1866,6 +2398,8 @@
     "nome": "Jules Koundé",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FRA8.jpg"
   },
   {
@@ -1873,6 +2407,8 @@
     "nome": "Benjamin Pavard",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FRA9.jpg"
   },
   {
@@ -1880,6 +2416,8 @@
     "nome": "Raphaël Varane",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FRA10.jpg"
   },
   {
@@ -1887,6 +2425,8 @@
     "nome": "N’Golo Kanté",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FRA11.jpg"
   },
   {
@@ -1894,6 +2434,8 @@
     "nome": "Paul Pogba",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FRA12.jpg"
   },
   {
@@ -1901,6 +2443,8 @@
     "nome": "Adrien Rabiot",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FRA13.jpg"
   },
   {
@@ -1908,6 +2452,8 @@
     "nome": "Aurélien Tchouaméni",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FRA14.jpg"
   },
   {
@@ -1915,6 +2461,8 @@
     "nome": "Wissam Ben Yedder",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FRA15.jpg"
   },
   {
@@ -1922,6 +2470,8 @@
     "nome": "Karim Benzema",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FRA16.jpg"
   },
   {
@@ -1929,6 +2479,8 @@
     "nome": "Kingsley Coman",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FRA17.jpg"
   },
   {
@@ -1936,6 +2488,8 @@
     "nome": "Antoine Griezmann",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FRA18.jpg"
   },
   {
@@ -1943,6 +2497,8 @@
     "nome": "Kylian Mbappé",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FRA19.jpg"
   },
   {
@@ -1950,6 +2506,8 @@
     "nome": "Christopher Nkunku",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/FRA20.jpg"
   },
   {
@@ -1957,6 +2515,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/AUS1.jpg"
   },
   {
@@ -1964,6 +2524,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/AUS2.jpg"
   },
   {
@@ -1971,6 +2533,8 @@
     "nome": "Mathew Ryan",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/AUS3.jpg"
   },
   {
@@ -1978,6 +2542,8 @@
     "nome": "Andrew Redmayne",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/AUS4.jpg"
   },
   {
@@ -1985,6 +2551,8 @@
     "nome": "Aziz Behich",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/AUS5.jpg"
   },
   {
@@ -1992,6 +2560,8 @@
     "nome": "Miloš Degenek",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/AUS6.jpg"
   },
   {
@@ -1999,6 +2569,8 @@
     "nome": "Rhyan Grant",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/AUS7.jpg"
   },
   {
@@ -2006,6 +2578,8 @@
     "nome": "Joel King",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/AUS8.jpg"
   },
   {
@@ -2013,6 +2587,8 @@
     "nome": "Trent Sainsbury",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/AUS9.jpg"
   },
   {
@@ -2020,6 +2596,8 @@
     "nome": "Harry Souttar",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/AUS10.jpg"
   },
   {
@@ -2027,6 +2605,8 @@
     "nome": "Ajdin Hrustić",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/AUS11.jpg"
   },
   {
@@ -2034,6 +2614,8 @@
     "nome": "Jackson Irvine",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/AUS12.jpg"
   },
   {
@@ -2041,6 +2623,8 @@
     "nome": "James Jeggo",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/AUS13.jpg"
   },
   {
@@ -2048,6 +2632,8 @@
     "nome": "Awer Mabil",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/AUS14.jpg"
   },
   {
@@ -2055,6 +2641,8 @@
     "nome": "Aaron Mooy",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/AUS15.jpg"
   },
   {
@@ -2062,6 +2650,8 @@
     "nome": "Martin Boyle",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/AUS16.jpg"
   },
   {
@@ -2069,6 +2659,8 @@
     "nome": "Mitchell Duke",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/AUS17.jpg"
   },
   {
@@ -2076,6 +2668,8 @@
     "nome": "Craig Goodwin",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/AUS18.jpg"
   },
   {
@@ -2083,6 +2677,8 @@
     "nome": "Mathew Leckie",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/AUS19.jpg"
   },
   {
@@ -2090,6 +2686,8 @@
     "nome": "Adam Taggart",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/AUS20.jpg"
   },
   {
@@ -2097,6 +2695,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/DEN1.jpg"
   },
   {
@@ -2104,6 +2704,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/DEN2.jpg"
   },
   {
@@ -2111,6 +2713,8 @@
     "nome": "Kasper Schmeichel",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/DEN3.jpg"
   },
   {
@@ -2118,6 +2722,8 @@
     "nome": "Frederik Rønnow",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/DEN4.jpg"
   },
   {
@@ -2125,6 +2731,8 @@
     "nome": "Andreas Christensen",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/DEN5.jpg"
   },
   {
@@ -2132,6 +2740,8 @@
     "nome": "Simon Kjær",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/DEN6.jpg"
   },
   {
@@ -2139,6 +2749,8 @@
     "nome": "Joakim Mæhle",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/DEN7.jpg"
   },
   {
@@ -2146,6 +2758,8 @@
     "nome": "Jens Stryger Larsen",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/DEN8.jpg"
   },
   {
@@ -2153,6 +2767,8 @@
     "nome": "Jannik Vestergaard",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/DEN9.jpg"
   },
   {
@@ -2160,6 +2776,8 @@
     "nome": "Mikkel Damsgaard",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/DEN10.jpg"
   },
   {
@@ -2167,6 +2785,8 @@
     "nome": "Thomas Delaney",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/DEN11.jpg"
   },
   {
@@ -2174,6 +2794,8 @@
     "nome": "Christian Eriksen",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/DEN12.jpg"
   },
   {
@@ -2181,6 +2803,8 @@
     "nome": "Pierre Emile Højbjerg",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/DEN13.jpg"
   },
   {
@@ -2188,6 +2812,8 @@
     "nome": "Christian Nørgaard",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/DEN14.jpg"
   },
   {
@@ -2195,6 +2821,8 @@
     "nome": "Daniel Wass",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/DEN15.jpg"
   },
   {
@@ -2202,6 +2830,8 @@
     "nome": "Martin Braithwaite",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/DEN16.jpg"
   },
   {
@@ -2209,6 +2839,8 @@
     "nome": "Kasper Dolberg",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/DEN17.jpg"
   },
   {
@@ -2216,6 +2848,8 @@
     "nome": "Yussuf Poulsen",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/DEN18.jpg"
   },
   {
@@ -2223,6 +2857,8 @@
     "nome": "Andreas Skov Olsen",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/DEN19.jpg"
   },
   {
@@ -2230,6 +2866,8 @@
     "nome": "Jonas Wind",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/DEN20.jpg"
   },
   {
@@ -2237,6 +2875,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/TUN1.jpg"
   },
   {
@@ -2244,6 +2884,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/TUN2.jpg"
   },
   {
@@ -2251,6 +2893,8 @@
     "nome": "Bechir Ben Saïd",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/TUN3.jpg"
   },
   {
@@ -2258,6 +2902,8 @@
     "nome": "Farouk Ben Mustapha",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/TUN4.jpg"
   },
   {
@@ -2265,6 +2911,8 @@
     "nome": "Dylan Bronn",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/TUN5.jpg"
   },
   {
@@ -2272,6 +2920,8 @@
     "nome": "Mohamed Dräger",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/TUN6.jpg"
   },
   {
@@ -2279,6 +2929,8 @@
     "nome": "Bilel Ifa",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/TUN7.jpg"
   },
   {
@@ -2286,6 +2938,8 @@
     "nome": "Ali Maâloul",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/TUN8.jpg"
   },
   {
@@ -2293,6 +2947,8 @@
     "nome": "Hamza Mathlouthi",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/TUN9.jpg"
   },
   {
@@ -2300,6 +2956,8 @@
     "nome": "Yassine Meriah",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/TUN10.jpg"
   },
   {
@@ -2307,6 +2965,8 @@
     "nome": "Montassar Talbi",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/TUN11.jpg"
   },
   {
@@ -2314,6 +2974,8 @@
     "nome": "Mohamed Ali Ben Romdhane",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/TUN12.jpg"
   },
   {
@@ -2321,6 +2983,8 @@
     "nome": "Wahbi Khazri",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/TUN13.jpg"
   },
   {
@@ -2328,6 +2992,8 @@
     "nome": "Aïssa Laïdouni",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/TUN14.jpg"
   },
   {
@@ -2335,6 +3001,8 @@
     "nome": "Ferjani Sassi",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/TUN15.jpg"
   },
   {
@@ -2342,6 +3010,8 @@
     "nome": "Ellyes Skhiri",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/TUN16.jpg"
   },
   {
@@ -2349,6 +3019,8 @@
     "nome": "Anis Slimane",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/TUN17.jpg"
   },
   {
@@ -2356,6 +3028,8 @@
     "nome": "Seifeddine Jaziri",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/TUN18.jpg"
   },
   {
@@ -2363,6 +3037,8 @@
     "nome": "Youssef Msakni",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/TUN19.jpg"
   },
   {
@@ -2370,6 +3046,8 @@
     "nome": "Naïm Sliti",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/TUN20.jpg"
   },
   {
@@ -2377,6 +3055,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ESP1.jpg"
   },
   {
@@ -2384,6 +3064,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/ESP2.jpg"
   },
   {
@@ -2391,6 +3073,8 @@
     "nome": "Unai Simón",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ESP3.jpg"
   },
   {
@@ -2398,6 +3082,8 @@
     "nome": "Robert Sánchez",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ESP4.jpg"
   },
   {
@@ -2405,6 +3091,8 @@
     "nome": "César Azpilicueta",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ESP5.jpg"
   },
   {
@@ -2412,6 +3100,8 @@
     "nome": "Eric García",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ESP6.jpg"
   },
   {
@@ -2419,6 +3109,8 @@
     "nome": "Jordi Alba",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ESP7.jpg"
   },
   {
@@ -2426,6 +3118,8 @@
     "nome": "Aymeric Laporte",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ESP8.jpg"
   },
   {
@@ -2433,6 +3127,8 @@
     "nome": "Pau Torres",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ESP9.jpg"
   },
   {
@@ -2440,6 +3136,8 @@
     "nome": "Gavi",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ESP10.jpg"
   },
   {
@@ -2447,6 +3145,8 @@
     "nome": "Koke",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ESP11.jpg"
   },
   {
@@ -2454,6 +3154,8 @@
     "nome": "Marcos Llorente",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ESP12.jpg"
   },
   {
@@ -2461,6 +3163,8 @@
     "nome": "Pedri",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ESP13.jpg"
   },
   {
@@ -2468,6 +3172,8 @@
     "nome": "Rodri",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ESP14.jpg"
   },
   {
@@ -2475,6 +3181,8 @@
     "nome": "Sergio Busquets",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ESP15.jpg"
   },
   {
@@ -2482,6 +3190,8 @@
     "nome": "Dani Olmo",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ESP16.jpg"
   },
   {
@@ -2489,6 +3199,8 @@
     "nome": "Ansu Fati",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ESP17.jpg"
   },
   {
@@ -2496,6 +3208,8 @@
     "nome": "Ferran Torres",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ESP18.jpg"
   },
   {
@@ -2503,6 +3217,8 @@
     "nome": "Álvaro Morata",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ESP19.jpg"
   },
   {
@@ -2510,6 +3226,8 @@
     "nome": "Pablo Sarabia",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/ESP20.jpg"
   },
   {
@@ -2517,6 +3235,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRC1.jpg"
   },
   {
@@ -2524,6 +3244,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/CRC2.jpg"
   },
   {
@@ -2531,6 +3253,8 @@
     "nome": "Keylor Navas",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRC3.jpg"
   },
   {
@@ -2538,6 +3262,8 @@
     "nome": "Leonel Moreira",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRC4.jpg"
   },
   {
@@ -2545,6 +3271,8 @@
     "nome": "Ricardo Blanco",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRC5.jpg"
   },
   {
@@ -2552,6 +3280,8 @@
     "nome": "Francisco Calvo",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRC6.jpg"
   },
   {
@@ -2559,6 +3289,8 @@
     "nome": "Óscar Duarte",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRC7.jpg"
   },
   {
@@ -2566,6 +3298,8 @@
     "nome": "Keysher Fuller",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRC8.jpg"
   },
   {
@@ -2573,6 +3307,8 @@
     "nome": "Bryan Oviedo",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRC9.jpg"
   },
   {
@@ -2580,6 +3316,8 @@
     "nome": "Juan Pablo Vargas",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRC10.jpg"
   },
   {
@@ -2587,6 +3325,8 @@
     "nome": "Kendall Waston",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRC11.jpg"
   },
   {
@@ -2594,6 +3334,8 @@
     "nome": "Celso Borges",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRC12.jpg"
   },
   {
@@ -2601,6 +3343,8 @@
     "nome": "Orlando Galo",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRC13.jpg"
   },
   {
@@ -2608,6 +3352,8 @@
     "nome": "Bryan Ruiz",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRC14.jpg"
   },
   {
@@ -2615,6 +3361,8 @@
     "nome": "Yeltsin Tejeda",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRC15.jpg"
   },
   {
@@ -2622,6 +3370,8 @@
     "nome": "Jewison Bennette",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRC16.jpg"
   },
   {
@@ -2629,6 +3379,8 @@
     "nome": "Joel Campbell",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRC17.jpg"
   },
   {
@@ -2636,6 +3388,8 @@
     "nome": "Anthony Contreras",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRC18.jpg"
   },
   {
@@ -2643,6 +3397,8 @@
     "nome": "Gerson Torres",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRC19.jpg"
   },
   {
@@ -2650,6 +3406,8 @@
     "nome": "Johan Venegas",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRC20.jpg"
   },
   {
@@ -2657,6 +3415,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GER1.jpg"
   },
   {
@@ -2664,6 +3424,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/GER2.jpg"
   },
   {
@@ -2671,6 +3433,8 @@
     "nome": "Manuel Neuer",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GER3.jpg"
   },
   {
@@ -2678,6 +3442,8 @@
     "nome": "Marc-André ter Stegen",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GER4.jpg"
   },
   {
@@ -2685,6 +3451,8 @@
     "nome": "Matthias Ginter",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GER5.jpg"
   },
   {
@@ -2692,6 +3460,8 @@
     "nome": "Robin Gosens",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GER6.jpg"
   },
   {
@@ -2699,6 +3469,8 @@
     "nome": "Thilo Kehrer",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GER7.jpg"
   },
   {
@@ -2706,6 +3478,8 @@
     "nome": "David Raum",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GER8.jpg"
   },
   {
@@ -2713,6 +3487,8 @@
     "nome": "Antonio Rüdiger",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GER9.jpg"
   },
   {
@@ -2720,6 +3496,8 @@
     "nome": "Niklas Süle",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GER10.jpg"
   },
   {
@@ -2727,6 +3505,8 @@
     "nome": "Leon Goretzka",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GER11.jpg"
   },
   {
@@ -2734,6 +3514,8 @@
     "nome": "İlkay Gündoğan",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GER12.jpg"
   },
   {
@@ -2741,6 +3523,8 @@
     "nome": "Kai Havertz",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GER13.jpg"
   },
   {
@@ -2748,6 +3532,8 @@
     "nome": "Jonas Hofmann",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GER14.jpg"
   },
   {
@@ -2755,6 +3541,8 @@
     "nome": "Joshua Kimmich",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GER15.jpg"
   },
   {
@@ -2762,6 +3550,8 @@
     "nome": "Serge Gnabry",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GER16.jpg"
   },
   {
@@ -2769,6 +3559,8 @@
     "nome": "Thomas Müller",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GER17.jpg"
   },
   {
@@ -2776,6 +3568,8 @@
     "nome": "Marco Reus",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GER18.jpg"
   },
   {
@@ -2783,6 +3577,8 @@
     "nome": "Leroy Sané",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GER19.jpg"
   },
   {
@@ -2790,6 +3586,8 @@
     "nome": "Timo Werner",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GER20.jpg"
   },
   {
@@ -2797,6 +3595,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/JPN1.jpg"
   },
   {
@@ -2804,6 +3604,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/JPN2.jpg"
   },
   {
@@ -2811,6 +3613,8 @@
     "nome": "Shuichi Gonda",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/JPN3.jpg"
   },
   {
@@ -2818,6 +3622,8 @@
     "nome": "Eiji Kawashima",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/JPN4.jpg"
   },
   {
@@ -2825,6 +3631,8 @@
     "nome": "Yuto Nagatomo",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/JPN5.jpg"
   },
   {
@@ -2832,6 +3640,8 @@
     "nome": "Yuta Nakayama",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/JPN6.jpg"
   },
   {
@@ -2839,6 +3649,8 @@
     "nome": "Takehiro Tomiyasu",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/JPN7.jpg"
   },
   {
@@ -2846,6 +3658,8 @@
     "nome": "Miki Yamane",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/JPN8.jpg"
   },
   {
@@ -2853,6 +3667,8 @@
     "nome": "Maya Yoshida",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/JPN9.jpg"
   },
   {
@@ -2860,6 +3676,8 @@
     "nome": "Wataru Endo",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/JPN10.jpg"
   },
   {
@@ -2867,6 +3685,8 @@
     "nome": "Genki Haraguchi",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/JPN11.jpg"
   },
   {
@@ -2874,6 +3694,8 @@
     "nome": "Hidemasa Morita",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/JPN12.jpg"
   },
   {
@@ -2881,6 +3703,8 @@
     "nome": "Gaku Shibasaki",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/JPN13.jpg"
   },
   {
@@ -2888,6 +3712,8 @@
     "nome": "Ao Tanaka",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/JPN14.jpg"
   },
   {
@@ -2895,6 +3721,8 @@
     "nome": "Takuma Asano",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/JPN15.jpg"
   },
   {
@@ -2902,6 +3730,8 @@
     "nome": "Kyogo Furuhashi",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/JPN16.jpg"
   },
   {
@@ -2909,6 +3739,8 @@
     "nome": "Junya Ito",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/JPN17.jpg"
   },
   {
@@ -2916,6 +3748,8 @@
     "nome": "Takumi Minamino",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/JPN18.jpg"
   },
   {
@@ -2923,6 +3757,8 @@
     "nome": "Kaoru Mitoma",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/JPN19.jpg"
   },
   {
@@ -2930,6 +3766,8 @@
     "nome": "Yuya Osako",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/JPN20.jpg"
   },
   {
@@ -2937,6 +3775,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BEL1.jpg"
   },
   {
@@ -2944,6 +3784,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/BEL2.jpg"
   },
   {
@@ -2951,6 +3793,8 @@
     "nome": "Thibaut Courtois",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BEL3.jpg"
   },
   {
@@ -2958,6 +3802,8 @@
     "nome": "Simon Mignolet",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BEL4.jpg"
   },
   {
@@ -2965,6 +3811,8 @@
     "nome": "Toby Alderweireld",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BEL5.jpg"
   },
   {
@@ -2972,6 +3820,8 @@
     "nome": "Timothy Castagne",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BEL6.jpg"
   },
   {
@@ -2979,6 +3829,8 @@
     "nome": "Jason Denayer",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BEL7.jpg"
   },
   {
@@ -2986,6 +3838,8 @@
     "nome": "Thomas Meunier",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BEL8.jpg"
   },
   {
@@ -2993,6 +3847,8 @@
     "nome": "Jan Vertonghen",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BEL9.jpg"
   },
   {
@@ -3000,6 +3856,8 @@
     "nome": "Yannick Carrasco",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BEL10.jpg"
   },
   {
@@ -3007,6 +3865,8 @@
     "nome": "Kevin De Bruyne",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BEL11.jpg"
   },
   {
@@ -3014,6 +3874,8 @@
     "nome": "Charles De Ketelaere",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BEL12.jpg"
   },
   {
@@ -3021,6 +3883,8 @@
     "nome": "Thorgan Hazard",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BEL13.jpg"
   },
   {
@@ -3028,6 +3892,8 @@
     "nome": "Youri Tielemans",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BEL14.jpg"
   },
   {
@@ -3035,6 +3901,8 @@
     "nome": "Hans Vanaken",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BEL15.jpg"
   },
   {
@@ -3042,6 +3910,8 @@
     "nome": "Axel Witsel",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BEL16.jpg"
   },
   {
@@ -3049,6 +3919,8 @@
     "nome": "Jérémy Doku",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BEL17.jpg"
   },
   {
@@ -3056,6 +3928,8 @@
     "nome": "Eden Hazard",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BEL18.jpg"
   },
   {
@@ -3063,6 +3937,8 @@
     "nome": "Romelu Lukaku",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BEL19.jpg"
   },
   {
@@ -3070,6 +3946,8 @@
     "nome": "Dries Mertens",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BEL20.jpg"
   },
   {
@@ -3077,6 +3955,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Canada",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CAN1.jpg"
   },
   {
@@ -3084,6 +3964,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Canada",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/CAN2.jpg"
   },
   {
@@ -3091,6 +3973,8 @@
     "nome": "Milan Borjan",
     "tenho": true,
     "especial": false,
+    "clube": "Canada",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CAN3.jpg"
   },
   {
@@ -3098,6 +3982,8 @@
     "nome": "Maxime Crépeau",
     "tenho": true,
     "especial": false,
+    "clube": "Canada",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CAN4.jpg"
   },
   {
@@ -3105,6 +3991,8 @@
     "nome": "Samuel Adekugbe",
     "tenho": true,
     "especial": false,
+    "clube": "Canada",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CAN5.jpg"
   },
   {
@@ -3112,6 +4000,8 @@
     "nome": "Doneil Henry",
     "tenho": true,
     "especial": false,
+    "clube": "Canada",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CAN6.jpg"
   },
   {
@@ -3119,6 +4009,8 @@
     "nome": "Alistair Johnston",
     "tenho": true,
     "especial": false,
+    "clube": "Canada",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CAN7.jpg"
   },
   {
@@ -3126,6 +4018,8 @@
     "nome": "Richie Laryea",
     "tenho": true,
     "especial": false,
+    "clube": "Canada",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CAN8.jpg"
   },
   {
@@ -3133,6 +4027,8 @@
     "nome": "Kamal Miller",
     "tenho": true,
     "especial": false,
+    "clube": "Canada",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CAN9.jpg"
   },
   {
@@ -3140,6 +4036,8 @@
     "nome": "Steven Vitória",
     "tenho": true,
     "especial": false,
+    "clube": "Canada",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CAN10.jpg"
   },
   {
@@ -3147,6 +4045,8 @@
     "nome": "Tajon Buchanan",
     "tenho": true,
     "especial": false,
+    "clube": "Canada",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CAN11.jpg"
   },
   {
@@ -3154,6 +4054,8 @@
     "nome": "Alphonso Davies",
     "tenho": true,
     "especial": false,
+    "clube": "Canada",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CAN12.jpg"
   },
   {
@@ -3161,6 +4063,8 @@
     "nome": "Stephen Eustáquio",
     "tenho": true,
     "especial": false,
+    "clube": "Canada",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CAN13.jpg"
   },
   {
@@ -3168,6 +4072,8 @@
     "nome": "Atiba Hutchinson",
     "tenho": true,
     "especial": false,
+    "clube": "Canada",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CAN14.jpg"
   },
   {
@@ -3175,6 +4081,8 @@
     "nome": "Mark-Anthony Kaye",
     "tenho": true,
     "especial": false,
+    "clube": "Canada",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CAN15.jpg"
   },
   {
@@ -3182,6 +4090,8 @@
     "nome": "Jonathan Osorio",
     "tenho": true,
     "especial": false,
+    "clube": "Canada",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CAN16.jpg"
   },
   {
@@ -3189,6 +4099,8 @@
     "nome": "Samuel Piette",
     "tenho": true,
     "especial": false,
+    "clube": "Canada",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CAN17.jpg"
   },
   {
@@ -3196,6 +4108,8 @@
     "nome": "Jonathan David",
     "tenho": true,
     "especial": false,
+    "clube": "Canada",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CAN18.jpg"
   },
   {
@@ -3203,6 +4117,8 @@
     "nome": "David Junior Hoilett",
     "tenho": true,
     "especial": false,
+    "clube": "Canada",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CAN19.jpg"
   },
   {
@@ -3210,153 +4126,197 @@
     "nome": "Cyle Larin",
     "tenho": true,
     "especial": false,
+    "clube": "Canada",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CAN20.jpg"
   },
   {
-    "numero": "MAR1",
+    "numero": "36951",
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/QATAR 2022/MAR1.jpg"
+    "clube": "Morocco",
+    "tipo": "-",
+    "imagem": "images/capas/QATAR 2022/36951.jpg"
   },
   {
-    "numero": "MAR2",
+    "numero": "37316",
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/QATAR 2022/MAR2.jpg"
+    "clube": "Morocco",
+    "tipo": "foil",
+    "imagem": "images/capas/QATAR 2022/37316.jpg"
   },
   {
-    "numero": "MAR3",
+    "numero": "37681",
     "nome": "Yassine Bounou",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/QATAR 2022/MAR3.jpg"
+    "clube": "Morocco",
+    "tipo": "-",
+    "imagem": "images/capas/QATAR 2022/37681.jpg"
   },
   {
-    "numero": "MAR4",
+    "numero": "38047",
     "nome": "Munir Mohamedi",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/QATAR 2022/MAR4.jpg"
+    "clube": "Morocco",
+    "tipo": "-",
+    "imagem": "images/capas/QATAR 2022/38047.jpg"
   },
   {
-    "numero": "MAR5",
+    "numero": "38412",
     "nome": "Nayef Aguerd",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/QATAR 2022/MAR5.jpg"
+    "clube": "Morocco",
+    "tipo": "-",
+    "imagem": "images/capas/QATAR 2022/38412.jpg"
   },
   {
-    "numero": "MAR6",
+    "numero": "38777",
     "nome": "Achraf Hakimi",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/QATAR 2022/MAR6.jpg"
+    "clube": "Morocco",
+    "tipo": "-",
+    "imagem": "images/capas/QATAR 2022/38777.jpg"
   },
   {
-    "numero": "MAR7",
+    "numero": "39142",
     "nome": "Adam Masina",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/QATAR 2022/MAR7.jpg"
+    "clube": "Morocco",
+    "tipo": "-",
+    "imagem": "images/capas/QATAR 2022/39142.jpg"
   },
   {
-    "numero": "MAR8",
+    "numero": "39508",
     "nome": "Samy Mmaee",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/QATAR 2022/MAR8.jpg"
+    "clube": "Morocco",
+    "tipo": "-",
+    "imagem": "images/capas/QATAR 2022/39508.jpg"
   },
   {
-    "numero": "MAR9",
+    "numero": "39873",
     "nome": "Romain Saïss",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/QATAR 2022/MAR9.jpg"
+    "clube": "Morocco",
+    "tipo": "-",
+    "imagem": "images/capas/QATAR 2022/39873.jpg"
   },
   {
-    "numero": "MAR10",
+    "numero": "40238",
     "nome": "Selim Amallah",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/QATAR 2022/MAR10.jpg"
+    "clube": "Morocco",
+    "tipo": "-",
+    "imagem": "images/capas/QATAR 2022/40238.jpg"
   },
   {
-    "numero": "MAR11",
+    "numero": "40603",
     "nome": "Sofyan Amrabat",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/QATAR 2022/MAR11.jpg"
+    "clube": "Morocco",
+    "tipo": "-",
+    "imagem": "images/capas/QATAR 2022/40603.jpg"
   },
   {
-    "numero": "MAR12",
+    "numero": "40969",
     "nome": "Aymen Barkok",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/QATAR 2022/MAR12.jpg"
+    "clube": "Morocco",
+    "tipo": "-",
+    "imagem": "images/capas/QATAR 2022/40969.jpg"
   },
   {
-    "numero": "MAR13",
+    "numero": "41334",
     "nome": "Ilias Chair",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/QATAR 2022/MAR13.jpg"
+    "clube": "Morocco",
+    "tipo": "-",
+    "imagem": "images/capas/QATAR 2022/41334.jpg"
   },
   {
-    "numero": "MAR14",
+    "numero": "41699",
     "nome": "Imrân Louza",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/QATAR 2022/MAR14.jpg"
+    "clube": "Morocco",
+    "tipo": "-",
+    "imagem": "images/capas/QATAR 2022/41699.jpg"
   },
   {
-    "numero": "MAR15",
+    "numero": "42064",
     "nome": "Sofiane Boufal",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/QATAR 2022/MAR15.jpg"
+    "clube": "Morocco",
+    "tipo": "-",
+    "imagem": "images/capas/QATAR 2022/42064.jpg"
   },
   {
-    "numero": "MAR16",
+    "numero": "42430",
     "nome": "Ayoub El Kaabi",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/QATAR 2022/MAR16.jpg"
+    "clube": "Morocco",
+    "tipo": "-",
+    "imagem": "images/capas/QATAR 2022/42430.jpg"
   },
   {
-    "numero": "MAR17",
+    "numero": "42795",
     "nome": "Youssef En-Nesyri",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/QATAR 2022/MAR17.jpg"
+    "clube": "Morocco",
+    "tipo": "-",
+    "imagem": "images/capas/QATAR 2022/42795.jpg"
   },
   {
-    "numero": "MAR18",
+    "numero": "43160",
     "nome": "Ryan Mmaee",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/QATAR 2022/MAR18.jpg"
+    "clube": "Morocco",
+    "tipo": "-",
+    "imagem": "images/capas/QATAR 2022/43160.jpg"
   },
   {
-    "numero": "MAR19",
+    "numero": "43525",
     "nome": "Munir",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/QATAR 2022/MAR19.jpg"
+    "clube": "Morocco",
+    "tipo": "-",
+    "imagem": "images/capas/QATAR 2022/43525.jpg"
   },
   {
-    "numero": "MAR20",
+    "numero": "43891",
     "nome": "Tarik Tissoudali",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/QATAR 2022/MAR20.jpg"
+    "clube": "Morocco",
+    "tipo": "-",
+    "imagem": "images/capas/QATAR 2022/43891.jpg"
   },
   {
     "numero": "CRO1",
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRO1.jpg"
   },
   {
@@ -3364,6 +4324,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/CRO2.jpg"
   },
   {
@@ -3371,6 +4333,8 @@
     "nome": "Dominik Livaković",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRO3.jpg"
   },
   {
@@ -3378,6 +4342,8 @@
     "nome": "Ivica Ivušić",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRO4.jpg"
   },
   {
@@ -3385,6 +4351,8 @@
     "nome": "Duje Ćaleta-Car",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRO5.jpg"
   },
   {
@@ -3392,6 +4360,8 @@
     "nome": "Joško Gvardiol",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRO6.jpg"
   },
   {
@@ -3399,6 +4369,8 @@
     "nome": "Josip Juranović",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRO7.jpg"
   },
   {
@@ -3406,6 +4378,8 @@
     "nome": "Dejan Lovren",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRO8.jpg"
   },
   {
@@ -3413,6 +4387,8 @@
     "nome": "Borna Sosa",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRO9.jpg"
   },
   {
@@ -3420,6 +4396,8 @@
     "nome": "Domagoj Vida",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRO10.jpg"
   },
   {
@@ -3427,6 +4405,8 @@
     "nome": "Marcelo Brozović",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRO11.jpg"
   },
   {
@@ -3434,6 +4414,8 @@
     "nome": "Mateo Kovačić",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRO12.jpg"
   },
   {
@@ -3441,6 +4423,8 @@
     "nome": "Luka Modrić",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRO13.jpg"
   },
   {
@@ -3448,6 +4432,8 @@
     "nome": "Mario Pašalić",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRO14.jpg"
   },
   {
@@ -3455,6 +4441,8 @@
     "nome": "Ivan Perišić",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRO15.jpg"
   },
   {
@@ -3462,6 +4450,8 @@
     "nome": "Nikola Vlašić",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRO16.jpg"
   },
   {
@@ -3469,6 +4459,8 @@
     "nome": "Josip Brekalo",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRO17.jpg"
   },
   {
@@ -3476,6 +4468,8 @@
     "nome": "Andrej Kramarić",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRO18.jpg"
   },
   {
@@ -3483,6 +4477,8 @@
     "nome": "Marko Livaja",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRO19.jpg"
   },
   {
@@ -3490,6 +4486,8 @@
     "nome": "Mislav Oršić",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CRO20.jpg"
   },
   {
@@ -3497,6 +4495,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BRA1.jpg"
   },
   {
@@ -3504,6 +4504,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/BRA2.jpg"
   },
   {
@@ -3511,6 +4513,8 @@
     "nome": "Alisson",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BRA3.jpg"
   },
   {
@@ -3518,6 +4522,8 @@
     "nome": "Ederson",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BRA4.jpg"
   },
   {
@@ -3525,6 +4531,8 @@
     "nome": "Alex Sandro",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BRA5.jpg"
   },
   {
@@ -3532,6 +4540,8 @@
     "nome": "Danilo",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BRA6.jpg"
   },
   {
@@ -3539,6 +4549,8 @@
     "nome": "Éder Militão",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BRA7.jpg"
   },
   {
@@ -3546,6 +4558,8 @@
     "nome": "Marquinhos",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BRA8.jpg"
   },
   {
@@ -3553,6 +4567,8 @@
     "nome": "Thiago Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BRA9.jpg"
   },
   {
@@ -3560,6 +4576,8 @@
     "nome": "Casemiro",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BRA10.jpg"
   },
   {
@@ -3567,6 +4585,8 @@
     "nome": "Philippe Coutinho",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BRA11.jpg"
   },
   {
@@ -3574,6 +4594,8 @@
     "nome": "Fabinho",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BRA12.jpg"
   },
   {
@@ -3581,6 +4603,8 @@
     "nome": "Fred",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BRA13.jpg"
   },
   {
@@ -3588,6 +4612,8 @@
     "nome": "Lucas Paquetá",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BRA14.jpg"
   },
   {
@@ -3595,6 +4621,8 @@
     "nome": "Antony",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BRA15.jpg"
   },
   {
@@ -3602,6 +4630,8 @@
     "nome": "Gabriel Jesus",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BRA16.jpg"
   },
   {
@@ -3609,6 +4639,8 @@
     "nome": "Neymar Jr",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BRA17.jpg"
   },
   {
@@ -3616,6 +4648,8 @@
     "nome": "Raphinha",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BRA18.jpg"
   },
   {
@@ -3623,6 +4657,8 @@
     "nome": "Richarlison",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BRA19.jpg"
   },
   {
@@ -3630,6 +4666,8 @@
     "nome": "Vinícius Jr",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/BRA20.jpg"
   },
   {
@@ -3637,6 +4675,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SRB1.jpg"
   },
   {
@@ -3644,6 +4684,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/SRB2.jpg"
   },
   {
@@ -3651,6 +4693,8 @@
     "nome": "Predrag Rajković",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SRB3.jpg"
   },
   {
@@ -3658,6 +4702,8 @@
     "nome": "Vanja Milinković-Savić",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SRB4.jpg"
   },
   {
@@ -3665,6 +4711,8 @@
     "nome": "Nikola Milenković",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SRB5.jpg"
   },
   {
@@ -3672,6 +4720,8 @@
     "nome": "Strahinja Pavlović",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SRB6.jpg"
   },
   {
@@ -3679,6 +4729,8 @@
     "nome": "Miloš Veljković",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SRB7.jpg"
   },
   {
@@ -3686,6 +4738,8 @@
     "nome": "Filip Đuričić",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SRB8.jpg"
   },
   {
@@ -3693,6 +4747,8 @@
     "nome": "Nemanja Gudelj",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SRB9.jpg"
   },
   {
@@ -3700,6 +4756,8 @@
     "nome": "Filip Kostić",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SRB10.jpg"
   },
   {
@@ -3707,6 +4765,8 @@
     "nome": "Darko Lazović",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SRB11.jpg"
   },
   {
@@ -3714,6 +4774,8 @@
     "nome": "Saša Lukić",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SRB12.jpg"
   },
   {
@@ -3721,6 +4783,8 @@
     "nome": "Nemanja Maksimović",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SRB13.jpg"
   },
   {
@@ -3728,6 +4792,8 @@
     "nome": "Sergej Milinković-Savić",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SRB14.jpg"
   },
   {
@@ -3735,6 +4801,8 @@
     "nome": "Nemanja Radonjić",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SRB15.jpg"
   },
   {
@@ -3742,6 +4810,8 @@
     "nome": "Andrija Živković",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SRB16.jpg"
   },
   {
@@ -3749,6 +4819,8 @@
     "nome": "Luka Jović",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SRB17.jpg"
   },
   {
@@ -3756,6 +4828,8 @@
     "nome": "Aleksandar Mitrović",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SRB18.jpg"
   },
   {
@@ -3763,6 +4837,8 @@
     "nome": "Dušan Tadić",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SRB19.jpg"
   },
   {
@@ -3770,6 +4846,8 @@
     "nome": "Dušan Vlahović",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SRB20.jpg"
   },
   {
@@ -3777,6 +4855,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SUI1.jpg"
   },
   {
@@ -3784,6 +4864,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/SUI2.jpg"
   },
   {
@@ -3791,6 +4873,8 @@
     "nome": "Yann Sommer",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SUI3.jpg"
   },
   {
@@ -3798,6 +4882,8 @@
     "nome": "Gregor Kobel",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SUI4.jpg"
   },
   {
@@ -3805,6 +4891,8 @@
     "nome": "Manuel Akanji",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SUI5.jpg"
   },
   {
@@ -3812,6 +4900,8 @@
     "nome": "Nico Elvedi",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SUI6.jpg"
   },
   {
@@ -3819,6 +4909,8 @@
     "nome": "Kevin Mbabu",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SUI7.jpg"
   },
   {
@@ -3826,6 +4918,8 @@
     "nome": "Ricardo Rodríguez",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SUI8.jpg"
   },
   {
@@ -3833,6 +4927,8 @@
     "nome": "Fabian Schär",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SUI9.jpg"
   },
   {
@@ -3840,6 +4936,8 @@
     "nome": "Silvan Widmer",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SUI10.jpg"
   },
   {
@@ -3847,6 +4945,8 @@
     "nome": "Remo Freuler",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SUI11.jpg"
   },
   {
@@ -3854,6 +4954,8 @@
     "nome": "Xherdan Shaqiri",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SUI12.jpg"
   },
   {
@@ -3861,6 +4963,8 @@
     "nome": "Djibril Sow",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SUI13.jpg"
   },
   {
@@ -3868,6 +4972,8 @@
     "nome": "Granit Xhaka",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SUI14.jpg"
   },
   {
@@ -3875,6 +4981,8 @@
     "nome": "Denis Zakaria",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SUI15.jpg"
   },
   {
@@ -3882,6 +4990,8 @@
     "nome": "Steven Zuber",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SUI16.jpg"
   },
   {
@@ -3889,6 +4999,8 @@
     "nome": "Breel Embolo",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SUI17.jpg"
   },
   {
@@ -3896,6 +5008,8 @@
     "nome": "Noah Okafor",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SUI18.jpg"
   },
   {
@@ -3903,6 +5017,8 @@
     "nome": "Haris Seferović",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SUI19.jpg"
   },
   {
@@ -3910,6 +5026,8 @@
     "nome": "Ruben Vargas",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/SUI20.jpg"
   },
   {
@@ -3917,6 +5035,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroon",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CMR1.jpg"
   },
   {
@@ -3924,6 +5044,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroon",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/CMR2.jpg"
   },
   {
@@ -3931,6 +5053,8 @@
     "nome": "André Onana",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroon",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CMR3.jpg"
   },
   {
@@ -3938,6 +5062,8 @@
     "nome": "Devis Epassy",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroon",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CMR4.jpg"
   },
   {
@@ -3945,6 +5071,8 @@
     "nome": "Jean-Charles Castelletto",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroon",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CMR5.jpg"
   },
   {
@@ -3952,6 +5080,8 @@
     "nome": "Collins Fai",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroon",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CMR6.jpg"
   },
   {
@@ -3959,6 +5089,8 @@
     "nome": "Olivier Mbaizo",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroon",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CMR7.jpg"
   },
   {
@@ -3966,6 +5098,8 @@
     "nome": "Harold Moukoudi",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroon",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CMR8.jpg"
   },
   {
@@ -3973,6 +5107,8 @@
     "nome": "Michael Ngadeu",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroon",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CMR9.jpg"
   },
   {
@@ -3980,6 +5116,8 @@
     "nome": "Nouhou",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroon",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CMR10.jpg"
   },
   {
@@ -3987,6 +5125,8 @@
     "nome": "Martin Hongla",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroon",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CMR11.jpg"
   },
   {
@@ -3994,6 +5134,8 @@
     "nome": "Pierre Kunde",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroon",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CMR12.jpg"
   },
   {
@@ -4001,6 +5143,8 @@
     "nome": "James Léa Siliki",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroon",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CMR13.jpg"
   },
   {
@@ -4008,6 +5152,8 @@
     "nome": "Samuel Oum Gouet",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroon",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CMR14.jpg"
   },
   {
@@ -4015,6 +5161,8 @@
     "nome": "André-Frank Zambo Anguissa",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroon",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CMR15.jpg"
   },
   {
@@ -4022,6 +5170,8 @@
     "nome": "Vincent Aboubakar",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroon",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CMR16.jpg"
   },
   {
@@ -4029,6 +5179,8 @@
     "nome": "Stéphane Bahoken",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroon",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CMR17.jpg"
   },
   {
@@ -4036,6 +5188,8 @@
     "nome": "Eric Maxim Choupo-Moting",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroon",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CMR18.jpg"
   },
   {
@@ -4043,6 +5197,8 @@
     "nome": "Nicolas Moumi Ngamaleu",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroon",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CMR19.jpg"
   },
   {
@@ -4050,6 +5206,8 @@
     "nome": "Karl Toko Ekambi",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroon",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/CMR20.jpg"
   },
   {
@@ -4057,6 +5215,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POR1.jpg"
   },
   {
@@ -4064,6 +5224,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/POR2.jpg"
   },
   {
@@ -4071,6 +5233,8 @@
     "nome": "Diogo Costa",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POR3.jpg"
   },
   {
@@ -4078,6 +5242,8 @@
     "nome": "Rui Patrício",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POR4.jpg"
   },
   {
@@ -4085,6 +5251,8 @@
     "nome": "João Cancelo",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POR5.jpg"
   },
   {
@@ -4092,6 +5260,8 @@
     "nome": "José Fonte",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POR6.jpg"
   },
   {
@@ -4099,6 +5269,8 @@
     "nome": "Nuno Mendes",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POR7.jpg"
   },
   {
@@ -4106,6 +5278,8 @@
     "nome": "Pepe",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POR8.jpg"
   },
   {
@@ -4113,6 +5287,8 @@
     "nome": "Raphaël Guerreiro",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POR9.jpg"
   },
   {
@@ -4120,6 +5296,8 @@
     "nome": "Rúben Dias",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POR10.jpg"
   },
   {
@@ -4127,6 +5305,8 @@
     "nome": "Bernardo Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POR11.jpg"
   },
   {
@@ -4134,6 +5314,8 @@
     "nome": "Bruno Fernandes",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POR12.jpg"
   },
   {
@@ -4141,6 +5323,8 @@
     "nome": "Danilo Pereira",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POR13.jpg"
   },
   {
@@ -4148,6 +5332,8 @@
     "nome": "João Moutinho",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POR14.jpg"
   },
   {
@@ -4155,6 +5341,8 @@
     "nome": "Renato Sanches",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POR15.jpg"
   },
   {
@@ -4162,6 +5350,8 @@
     "nome": "Rúben Neves",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POR16.jpg"
   },
   {
@@ -4169,6 +5359,8 @@
     "nome": "André Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POR17.jpg"
   },
   {
@@ -4176,6 +5368,8 @@
     "nome": "Cristiano Ronaldo",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POR18.jpg"
   },
   {
@@ -4183,6 +5377,8 @@
     "nome": "Diogo Jota",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POR19.jpg"
   },
   {
@@ -4190,6 +5386,8 @@
     "nome": "Gonçalo Guedes",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/POR20.jpg"
   },
   {
@@ -4197,6 +5395,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GHA1.jpg"
   },
   {
@@ -4204,6 +5404,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/GHA2.jpg"
   },
   {
@@ -4211,6 +5413,8 @@
     "nome": "Joe Wollacott",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GHA3.jpg"
   },
   {
@@ -4218,6 +5422,8 @@
     "nome": "Richard Ofori",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GHA4.jpg"
   },
   {
@@ -4225,6 +5431,8 @@
     "nome": "Daniel Amartey",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GHA5.jpg"
   },
   {
@@ -4232,6 +5440,8 @@
     "nome": "Abdul-Rahman Baba",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GHA6.jpg"
   },
   {
@@ -4239,6 +5449,8 @@
     "nome": "Alexander Djiku",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GHA7.jpg"
   },
   {
@@ -4246,6 +5458,8 @@
     "nome": "Gideon Mensah",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GHA8.jpg"
   },
   {
@@ -4253,6 +5467,8 @@
     "nome": "Jonathan Mensah",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GHA9.jpg"
   },
   {
@@ -4260,6 +5476,8 @@
     "nome": "Andy Yiadom",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GHA10.jpg"
   },
   {
@@ -4267,6 +5485,8 @@
     "nome": "Iddrisu Baba",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GHA11.jpg"
   },
   {
@@ -4274,6 +5494,8 @@
     "nome": "Mohammed Kudus",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GHA12.jpg"
   },
   {
@@ -4281,6 +5503,8 @@
     "nome": "Daniel-Kofi Kyereh",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GHA13.jpg"
   },
   {
@@ -4288,6 +5512,8 @@
     "nome": "Thomas Partey",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GHA14.jpg"
   },
   {
@@ -4295,6 +5521,8 @@
     "nome": "Mubarak Wakaso",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GHA15.jpg"
   },
   {
@@ -4302,6 +5530,8 @@
     "nome": "Felix Afena-Gyan",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GHA16.jpg"
   },
   {
@@ -4309,6 +5539,8 @@
     "nome": "André Ayew",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GHA17.jpg"
   },
   {
@@ -4316,6 +5548,8 @@
     "nome": "Jordan Ayew",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GHA18.jpg"
   },
   {
@@ -4323,6 +5557,8 @@
     "nome": "Issahaku Abdul Fatawu",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GHA19.jpg"
   },
   {
@@ -4330,6 +5566,8 @@
     "nome": "Kamaldeen Sulemana",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/GHA20.jpg"
   },
   {
@@ -4337,6 +5575,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/URU1.jpg"
   },
   {
@@ -4344,6 +5584,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/URU2.jpg"
   },
   {
@@ -4351,6 +5593,8 @@
     "nome": "Fernando Muslera",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/URU3.jpg"
   },
   {
@@ -4358,6 +5602,8 @@
     "nome": "Sergio Rochet",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/URU4.jpg"
   },
   {
@@ -4365,6 +5611,8 @@
     "nome": "Ronald Araújo",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/URU5.jpg"
   },
   {
@@ -4372,6 +5620,8 @@
     "nome": "Martín Cáceres",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/URU6.jpg"
   },
   {
@@ -4379,6 +5629,8 @@
     "nome": "José María Giménez",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/URU7.jpg"
   },
   {
@@ -4386,6 +5638,8 @@
     "nome": "Diego Godín",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/URU8.jpg"
   },
   {
@@ -4393,6 +5647,8 @@
     "nome": "Mathías Olivera",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/URU9.jpg"
   },
   {
@@ -4400,6 +5656,8 @@
     "nome": "Matías Viña",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/URU10.jpg"
   },
   {
@@ -4407,6 +5665,8 @@
     "nome": "Rodrigo Bentancur",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/URU11.jpg"
   },
   {
@@ -4414,6 +5674,8 @@
     "nome": "Giorgian De Arrascaeta",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/URU12.jpg"
   },
   {
@@ -4421,6 +5683,8 @@
     "nome": "Nicolás De La Cruz",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/URU13.jpg"
   },
   {
@@ -4428,6 +5692,8 @@
     "nome": "Lucas Torreira",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/URU14.jpg"
   },
   {
@@ -4435,6 +5701,8 @@
     "nome": "Federico Valverde",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/URU15.jpg"
   },
   {
@@ -4442,6 +5710,8 @@
     "nome": "Matías Vecino",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/URU16.jpg"
   },
   {
@@ -4449,6 +5719,8 @@
     "nome": "Edinson Cavani",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/URU17.jpg"
   },
   {
@@ -4456,6 +5728,8 @@
     "nome": "Darwin Núñez",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/URU18.jpg"
   },
   {
@@ -4463,6 +5737,8 @@
     "nome": "Facundo Pellistri",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/URU19.jpg"
   },
   {
@@ -4470,6 +5746,8 @@
     "nome": "Luis Suárez",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/URU20.jpg"
   },
   {
@@ -4477,6 +5755,8 @@
     "nome": "Team Shot",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KOR1.jpg"
   },
   {
@@ -4484,6 +5764,8 @@
     "nome": "Team Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/KOR2.jpg"
   },
   {
@@ -4491,6 +5773,8 @@
     "nome": "Seung-gyu Kim",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KOR3.jpg"
   },
   {
@@ -4498,6 +5782,8 @@
     "nome": "Hyeon-woo Jo",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KOR4.jpg"
   },
   {
@@ -4505,6 +5791,8 @@
     "nome": "Chul Hong",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KOR5.jpg"
   },
   {
@@ -4512,6 +5800,8 @@
     "nome": "Tae-hwan Kim",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KOR6.jpg"
   },
   {
@@ -4519,6 +5809,8 @@
     "nome": "Min-jae Kim",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KOR7.jpg"
   },
   {
@@ -4526,6 +5818,8 @@
     "nome": "Young-gwon Kim",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KOR8.jpg"
   },
   {
@@ -4533,6 +5827,8 @@
     "nome": "Jin-su Kim",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KOR9.jpg"
   },
   {
@@ -4540,6 +5836,8 @@
     "nome": "Yong Lee",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KOR10.jpg"
   },
   {
@@ -4547,6 +5845,8 @@
     "nome": "In-beom Hwang",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KOR11.jpg"
   },
   {
@@ -4554,6 +5854,8 @@
     "nome": "Woo-young Jung",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KOR12.jpg"
   },
   {
@@ -4561,6 +5863,8 @@
     "nome": "Jae-sung Lee",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KOR13.jpg"
   },
   {
@@ -4568,6 +5872,8 @@
     "nome": "Seung-ho Paik",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KOR14.jpg"
   },
   {
@@ -4575,6 +5881,8 @@
     "nome": "Gue-sung Cho",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KOR15.jpg"
   },
   {
@@ -4582,6 +5890,8 @@
     "nome": "Hee-chan Hwang",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KOR16.jpg"
   },
   {
@@ -4589,6 +5899,8 @@
     "nome": "Ui-jo Hwang",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KOR17.jpg"
   },
   {
@@ -4596,6 +5908,8 @@
     "nome": "Chang-hoon Kwon",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KOR18.jpg"
   },
   {
@@ -4603,6 +5917,8 @@
     "nome": "Heung-min Son",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KOR19.jpg"
   },
   {
@@ -4610,6 +5926,8 @@
     "nome": "Min-kyu Song",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/QATAR 2022/KOR20.jpg"
   },
   {
@@ -4617,6 +5935,8 @@
     "nome": "Uruguay 1930",
     "tenho": true,
     "especial": false,
+    "clube": "FIFA Museum",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/FWC19.jpg"
   },
   {
@@ -4624,6 +5944,8 @@
     "nome": "Italy 1938",
     "tenho": true,
     "especial": false,
+    "clube": "FIFA Museum",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/FWC20.jpg"
   },
   {
@@ -4631,6 +5953,8 @@
     "nome": "Brazil 1958",
     "tenho": true,
     "especial": false,
+    "clube": "FIFA Museum",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/FWC21.jpg"
   },
   {
@@ -4638,6 +5962,8 @@
     "nome": "England 1966",
     "tenho": true,
     "especial": false,
+    "clube": "FIFA Museum",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/FWC22.jpg"
   },
   {
@@ -4645,6 +5971,8 @@
     "nome": "Brazil 1970",
     "tenho": true,
     "especial": false,
+    "clube": "FIFA Museum",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/FWC23.jpg"
   },
   {
@@ -4652,6 +5980,8 @@
     "nome": "Argentina 1978",
     "tenho": true,
     "especial": false,
+    "clube": "FIFA Museum",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/FWC24.jpg"
   },
   {
@@ -4659,6 +5989,8 @@
     "nome": "Italy 1982",
     "tenho": true,
     "especial": false,
+    "clube": "FIFA Museum",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/FWC25.jpg"
   },
   {
@@ -4666,6 +5998,8 @@
     "nome": "Germany FR 1990",
     "tenho": true,
     "especial": false,
+    "clube": "FIFA Museum",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/FWC26.jpg"
   },
   {
@@ -4673,6 +6007,8 @@
     "nome": "France 1998",
     "tenho": true,
     "especial": false,
+    "clube": "FIFA Museum",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/FWC27.jpg"
   },
   {
@@ -4680,6 +6016,8 @@
     "nome": "Spain 2010",
     "tenho": true,
     "especial": false,
+    "clube": "FIFA Museum",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/FWC28.jpg"
   },
   {
@@ -4687,6 +6025,8 @@
     "nome": "France 2018",
     "tenho": true,
     "especial": false,
+    "clube": "FIFA Museum",
+    "tipo": "foil",
     "imagem": "images/capas/QATAR 2022/FWC29.jpg"
   },
   {
@@ -4694,6 +6034,8 @@
     "nome": "Ismaeel Mohammad",
     "tenho": true,
     "especial": true,
+    "clube": "Qatar",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/QAT15x.jpg"
   },
   {
@@ -4701,6 +6043,8 @@
     "nome": "Jackson Porozo",
     "tenho": true,
     "especial": true,
+    "clube": "Ecuador",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/ECU6x.jpg"
   },
   {
@@ -4708,6 +6052,8 @@
     "nome": "Youssouf Sabaly",
     "tenho": true,
     "especial": true,
+    "clube": "Senegal",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/SEN5x.jpg"
   },
   {
@@ -4715,6 +6061,8 @@
     "nome": "Fodé Ballo-Touré",
     "tenho": true,
     "especial": true,
+    "clube": "Senegal",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/SEN9x.jpg"
   },
   {
@@ -4722,6 +6070,8 @@
     "nome": "Pathé Ciss",
     "tenho": true,
     "especial": true,
+    "clube": "Senegal",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/SEN10x.jpg"
   },
   {
@@ -4729,6 +6079,8 @@
     "nome": "Remko Pasveer",
     "tenho": true,
     "especial": true,
+    "clube": "Netherlands",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/NED4x.jpg"
   },
   {
@@ -4736,6 +6088,8 @@
     "nome": "Marten De Roon",
     "tenho": true,
     "especial": true,
+    "clube": "Netherlands",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/NED12x.jpg"
   },
   {
@@ -4743,6 +6097,8 @@
     "nome": "Kenneth Taylor",
     "tenho": true,
     "especial": true,
+    "clube": "Netherlands",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/NED15x.jpg"
   },
   {
@@ -4750,6 +6106,8 @@
     "nome": "Vincent Janssen",
     "tenho": true,
     "especial": true,
+    "clube": "Netherlands",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/NED17x.jpg"
   },
   {
@@ -4757,6 +6115,8 @@
     "nome": "Wout Weghorst",
     "tenho": true,
     "especial": true,
+    "clube": "Netherlands",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/NED20x.jpg"
   },
   {
@@ -4764,6 +6124,8 @@
     "nome": "Morteza Pouraliganji",
     "tenho": true,
     "especial": true,
+    "clube": "Iran",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/IRN11x.jpg"
   },
   {
@@ -4771,6 +6133,8 @@
     "nome": "Sean Johnson",
     "tenho": true,
     "especial": true,
+    "clube": "USA",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/USA4x.jpg"
   },
   {
@@ -4778,6 +6142,8 @@
     "nome": "Cameron Carter-Vickers",
     "tenho": true,
     "especial": true,
+    "clube": "USA",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/USA7x.jpg"
   },
   {
@@ -4785,6 +6151,8 @@
     "nome": "Josh Sargent",
     "tenho": true,
     "especial": true,
+    "clube": "USA",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/USA17x.jpg"
   },
   {
@@ -4792,6 +6160,8 @@
     "nome": "Paulo Dybala",
     "tenho": true,
     "especial": true,
+    "clube": "Argentina",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/ARG12x.jpg"
   },
   {
@@ -4799,6 +6169,8 @@
     "nome": "Haitham Asiri",
     "tenho": true,
     "especial": true,
+    "clube": "Saudi Arabia",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/KSA20x.jpg"
   },
   {
@@ -4806,6 +6178,8 @@
     "nome": "Orbelín Pineda",
     "tenho": true,
     "especial": true,
+    "clube": "Mexico",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/MEX12x.jpg"
   },
   {
@@ -4813,6 +6187,8 @@
     "nome": "Alexis Vega",
     "tenho": true,
     "especial": true,
+    "clube": "Mexico",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/MEX16x.jpg"
   },
   {
@@ -4820,6 +6196,8 @@
     "nome": "Jakub Kiwior",
     "tenho": true,
     "especial": true,
+    "clube": "Poland",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/POL9x.jpg"
   },
   {
@@ -4827,6 +6205,8 @@
     "nome": "Nicola Zalewski",
     "tenho": true,
     "especial": true,
+    "clube": "Poland",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/POL10x.jpg"
   },
   {
@@ -4834,6 +6214,8 @@
     "nome": "Przemysław Frankowski",
     "tenho": true,
     "especial": true,
+    "clube": "Poland",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/POL11x.jpg"
   },
   {
@@ -4841,6 +6223,8 @@
     "nome": "Jakub Kamiński",
     "tenho": true,
     "especial": true,
+    "clube": "Poland",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/POL12x.jpg"
   },
   {
@@ -4848,6 +6232,8 @@
     "nome": "Szymon Żurkowski",
     "tenho": true,
     "especial": true,
+    "clube": "Poland",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/POL14x.jpg"
   },
   {
@@ -4855,6 +6241,8 @@
     "nome": "Steve Mandanda",
     "tenho": true,
     "especial": true,
+    "clube": "France",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/FRA4x.jpg"
   },
   {
@@ -4862,6 +6250,8 @@
     "nome": "William Saliba",
     "tenho": true,
     "especial": true,
+    "clube": "France",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/FRA7x.jpg"
   },
   {
@@ -4869,6 +6259,8 @@
     "nome": "Matteo Guendouzi",
     "tenho": true,
     "especial": true,
+    "clube": "France",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/FRA11x.jpg"
   },
   {
@@ -4876,6 +6268,8 @@
     "nome": "Eduardo Camavinga",
     "tenho": true,
     "especial": true,
+    "clube": "France",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/FRA12x.jpg"
   },
   {
@@ -4883,6 +6277,8 @@
     "nome": "Olivier Giroud",
     "tenho": true,
     "especial": true,
+    "clube": "France",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/FRA15x.jpg"
   },
   {
@@ -4890,6 +6286,8 @@
     "nome": "Ousmane Dembélé",
     "tenho": true,
     "especial": true,
+    "clube": "France",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/FRA20x.jpg"
   },
   {
@@ -4897,6 +6295,8 @@
     "nome": "Thomas Deng",
     "tenho": true,
     "especial": true,
+    "clube": "Australia",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/AUS7x.jpg"
   },
   {
@@ -4904,6 +6304,8 @@
     "nome": "Bailey Wright",
     "tenho": true,
     "especial": true,
+    "clube": "Australia",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/AUS9x.jpg"
   },
   {
@@ -4911,6 +6313,8 @@
     "nome": "Riley McGree",
     "tenho": true,
     "especial": true,
+    "clube": "Australia",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/AUS13x.jpg"
   },
   {
@@ -4918,6 +6322,8 @@
     "nome": "Jamie Maclaren",
     "tenho": true,
     "especial": true,
+    "clube": "Australia",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/AUS20x.jpg"
   },
   {
@@ -4925,6 +6331,8 @@
     "nome": "Joachim Andersen",
     "tenho": true,
     "especial": true,
+    "clube": "Denmark",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/DEN9x.jpg"
   },
   {
@@ -4932,6 +6340,8 @@
     "nome": "Aymen Dahmen",
     "tenho": true,
     "especial": true,
+    "clube": "Tunisia",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/TUN4x.jpg"
   },
   {
@@ -4939,6 +6349,8 @@
     "nome": "Nader Ghandri",
     "tenho": true,
     "especial": true,
+    "clube": "Tunisia",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/TUN9x.jpg"
   },
   {
@@ -4946,6 +6358,8 @@
     "nome": "Carlos Martínez",
     "tenho": true,
     "especial": true,
+    "clube": "Costa Rica",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/CRC4x.jpg"
   },
   {
@@ -4953,6 +6367,8 @@
     "nome": "Daniel Chacón",
     "tenho": true,
     "especial": true,
+    "clube": "Costa Rica",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/CRC5x.jpg"
   },
   {
@@ -4960,6 +6376,8 @@
     "nome": "Brandon Aguilera",
     "tenho": true,
     "especial": true,
+    "clube": "Costa Rica",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/CRC13x.jpg"
   },
   {
@@ -4967,6 +6385,8 @@
     "nome": "Nico Schlotterbeck",
     "tenho": true,
     "especial": true,
+    "clube": "Germany",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/GER6x.jpg"
   },
   {
@@ -4974,6 +6394,8 @@
     "nome": "Jamal Musiala",
     "tenho": true,
     "especial": true,
+    "clube": "Germany",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/GER18x.jpg"
   },
   {
@@ -4981,6 +6403,8 @@
     "nome": "Youssoufa Moukoko",
     "tenho": true,
     "especial": true,
+    "clube": "Germany",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/GER20x.jpg"
   },
   {
@@ -4988,6 +6412,8 @@
     "nome": "Hiroki Sakai",
     "tenho": true,
     "especial": true,
+    "clube": "Japan",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/JPN6x.jpg"
   },
   {
@@ -4995,6 +6421,8 @@
     "nome": "Kou Itakura",
     "tenho": true,
     "especial": true,
+    "clube": "Japan",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/JPN11x.jpg"
   },
   {
@@ -5002,6 +6430,8 @@
     "nome": "Daichi Kamada",
     "tenho": true,
     "especial": true,
+    "clube": "Japan",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/JPN16x.jpg"
   },
   {
@@ -5009,6 +6439,8 @@
     "nome": "Ritsu Doan",
     "tenho": true,
     "especial": true,
+    "clube": "Japan",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/JPN20x.jpg"
   },
   {
@@ -5016,6 +6448,8 @@
     "nome": "Zeno Debast",
     "tenho": true,
     "especial": true,
+    "clube": "Belgium",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/BEL7x.jpg"
   },
   {
@@ -5023,6 +6457,8 @@
     "nome": "Dayne St. Clair",
     "tenho": true,
     "especial": true,
+    "clube": "Canada",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/CAN4x.jpg"
   },
   {
@@ -5030,6 +6466,8 @@
     "nome": "Derek Cornelius",
     "tenho": true,
     "especial": true,
+    "clube": "Canada",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/CAN6x.jpg"
   },
   {
@@ -5037,6 +6475,8 @@
     "nome": "Achraf Dari",
     "tenho": true,
     "especial": true,
+    "clube": "Morocco",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/MAR7x.jpg"
   },
   {
@@ -5044,6 +6484,8 @@
     "nome": "Noussair Mazraoui",
     "tenho": true,
     "especial": true,
+    "clube": "Morocco",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/MAR8x.jpg"
   },
   {
@@ -5051,6 +6493,8 @@
     "nome": "Azzedine Ounahi",
     "tenho": true,
     "especial": true,
+    "clube": "Morocco",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/MAR12x.jpg"
   },
   {
@@ -5058,6 +6502,8 @@
     "nome": "Abdelhamid Sabiri",
     "tenho": true,
     "especial": true,
+    "clube": "Morocco",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/MAR14x.jpg"
   },
   {
@@ -5065,6 +6511,8 @@
     "nome": "Bilal El Khannouss",
     "tenho": true,
     "especial": true,
+    "clube": "Morocco",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/MAR16x.jpg"
   },
   {
@@ -5072,6 +6520,8 @@
     "nome": "Zakaria Aboukhlal",
     "tenho": true,
     "especial": true,
+    "clube": "Morocco",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/MAR18x.jpg"
   },
   {
@@ -5079,6 +6529,8 @@
     "nome": "Hakim Ziyech",
     "tenho": true,
     "especial": true,
+    "clube": "Morocco",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/MAR19x.jpg"
   },
   {
@@ -5086,6 +6538,8 @@
     "nome": "Walid Cheddira",
     "tenho": true,
     "especial": true,
+    "clube": "Morocco",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/MAR20x.jpg"
   },
   {
@@ -5093,6 +6547,8 @@
     "nome": "Josip Stanišić",
     "tenho": true,
     "especial": true,
+    "clube": "Croatia",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/CRO5x.jpg"
   },
   {
@@ -5100,6 +6556,8 @@
     "nome": "Bruno Petković",
     "tenho": true,
     "especial": true,
+    "clube": "Croatia",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/CRO17x.jpg"
   },
   {
@@ -5107,6 +6565,8 @@
     "nome": "Bruno Guimarães",
     "tenho": true,
     "especial": true,
+    "clube": "Brazil",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/BRA11x.jpg"
   },
   {
@@ -5114,6 +6574,8 @@
     "nome": "Eray Cömert",
     "tenho": true,
     "especial": true,
+    "clube": "Switzerland",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/SUI7x.jpg"
   },
   {
@@ -5121,6 +6583,8 @@
     "nome": "Renato Steffen",
     "tenho": true,
     "especial": true,
+    "clube": "Switzerland",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/SUI16x.jpg"
   },
   {
@@ -5128,6 +6592,8 @@
     "nome": "Enzo Ebosse",
     "tenho": true,
     "especial": true,
+    "clube": "Cameroon",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/CMR8x.jpg"
   },
   {
@@ -5135,6 +6601,8 @@
     "nome": "Gaël Ondoua",
     "tenho": true,
     "especial": true,
+    "clube": "Cameroon",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/CMR9x.jpg"
   },
   {
@@ -5142,6 +6610,8 @@
     "nome": "Olivier Ntcham",
     "tenho": true,
     "especial": true,
+    "clube": "Cameroon",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/CMR13x.jpg"
   },
   {
@@ -5149,6 +6619,8 @@
     "nome": "Bryan Mbeumo",
     "tenho": true,
     "especial": true,
+    "clube": "Cameroon",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/CMR17x.jpg"
   },
   {
@@ -5156,6 +6628,8 @@
     "nome": "Diogo Dalot",
     "tenho": true,
     "especial": true,
+    "clube": "Portugal",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/POR6x.jpg"
   },
   {
@@ -5163,6 +6637,8 @@
     "nome": "Vitinha",
     "tenho": true,
     "especial": true,
+    "clube": "Portugal",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/POR14x.jpg"
   },
   {
@@ -5170,6 +6646,8 @@
     "nome": "João Mário",
     "tenho": true,
     "especial": true,
+    "clube": "Portugal",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/POR15x.jpg"
   },
   {
@@ -5177,6 +6655,8 @@
     "nome": "Rafael Leão",
     "tenho": true,
     "especial": true,
+    "clube": "Portugal",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/POR19x.jpg"
   },
   {
@@ -5184,6 +6664,8 @@
     "nome": "João Félix",
     "tenho": true,
     "especial": true,
+    "clube": "Portugal",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/POR20x.jpg"
   },
   {
@@ -5191,6 +6673,8 @@
     "nome": "Manaf Nurudeen",
     "tenho": true,
     "especial": true,
+    "clube": "Ghana",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/GHA3x.jpg"
   },
   {
@@ -5198,6 +6682,8 @@
     "nome": "Lawrence Ati Zigi",
     "tenho": true,
     "especial": true,
+    "clube": "Ghana",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/GHA4x.jpg"
   },
   {
@@ -5205,6 +6691,8 @@
     "nome": "Tariq Lamptey",
     "tenho": true,
     "especial": true,
+    "clube": "Ghana",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/GHA9x.jpg"
   },
   {
@@ -5212,6 +6700,8 @@
     "nome": "Mohammed Salisu",
     "tenho": true,
     "especial": true,
+    "clube": "Ghana",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/GHA10x.jpg"
   },
   {
@@ -5219,6 +6709,8 @@
     "nome": "Salis Abdul Samed",
     "tenho": true,
     "especial": true,
+    "clube": "Ghana",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/GHA11x.jpg"
   },
   {
@@ -5226,6 +6718,8 @@
     "nome": "Kamal Sowah",
     "tenho": true,
     "especial": true,
+    "clube": "Ghana",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/GHA15x.jpg"
   },
   {
@@ -5233,6 +6727,8 @@
     "nome": "Iñaki Williams",
     "tenho": true,
     "especial": true,
+    "clube": "Ghana",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/GHA16x.jpg"
   },
   {
@@ -5240,6 +6736,8 @@
     "nome": "Kyung-won Kwon",
     "tenho": true,
     "especial": true,
+    "clube": "Korea Republic",
+    "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/KOR10x.jpg"
   }
 ]
