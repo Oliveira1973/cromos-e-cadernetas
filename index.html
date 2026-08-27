@@ -244,7 +244,7 @@
     align-items:stretch;
     font-family:'Space Mono', monospace;
     background:var(--card-bg);
-    cursor:default;
+    cursor:pointer;
     padding:0;
     text-align:center;
     overflow:hidden;
@@ -276,6 +276,16 @@
     min-width:0;
   }
   .cromo.falta .legenda{ background:var(--ink-soft); }
+  .cromo.foil .legenda{
+    background: linear-gradient(120deg, #8a8a8a 0%, #e8e8e8 20%, #b8b8b8 40%, #f5f5f5 60%, #8a8a8a 80%, #d0d0d0 100%);
+    background-size: 250% 100%;
+    animation: foil-shimmer 3.5s linear infinite;
+  }
+  .cromo.foil .legenda .nome{ color:#1a1a1a; text-shadow:0 1px 0 rgba(255,255,255,0.5); }
+  @keyframes foil-shimmer{
+    0%{ background-position: 0% 50%; }
+    100%{ background-position: 250% 50%; }
+  }
   .cromo .legenda .num{
     flex-shrink:0;
     background:var(--stamp-red);
@@ -347,10 +357,12 @@
     font-family:'Space Mono', monospace;
     color:var(--paper);
     text-align:center;
+  }
+  .lightbox-linha1{
     display:flex; align-items:baseline; gap:10px; justify-content:center;
     flex-wrap:wrap;
   }
-  .lightbox-legenda #lightboxNum{
+  #lightboxNum{
     background:var(--stamp-red);
     color:var(--paper);
     padding:3px 9px;
@@ -358,12 +370,22 @@
     font-weight:700;
     font-size:0.85rem;
   }
-  .lightbox-legenda #lightboxNome{
+  #lightboxNome{
     font-size:0.95rem;
   }
+  .lightbox-clube{
+    margin-top:6px;
+    font-size:0.78rem;
+    color:var(--paper);
+    opacity:0.75;
+    text-transform:uppercase;
+    letter-spacing:0.05em;
+  }
+  .lightbox-clube:empty{ display:none; }
 
   @media (prefers-reduced-motion: reduce){
     .cad-card{ transition:none; }
+    .cromo.foil .legenda{ animation:none; background-position:50% 50%; }
   }
 </style>
 </head>
@@ -433,8 +455,11 @@
   <div class="lightbox-conteudo">
     <img id="lightboxImg" src="" alt="">
     <div class="lightbox-legenda">
-      <span id="lightboxNum"></span>
-      <span id="lightboxNome"></span>
+      <div class="lightbox-linha1">
+        <span id="lightboxNum"></span>
+        <span id="lightboxNome"></span>
+      </div>
+      <div class="lightbox-clube" id="lightboxClube"></div>
     </div>
   </div>
 </div>
@@ -617,6 +642,7 @@ function renderCromosGrid(cromos){
 
     const el = document.createElement('div');
     const temImagem = !!cr.imagem;
+    const isFoil = (cr.tipo || '').trim().toLowerCase() === 'foil';
     const legendaHtml = `
       <div class="legenda">
         <span class="num">${cr.numero}</span>
@@ -624,7 +650,7 @@ function renderCromosGrid(cromos){
       </div>
       ${cr.especial ? '<div class="star">★</div>' : ''}
     `;
-    el.className = 'cromo ' + (cr.tenho ? 'tenho' : 'falta') + (temImagem ? ' tem-imagem' : '');
+    el.className = 'cromo ' + (cr.tenho ? 'tenho' : 'falta') + (temImagem ? ' tem-imagem' : '') + (isFoil ? ' foil' : '');
     if(temImagem){
       el.innerHTML = `
         <div class="conteudo"><img src="${resolvePath(cr.imagem)}" alt="Cromo ${cr.numero}" loading="lazy"></div>
@@ -638,10 +664,12 @@ function renderCromosGrid(cromos){
         el.classList.remove('tem-imagem');
         el.innerHTML = `<div class="conteudo"></div>${legendaHtml}`;
       }, { once: true });
-      el.addEventListener('click', ()=>{ if(el.classList.contains('tem-imagem')) abrirLightbox(cr); });
     } else {
       el.innerHTML = `<div class="conteudo"></div>${legendaHtml}`;
     }
+    // qualquer cromo é clicável -- abre a vista ampliada com número, nome
+    // e clube (a foto só aparece se o cromo tiver uma associada)
+    el.addEventListener('click', ()=> abrirLightbox(cr));
     grid.appendChild(el);
   });
 }
@@ -673,10 +701,18 @@ document.getElementById('cromoFaltaOnly').addEventListener('change', ()=>renderC
 document.getElementById('cromoEspecialOnly').addEventListener('change', ()=>renderCromosGrid(cromosCache[currentId()]));
 
 function abrirLightbox(cr){
-  document.getElementById('lightboxImg').src = resolvePath(cr.imagem);
-  document.getElementById('lightboxImg').alt = `Cromo ${cr.numero}`;
+  const img = document.getElementById('lightboxImg');
+  if(cr.imagem){
+    img.src = resolvePath(cr.imagem);
+    img.alt = `Cromo ${cr.numero}`;
+    img.style.display = '';
+  } else {
+    img.removeAttribute('src');
+    img.style.display = 'none';
+  }
   document.getElementById('lightboxNum').textContent = cr.numero;
   document.getElementById('lightboxNome').textContent = cr.nome || '';
+  document.getElementById('lightboxClube').textContent = cr.clube || '';
   document.getElementById('lightbox').classList.add('aberto');
 }
 
