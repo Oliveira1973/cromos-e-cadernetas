@@ -56,7 +56,7 @@
   {
     "numero": "FWC6",
     "nome": "Canada",
-    "tenho": true,
+    "tenho": false,
     "especial": false,
     "clube": "Host Countries and Cities",
     "tipo": "foil",
@@ -461,7 +461,7 @@
   {
     "numero": "KOR3",
     "nome": "Seung-Gyu Kim",
-    "tenho": true,
+    "tenho": false,
     "especial": false,
     "clube": "South Korea",
     "tipo": "-",
@@ -1019,7 +1019,7 @@
   {
     "numero": "BIH5",
     "nome": "Tarik Muharemovic",
-    "tenho": true,
+    "tenho": false,
     "especial": false,
     "clube": "Bosnia and Herzegovina",
     "tipo": "-",
@@ -1082,7 +1082,7 @@
   {
     "numero": "BIH12",
     "nome": "Ivan Basic",
-    "tenho": true,
+    "tenho": false,
     "especial": false,
     "clube": "Bosnia and Herzegovina",
     "tipo": "-",
@@ -1325,7 +1325,7 @@
   {
     "numero": "QAT19",
     "nome": "Ahmed Al Ganehi",
-    "tenho": true,
+    "tenho": false,
     "especial": false,
     "clube": "Qatar",
     "tipo": "-",
@@ -1973,7 +1973,7 @@
   {
     "numero": "HAI11",
     "nome": "Danley Jean Jacques",
-    "tenho": true,
+    "tenho": false,
     "especial": false,
     "clube": "Haiti",
     "tipo": "-",
@@ -2819,7 +2819,7 @@
   {
     "numero": "TUR5",
     "nome": "Abdulkerim Bardakci",
-    "tenho": true,
+    "tenho": false,
     "especial": false,
     "clube": "Türkiye",
     "tipo": "-",
@@ -3782,7 +3782,7 @@
   {
     "numero": "NED12",
     "nome": "Teun Koopmeiners",
-    "tenho": true,
+    "tenho": false,
     "especial": false,
     "clube": "Netherlands",
     "tipo": "-",
@@ -4169,7 +4169,7 @@
   {
     "numero": "SWE15",
     "nome": "Ken Sema",
-    "tenho": true,
+    "tenho": false,
     "especial": false,
     "clube": "Sweden",
     "tipo": "-",
@@ -4421,7 +4421,7 @@
   {
     "numero": "BEL3",
     "nome": "Arthur Theate",
-    "tenho": true,
+    "tenho": false,
     "especial": false,
     "clube": "Belgium",
     "tipo": "-",
@@ -4457,7 +4457,7 @@
   {
     "numero": "BEL7",
     "nome": "Maxim De Cuyper",
-    "tenho": true,
+    "tenho": false,
     "especial": false,
     "clube": "Belgium",
     "tipo": "-",
@@ -4628,7 +4628,7 @@
   {
     "numero": "EGY6",
     "nome": "Khaled Sobhi",
-    "tenho": true,
+    "tenho": false,
     "especial": false,
     "clube": "Egypt",
     "tipo": "-",
@@ -6239,7 +6239,7 @@
   {
     "numero": "IRQ5",
     "nome": "Akam Hashem",
-    "tenho": true,
+    "tenho": false,
     "especial": false,
     "clube": "Iraq",
     "tipo": "-",
@@ -6770,7 +6770,7 @@
   {
     "numero": "ALG4",
     "nome": "Youcef Atal",
-    "tenho": true,
+    "tenho": false,
     "especial": false,
     "clube": "Algeria",
     "tipo": "-",
