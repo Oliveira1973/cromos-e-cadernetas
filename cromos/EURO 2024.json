@@ -1,0 +1,6553 @@
+[
+  {
+    "numero": "TOPPS1",
+    "nome": "Topps Logo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Introduction",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TOPPS1.jpg"
+  },
+  {
+    "numero": "UEFA1",
+    "nome": "UEFA Euro 2024 Logo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Introduction",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/UEFA1.jpg"
+  },
+  {
+    "numero": "UEFA2",
+    "nome": "Matchball",
+    "tenho": true,
+    "especial": false,
+    "clube": "Introduction",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/UEFA2.jpg"
+  },
+  {
+    "numero": "UEFA3",
+    "nome": "Corporate Sticker",
+    "tenho": true,
+    "especial": false,
+    "clube": "Introduction",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/UEFA3.jpg"
+  },
+  {
+    "numero": "EURO1",
+    "nome": "Trophy",
+    "tenho": true,
+    "especial": false,
+    "clube": "Host of the UEFA Euro 2024",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/EURO1.jpg"
+  },
+  {
+    "numero": "EURO2",
+    "nome": "Köln",
+    "tenho": true,
+    "especial": false,
+    "clube": "Host of the UEFA Euro 2024",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/EURO2.jpg"
+  },
+  {
+    "numero": "EURO3",
+    "nome": "Dortmund",
+    "tenho": true,
+    "especial": false,
+    "clube": "Host of the UEFA Euro 2024",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/EURO3.jpg"
+  },
+  {
+    "numero": "EURO4",
+    "nome": "Düsseldorf",
+    "tenho": true,
+    "especial": false,
+    "clube": "Host of the UEFA Euro 2024",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/EURO4.jpg"
+  },
+  {
+    "numero": "EURO5",
+    "nome": "Frankfurt",
+    "tenho": true,
+    "especial": false,
+    "clube": "Host of the UEFA Euro 2024",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/EURO5.jpg"
+  },
+  {
+    "numero": "EURO6",
+    "nome": "Gelsenkirchen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Host of the UEFA Euro 2024",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/EURO6.jpg"
+  },
+  {
+    "numero": "EURO7",
+    "nome": "Hamburg",
+    "tenho": true,
+    "especial": false,
+    "clube": "Host of the UEFA Euro 2024",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/EURO7.jpg"
+  },
+  {
+    "numero": "EURO8",
+    "nome": "Leipzig",
+    "tenho": true,
+    "especial": false,
+    "clube": "Host of the UEFA Euro 2024",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/EURO8.jpg"
+  },
+  {
+    "numero": "EURO9",
+    "nome": "München",
+    "tenho": true,
+    "especial": false,
+    "clube": "Host of the UEFA Euro 2024",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/EURO9.jpg"
+  },
+  {
+    "numero": "EURO10",
+    "nome": "Stuttgart",
+    "tenho": true,
+    "especial": false,
+    "clube": "Host of the UEFA Euro 2024",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/EURO10.jpg"
+  },
+  {
+    "numero": "EURO11",
+    "nome": "Berlin",
+    "tenho": true,
+    "especial": false,
+    "clube": "Host of the UEFA Euro 2024",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/EURO11.jpg"
+  },
+  {
+    "numero": "GA1",
+    "nome": "Overview",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GA1.jpg"
+  },
+  {
+    "numero": "GA2",
+    "nome": "Overview",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GA2.jpg"
+  },
+  {
+    "numero": "GER-P1",
+    "nome": "Germany Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GER-P1.jpg"
+  },
+  {
+    "numero": "GER-P2",
+    "nome": "Germany Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GER-P2.jpg"
+  },
+  {
+    "numero": "SCO-P1",
+    "nome": "Scotland Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "imagem": "images/capas/EURO 2024/SCO-P1.jpg"
+  },
+  {
+    "numero": "SCO-P2",
+    "nome": "Scotland Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SCO-P2.jpg"
+  },
+  {
+    "numero": "HUN-P1",
+    "nome": "Hungary Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/HUN-P1.jpg"
+  },
+  {
+    "numero": "HUN-P2",
+    "nome": "Hungary Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/HUN-P2.jpg"
+  },
+  {
+    "numero": "SUI-P1",
+    "nome": "Switzerland Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SUI-P1.jpg"
+  },
+  {
+    "numero": "SUI-P2",
+    "nome": "Switzerland Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SUI-P2.jpg"
+  },
+  {
+    "numero": "GER-PTW",
+    "nome": "Jamal Musiala",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/GER-PTW.jpg"
+  },
+  {
+    "numero": "GER-SP",
+    "nome": "Leroy Sané",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/GER-SP.jpg"
+  },
+  {
+    "numero": "GER-TOP1",
+    "nome": "Thomas Müller",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GER-TOP1.jpg"
+  },
+  {
+    "numero": "GER-TOP2",
+    "nome": "Ilkay Gündogan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GER-TOP2.jpg"
+  },
+  {
+    "numero": "SCO-PTW",
+    "nome": "Billy Gilmour",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/SCO-PTW.jpg"
+  },
+  {
+    "numero": "SCO-SP",
+    "nome": "Scott McTominay",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/SCO-SP.jpg"
+  },
+  {
+    "numero": "SCO-TOP1",
+    "nome": "John McGinn",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SCO-TOP1.jpg"
+  },
+  {
+    "numero": "SCO-TOP2",
+    "nome": "Ryan Porteous",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SCO-TOP2.jpg"
+  },
+  {
+    "numero": "HUN-PTW",
+    "nome": "Milos Kerkez",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/HUN-PTW.jpg"
+  },
+  {
+    "numero": "HUN-SP",
+    "nome": "Willi Orbán",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/HUN-SP.jpg"
+  },
+  {
+    "numero": "HUN-TOP1",
+    "nome": "Martin Ádám",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/HUN-TOP1.jpg"
+  },
+  {
+    "numero": "HUN-TOP2",
+    "nome": "Ádám Nagy",
+    "tenho": false,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/HUN-TOP2.jpg"
+  },
+  {
+    "numero": "SUI-PTW",
+    "nome": "Fabian Rieder",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/SUI-PTW.jpg"
+  },
+  {
+    "numero": "SUI-SP",
+    "nome": "Noah Okafor",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/SUI-SP.jpg"
+  },
+  {
+    "numero": "SUI-TOP1",
+    "nome": "Nico Elvedi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SUI-TOP1.jpg"
+  },
+  {
+    "numero": "SUI-TOP2",
+    "nome": "Djibril Sow",
+    "tenho": false,
+    "especial": false,
+    "clube": "Group A",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SUI-TOP2.jpg"
+  },
+  {
+    "numero": "GER1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Germany",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/GER1.jpg"
+  },
+  {
+    "numero": "GER2",
+    "nome": "Ilkay Gündogan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Germany",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/GER2.jpg"
+  },
+  {
+    "numero": "GER3",
+    "nome": "Julian Brandt",
+    "tenho": true,
+    "especial": false,
+    "clube": "Germany",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/GER3.jpg"
+  },
+  {
+    "numero": "GER4",
+    "nome": "Thilo Kehrer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GER4.jpg"
+  },
+  {
+    "numero": "GER5",
+    "nome": "Nico Schlotterbeck",
+    "tenho": true,
+    "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GER5.jpg"
+  },
+  {
+    "numero": "GER6",
+    "nome": "Benjamin Henrichs",
+    "tenho": true,
+    "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GER6.jpg"
+  },
+  {
+    "numero": "GER7",
+    "nome": "Malick Thiaw",
+    "tenho": true,
+    "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GER7.jpg"
+  },
+  {
+    "numero": "GER8",
+    "nome": "Robin Gosens",
+    "tenho": true,
+    "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GER8.jpg"
+  },
+  {
+    "numero": "GER9",
+    "nome": "Niklas Süle",
+    "tenho": true,
+    "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GER9.jpg"
+  },
+  {
+    "numero": "GER10",
+    "nome": "Joshua Kimmich",
+    "tenho": true,
+    "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GER10.jpg"
+  },
+  {
+    "numero": "GER11",
+    "nome": "Jamal Musiala",
+    "tenho": false,
+    "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GER11.jpg"
+  },
+  {
+    "numero": "GER12",
+    "nome": "Mario Götze",
+    "tenho": true,
+    "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GER12.jpg"
+  },
+  {
+    "numero": "GER13",
+    "nome": "Emre Can",
+    "tenho": true,
+    "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GER13.jpg"
+  },
+  {
+    "numero": "GER14",
+    "nome": "Timo Werner",
+    "tenho": true,
+    "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GER14.jpg"
+  },
+  {
+    "numero": "GER15",
+    "nome": "Leroy Sané",
+    "tenho": true,
+    "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GER15.jpg"
+  },
+  {
+    "numero": "GER16",
+    "nome": "Thomas Müller",
+    "tenho": true,
+    "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GER16.jpg"
+  },
+  {
+    "numero": "GER17",
+    "nome": "Niclas Füllkrug",
+    "tenho": true,
+    "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GER17.jpg"
+  },
+  {
+    "numero": "GER18",
+    "nome": "Karim Adeyemi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GER18.jpg"
+  },
+  {
+    "numero": "GER19",
+    "nome": "Oliver Kahn",
+    "tenho": true,
+    "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GER19.jpg"
+  },
+  {
+    "numero": "GER20",
+    "nome": "Bastian Schweinsteiger",
+    "tenho": true,
+    "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GER20.jpg"
+  },
+  {
+    "numero": "GER21",
+    "nome": "Lothar Matthäus",
+    "tenho": true,
+    "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GER21.jpg"
+  },
+  {
+    "numero": "SCO1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Scotland",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/SCO1.jpg"
+  },
+  {
+    "numero": "SCO2",
+    "nome": "Andrew Robertson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Scotland",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/SCO2.jpg"
+  },
+  {
+    "numero": "SCO3",
+    "nome": "Ché Adams",
+    "tenho": true,
+    "especial": false,
+    "clube": "Scotland",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/SCO3.jpg"
+  },
+  {
+    "numero": "SCO4",
+    "nome": "Angus Gunn",
+    "tenho": true,
+    "especial": false,
+    "clube": "Scotland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SCO4.jpg"
+  },
+  {
+    "numero": "SCO5",
+    "nome": "Grant Hanley",
+    "tenho": true,
+    "especial": false,
+    "clube": "Scotland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SCO5.jpg"
+  },
+  {
+    "numero": "SCO6",
+    "nome": "Jack Hendry",
+    "tenho": true,
+    "especial": false,
+    "clube": "Scotland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SCO6.jpg"
+  },
+  {
+    "numero": "SCO7",
+    "nome": "Liam Cooper",
+    "tenho": true,
+    "especial": false,
+    "clube": "Scotland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SCO7.jpg"
+  },
+  {
+    "numero": "SCO8",
+    "nome": "Nathan Patterson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Scotland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SCO8.jpg"
+  },
+  {
+    "numero": "SCO9",
+    "nome": "Ryan Porteous",
+    "tenho": true,
+    "especial": false,
+    "clube": "Scotland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SCO9.jpg"
+  },
+  {
+    "numero": "SCO10",
+    "nome": "Aaron Hickey",
+    "tenho": true,
+    "especial": false,
+    "clube": "Scotland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SCO10.jpg"
+  },
+  {
+    "numero": "SCO11",
+    "nome": "Kieran Tierney",
+    "tenho": true,
+    "especial": false,
+    "clube": "Scotland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SCO11.jpg"
+  },
+  {
+    "numero": "SCO12",
+    "nome": "Callum McGregor",
+    "tenho": true,
+    "especial": false,
+    "clube": "Scotland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SCO12.jpg"
+  },
+  {
+    "numero": "SCO13",
+    "nome": "Stuart Armstrong",
+    "tenho": true,
+    "especial": false,
+    "clube": "Scotland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SCO13.jpg"
+  },
+  {
+    "numero": "SCO14",
+    "nome": "Billy Gilmour",
+    "tenho": true,
+    "especial": false,
+    "clube": "Scotland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SCO14.jpg"
+  },
+  {
+    "numero": "SCO15",
+    "nome": "John McGinn",
+    "tenho": true,
+    "especial": false,
+    "clube": "Scotland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SCO15.jpg"
+  },
+  {
+    "numero": "SCO16",
+    "nome": "Scott McTominay",
+    "tenho": true,
+    "especial": false,
+    "clube": "Scotland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SCO16.jpg"
+  },
+  {
+    "numero": "SCO17",
+    "nome": "Lewis Ferguson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Scotland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SCO17.jpg"
+  },
+  {
+    "numero": "SCO18",
+    "nome": "Kenny McLean",
+    "tenho": true,
+    "especial": false,
+    "clube": "Scotland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SCO18.jpg"
+  },
+  {
+    "numero": "SCO19",
+    "nome": "Ryan Jack",
+    "tenho": true,
+    "especial": false,
+    "clube": "Scotland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SCO19.jpg"
+  },
+  {
+    "numero": "SCO20",
+    "nome": "Lyndon Dykes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Scotland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SCO20.jpg"
+  },
+  {
+    "numero": "SCO21",
+    "nome": "Ryan Christie",
+    "tenho": false,
+    "especial": false,
+    "clube": "Scotland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SCO21.jpg"
+  },
+  {
+    "numero": "HUN1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hungary",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/HUN1.jpg"
+  },
+  {
+    "numero": "HUN2",
+    "nome": "Dominik Szoboszlai",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hungary",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/HUN2.jpg"
+  },
+  {
+    "numero": "HUN3",
+    "nome": "Callum Styles",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hungary",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/HUN3.jpg"
+  },
+  {
+    "numero": "HUN4",
+    "nome": "Dénes Dibusz",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hungary",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/HUN4.jpg"
+  },
+  {
+    "numero": "HUN5",
+    "nome": "Ádám Lang",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hungary",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/HUN5.jpg"
+  },
+  {
+    "numero": "HUN6",
+    "nome": "Attila Szalai",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hungary",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/HUN6.jpg"
+  },
+  {
+    "numero": "HUN7",
+    "nome": "Milos Kerkez",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hungary",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/HUN7.jpg"
+  },
+  {
+    "numero": "HUN8",
+    "nome": "Willi Orbán",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hungary",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/HUN8.jpg"
+  },
+  {
+    "numero": "HUN9",
+    "nome": "Endre Botka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hungary",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/HUN9.jpg"
+  },
+  {
+    "numero": "HUN10",
+    "nome": "Loic Nego",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hungary",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/HUN10.jpg"
+  },
+  {
+    "numero": "HUN11",
+    "nome": "Bendegúz Bolla",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hungary",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/HUN11.jpg"
+  },
+  {
+    "numero": "HUN12",
+    "nome": "Ádám Nagy",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hungary",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/HUN12.jpg"
+  },
+  {
+    "numero": "HUN13",
+    "nome": "Zsolt Kalmár",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hungary",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/HUN13.jpg"
+  },
+  {
+    "numero": "HUN14",
+    "nome": "Dániel Gazdag",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hungary",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/HUN14.jpg"
+  },
+  {
+    "numero": "HUN15",
+    "nome": "Mihály Kata",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hungary",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/HUN15.jpg"
+  },
+  {
+    "numero": "HUN16",
+    "nome": "László Kleinheisler",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hungary",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/HUN16.jpg"
+  },
+  {
+    "numero": "HUN17",
+    "nome": "Barnabás Varga",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hungary",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/HUN17.jpg"
+  },
+  {
+    "numero": "HUN18",
+    "nome": "Roland Sallai",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hungary",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/HUN18.jpg"
+  },
+  {
+    "numero": "HUN19",
+    "nome": "Kevin Csoboth",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hungary",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/HUN19.jpg"
+  },
+  {
+    "numero": "HUN20",
+    "nome": "András Nemeth",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hungary",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/HUN20.jpg"
+  },
+  {
+    "numero": "HUN21",
+    "nome": "Martin Ádám",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hungary",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/HUN21.jpg"
+  },
+  {
+    "numero": "SUI1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/SUI1.jpg"
+  },
+  {
+    "numero": "SUI2",
+    "nome": "Granit Xhaka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/SUI2.jpg"
+  },
+  {
+    "numero": "SUI3",
+    "nome": "Xherdan Shaqiri",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/SUI3.jpg"
+  },
+  {
+    "numero": "SUI4",
+    "nome": "Yann Sommer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SUI4.jpg"
+  },
+  {
+    "numero": "SUI5",
+    "nome": "Silvan Widmer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SUI5.jpg"
+  },
+  {
+    "numero": "SUI6",
+    "nome": "Manuel Akanji",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SUI6.jpg"
+  },
+  {
+    "numero": "SUI7",
+    "nome": "Ricardo Rodríguez",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SUI7.jpg"
+  },
+  {
+    "numero": "SUI8",
+    "nome": "Nico Elvedi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SUI8.jpg"
+  },
+  {
+    "numero": "SUI9",
+    "nome": "Fabian Schär",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SUI9.jpg"
+  },
+  {
+    "numero": "SUI10",
+    "nome": "Edimilson Fernandes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SUI10.jpg"
+  },
+  {
+    "numero": "SUI11",
+    "nome": "Michel Aebischer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SUI11.jpg"
+  },
+  {
+    "numero": "SUI12",
+    "nome": "Denis Zakaria",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SUI12.jpg"
+  },
+  {
+    "numero": "SUI13",
+    "nome": "Remo Freuler",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SUI13.jpg"
+  },
+  {
+    "numero": "SUI14",
+    "nome": "Fabian Rieder",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SUI14.jpg"
+  },
+  {
+    "numero": "SUI15",
+    "nome": "Djibril Sow",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SUI15.jpg"
+  },
+  {
+    "numero": "SUI16",
+    "nome": "Filip Ugrinic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SUI16.jpg"
+  },
+  {
+    "numero": "SUI17",
+    "nome": "Dan Ndoye",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SUI17.jpg"
+  },
+  {
+    "numero": "SUI18",
+    "nome": "Ruben Vargas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SUI18.jpg"
+  },
+  {
+    "numero": "SUI19",
+    "nome": "Zeki Amdouni",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SUI19.jpg"
+  },
+  {
+    "numero": "SUI20",
+    "nome": "Breel Embolo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SUI20.jpg"
+  },
+  {
+    "numero": "SUI21",
+    "nome": "Noah Okafor",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SUI21.jpg"
+  },
+  {
+    "numero": "GB1",
+    "nome": "Overview",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GB1.jpg"
+  },
+  {
+    "numero": "GB2",
+    "nome": "Overview",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GB2.jpg"
+  },
+  {
+    "numero": "ESP-P1",
+    "nome": "Spain Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ESP-P1.jpg"
+  },
+  {
+    "numero": "ESP-P2",
+    "nome": "Spain Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ESP-P2.jpg"
+  },
+  {
+    "numero": "CRO-P1",
+    "nome": "Croatia Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CRO-P1.jpg"
+  },
+  {
+    "numero": "CRO-P2",
+    "nome": "Croatia Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CRO-P2.jpg"
+  },
+  {
+    "numero": "ITA-P1",
+    "nome": "Italy Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ITA-P1.jpg"
+  },
+  {
+    "numero": "ITA-P2",
+    "nome": "Italy Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ITA-P2.jpg"
+  },
+  {
+    "numero": "ALB-P1",
+    "nome": "Albania Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ALB-P1.jpg"
+  },
+  {
+    "numero": "ALB-P2",
+    "nome": "Albania Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ALB-P2.jpg"
+  },
+  {
+    "numero": "ESP-PTW",
+    "nome": "Lamine Yamal",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/ESP-PTW.jpg"
+  },
+  {
+    "numero": "ESP-SP",
+    "nome": "Rodri",
+    "tenho": false,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/ESP-SP.jpg"
+  },
+  {
+    "numero": "ESP-TOP1",
+    "nome": "Ferran Torres",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ESP-TOP1.jpg"
+  },
+  {
+    "numero": "ESP-TOP2",
+    "nome": "Pedri",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ESP-TOP2.jpg"
+  },
+  {
+    "numero": "CRO-PTW",
+    "nome": "Joško Gvardiol",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/CRO-PTW.jpg"
+  },
+  {
+    "numero": "CRO-SP",
+    "nome": "Mateo Kovačić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/CRO-SP.jpg"
+  },
+  {
+    "numero": "CRO-TOP1",
+    "nome": "Andrej Kramarić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CRO-TOP1.jpg"
+  },
+  {
+    "numero": "CRO-TOP2",
+    "nome": "Ivan Perišić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CRO-TOP2.jpg"
+  },
+  {
+    "numero": "ITA-PTW",
+    "nome": "Wilfried Gnonto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/ITA-PTW.jpg"
+  },
+  {
+    "numero": "ITA-SP",
+    "nome": "Federico Chiesa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/ITA-SP.jpg"
+  },
+  {
+    "numero": "ITA-TOP1",
+    "nome": "Ciro Immobile",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ITA-TOP1.jpg"
+  },
+  {
+    "numero": "ITA-TOP2",
+    "nome": "Federico Dimarco",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ITA-TOP2.jpg"
+  },
+  {
+    "numero": "ALB-PTW",
+    "nome": "Armando Broja",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/ALB-PTW.jpg"
+  },
+  {
+    "numero": "ALB-SP",
+    "nome": "Elseid Hysaj",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/ALB-SP.jpg"
+  },
+  {
+    "numero": "ALB-TOP1",
+    "nome": "Jasir Asani",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ALB-TOP1.jpg"
+  },
+  {
+    "numero": "ALB-TOP2",
+    "nome": "Kristjan Asllani",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group B",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ALB-TOP2.jpg"
+  },
+  {
+    "numero": "ESP1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Spain",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/ESP1.jpg"
+  },
+  {
+    "numero": "ESP2",
+    "nome": "Álvaro Morata",
+    "tenho": true,
+    "especial": false,
+    "clube": "Spain",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/ESP2.jpg"
+  },
+  {
+    "numero": "ESP3",
+    "nome": "Dani Olmo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Spain",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/ESP3.jpg"
+  },
+  {
+    "numero": "ESP4",
+    "nome": "Unai Simón",
+    "tenho": true,
+    "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ESP4.jpg"
+  },
+  {
+    "numero": "ESP5",
+    "nome": "César Azpilicueta",
+    "tenho": true,
+    "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ESP5.jpg"
+  },
+  {
+    "numero": "ESP6",
+    "nome": "Pedro Porro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ESP6.jpg"
+  },
+  {
+    "numero": "ESP7",
+    "nome": "Alejandro Balde",
+    "tenho": true,
+    "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ESP7.jpg"
+  },
+  {
+    "numero": "ESP8",
+    "nome": "Robin Le Normand",
+    "tenho": true,
+    "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ESP8.jpg"
+  },
+  {
+    "numero": "ESP9",
+    "nome": "Pau Torres",
+    "tenho": true,
+    "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ESP9.jpg"
+  },
+  {
+    "numero": "ESP10",
+    "nome": "Aymeric Laporte",
+    "tenho": true,
+    "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ESP10.jpg"
+  },
+  {
+    "numero": "ESP11",
+    "nome": "Gavi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ESP11.jpg"
+  },
+  {
+    "numero": "ESP12",
+    "nome": "Pedri",
+    "tenho": true,
+    "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ESP12.jpg"
+  },
+  {
+    "numero": "ESP13",
+    "nome": "Rodri",
+    "tenho": true,
+    "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ESP13.jpg"
+  },
+  {
+    "numero": "ESP14",
+    "nome": "Fabián Ruiz",
+    "tenho": true,
+    "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ESP14.jpg"
+  },
+  {
+    "numero": "ESP15",
+    "nome": "Nico Williams",
+    "tenho": true,
+    "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ESP15.jpg"
+  },
+  {
+    "numero": "ESP16",
+    "nome": "Mikel Oyarzabal",
+    "tenho": true,
+    "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ESP16.jpg"
+  },
+  {
+    "numero": "ESP17",
+    "nome": "Marco Asensio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ESP17.jpg"
+  },
+  {
+    "numero": "ESP18",
+    "nome": "Yeremy Pino",
+    "tenho": true,
+    "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ESP18.jpg"
+  },
+  {
+    "numero": "ESP19",
+    "nome": "Lamine Yamal",
+    "tenho": true,
+    "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ESP19.jpg"
+  },
+  {
+    "numero": "ESP20",
+    "nome": "Ansu Fati",
+    "tenho": true,
+    "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ESP20.jpg"
+  },
+  {
+    "numero": "ESP21",
+    "nome": "Ferran Torres",
+    "tenho": true,
+    "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ESP21.jpg"
+  },
+  {
+    "numero": "CRO1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Croatia",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/CRO1.jpg"
+  },
+  {
+    "numero": "CRO2",
+    "nome": "Luka Modrić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Croatia",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/CRO2.jpg"
+  },
+  {
+    "numero": "CRO3",
+    "nome": "Mateo Kovačić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Croatia",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/CRO3.jpg"
+  },
+  {
+    "numero": "CRO4",
+    "nome": "Dominik Livaković",
+    "tenho": true,
+    "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CRO4.jpg"
+  },
+  {
+    "numero": "CRO5",
+    "nome": "Josip Stanišić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CRO5.jpg"
+  },
+  {
+    "numero": "CRO6",
+    "nome": "Martin Erlić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CRO6.jpg"
+  },
+  {
+    "numero": "CRO7",
+    "nome": "Josip Šutalo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CRO7.jpg"
+  },
+  {
+    "numero": "CRO8",
+    "nome": "Borna Sosa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CRO8.jpg"
+  },
+  {
+    "numero": "CRO9",
+    "nome": "Joško Gvardiol",
+    "tenho": true,
+    "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CRO9.jpg"
+  },
+  {
+    "numero": "CRO10",
+    "nome": "Domagoj Vida",
+    "tenho": true,
+    "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CRO10.jpg"
+  },
+  {
+    "numero": "CRO11",
+    "nome": "Josip Juranović",
+    "tenho": true,
+    "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CRO11.jpg"
+  },
+  {
+    "numero": "CRO12",
+    "nome": "Lovro Majer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CRO12.jpg"
+  },
+  {
+    "numero": "CRO13",
+    "nome": "Marcelo Brozović",
+    "tenho": true,
+    "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CRO13.jpg"
+  },
+  {
+    "numero": "CRO14",
+    "nome": "Ivan Perišić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CRO14.jpg"
+  },
+  {
+    "numero": "CRO15",
+    "nome": "Mario Pašalić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CRO15.jpg"
+  },
+  {
+    "numero": "CRO16",
+    "nome": "Luka Ivanušec",
+    "tenho": true,
+    "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CRO16.jpg"
+  },
+  {
+    "numero": "CRO17",
+    "nome": "Luka Sučić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CRO17.jpg"
+  },
+  {
+    "numero": "CRO18",
+    "nome": "Nikola Vlašić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CRO18.jpg"
+  },
+  {
+    "numero": "CRO19",
+    "nome": "Mislav Oršić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CRO19.jpg"
+  },
+  {
+    "numero": "CRO20",
+    "nome": "Andrej Kramarić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CRO20.jpg"
+  },
+  {
+    "numero": "CRO21",
+    "nome": "Bruno Petković",
+    "tenho": true,
+    "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CRO21.jpg"
+  },
+  {
+    "numero": "ITA1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italy",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/ITA1.jpg"
+  },
+  {
+    "numero": "ITA2",
+    "nome": "Leonardo Bonucci",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italy",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/ITA2.jpg"
+  },
+  {
+    "numero": "ITA3",
+    "nome": "Jorginho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italy",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/ITA3.jpg"
+  },
+  {
+    "numero": "ITA4",
+    "nome": "Gianluigi Donnarumma",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italy",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ITA4.jpg"
+  },
+  {
+    "numero": "ITA5",
+    "nome": "Leonardo Spinazzola",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italy",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ITA5.jpg"
+  },
+  {
+    "numero": "ITA6",
+    "nome": "Francesco Acerbi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italy",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ITA6.jpg"
+  },
+  {
+    "numero": "ITA7",
+    "nome": "Emerson Palmieri",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italy",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ITA7.jpg"
+  },
+  {
+    "numero": "ITA8",
+    "nome": "Giorgio Scalvini",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italy",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ITA8.jpg"
+  },
+  {
+    "numero": "ITA9",
+    "nome": "Alessandro Bastoni",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italy",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ITA9.jpg"
+  },
+  {
+    "numero": "ITA10",
+    "nome": "Federico Dimarco",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italy",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ITA10.jpg"
+  },
+  {
+    "numero": "ITA11",
+    "nome": "Gianluca Mancini",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italy",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ITA11.jpg"
+  },
+  {
+    "numero": "ITA12",
+    "nome": "Destiny Udogie",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italy",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ITA12.jpg"
+  },
+  {
+    "numero": "ITA13",
+    "nome": "Davide Frattesi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italy",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ITA13.jpg"
+  },
+  {
+    "numero": "ITA14",
+    "nome": "Matteo Pessina",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italy",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ITA14.jpg"
+  },
+  {
+    "numero": "ITA15",
+    "nome": "Marco Verratti",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italy",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ITA15.jpg"
+  },
+  {
+    "numero": "ITA16",
+    "nome": "Manuel Locatelli",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italy",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ITA16.jpg"
+  },
+  {
+    "numero": "ITA17",
+    "nome": "Bryan Cristante",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italy",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ITA17.jpg"
+  },
+  {
+    "numero": "ITA18",
+    "nome": "Gianluca Scamacca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italy",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ITA18.jpg"
+  },
+  {
+    "numero": "ITA19",
+    "nome": "Federico Chiesa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italy",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ITA19.jpg"
+  },
+  {
+    "numero": "ITA20",
+    "nome": "Ciro Immobile",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italy",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ITA20.jpg"
+  },
+  {
+    "numero": "ITA21",
+    "nome": "Wilfried Gnonto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italy",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ITA21.jpg"
+  },
+  {
+    "numero": "ALB1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Albania",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/ALB1.jpg"
+  },
+  {
+    "numero": "ALB2",
+    "nome": "Etrit Berisha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Albania",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/ALB2.jpg"
+  },
+  {
+    "numero": "ALB3",
+    "nome": "Nedim Bajrami",
+    "tenho": true,
+    "especial": false,
+    "clube": "Albania",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/ALB3.jpg"
+  },
+  {
+    "numero": "ALB4",
+    "nome": "Thomas Strakosha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Albania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ALB4.jpg"
+  },
+  {
+    "numero": "ALB5",
+    "nome": "Iván Balliu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Albania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ALB5.jpg"
+  },
+  {
+    "numero": "ALB6",
+    "nome": "Berat Djimsiti",
+    "tenho": true,
+    "especial": false,
+    "clube": "Albania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ALB6.jpg"
+  },
+  {
+    "numero": "ALB7",
+    "nome": "Elseid Hysaj",
+    "tenho": true,
+    "especial": false,
+    "clube": "Albania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ALB7.jpg"
+  },
+  {
+    "numero": "ALB8",
+    "nome": "Marash Kumbulla",
+    "tenho": true,
+    "especial": false,
+    "clube": "Albania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ALB8.jpg"
+  },
+  {
+    "numero": "ALB9",
+    "nome": "Ardian Ismajli",
+    "tenho": true,
+    "especial": false,
+    "clube": "Albania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ALB9.jpg"
+  },
+  {
+    "numero": "ALB10",
+    "nome": "Keidi Bare",
+    "tenho": true,
+    "especial": false,
+    "clube": "Albania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ALB10.jpg"
+  },
+  {
+    "numero": "ALB11",
+    "nome": "Klaus Gjasula",
+    "tenho": true,
+    "especial": false,
+    "clube": "Albania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ALB11.jpg"
+  },
+  {
+    "numero": "ALB12",
+    "nome": "Qazim Laçi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Albania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ALB12.jpg"
+  },
+  {
+    "numero": "ALB13",
+    "nome": "Kristjan Asllani",
+    "tenho": true,
+    "especial": false,
+    "clube": "Albania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ALB13.jpg"
+  },
+  {
+    "numero": "ALB14",
+    "nome": "Anis Mehmeti",
+    "tenho": true,
+    "especial": false,
+    "clube": "Albania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ALB14.jpg"
+  },
+  {
+    "numero": "ALB15",
+    "nome": "Ylber Ramadani",
+    "tenho": true,
+    "especial": false,
+    "clube": "Albania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ALB15.jpg"
+  },
+  {
+    "numero": "ALB16",
+    "nome": "Jasir Asani",
+    "tenho": true,
+    "especial": false,
+    "clube": "Albania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ALB16.jpg"
+  },
+  {
+    "numero": "ALB17",
+    "nome": "Myrto Uzuni",
+    "tenho": true,
+    "especial": false,
+    "clube": "Albania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ALB17.jpg"
+  },
+  {
+    "numero": "ALB18",
+    "nome": "Sokol Çikalleshi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Albania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ALB18.jpg"
+  },
+  {
+    "numero": "ALB19",
+    "nome": "Ernest Muçi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Albania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ALB19.jpg"
+  },
+  {
+    "numero": "ALB20",
+    "nome": "Mirlind Daku",
+    "tenho": true,
+    "especial": false,
+    "clube": "Albania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ALB20.jpg"
+  },
+  {
+    "numero": "ALB21",
+    "nome": "Armando Broja",
+    "tenho": true,
+    "especial": false,
+    "clube": "Albania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ALB21.jpg"
+  },
+  {
+    "numero": "GC1",
+    "nome": "Overview",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GC1.jpg"
+  },
+  {
+    "numero": "GC2",
+    "nome": "Overview",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GC2.jpg"
+  },
+  {
+    "numero": "SVN-P1",
+    "nome": "Slovenia Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVN-P1.jpg"
+  },
+  {
+    "numero": "SVN-P2",
+    "nome": "Slovenia Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVN-P2.jpg"
+  },
+  {
+    "numero": "DEN-P1",
+    "nome": "Denmark Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/DEN-P1.jpg"
+  },
+  {
+    "numero": "DEN-P2",
+    "nome": "Denmark Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/DEN-P2.jpg"
+  },
+  {
+    "numero": "SRB-P1",
+    "nome": "Serbia Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SRB-P1.jpg"
+  },
+  {
+    "numero": "SRB-P2",
+    "nome": "Serbia Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SRB-P2.jpg"
+  },
+  {
+    "numero": "ENG-P1",
+    "nome": "England Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ENG-P1.jpg"
+  },
+  {
+    "numero": "ENG-P2",
+    "nome": "England Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ENG-P2.jpg"
+  },
+  {
+    "numero": "SVN-PTW",
+    "nome": "Žan Vipotnik",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/SVN-PTW.jpg"
+  },
+  {
+    "numero": "SVN-SP",
+    "nome": "Benjamin Šeško",
+    "tenho": false,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/SVN-SP.jpg"
+  },
+  {
+    "numero": "SVN-TOP1",
+    "nome": "Žan Karnicnik",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVN-TOP1.jpg"
+  },
+  {
+    "numero": "SVN-TOP2",
+    "nome": "Andraž Šporar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVN-TOP2.jpg"
+  },
+  {
+    "numero": "DEN-PTW",
+    "nome": "Rasmus Højlund",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/DEN-PTW.jpg"
+  },
+  {
+    "numero": "DEN-SP",
+    "nome": "Pierre-Emile Højbjerg",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/DEN-SP.jpg"
+  },
+  {
+    "numero": "DEN-TOP1",
+    "nome": "Andreas Christensen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/DEN-TOP1.jpg"
+  },
+  {
+    "numero": "DEN-TOP2",
+    "nome": "Jonas Wind",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/DEN-TOP2.jpg"
+  },
+  {
+    "numero": "SRB-PTW",
+    "nome": "Lazar Samardžić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/SRB-PTW.jpg"
+  },
+  {
+    "numero": "SRB-SP",
+    "nome": "Dušan Vlahović",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/SRB-SP.jpg"
+  },
+  {
+    "numero": "SRB-TOP1",
+    "nome": "Nikola Milenković",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SRB-TOP1.jpg"
+  },
+  {
+    "numero": "SRB-TOP2",
+    "nome": "Aleksandar Mitrović",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SRB-TOP2.jpg"
+  },
+  {
+    "numero": "ENG-PTW",
+    "nome": "Rico Lewis",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/ENG-PTW.jpg"
+  },
+  {
+    "numero": "ENG-SP",
+    "nome": "Jude Bellingham",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/ENG-SP.jpg"
+  },
+  {
+    "numero": "ENG-TOP1",
+    "nome": "Mason Mount",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ENG-TOP1.jpg"
+  },
+  {
+    "numero": "ENG-TOP2",
+    "nome": "Trent Alexander-Arnold",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group C",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ENG-TOP2.jpg"
+  },
+  {
+    "numero": "SVN1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenia",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/SVN1.jpg"
+  },
+  {
+    "numero": "SVN2",
+    "nome": "Jan Oblak",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenia",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/SVN2.jpg"
+  },
+  {
+    "numero": "SVN3",
+    "nome": "Benjamin Šeško",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenia",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/SVN3.jpg"
+  },
+  {
+    "numero": "SVN4",
+    "nome": "Jaka Bijol",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVN4.jpg"
+  },
+  {
+    "numero": "SVN5",
+    "nome": "Jure Balkovec",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVN5.jpg"
+  },
+  {
+    "numero": "SVN6",
+    "nome": "Miha Blažič",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVN6.jpg"
+  },
+  {
+    "numero": "SVN7",
+    "nome": "Žan Karničnik",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVN7.jpg"
+  },
+  {
+    "numero": "SVN8",
+    "nome": "Petar Stojanović",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVN8.jpg"
+  },
+  {
+    "numero": "SVN9",
+    "nome": "David Brekalo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVN9.jpg"
+  },
+  {
+    "numero": "SVN10",
+    "nome": "Erik Janža",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVN10.jpg"
+  },
+  {
+    "numero": "SVN11",
+    "nome": "Benjamin Verbič",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVN11.jpg"
+  },
+  {
+    "numero": "SVN12",
+    "nome": "Sandi Lovrić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVN12.jpg"
+  },
+  {
+    "numero": "SVN13",
+    "nome": "Miha Zajc",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVN13.jpg"
+  },
+  {
+    "numero": "SVN14",
+    "nome": "Jasmin Kurtić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVN14.jpg"
+  },
+  {
+    "numero": "SVN15",
+    "nome": "Adam Gnezda Čerin",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVN15.jpg"
+  },
+  {
+    "numero": "SVN16",
+    "nome": "Jon Gorenc Stanković",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVN16.jpg"
+  },
+  {
+    "numero": "SVN17",
+    "nome": "Luka Zahovič",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVN17.jpg"
+  },
+  {
+    "numero": "SVN18",
+    "nome": "Jan Mlakar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVN18.jpg"
+  },
+  {
+    "numero": "SVN19",
+    "nome": "Žan Vipotnik",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVN19.jpg"
+  },
+  {
+    "numero": "SVN20",
+    "nome": "Andraž Šporar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVN20.jpg"
+  },
+  {
+    "numero": "SVN21",
+    "nome": "Timi Max Elsnik",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVN21.jpg"
+  },
+  {
+    "numero": "DEN1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Denmark",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/DEN1.jpg"
+  },
+  {
+    "numero": "DEN2",
+    "nome": "Simon Kjaer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Denmark",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/DEN2.jpg"
+  },
+  {
+    "numero": "DEN3",
+    "nome": "Mikkel Damsgaard",
+    "tenho": true,
+    "especial": false,
+    "clube": "Denmark",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/DEN3.jpg"
+  },
+  {
+    "numero": "DEN4",
+    "nome": "Kasper Schmeichel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/DEN4.jpg"
+  },
+  {
+    "numero": "DEN5",
+    "nome": "Andreas Christensen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/DEN5.jpg"
+  },
+  {
+    "numero": "DEN6",
+    "nome": "Victor Nelsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/DEN6.jpg"
+  },
+  {
+    "numero": "DEN7",
+    "nome": "Joachim Andersen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/DEN7.jpg"
+  },
+  {
+    "numero": "DEN8",
+    "nome": "Rasmus Kristensen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/DEN8.jpg"
+  },
+  {
+    "numero": "DEN9",
+    "nome": "Jens Stryger Larsen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/DEN9.jpg"
+  },
+  {
+    "numero": "DEN10",
+    "nome": "Mathias Jensen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/DEN10.jpg"
+  },
+  {
+    "numero": "DEN11",
+    "nome": "Christian Nørgaard",
+    "tenho": true,
+    "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/DEN11.jpg"
+  },
+  {
+    "numero": "DEN12",
+    "nome": "Philip Billing",
+    "tenho": true,
+    "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/DEN12.jpg"
+  },
+  {
+    "numero": "DEN13",
+    "nome": "Christian Eriksen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/DEN13.jpg"
+  },
+  {
+    "numero": "DEN14",
+    "nome": "Jesper Lindstrøm",
+    "tenho": true,
+    "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/DEN14.jpg"
+  },
+  {
+    "numero": "DEN15",
+    "nome": "Mohamed Daramy",
+    "tenho": true,
+    "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/DEN15.jpg"
+  },
+  {
+    "numero": "DEN16",
+    "nome": "Pierre-Emile Hojbjerg",
+    "tenho": true,
+    "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/DEN16.jpg"
+  },
+  {
+    "numero": "DEN17",
+    "nome": "Morten Hjulmand",
+    "tenho": true,
+    "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/DEN17.jpg"
+  },
+  {
+    "numero": "DEN18",
+    "nome": "Jonas Wind",
+    "tenho": true,
+    "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/DEN18.jpg"
+  },
+  {
+    "numero": "DEN19",
+    "nome": "Andreas Skov Olsen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/DEN19.jpg"
+  },
+  {
+    "numero": "DEN20",
+    "nome": "Yussuf Poulsen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/DEN20.jpg"
+  },
+  {
+    "numero": "DEN21",
+    "nome": "Rasmus Højlund",
+    "tenho": true,
+    "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/DEN21.jpg"
+  },
+  {
+    "numero": "SRB1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Serbia",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/SRB1.jpg"
+  },
+  {
+    "numero": "SRB2",
+    "nome": "Dušan Tadić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Serbia",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/SRB2.jpg"
+  },
+  {
+    "numero": "SRB3",
+    "nome": "Sergej Milinković-Savić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Serbia",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/SRB3.jpg"
+  },
+  {
+    "numero": "SRB4",
+    "nome": "Vanja Milinković-Savić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SRB4.jpg"
+  },
+  {
+    "numero": "SRB5",
+    "nome": "Strahinja Pavlović",
+    "tenho": true,
+    "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SRB5.jpg"
+  },
+  {
+    "numero": "SRB6",
+    "nome": "Filip Mladenović",
+    "tenho": true,
+    "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SRB6.jpg"
+  },
+  {
+    "numero": "SRB7",
+    "nome": "Miloš Veljković",
+    "tenho": true,
+    "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SRB7.jpg"
+  },
+  {
+    "numero": "SRB8",
+    "nome": "Nikola Milenković",
+    "tenho": true,
+    "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SRB8.jpg"
+  },
+  {
+    "numero": "SRB9",
+    "nome": "Strahinja Eraković",
+    "tenho": true,
+    "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SRB9.jpg"
+  },
+  {
+    "numero": "SRB10",
+    "nome": "Srđan Babić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SRB10.jpg"
+  },
+  {
+    "numero": "SRB11",
+    "nome": "Nemanja Maksimović",
+    "tenho": true,
+    "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SRB11.jpg"
+  },
+  {
+    "numero": "SRB12",
+    "nome": "Nemanja Gudelj",
+    "tenho": true,
+    "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SRB12.jpg"
+  },
+  {
+    "numero": "SRB13",
+    "nome": "Saša Lukić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SRB13.jpg"
+  },
+  {
+    "numero": "SRB14",
+    "nome": "Marko Grujić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SRB14.jpg"
+  },
+  {
+    "numero": "SRB15",
+    "nome": "Ivan Ilić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SRB15.jpg"
+  },
+  {
+    "numero": "SRB16",
+    "nome": "Filip Đuričić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SRB16.jpg"
+  },
+  {
+    "numero": "SRB17",
+    "nome": "Lazar Samardžić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SRB17.jpg"
+  },
+  {
+    "numero": "SRB18",
+    "nome": "Filip Kostić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SRB18.jpg"
+  },
+  {
+    "numero": "SRB19",
+    "nome": "Andrija Živković",
+    "tenho": true,
+    "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SRB19.jpg"
+  },
+  {
+    "numero": "SRB20",
+    "nome": "Aleksandar Mitrović",
+    "tenho": true,
+    "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SRB20.jpg"
+  },
+  {
+    "numero": "SRB21",
+    "nome": "Dušan Vlahović",
+    "tenho": true,
+    "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SRB21.jpg"
+  },
+  {
+    "numero": "ENG1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/ENG1.jpg"
+  },
+  {
+    "numero": "ENG2",
+    "nome": "Harry Kane",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/ENG2.jpg"
+  },
+  {
+    "numero": "ENG3",
+    "nome": "Cole Palmer",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/ENG3.jpg"
+  },
+  {
+    "numero": "ENG4",
+    "nome": "Jordan Pickford",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ENG4.jpg"
+  },
+  {
+    "numero": "ENG5",
+    "nome": "Luke Thomas",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ENG5.jpg"
+  },
+  {
+    "numero": "ENG6",
+    "nome": "Harry Maguire",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ENG6.jpg"
+  },
+  {
+    "numero": "ENG7",
+    "nome": "Kieran Trippier",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ENG7.jpg"
+  },
+  {
+    "numero": "ENG8",
+    "nome": "Luke Shaw",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ENG8.jpg"
+  },
+  {
+    "numero": "ENG9",
+    "nome": "Trent Alexander-Arnold",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ENG9.jpg"
+  },
+  {
+    "numero": "ENG10",
+    "nome": "Marc Guéhi",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ENG10.jpg"
+  },
+  {
+    "numero": "ENG11",
+    "nome": "Fikayo Tomori",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ENG11.jpg"
+  },
+  {
+    "numero": "ENG12",
+    "nome": "Rico Lewis",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ENG12.jpg"
+  },
+  {
+    "numero": "ENG13",
+    "nome": "Eberechi Eze",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ENG13.jpg"
+  },
+  {
+    "numero": "ENG14",
+    "nome": "Declan Rice",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ENG14.jpg"
+  },
+  {
+    "numero": "ENG15",
+    "nome": "Jordan Henderson",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ENG15.jpg"
+  },
+  {
+    "numero": "ENG16",
+    "nome": "Jude Bellingham",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ENG16.jpg"
+  },
+  {
+    "numero": "ENG17",
+    "nome": "Mason Mount",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ENG17.jpg"
+  },
+  {
+    "numero": "ENG18",
+    "nome": "Jarrod Bowen",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ENG18.jpg"
+  },
+  {
+    "numero": "ENG19",
+    "nome": "Jack Grealish",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ENG19.jpg"
+  },
+  {
+    "numero": "ENG20",
+    "nome": "Ollie Watkins",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ENG20.jpg"
+  },
+  {
+    "numero": "ENG21",
+    "nome": "Callum Wilson",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ENG21.jpg"
+  },
+  {
+    "numero": "MM1-2",
+    "nome": "Mascot / José Mourinho Signature",
+    "tenho": true,
+    "especial": false,
+    "clube": "Dream Team",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/MM1-2.jpg"
+  },
+  {
+    "numero": "GD1",
+    "nome": "Overview",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group D",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GD1.jpg"
+  },
+  {
+    "numero": "GD2",
+    "nome": "Overview",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group D",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GD2.jpg"
+  },
+  {
+    "numero": "NED-P1",
+    "nome": "Netherlands Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group D",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/NED-P1.jpg"
+  },
+  {
+    "numero": "NED-P2",
+    "nome": "Netherlands Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group D",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/NED-P2.jpg"
+  },
+  {
+    "numero": "AUT-P1",
+    "nome": "Austria Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group D",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/AUT-P1.jpg"
+  },
+  {
+    "numero": "AUT-P2",
+    "nome": "Austria Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group D",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/AUT-P2.jpg"
+  },
+  {
+    "numero": "FRA-P1",
+    "nome": "France Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group D",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FRA-P1.jpg"
+  },
+  {
+    "numero": "FRA-P2",
+    "nome": "France Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group D",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FRA-P2.jpg"
+  },
+  {
+    "numero": "POL-EST-SP",
+    "nome": "Robert Lewandowski / Markus Poom",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group D",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POL-EST-SP.jpg"
+  },
+  {
+    "numero": "WAL-FIN-SP",
+    "nome": "Brennan Johnson / Teemu Pukki",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group D",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/WAL-FIN-SP.jpg"
+  },
+  {
+    "numero": "NED-PTW",
+    "nome": "Xavi Simons",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group D",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/NED-PTW.jpg"
+  },
+  {
+    "numero": "NED-SP",
+    "nome": "Cody Gakpo",
+    "tenho": false,
+    "especial": false,
+    "clube": "Group D",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/NED-SP.jpg"
+  },
+  {
+    "numero": "NED-TOP1",
+    "nome": "Frenkie de Jong",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group D",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/NED-TOP1.jpg"
+  },
+  {
+    "numero": "NED-TOP2",
+    "nome": "Donyell Malen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group D",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/NED-TOP2.jpg"
+  },
+  {
+    "numero": "AUT-PTW",
+    "nome": "Nicolas Seiwald",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group D",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/AUT-PTW.jpg"
+  },
+  {
+    "numero": "AUT-SP",
+    "nome": "Marko Arnautović",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group D",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/AUT-SP.jpg"
+  },
+  {
+    "numero": "AUT-TOP1",
+    "nome": "Konrad Laimer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group D",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/AUT-TOP1.jpg"
+  },
+  {
+    "numero": "AUT-TOP2",
+    "nome": "Patrick Wimmer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group D",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/AUT-TOP2.jpg"
+  },
+  {
+    "numero": "FRA-PTW",
+    "nome": "Eduardo Camavinga",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group D",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/FRA-PTW.jpg"
+  },
+  {
+    "numero": "FRA-SP",
+    "nome": "Kingsley Coman",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group D",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/FRA-SP.jpg"
+  },
+  {
+    "numero": "FRA-TOP1",
+    "nome": "Randal Kolo Muani",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group D",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FRA-TOP1.jpg"
+  },
+  {
+    "numero": "FRA-TOP2",
+    "nome": "Ousmane Dembélé",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group D",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FRA-TOP2.jpg"
+  },
+  {
+    "numero": "POL1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Poland",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/POL1.jpg"
+  },
+  {
+    "numero": "POL2-3",
+    "nome": "Wojciech Szczęsny / Jan Bednarek",
+    "tenho": true,
+    "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POL2-3.jpg"
+  },
+  {
+    "numero": "POL4-5",
+    "nome": "Matty Cash / Mateusz Wieteska",
+    "tenho": true,
+    "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POL4-5.jpg"
+  },
+  {
+    "numero": "POL6-7",
+    "nome": "Tomasz Kędziora / Jakub Kiwior",
+    "tenho": true,
+    "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POL6-7.jpg"
+  },
+  {
+    "numero": "POL8-9",
+    "nome": "Bartosz Slisz / Nicola Zalewski",
+    "tenho": true,
+    "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POL8-9.jpg"
+  },
+  {
+    "numero": "POL10-11",
+    "nome": "Piotr Zieliński / Kacper Kozłowski",
+    "tenho": true,
+    "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POL10-11.jpg"
+  },
+  {
+    "numero": "POL12-13",
+    "nome": "Damian Szymański / Karol Linetty",
+    "tenho": true,
+    "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POL12-13.jpg"
+  },
+  {
+    "numero": "POL14-15",
+    "nome": "Arkadiusz Milik / Robert Lewandowski",
+    "tenho": true,
+    "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POL14-15.jpg"
+  },
+  {
+    "numero": "EST1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estonia",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/EST1.jpg"
+  },
+  {
+    "numero": "EST2-3",
+    "nome": "Karl Hein / Joonas Tamm",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estonia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/EST2-3.jpg"
+  },
+  {
+    "numero": "EST4-5",
+    "nome": "Märten Kuusk / Artur Pikk",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estonia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/EST4-5.jpg"
+  },
+  {
+    "numero": "EST6-7",
+    "nome": "Marco Lukka / Rasmus Peetson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estonia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/EST6-7.jpg"
+  },
+  {
+    "numero": "EST8-9",
+    "nome": "Maksim Paskotsi / Taijo Teniste",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estonia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/EST8-9.jpg"
+  },
+  {
+    "numero": "EST10-11",
+    "nome": "Nikita Baranov / Rocco Shein",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estonia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/EST10-11.jpg"
+  },
+  {
+    "numero": "EST12-13",
+    "nome": "Georgi Tunjov / Martin Miller",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estonia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/EST12-13.jpg"
+  },
+  {
+    "numero": "EST14-15",
+    "nome": "Markus Poom / Martin Vetkal",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estonia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/EST14-15.jpg"
+  },
+  {
+    "numero": "WAL1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/WAL1.jpg"
+  },
+  {
+    "numero": "WAL2-3",
+    "nome": "Danny Ward / Ben Davies",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/WAL2-3.jpg"
+  },
+  {
+    "numero": "WAL4-5",
+    "nome": "Neco Williams / Joe Rodon",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/WAL4-5.jpg"
+  },
+  {
+    "numero": "WAL6-7",
+    "nome": "Connor Roberts / Chris Mepham",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/WAL6-7.jpg"
+  },
+  {
+    "numero": "WAL8-9",
+    "nome": "Aaron Ramsey / David Brooks",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/WAL8-9.jpg"
+  },
+  {
+    "numero": "WAL10-11",
+    "nome": "Harry Wilson / Jordan James",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/WAL10-11.jpg"
+  },
+  {
+    "numero": "WAL12-13",
+    "nome": "Ethan Ampadu / Daniel James",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/WAL12-13.jpg"
+  },
+  {
+    "numero": "WAL14-15",
+    "nome": "Kieffer Moore / Brennan Johnson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/WAL14-15.jpg"
+  },
+  {
+    "numero": "FIN1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Finland",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/FIN1.jpg"
+  },
+  {
+    "numero": "FIN2-3",
+    "nome": "Lukas Hradecky / Leo Väisänen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Finland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FIN2-3.jpg"
+  },
+  {
+    "numero": "FIN4-5",
+    "nome": "Arttu Hoskonen / Nikolai Alho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Finland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FIN4-5.jpg"
+  },
+  {
+    "numero": "FIN6-7",
+    "nome": "Robert Ivanov / Robin Lod",
+    "tenho": true,
+    "especial": false,
+    "clube": "Finland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FIN6-7.jpg"
+  },
+  {
+    "numero": "FIN8-9",
+    "nome": "Glen Kamara / Robert Taylor",
+    "tenho": true,
+    "especial": false,
+    "clube": "Finland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FIN8-9.jpg"
+  },
+  {
+    "numero": "FIN10-11",
+    "nome": "Rasmus Schüller / Kaan Kairinen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Finland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FIN10-11.jpg"
+  },
+  {
+    "numero": "FIN12-13",
+    "nome": "Oliver Antman / Joel Pohjanpalo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Finland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FIN12-13.jpg"
+  },
+  {
+    "numero": "FIN14-15",
+    "nome": "Benjamin Källman / Teemu Pukki",
+    "tenho": true,
+    "especial": false,
+    "clube": "Finland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FIN14-15.jpg"
+  },
+  {
+    "numero": "NED1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Netherlands",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/NED1.jpg"
+  },
+  {
+    "numero": "NED2",
+    "nome": "Virgil van Dijk",
+    "tenho": true,
+    "especial": false,
+    "clube": "Netherlands",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/NED2.jpg"
+  },
+  {
+    "numero": "NED3",
+    "nome": "Frenkie de Jong",
+    "tenho": true,
+    "especial": false,
+    "clube": "Netherlands",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/NED3.jpg"
+  },
+  {
+    "numero": "NED4",
+    "nome": "Justin Bijlow",
+    "tenho": true,
+    "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/NED4.jpg"
+  },
+  {
+    "numero": "NED5",
+    "nome": "Jeremie Frimpong",
+    "tenho": true,
+    "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/NED5.jpg"
+  },
+  {
+    "numero": "NED6",
+    "nome": "Micky van de Ven",
+    "tenho": true,
+    "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/NED6.jpg"
+  },
+  {
+    "numero": "NED7",
+    "nome": "Matthijs de Ligt",
+    "tenho": true,
+    "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/NED7.jpg"
+  },
+  {
+    "numero": "NED8",
+    "nome": "Denzel Dumfries",
+    "tenho": true,
+    "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/NED8.jpg"
+  },
+  {
+    "numero": "NED9",
+    "nome": "Lutsharel Geertruida",
+    "tenho": true,
+    "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/NED9.jpg"
+  },
+  {
+    "numero": "NED10",
+    "nome": "Daley Blind",
+    "tenho": true,
+    "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/NED10.jpg"
+  },
+  {
+    "numero": "NED11",
+    "nome": "Quilindschy Hartman",
+    "tenho": true,
+    "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/NED11.jpg"
+  },
+  {
+    "numero": "NED12",
+    "nome": "Nathan Aké",
+    "tenho": true,
+    "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/NED12.jpg"
+  },
+  {
+    "numero": "NED13",
+    "nome": "Tijjani Reijnders",
+    "tenho": true,
+    "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/NED13.jpg"
+  },
+  {
+    "numero": "NED14",
+    "nome": "Marten de Roon",
+    "tenho": true,
+    "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/NED14.jpg"
+  },
+  {
+    "numero": "NED15",
+    "nome": "Teun Koopmeiners",
+    "tenho": true,
+    "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/NED15.jpg"
+  },
+  {
+    "numero": "NED16",
+    "nome": "Donyell Malen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/NED16.jpg"
+  },
+  {
+    "numero": "NED17",
+    "nome": "Xavi Simons",
+    "tenho": true,
+    "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/NED17.jpg"
+  },
+  {
+    "numero": "NED18",
+    "nome": "Cody Gakpo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/NED18.jpg"
+  },
+  {
+    "numero": "NED19",
+    "nome": "Noa Lang",
+    "tenho": true,
+    "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/NED19.jpg"
+  },
+  {
+    "numero": "NED20",
+    "nome": "Steven Bergwijn",
+    "tenho": true,
+    "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/NED20.jpg"
+  },
+  {
+    "numero": "NED21",
+    "nome": "Memphis Depay",
+    "tenho": true,
+    "especial": false,
+    "clube": "Netherlands",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/NED21.jpg"
+  },
+  {
+    "numero": "AUT1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Austria",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/AUT1.jpg"
+  },
+  {
+    "numero": "AUT2",
+    "nome": "David Alaba",
+    "tenho": true,
+    "especial": false,
+    "clube": "Austria",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/AUT2.jpg"
+  },
+  {
+    "numero": "AUT3",
+    "nome": "Junior Adamu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Austria",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/AUT3.jpg"
+  },
+  {
+    "numero": "AUT4",
+    "nome": "Alexander Schlager",
+    "tenho": true,
+    "especial": false,
+    "clube": "Austria",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/AUT4.jpg"
+  },
+  {
+    "numero": "AUT5",
+    "nome": "Stefan Posch",
+    "tenho": true,
+    "especial": false,
+    "clube": "Austria",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/AUT5.jpg"
+  },
+  {
+    "numero": "AUT6",
+    "nome": "Philipp Lienhart",
+    "tenho": true,
+    "especial": false,
+    "clube": "Austria",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/AUT6.jpg"
+  },
+  {
+    "numero": "AUT7",
+    "nome": "Phillipp Mwene",
+    "tenho": true,
+    "especial": false,
+    "clube": "Austria",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/AUT7.jpg"
+  },
+  {
+    "numero": "AUT8",
+    "nome": "Maximilian Wöber",
+    "tenho": true,
+    "especial": false,
+    "clube": "Austria",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/AUT8.jpg"
+  },
+  {
+    "numero": "AUT9",
+    "nome": "Kevin Danso",
+    "tenho": true,
+    "especial": false,
+    "clube": "Austria",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/AUT9.jpg"
+  },
+  {
+    "numero": "AUT10",
+    "nome": "Marcel Sabitzer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Austria",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/AUT10.jpg"
+  },
+  {
+    "numero": "AUT11",
+    "nome": "Nicolas Seiwald",
+    "tenho": true,
+    "especial": false,
+    "clube": "Austria",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/AUT11.jpg"
+  },
+  {
+    "numero": "AUT12",
+    "nome": "Florian Grillitsch",
+    "tenho": true,
+    "especial": false,
+    "clube": "Austria",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/AUT12.jpg"
+  },
+  {
+    "numero": "AUT13",
+    "nome": "Xaver Schlager",
+    "tenho": true,
+    "especial": false,
+    "clube": "Austria",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/AUT13.jpg"
+  },
+  {
+    "numero": "AUT14",
+    "nome": "Konrad Laimer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Austria",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/AUT14.jpg"
+  },
+  {
+    "numero": "AUT15",
+    "nome": "Christoph Baumgartner",
+    "tenho": true,
+    "especial": false,
+    "clube": "Austria",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/AUT15.jpg"
+  },
+  {
+    "numero": "AUT16",
+    "nome": "Florian Kainz",
+    "tenho": true,
+    "especial": false,
+    "clube": "Austria",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/AUT16.jpg"
+  },
+  {
+    "numero": "AUT17",
+    "nome": "Patrick Wimmer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Austria",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/AUT17.jpg"
+  },
+  {
+    "numero": "AUT18",
+    "nome": "Marko Arnautović",
+    "tenho": true,
+    "especial": false,
+    "clube": "Austria",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/AUT18.jpg"
+  },
+  {
+    "numero": "AUT19",
+    "nome": "Sasa Kalajdzic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Austria",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/AUT19.jpg"
+  },
+  {
+    "numero": "AUT20",
+    "nome": "Manprit Sarkaria",
+    "tenho": true,
+    "especial": false,
+    "clube": "Austria",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/AUT20.jpg"
+  },
+  {
+    "numero": "AUT21",
+    "nome": "Michael Gregoritsch",
+    "tenho": true,
+    "especial": false,
+    "clube": "Austria",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/AUT21.jpg"
+  },
+  {
+    "numero": "FRA1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/FRA1.jpg"
+  },
+  {
+    "numero": "FRA2",
+    "nome": "Zinedine Zidane",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/FRA2.jpg"
+  },
+  {
+    "numero": "FRA3",
+    "nome": "Ousmane Dembélé",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/FRA3.jpg"
+  },
+  {
+    "numero": "FRA4",
+    "nome": "Mike Maignan",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FRA4.jpg"
+  },
+  {
+    "numero": "FRA5",
+    "nome": "Ibrahima Konaté",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FRA5.jpg"
+  },
+  {
+    "numero": "FRA6",
+    "nome": "Jules Koundé",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FRA6.jpg"
+  },
+  {
+    "numero": "FRA7",
+    "nome": "Dayot Upamecano",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FRA7.jpg"
+  },
+  {
+    "numero": "FRA8",
+    "nome": "Castello Lukeba",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FRA8.jpg"
+  },
+  {
+    "numero": "FRA9",
+    "nome": "Mohamed Simakan",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FRA9.jpg"
+  },
+  {
+    "numero": "FRA10",
+    "nome": "Lucas Hernández",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FRA10.jpg"
+  },
+  {
+    "numero": "FRA11",
+    "nome": "Pierre Kalulu",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FRA11.jpg"
+  },
+  {
+    "numero": "FRA12",
+    "nome": "Theo Hernández",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FRA12.jpg"
+  },
+  {
+    "numero": "FRA13",
+    "nome": "Eduardo Camavinga",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FRA13.jpg"
+  },
+  {
+    "numero": "FRA14",
+    "nome": "Aurélien Tchouameni",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FRA14.jpg"
+  },
+  {
+    "numero": "FRA15",
+    "nome": "Adrien Rabiot",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FRA15.jpg"
+  },
+  {
+    "numero": "FRA16",
+    "nome": "Warren Zaïre-Emery",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FRA16.jpg"
+  },
+  {
+    "numero": "FRA17",
+    "nome": "Randal Kolo Muani",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FRA17.jpg"
+  },
+  {
+    "numero": "FRA18",
+    "nome": "Olivier Giroud",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FRA18.jpg"
+  },
+  {
+    "numero": "FRA19",
+    "nome": "Kingsley Coman",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FRA19.jpg"
+  },
+  {
+    "numero": "FRA20",
+    "nome": "Antoine Griezmann",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FRA20.jpg"
+  },
+  {
+    "numero": "FRA21",
+    "nome": "Marcus Thuram",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/FRA21.jpg"
+  },
+  {
+    "numero": "GE1",
+    "nome": "Overview",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group E",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GE1.jpg"
+  },
+  {
+    "numero": "GE2",
+    "nome": "Overview",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group E",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GE2.jpg"
+  },
+  {
+    "numero": "BEL-P1",
+    "nome": "Belgium Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group E",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BEL-P1.jpg"
+  },
+  {
+    "numero": "BEL-P2",
+    "nome": "Belgium Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group E",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BEL-P2.jpg"
+  },
+  {
+    "numero": "SVK-P1",
+    "nome": "Slovakia Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group E",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVK-P1.jpg"
+  },
+  {
+    "numero": "SVK-P2",
+    "nome": "Slovakia Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group E",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVK-P2.jpg"
+  },
+  {
+    "numero": "ROM-P1",
+    "nome": "Romania Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group E",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ROM-P1.jpg"
+  },
+  {
+    "numero": "ROM-P2",
+    "nome": "Romania Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group E",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ROM-P2.jpg"
+  },
+  {
+    "numero": "BEL-PTW",
+    "nome": "Johan Bakayoko",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group E",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/BEL-PTW.jpg"
+  },
+  {
+    "numero": "BEL-SP",
+    "nome": "Romelu Lukaku",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group E",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/BEL-SP.jpg"
+  },
+  {
+    "numero": "BEL-TOP1",
+    "nome": "Lois Openda",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group E",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BEL-TOP1.jpg"
+  },
+  {
+    "numero": "BEL-TOP2",
+    "nome": "Leandro Trossard",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group E",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BEL-TOP2.jpg"
+  },
+  {
+    "numero": "SVK-PTW",
+    "nome": "Tomáš Suslov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group E",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/SVK-PTW.jpg"
+  },
+  {
+    "numero": "SVK-SP",
+    "nome": "Stanislav Lobotka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group E",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/SVK-SP.jpg"
+  },
+  {
+    "numero": "SVK-TOP1",
+    "nome": "Dávid Hancko",
+    "tenho": false,
+    "especial": false,
+    "clube": "Group E",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVK-TOP1.jpg"
+  },
+  {
+    "numero": "SVK-TOP2",
+    "nome": "Róbert Mak",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group E",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVK-TOP2.jpg"
+  },
+  {
+    "numero": "ROM-PTW",
+    "nome": "Ianis Hagi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group E",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/ROM-PTW.jpg"
+  },
+  {
+    "numero": "ROM-SP",
+    "nome": "Răzvan Marin",
+    "tenho": false,
+    "especial": false,
+    "clube": "Group E",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/ROM-SP.jpg"
+  },
+  {
+    "numero": "ROM-TOP1",
+    "nome": "Valentin Mihăilă",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group E",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ROM-TOP1.jpg"
+  },
+  {
+    "numero": "ROM-TOP2",
+    "nome": "Darius Olaru",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group E",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ROM-TOP2.jpg"
+  },
+  {
+    "numero": "ISR-ICE-SP",
+    "nome": "Manor Solomon / Alfred Finnbogason",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group E",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ISR-ICE-SP.jpg"
+  },
+  {
+    "numero": "BIH-UKR-SP",
+    "nome": "Rade Krunić / Mykhailo Mudryk",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group E",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BIH-UKR-SP.jpg"
+  },
+  {
+    "numero": "BEL1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgium",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/BEL1.jpg"
+  },
+  {
+    "numero": "BEL2",
+    "nome": "Kevin De Bruyne",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgium",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/BEL2.jpg"
+  },
+  {
+    "numero": "BEL3",
+    "nome": "Amadou Onana",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgium",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/BEL3.jpg"
+  },
+  {
+    "numero": "BEL4",
+    "nome": "Thibaut Courtois",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BEL4.jpg"
+  },
+  {
+    "numero": "BEL5",
+    "nome": "Jan Vertonghen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BEL5.jpg"
+  },
+  {
+    "numero": "BEL6",
+    "nome": "Wout Faes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BEL6.jpg"
+  },
+  {
+    "numero": "BEL7",
+    "nome": "Timothy Castagne",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BEL7.jpg"
+  },
+  {
+    "numero": "BEL8",
+    "nome": "Arthur Theate",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BEL8.jpg"
+  },
+  {
+    "numero": "BEL9",
+    "nome": "Zeno Debast",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BEL9.jpg"
+  },
+  {
+    "numero": "BEL10",
+    "nome": "Ameen Al-Dakhil",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BEL10.jpg"
+  },
+  {
+    "numero": "BEL11",
+    "nome": "Leander Dendoncker",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BEL11.jpg"
+  },
+  {
+    "numero": "BEL12",
+    "nome": "Romeo Lavia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BEL12.jpg"
+  },
+  {
+    "numero": "BEL13",
+    "nome": "Youri Tielemans",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BEL13.jpg"
+  },
+  {
+    "numero": "BEL14",
+    "nome": "Charles De Ketelaere",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BEL14.jpg"
+  },
+  {
+    "numero": "BEL15",
+    "nome": "Yannick Carrasco",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BEL15.jpg"
+  },
+  {
+    "numero": "BEL16",
+    "nome": "Alexis Saelemaekers",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BEL16.jpg"
+  },
+  {
+    "numero": "BEL17",
+    "nome": "Leandro Trossard",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BEL17.jpg"
+  },
+  {
+    "numero": "BEL18",
+    "nome": "Jérémy Doku",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BEL18.jpg"
+  },
+  {
+    "numero": "BEL19",
+    "nome": "Romelu Lukaku",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BEL19.jpg"
+  },
+  {
+    "numero": "BEL20",
+    "nome": "Michy Batshuayi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BEL20.jpg"
+  },
+  {
+    "numero": "BEL21",
+    "nome": "Loïs Openda",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BEL21.jpg"
+  },
+  {
+    "numero": "SVK1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovakia",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/SVK1.jpg"
+  },
+  {
+    "numero": "SVK2",
+    "nome": "Milan Škriniar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovakia",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/SVK2.jpg"
+  },
+  {
+    "numero": "SVK3",
+    "nome": "Laci Bénes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovakia",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/SVK3.jpg"
+  },
+  {
+    "numero": "SVK4",
+    "nome": "Martin Dúbravka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovakia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVK4.jpg"
+  },
+  {
+    "numero": "SVK5",
+    "nome": "Peter Pekarik",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovakia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVK5.jpg"
+  },
+  {
+    "numero": "SVK6",
+    "nome": "Denis Vavro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovakia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVK6.jpg"
+  },
+  {
+    "numero": "SVK7",
+    "nome": "Michal Tomič",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovakia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVK7.jpg"
+  },
+  {
+    "numero": "SVK8",
+    "nome": "Dávid Hancko",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovakia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVK8.jpg"
+  },
+  {
+    "numero": "SVK9",
+    "nome": "Ondrej Duda",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovakia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVK9.jpg"
+  },
+  {
+    "numero": "SVK10",
+    "nome": "Patrik Hrošovský",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovakia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVK10.jpg"
+  },
+  {
+    "numero": "SVK11",
+    "nome": "Jakub Kadák",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovakia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVK11.jpg"
+  },
+  {
+    "numero": "SVK12",
+    "nome": "Juraj Kucka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovakia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVK12.jpg"
+  },
+  {
+    "numero": "SVK13",
+    "nome": "Matúš Bero",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovakia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVK13.jpg"
+  },
+  {
+    "numero": "SVK14",
+    "nome": "Stanislav Lobotka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovakia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVK14.jpg"
+  },
+  {
+    "numero": "SVK15",
+    "nome": "Tomáš Suslov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovakia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVK15.jpg"
+  },
+  {
+    "numero": "SVK16",
+    "nome": "Róbert Boženík",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovakia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVK16.jpg"
+  },
+  {
+    "numero": "SVK17",
+    "nome": "Róbert Polievka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovakia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVK17.jpg"
+  },
+  {
+    "numero": "SVK18",
+    "nome": "Adam Zreľák",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovakia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVK18.jpg"
+  },
+  {
+    "numero": "SVK19",
+    "nome": "Lukáš Haraslin",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovakia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVK19.jpg"
+  },
+  {
+    "numero": "SVK20",
+    "nome": "Róbert Mak",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovakia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVK20.jpg"
+  },
+  {
+    "numero": "SVK21",
+    "nome": "Erik Jirka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovakia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/SVK21.jpg"
+  },
+  {
+    "numero": "ROM1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Romania",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/ROM1.jpg"
+  },
+  {
+    "numero": "ROM2",
+    "nome": "Nicolae Stanciu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Romania",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/ROM2.jpg"
+  },
+  {
+    "numero": "ROM3",
+    "nome": "Ianis Hagi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Romania",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/ROM3.jpg"
+  },
+  {
+    "numero": "ROM4",
+    "nome": "Horațiu Moldovan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Romania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ROM4.jpg"
+  },
+  {
+    "numero": "ROM5",
+    "nome": "Andrei Rațiu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Romania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ROM5.jpg"
+  },
+  {
+    "numero": "ROM6",
+    "nome": "Radu Drăgușin",
+    "tenho": true,
+    "especial": false,
+    "clube": "Romania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ROM6.jpg"
+  },
+  {
+    "numero": "ROM7",
+    "nome": "Cristian Manea",
+    "tenho": true,
+    "especial": false,
+    "clube": "Romania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ROM7.jpg"
+  },
+  {
+    "numero": "ROM8",
+    "nome": "Vladimir Screciu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Romania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ROM8.jpg"
+  },
+  {
+    "numero": "ROM9",
+    "nome": "Nicușor Bancu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Romania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ROM9.jpg"
+  },
+  {
+    "numero": "ROM10",
+    "nome": "Andrei Burcă",
+    "tenho": true,
+    "especial": false,
+    "clube": "Romania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ROM10.jpg"
+  },
+  {
+    "numero": "ROM11",
+    "nome": "Tudor Băluţă",
+    "tenho": true,
+    "especial": false,
+    "clube": "Romania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ROM11.jpg"
+  },
+  {
+    "numero": "ROM12",
+    "nome": "Alexandru Cicâldău",
+    "tenho": true,
+    "especial": false,
+    "clube": "Romania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ROM12.jpg"
+  },
+  {
+    "numero": "ROM13",
+    "nome": "Darius Olaru",
+    "tenho": true,
+    "especial": false,
+    "clube": "Romania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ROM13.jpg"
+  },
+  {
+    "numero": "ROM14",
+    "nome": "Răzvan Marin",
+    "tenho": true,
+    "especial": false,
+    "clube": "Romania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ROM14.jpg"
+  },
+  {
+    "numero": "ROM15",
+    "nome": "Olimpiu Moruţan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Romania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ROM15.jpg"
+  },
+  {
+    "numero": "ROM16",
+    "nome": "Marius Marin",
+    "tenho": true,
+    "especial": false,
+    "clube": "Romania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ROM16.jpg"
+  },
+  {
+    "numero": "ROM17",
+    "nome": "George Puşcaş",
+    "tenho": true,
+    "especial": false,
+    "clube": "Romania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ROM17.jpg"
+  },
+  {
+    "numero": "ROM18",
+    "nome": "Valentin Mihăilă",
+    "tenho": true,
+    "especial": false,
+    "clube": "Romania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ROM18.jpg"
+  },
+  {
+    "numero": "ROM19",
+    "nome": "Denis Alibec",
+    "tenho": false,
+    "especial": false,
+    "clube": "Romania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ROM19.jpg"
+  },
+  {
+    "numero": "ROM20",
+    "nome": "Florinel Coman",
+    "tenho": true,
+    "especial": false,
+    "clube": "Romania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ROM20.jpg"
+  },
+  {
+    "numero": "ROM21",
+    "nome": "Dennis Man",
+    "tenho": true,
+    "especial": false,
+    "clube": "Romania",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ROM21.jpg"
+  },
+  {
+    "numero": "ISR1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Israel",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/ISR1.jpg"
+  },
+  {
+    "numero": "ISR2-3",
+    "nome": "Omri Glazer / Miguel Vítor",
+    "tenho": true,
+    "especial": false,
+    "clube": "Israel",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ISR2-3.jpg"
+  },
+  {
+    "numero": "ISR4-5",
+    "nome": "Raz Shlomo / Eli Dasa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Israel",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ISR4-5.jpg"
+  },
+  {
+    "numero": "ISR6-7",
+    "nome": "Sean Goldberg / Roy Revivo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Israel",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ISR6-7.jpg"
+  },
+  {
+    "numero": "ISR8-9",
+    "nome": "Doron Leidner / Oscar Gloukh",
+    "tenho": true,
+    "especial": false,
+    "clube": "Israel",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ISR8-9.jpg"
+  },
+  {
+    "numero": "ISR10-11",
+    "nome": "Dor Peretz / Neta Lavi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Israel",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ISR10-11.jpg"
+  },
+  {
+    "numero": "ISR12-13",
+    "nome": "Ramzi Safouri / Gavriel Kanichowsky",
+    "tenho": true,
+    "especial": false,
+    "clube": "Israel",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ISR12-13.jpg"
+  },
+  {
+    "numero": "ISR14-15",
+    "nome": "Liel Abada / Manor Solomon",
+    "tenho": true,
+    "especial": false,
+    "clube": "Israel",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ISR14-15.jpg"
+  },
+  {
+    "numero": "ICE1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Iceland",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/ICE1.jpg"
+  },
+  {
+    "numero": "ICE2-3",
+    "nome": "Rúnar Rúnarsson / Alfons Sampsted",
+    "tenho": true,
+    "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ICE2-3.jpg"
+  },
+  {
+    "numero": "ICE4-5",
+    "nome": "Davíð Kristján Ólafsson / Valgeir Lunddal Fridriksson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ICE4-5.jpg"
+  },
+  {
+    "numero": "ICE6-7",
+    "nome": "Sverrir Ingason / Hjörtur Hermannsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ICE6-7.jpg"
+  },
+  {
+    "numero": "ICE8-9",
+    "nome": "Daníel Leó Grétarsson / Aron Gunnarsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ICE8-9.jpg"
+  },
+  {
+    "numero": "ICE10-11",
+    "nome": "Birkir Bjarnason / Jón Dagur Thorsteinsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ICE10-11.jpg"
+  },
+  {
+    "numero": "ICE12-13",
+    "nome": "Albert Gudmundsson / Willum Thor Willumsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ICE12-13.jpg"
+  },
+  {
+    "numero": "ICE14-15",
+    "nome": "Mikael Anderson / Alfred Finnbogason",
+    "tenho": true,
+    "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/ICE14-15.jpg"
+  },
+  {
+    "numero": "BIH1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Bosnia and Herzegovina",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/BIH1.jpg"
+  },
+  {
+    "numero": "BIH2-3",
+    "nome": "Ibrahim Šehić / Anel Ahmedhodžić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Bosnia and Herzegovina",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BIH2-3.jpg"
+  },
+  {
+    "numero": "BIH4-5",
+    "nome": "Dennis Hadžikadunić / Amar Dedić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Bosnia and Herzegovina",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BIH4-5.jpg"
+  },
+  {
+    "numero": "BIH6-7",
+    "nome": "Sead Kolašinac / Benjamin Tahirović",
+    "tenho": true,
+    "especial": false,
+    "clube": "Bosnia and Herzegovina",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BIH6-7.jpg"
+  },
+  {
+    "numero": "BIH8-9",
+    "nome": "Miralem Pjanić / Gojko Cimirot",
+    "tenho": true,
+    "especial": false,
+    "clube": "Bosnia and Herzegovina",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BIH8-9.jpg"
+  },
+  {
+    "numero": "BIH10-11",
+    "nome": "Amir Hadžiahmetović / Rade Krunić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Bosnia and Herzegovina",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BIH10-11.jpg"
+  },
+  {
+    "numero": "BIH12-13",
+    "nome": "Edin Džeko / Nemanja Bilbija",
+    "tenho": true,
+    "especial": false,
+    "clube": "Bosnia and Herzegovina",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BIH12-13.jpg"
+  },
+  {
+    "numero": "BIH14-15",
+    "nome": "Smail Prevljak / Ermedin Demirović",
+    "tenho": true,
+    "especial": false,
+    "clube": "Bosnia and Herzegovina",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/BIH14-15.jpg"
+  },
+  {
+    "numero": "UKR1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/UKR1.jpg"
+  },
+  {
+    "numero": "UKR2-3",
+    "nome": "Anatoliy Trubin / Yukhym Konoplia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/UKR2-3.jpg"
+  },
+  {
+    "numero": "UKR4-5",
+    "nome": "Bogdan Mykhaylichenko / Oleksandr Zinchenko",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/UKR4-5.jpg"
+  },
+  {
+    "numero": "UKR6-7",
+    "nome": "Ilya Zabarnyi / Vitaliy Mykolenko",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/UKR6-7.jpg"
+  },
+  {
+    "numero": "UKR8-9",
+    "nome": "Mykola Matviyenko / Georgiy Sudakov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/UKR8-9.jpg"
+  },
+  {
+    "numero": "UKR10-11",
+    "nome": "Taras Stepanenko / Serhiy Sydorchuk",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/UKR10-11.jpg"
+  },
+  {
+    "numero": "UKR12-13",
+    "nome": "Viktor Tsygankov / Andriy Yarmolenko",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/UKR12-13.jpg"
+  },
+  {
+    "numero": "UKR14-15",
+    "nome": "Roman Yaremchuk / Mykhailo Mudryk",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/UKR14-15.jpg"
+  },
+  {
+    "numero": "GF1",
+    "nome": "Overview",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group F",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GF1.jpg"
+  },
+  {
+    "numero": "GF2",
+    "nome": "Overview",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group F",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GF2.jpg"
+  },
+  {
+    "numero": "TUR-P1",
+    "nome": "Turkey Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group F",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TUR-P1.jpg"
+  },
+  {
+    "numero": "TUR-P2",
+    "nome": "Turkey Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group F",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TUR-P2.jpg"
+  },
+  {
+    "numero": "POR-P1",
+    "nome": "Portugal Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group F",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POR-P1.jpg"
+  },
+  {
+    "numero": "POR-P2",
+    "nome": "Portugal Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group F",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POR-P2.jpg"
+  },
+  {
+    "numero": "CZE-P1",
+    "nome": "Czechia Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group F",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CZE-P1.jpg"
+  },
+  {
+    "numero": "CZE-P2",
+    "nome": "Czechia Landmark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group F",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CZE-P2.jpg"
+  },
+  {
+    "numero": "TUR-PTW",
+    "nome": "Arda Güler",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group F",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/TUR-PTW.jpg"
+  },
+  {
+    "numero": "TUR-SP",
+    "nome": "Cengiz Ünder",
+    "tenho": false,
+    "especial": false,
+    "clube": "Group F",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/TUR-SP.jpg"
+  },
+  {
+    "numero": "TUR-TOP1",
+    "nome": "Merih Demiral",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group F",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TUR-TOP1.jpg"
+  },
+  {
+    "numero": "TUR-TOP2",
+    "nome": "Orkun Kökçü",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group F",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TUR-TOP2.jpg"
+  },
+  {
+    "numero": "GEO-LUX-SP",
+    "nome": "Khvicha Kvaratskhelia / Leandro Barreiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group F",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GEO-LUX-SP.jpg"
+  },
+  {
+    "numero": "GRE-KAZ-SP",
+    "nome": "Konstantinos Mavropanos / Bakhtiyor Zaynutdinov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group F",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GRE-KAZ-SP.jpg"
+  },
+  {
+    "numero": "POR-PTW",
+    "nome": "Rafael Leão",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group F",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/POR-PTW.jpg"
+  },
+  {
+    "numero": "POR-SP",
+    "nome": "Bernardo Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group F",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/POR-SP.jpg"
+  },
+  {
+    "numero": "POR-TOP1",
+    "nome": "Bruno Fernandes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group F",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POR-TOP1.jpg"
+  },
+  {
+    "numero": "POR-TOP2",
+    "nome": "Gonçalo Ramos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group F",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POR-TOP2.jpg"
+  },
+  {
+    "numero": "CZE-PTW",
+    "nome": "Adam Hložek",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group F",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/CZE-PTW.jpg"
+  },
+  {
+    "numero": "CZE-SP",
+    "nome": "Patrik Schick",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group F",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/CZE-SP.jpg"
+  },
+  {
+    "numero": "CZE-TOP1",
+    "nome": "Tomáš Holeš",
+    "tenho": true,
+    "especial": false,
+    "clube": "Group F",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CZE-TOP1.jpg"
+  },
+  {
+    "numero": "CZE-TOP2",
+    "nome": "Alex Král",
+    "tenho": false,
+    "especial": false,
+    "clube": "Group F",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CZE-TOP2.jpg"
+  },
+  {
+    "numero": "TUR1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Turkey",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/TUR1.jpg"
+  },
+  {
+    "numero": "TUR2",
+    "nome": "Hakan Çalhanoğlu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Turkey",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/TUR2.jpg"
+  },
+  {
+    "numero": "TUR3",
+    "nome": "Barış Alper Yılmaz",
+    "tenho": true,
+    "especial": false,
+    "clube": "Turkey",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/TUR3.jpg"
+  },
+  {
+    "numero": "TUR4",
+    "nome": "Mert Günok",
+    "tenho": true,
+    "especial": false,
+    "clube": "Turkey",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TUR4.jpg"
+  },
+  {
+    "numero": "TUR5",
+    "nome": "Zeki Çelik",
+    "tenho": true,
+    "especial": false,
+    "clube": "Turkey",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TUR5.jpg"
+  },
+  {
+    "numero": "TUR6",
+    "nome": "Çağlar Söyüncü",
+    "tenho": true,
+    "especial": false,
+    "clube": "Turkey",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TUR6.jpg"
+  },
+  {
+    "numero": "TUR7",
+    "nome": "Eren Elmalı",
+    "tenho": true,
+    "especial": false,
+    "clube": "Turkey",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TUR7.jpg"
+  },
+  {
+    "numero": "TUR8",
+    "nome": "Abdülkerim Bardakcı",
+    "tenho": true,
+    "especial": false,
+    "clube": "Turkey",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TUR8.jpg"
+  },
+  {
+    "numero": "TUR9",
+    "nome": "Ozan Kabak",
+    "tenho": true,
+    "especial": false,
+    "clube": "Turkey",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TUR9.jpg"
+  },
+  {
+    "numero": "TUR10",
+    "nome": "Onur Bulut",
+    "tenho": true,
+    "especial": false,
+    "clube": "Turkey",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TUR10.jpg"
+  },
+  {
+    "numero": "TUR11",
+    "nome": "Ferdi Kadıoğlu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Turkey",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TUR11.jpg"
+  },
+  {
+    "numero": "TUR12",
+    "nome": "Merih Demiral",
+    "tenho": true,
+    "especial": false,
+    "clube": "Turkey",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TUR12.jpg"
+  },
+  {
+    "numero": "TUR13",
+    "nome": "Cenk Özkacar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Turkey",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TUR13.jpg"
+  },
+  {
+    "numero": "TUR14",
+    "nome": "Salih Özcan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Turkey",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TUR14.jpg"
+  },
+  {
+    "numero": "TUR15",
+    "nome": "İrfan Can Kahveci",
+    "tenho": true,
+    "especial": false,
+    "clube": "Turkey",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TUR15.jpg"
+  },
+  {
+    "numero": "TUR16",
+    "nome": "Arda Güler",
+    "tenho": true,
+    "especial": false,
+    "clube": "Turkey",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TUR16.jpg"
+  },
+  {
+    "numero": "TUR17",
+    "nome": "Orkun Kökçü",
+    "tenho": true,
+    "especial": false,
+    "clube": "Turkey",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TUR17.jpg"
+  },
+  {
+    "numero": "TUR18",
+    "nome": "Kerem Aktürkoğlu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Turkey",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TUR18.jpg"
+  },
+  {
+    "numero": "TUR19",
+    "nome": "Cenk Tosun",
+    "tenho": true,
+    "especial": false,
+    "clube": "Turkey",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TUR19.jpg"
+  },
+  {
+    "numero": "TUR20",
+    "nome": "Enes Ünal",
+    "tenho": true,
+    "especial": false,
+    "clube": "Turkey",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TUR20.jpg"
+  },
+  {
+    "numero": "TUR21",
+    "nome": "Cengiz Ünder",
+    "tenho": true,
+    "especial": false,
+    "clube": "Turkey",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/TUR21.jpg"
+  },
+  {
+    "numero": "GEO1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Georgia",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/GEO1.jpg"
+  },
+  {
+    "numero": "GEO2-3",
+    "nome": "Giorgi Mamardashvili / Guram Kashia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Georgia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GEO2-3.jpg"
+  },
+  {
+    "numero": "GEO4-5",
+    "nome": "Otar Kakabadze / Giorgi Gocholeishvili",
+    "tenho": true,
+    "especial": false,
+    "clube": "Georgia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GEO4-5.jpg"
+  },
+  {
+    "numero": "GEO6-7",
+    "nome": "Lasha Dvali / Solomon Kverkvelia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Georgia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GEO6-7.jpg"
+  },
+  {
+    "numero": "GEO8-9",
+    "nome": "Luka Lochoshvili / Khvicha Kvaratskhelia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Georgia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GEO8-9.jpg"
+  },
+  {
+    "numero": "GEO10-11",
+    "nome": "Saba Lobjanidze / Nika Kvekveskiri",
+    "tenho": true,
+    "especial": false,
+    "clube": "Georgia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GEO10-11.jpg"
+  },
+  {
+    "numero": "GEO12-13",
+    "nome": "Giorgi Chakvetadze / Zuriko Davitashvili",
+    "tenho": true,
+    "especial": false,
+    "clube": "Georgia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GEO12-13.jpg"
+  },
+  {
+    "numero": "GEO14-15",
+    "nome": "Budu Zivzivadze / Georges Mikautadze",
+    "tenho": true,
+    "especial": false,
+    "clube": "Georgia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GEO14-15.jpg"
+  },
+  {
+    "numero": "LUX1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Luxembourg",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/LUX1.jpg"
+  },
+  {
+    "numero": "LUX2-3",
+    "nome": "Anthony Moris / Maxime Chanot",
+    "tenho": true,
+    "especial": false,
+    "clube": "Luxembourg",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/LUX2-3.jpg"
+  },
+  {
+    "numero": "LUX4-5",
+    "nome": "Lars Gerson / Mica Pinto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Luxembourg",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/LUX4-5.jpg"
+  },
+  {
+    "numero": "LUX6-7",
+    "nome": "Enes Mahmutovic / Laurent Jans",
+    "tenho": false,
+    "especial": false,
+    "clube": "Luxembourg",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/LUX6-7.jpg"
+  },
+  {
+    "numero": "LUX8-9",
+    "nome": "Marvin Martins / Vincent Thill",
+    "tenho": true,
+    "especial": false,
+    "clube": "Luxembourg",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/LUX8-9.jpg"
+  },
+  {
+    "numero": "LUX10-11",
+    "nome": "Christopher Martins / Leandro Barreiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Luxembourg",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/LUX10-11.jpg"
+  },
+  {
+    "numero": "LUX12-13",
+    "nome": "Mathias Olesen / Gerson Rodrigues",
+    "tenho": true,
+    "especial": false,
+    "clube": "Luxembourg",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/LUX12-13.jpg"
+  },
+  {
+    "numero": "LUX14-15",
+    "nome": "Danel Sinani / Yvandro Borges Sanches",
+    "tenho": true,
+    "especial": false,
+    "clube": "Luxembourg",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/LUX14-15.jpg"
+  },
+  {
+    "numero": "GRE1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Greece",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/GRE1.jpg"
+  },
+  {
+    "numero": "GRE2-3",
+    "nome": "Odysseas Vlachodimos / Panagiotis Retsos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Greece",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GRE2-3.jpg"
+  },
+  {
+    "numero": "GRE4-5",
+    "nome": "Pantelis Hatzidiakos / Kostas Tsimikas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Greece",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GRE4-5.jpg"
+  },
+  {
+    "numero": "GRE6-7",
+    "nome": "Konstantinos Mavropanos / Dimitris Giannoulis",
+    "tenho": true,
+    "especial": false,
+    "clube": "Greece",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GRE6-7.jpg"
+  },
+  {
+    "numero": "GRE8-9",
+    "nome": "George Baldock / Andreas Bouchalakis",
+    "tenho": false,
+    "especial": false,
+    "clube": "Greece",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GRE8-9.jpg"
+  },
+  {
+    "numero": "GRE10-11",
+    "nome": "Dimitris Pelkas / Dimitrios Kourbelis",
+    "tenho": false,
+    "especial": false,
+    "clube": "Greece",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GRE10-11.jpg"
+  },
+  {
+    "numero": "GRE12-13",
+    "nome": "Tasos Bakasetas / Petros Mantalos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Greece",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GRE12-13.jpg"
+  },
+  {
+    "numero": "GRE14-15",
+    "nome": "Manolis Siopis / Giorgios Masouras",
+    "tenho": true,
+    "especial": false,
+    "clube": "Greece",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/GRE14-15.jpg"
+  },
+  {
+    "numero": "KAZ1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Kazakhstan",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/KAZ1.jpg"
+  },
+  {
+    "numero": "KAZ2-3",
+    "nome": "Igor Shatskiy / Nuraly Alip",
+    "tenho": true,
+    "especial": false,
+    "clube": "Kazakhstan",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/KAZ2-3.jpg"
+  },
+  {
+    "numero": "KAZ4-5",
+    "nome": "Lev Skvortsov / Alexandr Marochkin",
+    "tenho": true,
+    "especial": false,
+    "clube": "Kazakhstan",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/KAZ4-5.jpg"
+  },
+  {
+    "numero": "KAZ6-7",
+    "nome": "Abzal Beysebekov / Yan Vorogovskiy",
+    "tenho": true,
+    "especial": false,
+    "clube": "Kazakhstan",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/KAZ6-7.jpg"
+  },
+  {
+    "numero": "KAZ8-9",
+    "nome": "Ramazan Orazov / Askhat Tagybergen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Kazakhstan",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/KAZ8-9.jpg"
+  },
+  {
+    "numero": "KAZ10-11",
+    "nome": "Aslan Darabayev / Bakhtiyor Zaynutdinov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Kazakhstan",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/KAZ10-11.jpg"
+  },
+  {
+    "numero": "KAZ12-13",
+    "nome": "Elkhan Astanov / Abat Aimbetov",
+    "tenho": false,
+    "especial": false,
+    "clube": "Kazakhstan",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/KAZ12-13.jpg"
+  },
+  {
+    "numero": "KAZ14-15",
+    "nome": "Maxim Samorodov / Vladislav Prokopenko",
+    "tenho": true,
+    "especial": false,
+    "clube": "Kazakhstan",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/KAZ14-15.jpg"
+  },
+  {
+    "numero": "POR1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/POR1.jpg"
+  },
+  {
+    "numero": "POR2",
+    "nome": "Cristiano Ronaldo",
+    "tenho": false,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/POR2.jpg"
+  },
+  {
+    "numero": "POR3",
+    "nome": "João Félix",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/POR3.jpg"
+  },
+  {
+    "numero": "POR4",
+    "nome": "Diogo Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POR4.jpg"
+  },
+  {
+    "numero": "POR5",
+    "nome": "Nélson Semedo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POR5.jpg"
+  },
+  {
+    "numero": "POR6",
+    "nome": "António Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POR6.jpg"
+  },
+  {
+    "numero": "POR7",
+    "nome": "Rúben Dias",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POR7.jpg"
+  },
+  {
+    "numero": "POR8",
+    "nome": "Raphaël Guerreiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POR8.jpg"
+  },
+  {
+    "numero": "POR9",
+    "nome": "Diogo Dalot",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POR9.jpg"
+  },
+  {
+    "numero": "POR10",
+    "nome": "Nuno Mendes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POR10.jpg"
+  },
+  {
+    "numero": "POR11",
+    "nome": "João Cancelo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POR11.jpg"
+  },
+  {
+    "numero": "POR12",
+    "nome": "João Palhinha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POR12.jpg"
+  },
+  {
+    "numero": "POR13",
+    "nome": "Danilo Pereira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POR13.jpg"
+  },
+  {
+    "numero": "POR14",
+    "nome": "Otávio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POR14.jpg"
+  },
+  {
+    "numero": "POR15",
+    "nome": "Rúben Neves",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POR15.jpg"
+  },
+  {
+    "numero": "POR16",
+    "nome": "Vitinha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POR16.jpg"
+  },
+  {
+    "numero": "POR17",
+    "nome": "Bruno Fernandes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POR17.jpg"
+  },
+  {
+    "numero": "POR18",
+    "nome": "Bernardo Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POR18.jpg"
+  },
+  {
+    "numero": "POR19",
+    "nome": "Gonçalo Ramos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POR19.jpg"
+  },
+  {
+    "numero": "POR20",
+    "nome": "Diogo Jota",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POR20.jpg"
+  },
+  {
+    "numero": "POR21",
+    "nome": "Rafael Leão",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/POR21.jpg"
+  },
+  {
+    "numero": "CZE1",
+    "nome": "Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Czechia",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/CZE1.jpg"
+  },
+  {
+    "numero": "CZE2",
+    "nome": "Tomáš Souček",
+    "tenho": true,
+    "especial": false,
+    "clube": "Czechia",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/CZE2.jpg"
+  },
+  {
+    "numero": "CZE3",
+    "nome": "Mojmír Chytil",
+    "tenho": true,
+    "especial": false,
+    "clube": "Czechia",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/CZE3.jpg"
+  },
+  {
+    "numero": "CZE4",
+    "nome": "Jiří Pavlenka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Czechia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CZE4.jpg"
+  },
+  {
+    "numero": "CZE5",
+    "nome": "David Jurásek",
+    "tenho": true,
+    "especial": false,
+    "clube": "Czechia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CZE5.jpg"
+  },
+  {
+    "numero": "CZE6",
+    "nome": "Jakub Brabec",
+    "tenho": true,
+    "especial": false,
+    "clube": "Czechia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CZE6.jpg"
+  },
+  {
+    "numero": "CZE7",
+    "nome": "Vladimír Coufal",
+    "tenho": true,
+    "especial": false,
+    "clube": "Czechia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CZE7.jpg"
+  },
+  {
+    "numero": "CZE8",
+    "nome": "Jaroslav Zelený",
+    "tenho": true,
+    "especial": false,
+    "clube": "Czechia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CZE8.jpg"
+  },
+  {
+    "numero": "CZE9",
+    "nome": "David Douděra",
+    "tenho": true,
+    "especial": false,
+    "clube": "Czechia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CZE9.jpg"
+  },
+  {
+    "numero": "CZE10",
+    "nome": "Tomáš Holeš",
+    "tenho": true,
+    "especial": false,
+    "clube": "Czechia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CZE10.jpg"
+  },
+  {
+    "numero": "CZE11",
+    "nome": "Alex Král",
+    "tenho": true,
+    "especial": false,
+    "clube": "Czechia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CZE11.jpg"
+  },
+  {
+    "numero": "CZE12",
+    "nome": "Ladislav Krejčí",
+    "tenho": true,
+    "especial": false,
+    "clube": "Czechia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CZE12.jpg"
+  },
+  {
+    "numero": "CZE13",
+    "nome": "Michal Sadílek",
+    "tenho": true,
+    "especial": false,
+    "clube": "Czechia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CZE13.jpg"
+  },
+  {
+    "numero": "CZE14",
+    "nome": "Ondřej Lingr",
+    "tenho": true,
+    "especial": false,
+    "clube": "Czechia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CZE14.jpg"
+  },
+  {
+    "numero": "CZE15",
+    "nome": "Lukáš Sadílek",
+    "tenho": true,
+    "especial": false,
+    "clube": "Czechia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CZE15.jpg"
+  },
+  {
+    "numero": "CZE16",
+    "nome": "Adam Hložek",
+    "tenho": true,
+    "especial": false,
+    "clube": "Czechia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CZE16.jpg"
+  },
+  {
+    "numero": "CZE17",
+    "nome": "Tomáš Čvančara",
+    "tenho": true,
+    "especial": false,
+    "clube": "Czechia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CZE17.jpg"
+  },
+  {
+    "numero": "CZE18",
+    "nome": "Jan Kuchta",
+    "tenho": true,
+    "especial": false,
+    "clube": "Czechia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CZE18.jpg"
+  },
+  {
+    "numero": "CZE19",
+    "nome": "Patrik Schick",
+    "tenho": true,
+    "especial": false,
+    "clube": "Czechia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CZE19.jpg"
+  },
+  {
+    "numero": "CZE20",
+    "nome": "Václav Černý",
+    "tenho": true,
+    "especial": false,
+    "clube": "Czechia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CZE20.jpg"
+  },
+  {
+    "numero": "CZE21",
+    "nome": "Václav Jurečka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Czechia",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/CZE21.jpg"
+  },
+  {
+    "numero": "LEG1",
+    "nome": "Fernando Torres",
+    "tenho": true,
+    "especial": false,
+    "clube": "Legends",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/LEG1.jpg"
+  },
+  {
+    "numero": "LEG2",
+    "nome": "Gareth Bale",
+    "tenho": true,
+    "especial": false,
+    "clube": "Legends",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/LEG2.jpg"
+  },
+  {
+    "numero": "LEG3",
+    "nome": "Wayne Rooney",
+    "tenho": true,
+    "especial": false,
+    "clube": "Legends",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/LEG3.jpg"
+  },
+  {
+    "numero": "LEG4",
+    "nome": "Pavel Nedved",
+    "tenho": true,
+    "especial": false,
+    "clube": "Legends",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/LEG4.jpg"
+  },
+  {
+    "numero": "LEG5",
+    "nome": "Andriy Shevchenko",
+    "tenho": true,
+    "especial": false,
+    "clube": "Legends",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/LEG5.jpg"
+  },
+  {
+    "numero": "LEG6",
+    "nome": "Clarence Seedorf",
+    "tenho": true,
+    "especial": false,
+    "clube": "Legends",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/LEG6.jpg"
+  },
+  {
+    "numero": "LEG7",
+    "nome": "Luis Figo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Legends",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/LEG7.jpg"
+  },
+  {
+    "numero": "LEG8",
+    "nome": "Zinedine Zidane",
+    "tenho": true,
+    "especial": false,
+    "clube": "Legends",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/LEG8.jpg"
+  },
+  {
+    "numero": "LEG9",
+    "nome": "Franz Beckenbauer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Legends",
+    "tipo": "foil",
+    "imagem": "images/capas/EURO 2024/LEG9.jpg"
+  },
+  {
+    "numero": "LEG10",
+    "nome": "Zlatan Ibrahimović",
+    "tenho": true,
+    "especial": false,
+    "clube": "Legends",
+    "tipo": "-",
+    "imagem": "images/capas/EURO 2024/LEG10.jpg"
+  },
+  {
+    "numero": "GER-SP-S",
+    "nome": "Leroy Sané",
+    "tenho": true,
+    "especial": true,
+    "clube": "Group A",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/GER-SP-S.jpg"
+  },
+  {
+    "numero": "SCO-SP-S",
+    "nome": "Scott McTominay",
+    "tenho": true,
+    "especial": true,
+    "clube": "Group A",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/SCO-SP-S.jpg"
+  },
+  {
+    "numero": "HUN-SP-S",
+    "nome": "Willi Orbán",
+    "tenho": true,
+    "especial": true,
+    "clube": "Group A",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/HUN-SP-S.jpg"
+  },
+  {
+    "numero": "SUI-SP-S",
+    "nome": "Noah Okafor",
+    "tenho": true,
+    "especial": true,
+    "clube": "Group A",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/SUI-SP-S.jpg"
+  },
+  {
+    "numero": "ESP-SP-S",
+    "nome": "Rodri",
+    "tenho": false,
+    "especial": true,
+    "clube": "Group B",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/ESP-SP-S.jpg"
+  },
+  {
+    "numero": "CRO-SP-S",
+    "nome": "Mateo Kovačić",
+    "tenho": true,
+    "especial": true,
+    "clube": "Group B",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/CRO-SP-S.jpg"
+  },
+  {
+    "numero": "ITA-SP-S",
+    "nome": "Federico Chiesa",
+    "tenho": true,
+    "especial": true,
+    "clube": "Group B",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/ITA-SP-S.jpg"
+  },
+  {
+    "numero": "ALB-SP-S",
+    "nome": "Elseid Hysaj",
+    "tenho": true,
+    "especial": true,
+    "clube": "Group B",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/ALB-SP-S.jpg"
+  },
+  {
+    "numero": "SVN-SP-S",
+    "nome": "Benjamin Šeško",
+    "tenho": false,
+    "especial": true,
+    "clube": "Group C",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/SVN-SP-S.jpg"
+  },
+  {
+    "numero": "DEN-SP-S",
+    "nome": "Pierre-Emile Højbjerg",
+    "tenho": true,
+    "especial": true,
+    "clube": "Group C",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/DEN-SP-S.jpg"
+  },
+  {
+    "numero": "SRB-SP-S",
+    "nome": "Dušan Vlahović",
+    "tenho": true,
+    "especial": true,
+    "clube": "Group C",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/SRB-SP-S.jpg"
+  },
+  {
+    "numero": "ENG-SP-S",
+    "nome": "Jude Bellingham",
+    "tenho": true,
+    "especial": true,
+    "clube": "Group C",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/ENG-SP-S.jpg"
+  },
+  {
+    "numero": "NED-SP-S",
+    "nome": "Cody Gakpo",
+    "tenho": false,
+    "especial": true,
+    "clube": "Group D",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/NED-SP-S.jpg"
+  },
+  {
+    "numero": "AUT-SP-S",
+    "nome": "Marko Arnautović",
+    "tenho": true,
+    "especial": true,
+    "clube": "Group D",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/AUT-SP-S.jpg"
+  },
+  {
+    "numero": "FRA-SP-S",
+    "nome": "Kingsley Coman",
+    "tenho": true,
+    "especial": true,
+    "clube": "Group D",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/FRA-SP-S.jpg"
+  },
+  {
+    "numero": "BEL-SP-S",
+    "nome": "Romelu Lukaku",
+    "tenho": true,
+    "especial": true,
+    "clube": "Group E",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/BEL-SP-S.jpg"
+  },
+  {
+    "numero": "SVK-SP-S",
+    "nome": "Stanislav Lobotka",
+    "tenho": true,
+    "especial": true,
+    "clube": "Group E",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/SVK-SP-S.jpg"
+  },
+  {
+    "numero": "ROM-SP-S",
+    "nome": "Răzvan Marin",
+    "tenho": false,
+    "especial": true,
+    "clube": "Group E",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/ROM-SP-S.jpg"
+  },
+  {
+    "numero": "TUR-SP-S",
+    "nome": "Cengiz Ünder",
+    "tenho": false,
+    "especial": true,
+    "clube": "Group F",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/TUR-SP-S.jpg"
+  },
+  {
+    "numero": "POR-SP-S",
+    "nome": "Bernardo Silva",
+    "tenho": true,
+    "especial": true,
+    "clube": "Group F",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/POR-SP-S.jpg"
+  },
+  {
+    "numero": "CZE-SP-S",
+    "nome": "Patrik Schick",
+    "tenho": true,
+    "especial": true,
+    "clube": "Group F",
+    "tipo": "gold",
+    "imagem": "images/capas/EURO 2024/CZE-SP-S.jpg"
+  }
+]
