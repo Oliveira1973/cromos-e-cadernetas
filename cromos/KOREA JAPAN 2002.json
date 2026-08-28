@@ -1,4069 +1,5230 @@
 [
   {
     "numero": "1",
-    "nome": "Cromo 1",
+    "nome": "FIFA World Cup",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/1.jpg"
   },
   {
     "numero": "2",
-    "nome": "Cromo 2",
+    "nome": "Official Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/2.jpg"
   },
   {
     "numero": "3",
-    "nome": "Cromo 3",
+    "nome": "Mascot",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/3.jpg"
   },
   {
     "numero": "4",
-    "nome": "Cromo 4",
+    "nome": "Poster",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/4.jpg"
   },
   {
     "numero": "5",
-    "nome": "Cromo 5",
+    "nome": "Seoul - World Cup Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/5.jpg"
   },
   {
     "numero": "6",
-    "nome": "Cromo 6",
+    "nome": "Busan - Asian Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/6.jpg"
   },
   {
     "numero": "7",
-    "nome": "Cromo 7",
+    "nome": "Daegu - World Cup Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/7.jpg"
   },
   {
     "numero": "8",
-    "nome": "Cromo 8",
+    "nome": "Daejeon - World Cup Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/8.jpg"
   },
   {
     "numero": "9",
-    "nome": "Cromo 9",
+    "nome": "Gwangju - World Cup Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/9.jpg"
   },
   {
     "numero": "10",
-    "nome": "Cromo 10",
+    "nome": "Incheon - Munhak Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/10.jpg"
   },
   {
     "numero": "11",
-    "nome": "Cromo 11",
+    "nome": "Jeonju - World Cup Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/11.jpg"
   },
   {
     "numero": "12",
-    "nome": "Cromo 12",
+    "nome": "Seogwipo - Jeju World Cup Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/12.jpg"
   },
   {
     "numero": "13",
-    "nome": "Cromo 13",
+    "nome": "Suwon - World Cup Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/13.jpg"
   },
   {
     "numero": "14",
-    "nome": "Cromo 14",
+    "nome": "Ulsan - Munsu Football Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/14.jpg"
   },
   {
     "numero": "15",
-    "nome": "Cromo 15",
+    "nome": "Yokohama - Int. Stadium Yokohama",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/15.jpg"
   },
   {
     "numero": "16",
-    "nome": "Cromo 16",
+    "nome": "Ibaraki - Kashima Soccer Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/16.jpg"
   },
   {
     "numero": "17",
-    "nome": "Cromo 17",
+    "nome": "Kobe - Wing Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/17.jpg"
   },
   {
     "numero": "18",
-    "nome": "Cromo 18",
+    "nome": "Miyagi - Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/18.jpg"
   },
   {
     "numero": "19",
-    "nome": "Cromo 19",
+    "nome": "Niigata - Stadium Big Swan",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/19.jpg"
   },
   {
     "numero": "20",
-    "nome": "Cromo 20",
+    "nome": "Oita - Stadium Big Eye",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/20.jpg"
   },
   {
     "numero": "21",
-    "nome": "Cromo 21",
+    "nome": "Osaka - Nagai Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/21.jpg"
   },
   {
     "numero": "22",
-    "nome": "Cromo 22",
+    "nome": "Saitama - Stadium 2002",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/22.jpg"
   },
   {
     "numero": "23",
-    "nome": "Cromo 23",
+    "nome": "Sapporo - Dome",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/23.jpg"
   },
   {
     "numero": "24",
-    "nome": "Cromo 24",
+    "nome": "Shizuoka - Stadium Ecopa",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/24.jpg"
   },
   {
     "numero": "25",
-    "nome": "Cromo 25",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/25.jpg"
   },
   {
     "numero": "26",
-    "nome": "Cromo 26",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/26.jpg"
   },
   {
     "numero": "27",
-    "nome": "Cromo 27",
+    "nome": "Fabien Barthez",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/27.jpg"
   },
   {
     "numero": "28",
-    "nome": "Cromo 28",
+    "nome": "Lilian Thuram",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/28.jpg"
   },
   {
     "numero": "29",
-    "nome": "Cromo 29",
+    "nome": "Marcel Desailly",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/29.jpg"
   },
   {
     "numero": "30",
-    "nome": "Cromo 30",
+    "nome": "Frank Leboeuf",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/30.jpg"
   },
   {
     "numero": "31",
-    "nome": "Cromo 31",
+    "nome": "Bixente Lizarazu",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/31.jpg"
   },
   {
     "numero": "32",
-    "nome": "Cromo 32",
+    "nome": "Willy Sagnol",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/32.jpg"
   },
   {
     "numero": "33",
-    "nome": "Cromo 33",
+    "nome": "Vincent Candela",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/33.jpg"
   },
   {
     "numero": "34",
-    "nome": "Cromo 34",
+    "nome": "Emmanuel Petit",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/34.jpg"
   },
   {
     "numero": "35",
-    "nome": "Cromo 35",
+    "nome": "Patrick Vieira",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/35.jpg"
   },
   {
     "numero": "36",
-    "nome": "Cromo 36",
+    "nome": "Claude Makelele",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/36.jpg"
   },
   {
     "numero": "37",
-    "nome": "Cromo 37",
+    "nome": "Robert Pires",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/37.jpg"
   },
   {
     "numero": "38",
-    "nome": "Cromo 38",
+    "nome": "Zinedine Zidane",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/38.jpg"
   },
   {
     "numero": "39",
-    "nome": "Cromo 39",
+    "nome": "Christophe Dugarry",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/39.jpg"
   },
   {
     "numero": "40",
-    "nome": "Cromo 40",
+    "nome": "David Trezeguet",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/40.jpg"
   },
   {
     "numero": "41",
-    "nome": "Cromo 41",
+    "nome": "Thierry Henry",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/41.jpg"
   },
   {
     "numero": "42",
-    "nome": "Cromo 42",
+    "nome": "Sylvain Wiltord",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/42.jpg"
   },
   {
     "numero": "43",
-    "nome": "Cromo 43",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/43.jpg"
   },
   {
     "numero": "44",
-    "nome": "Cromo 44",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/44.jpg"
   },
   {
     "numero": "45",
-    "nome": "Cromo 45",
+    "nome": "Tony Sylva",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/45.jpg"
   },
   {
     "numero": "46",
-    "nome": "Cromo 46",
+    "nome": "Omar Daf",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/46.jpg"
   },
   {
     "numero": "47",
-    "nome": "Cromo 47",
+    "nome": "Aliou Cisse",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/47.jpg"
   },
   {
     "numero": "48",
-    "nome": "Cromo 48",
+    "nome": "Lamine Diatta",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/48.jpg"
   },
   {
     "numero": "49",
-    "nome": "Cromo 49",
+    "nome": "Ferdinand Coly",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/49.jpg"
   },
   {
     "numero": "50",
-    "nome": "Cromo 50",
+    "nome": "Alassane N'Dour",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/50.jpg"
   },
   {
     "numero": "51",
-    "nome": "Cromo 51",
+    "nome": "Papa Bouba Diop",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/51.jpg"
   },
   {
     "numero": "52",
-    "nome": "Cromo 52",
+    "nome": "Moussa N'Diaye",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/52.jpg"
   },
   {
     "numero": "53",
-    "nome": "Cromo 53",
+    "nome": "Pape Sarr",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/53.jpg"
   },
   {
     "numero": "54",
-    "nome": "Cromo 54",
+    "nome": "Salif Diao",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/54.jpg"
   },
   {
     "numero": "55",
-    "nome": "Cromo 55",
+    "nome": "Makhtar N'Diaye",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/55.jpg"
   },
   {
     "numero": "56",
-    "nome": "Cromo 56",
+    "nome": "Sylvain N'Diaye",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/56.jpg"
   },
   {
     "numero": "57",
-    "nome": "Cromo 57",
+    "nome": "Khalilou Fadiga",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/57.jpg"
   },
   {
     "numero": "58",
-    "nome": "Cromo 58",
+    "nome": "Henri Camara",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/58.jpg"
   },
   {
     "numero": "59",
-    "nome": "Cromo 59",
+    "nome": "El-Hadji Diouf",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/59.jpg"
   },
   {
     "numero": "60",
-    "nome": "Cromo 60",
+    "nome": "Souleymane Camara",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/60.jpg"
   },
   {
     "numero": "61",
-    "nome": "Cromo 61",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/61.jpg"
   },
   {
     "numero": "62",
-    "nome": "Cromo 62",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/62.jpg"
   },
   {
     "numero": "63",
-    "nome": "Cromo 63",
+    "nome": "Hector Fabian Carini",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/63.jpg"
   },
   {
     "numero": "64",
-    "nome": "Cromo 64",
+    "nome": "Washington Tais",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/64.jpg"
   },
   {
     "numero": "65",
-    "nome": "Cromo 65",
+    "nome": "Paolo Montero",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/65.jpg"
   },
   {
     "numero": "66",
-    "nome": "Cromo 66",
+    "nome": "Alejandro Lembo",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/66.jpg"
   },
   {
     "numero": "67",
-    "nome": "Cromo 67",
+    "nome": "Gonzalo Sorondo",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/67.jpg"
   },
   {
     "numero": "68",
-    "nome": "Cromo 68",
+    "nome": "Dario Rodriguez",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/68.jpg"
   },
   {
     "numero": "69",
-    "nome": "Cromo 69",
+    "nome": "Gianni Bismark Guigou",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/69.jpg"
   },
   {
     "numero": "70",
-    "nome": "Cromo 70",
+    "nome": "Pablo Garcia",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/70.jpg"
   },
   {
     "numero": "71",
-    "nome": "Cromo 71",
+    "nome": "Gonzalo De Los Santos",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/71.jpg"
   },
   {
     "numero": "72",
-    "nome": "Cromo 72",
+    "nome": "Guillermo Giacomazzi",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/72.jpg"
   },
   {
     "numero": "73",
-    "nome": "Cromo 73",
+    "nome": "Andres Nicolas Olivera",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/73.jpg"
   },
   {
     "numero": "74",
-    "nome": "Cromo 74",
+    "nome": "Mario Ignacio Regueiro",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/74.jpg"
   },
   {
     "numero": "75",
-    "nome": "Cromo 75",
+    "nome": "Alvaro Recoba",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/75.jpg"
   },
   {
     "numero": "76",
-    "nome": "Cromo 76",
+    "nome": "Federico Magallanes",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/76.jpg"
   },
   {
     "numero": "77",
-    "nome": "Cromo 77",
+    "nome": "Dario Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/77.jpg"
   },
   {
     "numero": "78",
-    "nome": "Cromo 78",
+    "nome": "Javier Ernesto Chevanton",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/78.jpg"
   },
   {
     "numero": "79",
-    "nome": "Cromo 79",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/79.jpg"
   },
   {
     "numero": "80",
-    "nome": "Cromo 80",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/80.jpg"
   },
   {
     "numero": "81",
-    "nome": "Cromo 81",
+    "nome": "Thomas Sorensen",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/81.jpg"
   },
   {
     "numero": "82",
-    "nome": "Cromo 82",
+    "nome": "Rene Henriksen",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/82.jpg"
   },
   {
     "numero": "83",
-    "nome": "Cromo 83",
+    "nome": "Martin Laursen",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/83.jpg"
   },
   {
     "numero": "84",
-    "nome": "Cromo 84",
+    "nome": "Niclas Jensen",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/84.jpg"
   },
   {
     "numero": "85",
-    "nome": "Cromo 85",
+    "nome": "Jan Heintze",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/85.jpg"
   },
   {
     "numero": "86",
-    "nome": "Cromo 86",
+    "nome": "Thomas Helveg",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/86.jpg"
   },
   {
     "numero": "87",
-    "nome": "Cromo 87",
+    "nome": "Thomas Gravesen",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/87.jpg"
   },
   {
     "numero": "88",
-    "nome": "Cromo 88",
+    "nome": "Stig Tofting",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/88.jpg"
   },
   {
     "numero": "89",
-    "nome": "Cromo 89",
+    "nome": "Claus Jensen",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/89.jpg"
   },
   {
     "numero": "90",
-    "nome": "Cromo 90",
+    "nome": "Allan Nielsen",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/90.jpg"
   },
   {
     "numero": "91",
-    "nome": "Cromo 91",
+    "nome": "Christian Poulsen",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/91.jpg"
   },
   {
     "numero": "92",
-    "nome": "Cromo 92",
+    "nome": "Martin Jorgensen",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/92.jpg"
   },
   {
     "numero": "93",
-    "nome": "Cromo 93",
+    "nome": "Jon Dahl Tomasson",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/93.jpg"
   },
   {
     "numero": "94",
-    "nome": "Cromo 94",
+    "nome": "Dennis Rommedahl",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/94.jpg"
   },
   {
     "numero": "95",
-    "nome": "Cromo 95",
+    "nome": "Jesper Gronkjaer",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/95.jpg"
   },
   {
     "numero": "96",
-    "nome": "Cromo 96",
+    "nome": "Ebbe Sand",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/96.jpg"
   },
   {
     "numero": "97",
-    "nome": "Cromo 97",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/97.jpg"
   },
   {
     "numero": "98",
-    "nome": "Cromo 98",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/98.jpg"
   },
   {
     "numero": "99",
-    "nome": "Cromo 99",
+    "nome": "Jose Santiago Cañizares",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/99.jpg"
   },
   {
     "numero": "100",
-    "nome": "Cromo 100",
+    "nome": "Carles Puyol",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/100.jpg"
   },
   {
     "numero": "101",
-    "nome": "Cromo 101",
+    "nome": "Fernando Hierro",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/101.jpg"
   },
   {
     "numero": "102",
-    "nome": "Cromo 102",
+    "nome": "Miguel Angel Nadal",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/102.jpg"
   },
   {
     "numero": "103",
-    "nome": "Cromo 103",
+    "nome": "Sergi Barjuan",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/103.jpg"
   },
   {
     "numero": "104",
-    "nome": "Cromo 104",
+    "nome": "Agustin Aranzabal",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/104.jpg"
   },
   {
     "numero": "105",
-    "nome": "Cromo 105",
+    "nome": "Ivan Helguera",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/105.jpg"
   },
   {
     "numero": "106",
-    "nome": "Cromo 106",
+    "nome": "Josep Guardiola",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/106.jpg"
   },
   {
     "numero": "107",
-    "nome": "Cromo 107",
+    "nome": "Gaizka Mendieta",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/107.jpg"
   },
   {
     "numero": "108",
-    "nome": "Cromo 108",
+    "nome": "Victor Sanchez",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/108.jpg"
   },
   {
     "numero": "109",
-    "nome": "Cromo 109",
+    "nome": "Juan Carlos Valeron",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/109.jpg"
   },
   {
     "numero": "110",
-    "nome": "Cromo 110",
+    "nome": "Luis Enrique Martinez",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/110.jpg"
   },
   {
     "numero": "111",
-    "nome": "Cromo 111",
+    "nome": "Raul Gonzalez",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/111.jpg"
   },
   {
     "numero": "112",
-    "nome": "Cromo 112",
+    "nome": "Fernando Morientes",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/112.jpg"
   },
   {
     "numero": "113",
-    "nome": "Cromo 113",
+    "nome": "Ismael Urzaiz",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/113.jpg"
   },
   {
     "numero": "114",
-    "nome": "Cromo 114",
+    "nome": "Iker Casillas",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/114.jpg"
   },
   {
     "numero": "115",
-    "nome": "Cromo 115",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/115.jpg"
   },
   {
     "numero": "116",
-    "nome": "Cromo 116",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/116.jpg"
   },
   {
     "numero": "117",
-    "nome": "Cromo 117",
+    "nome": "Marko Simeunovic",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/117.jpg"
   },
   {
     "numero": "118",
-    "nome": "Cromo 118",
+    "nome": "Aleksander Knavs",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/118.jpg"
   },
   {
     "numero": "119",
-    "nome": "Cromo 119",
+    "nome": "Marinko Galic",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/119.jpg"
   },
   {
     "numero": "120",
-    "nome": "Cromo 120",
+    "nome": "Zeljko Milinovic",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/120.jpg"
   },
   {
     "numero": "121",
-    "nome": "Cromo 121",
+    "nome": "Muamer Vugdalic",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/121.jpg"
   },
   {
     "numero": "122",
-    "nome": "Cromo 122",
+    "nome": "Spasoje Bulajic",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/122.jpg"
   },
   {
     "numero": "123",
-    "nome": "Cromo 123",
+    "nome": "Dzoni Novak",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/123.jpg"
   },
   {
     "numero": "124",
-    "nome": "Cromo 124",
+    "nome": "Ales Ceh",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/124.jpg"
   },
   {
     "numero": "125",
-    "nome": "Cromo 125",
+    "nome": "Miran Pavlin",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/125.jpg"
   },
   {
     "numero": "126",
-    "nome": "Cromo 126",
+    "nome": "Amir Karic",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/126.jpg"
   },
   {
     "numero": "127",
-    "nome": "Cromo 127",
+    "nome": "Milenko Acimovic",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/127.jpg"
   },
   {
     "numero": "128",
-    "nome": "Cromo 128",
+    "nome": "Zlatko Zahovic",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/128.jpg"
   },
   {
     "numero": "129",
-    "nome": "Cromo 129",
+    "nome": "Nastja Ceh",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/129.jpg"
   },
   {
     "numero": "130",
-    "nome": "Cromo 130",
+    "nome": "Mladen Rudonja",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/130.jpg"
   },
   {
     "numero": "131",
-    "nome": "Cromo 131",
+    "nome": "Milan Osterc",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/131.jpg"
   },
   {
     "numero": "132",
-    "nome": "Cromo 132",
+    "nome": "Sebastjan Cimirotic",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/132.jpg"
   },
   {
     "numero": "133",
-    "nome": "Cromo 133",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/133.jpg"
   },
   {
     "numero": "134",
-    "nome": "Cromo 134",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/134.jpg"
   },
   {
     "numero": "135",
-    "nome": "Cromo 135",
+    "nome": "Jose Luis Chilavert",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/135.jpg"
   },
   {
     "numero": "136",
-    "nome": "Cromo 136",
+    "nome": "Francisco Javier Arce",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/136.jpg"
   },
   {
     "numero": "137",
-    "nome": "Cromo 137",
+    "nome": "Carlos Alberto Gamarra",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/137.jpg"
   },
   {
     "numero": "138",
-    "nome": "Cromo 138",
+    "nome": "Celso Rafael Ayala",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/138.jpg"
   },
   {
     "numero": "139",
-    "nome": "Cromo 139",
+    "nome": "Pedro Alcides Sarabia",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/139.jpg"
   },
   {
     "numero": "140",
-    "nome": "Cromo 140",
+    "nome": "Denis Ramon Caniza",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/140.jpg"
   },
   {
     "numero": "141",
-    "nome": "Cromo 141",
+    "nome": "Diego Antonio Gavilan",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/141.jpg"
   },
   {
     "numero": "142",
-    "nome": "Cromo 142",
+    "nome": "Carlos Humberto Paredes",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/142.jpg"
   },
   {
     "numero": "143",
-    "nome": "Cromo 143",
+    "nome": "Roberto Miguel Acuña",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/143.jpg"
   },
   {
     "numero": "144",
-    "nome": "Cromo 144",
+    "nome": "Estanislao Struway",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/144.jpg"
   },
   {
     "numero": "145",
-    "nome": "Cromo 145",
+    "nome": "Victor Quintana",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/145.jpg"
   },
   {
     "numero": "146",
-    "nome": "Cromo 146",
+    "nome": "Julio Cesar Enciso",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/146.jpg"
   },
   {
     "numero": "147",
-    "nome": "Cromo 147",
+    "nome": "Jose Saturnino Cardozo",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/147.jpg"
   },
   {
     "numero": "148",
-    "nome": "Cromo 148",
+    "nome": "Roque Santa Cruz",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/148.jpg"
   },
   {
     "numero": "149",
-    "nome": "Cromo 149",
+    "nome": "Hugo Rolando Brizuela",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/149.jpg"
   },
   {
     "numero": "150",
-    "nome": "Cromo 150",
+    "nome": "Ricardo Tavarelli",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/150.jpg"
   },
   {
     "numero": "151",
-    "nome": "Cromo 151",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/151.jpg"
   },
   {
     "numero": "152",
-    "nome": "Cromo 152",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/152.jpg"
   },
   {
     "numero": "153",
-    "nome": "Cromo 153",
+    "nome": "Hans Vonk",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/153.jpg"
   },
   {
     "numero": "154",
-    "nome": "Cromo 154",
+    "nome": "Cyril Nzama",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/154.jpg"
   },
   {
     "numero": "155",
-    "nome": "Cromo 155",
+    "nome": "Pierre Issa",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/155.jpg"
   },
   {
     "numero": "156",
-    "nome": "Cromo 156",
+    "nome": "Bradley Carnell",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/156.jpg"
   },
   {
     "numero": "157",
-    "nome": "Cromo 157",
+    "nome": "Frank Schoeman",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/157.jpg"
   },
   {
     "numero": "158",
-    "nome": "Cromo 158",
+    "nome": "Aaron Mokoena",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/158.jpg"
   },
   {
     "numero": "159",
-    "nome": "Cromo 159",
+    "nome": "Jacob Lekgetho",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/159.jpg"
   },
   {
     "numero": "160",
-    "nome": "Cromo 160",
+    "nome": "Delron Buckley",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/160.jpg"
   },
   {
     "numero": "161",
-    "nome": "Cromo 161",
+    "nome": "Dumisani Ngobe",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/161.jpg"
   },
   {
     "numero": "162",
-    "nome": "Cromo 162",
+    "nome": "Quinton Fortune",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/162.jpg"
   },
   {
     "numero": "163",
-    "nome": "Cromo 163",
+    "nome": "Bradley August",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/163.jpg"
   },
   {
     "numero": "164",
-    "nome": "Cromo 164",
+    "nome": "Eric Tinkler",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/164.jpg"
   },
   {
     "numero": "165",
-    "nome": "Cromo 165",
+    "nome": "Sibusiso Zuma",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/165.jpg"
   },
   {
     "numero": "166",
-    "nome": "Cromo 166",
+    "nome": "Siyabonga Nomvethe",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/166.jpg"
   },
   {
     "numero": "167",
-    "nome": "Cromo 167",
+    "nome": "Shaun Bartlett",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/167.jpg"
   },
   {
     "numero": "168",
-    "nome": "Cromo 168",
+    "nome": "Benni McCarthy",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/168.jpg"
   },
   {
     "numero": "169",
-    "nome": "Cromo 169",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/169.jpg"
   },
   {
     "numero": "170",
-    "nome": "Cromo 170",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/170.jpg"
   },
   {
     "numero": "171",
-    "nome": "Cromo 171",
+    "nome": "Dida",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/171.jpg"
   },
   {
     "numero": "171-ex",
-    "nome": "Cromo 171-ex",
+    "nome": "Marcos",
     "tenho": true,
     "especial": true,
+    "clube": "Brasil",
+    "tipo": "extra sticker",
     "imagem": "images/capas/KOREA JAPAN 2002/171-ex.jpg"
   },
   {
     "numero": "172",
-    "nome": "Cromo 172",
+    "nome": "Cafu",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/172.jpg"
   },
   {
     "numero": "173",
-    "nome": "Cromo 173",
+    "nome": "Antonio Carlos Zago",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/173.jpg"
   },
   {
     "numero": "173-ex",
-    "nome": "Cromo 173-ex",
+    "nome": "Juan",
     "tenho": true,
     "especial": true,
+    "clube": "Brasil",
+    "tipo": "extra sticker",
     "imagem": "images/capas/KOREA JAPAN 2002/173-ex.jpg"
   },
   {
     "numero": "174",
-    "nome": "Cromo 174",
+    "nome": "Roque Junior",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/174.jpg"
   },
   {
     "numero": "175",
-    "nome": "Cromo 175",
+    "nome": "Lucio",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/175.jpg"
   },
   {
     "numero": "176",
-    "nome": "Cromo 176",
+    "nome": "Roberto Carlos",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/176.jpg"
   },
   {
     "numero": "177",
-    "nome": "Cromo 177",
+    "nome": "Ze Roberto",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/177.jpg"
   },
   {
     "numero": "177-ex",
-    "nome": "Cromo 177-ex",
+    "nome": "Edmílson",
     "tenho": true,
     "especial": true,
+    "clube": "Brasil",
+    "tipo": "extra sticker",
     "imagem": "images/capas/KOREA JAPAN 2002/177-ex.jpg"
   },
   {
     "numero": "178",
-    "nome": "Cromo 178",
+    "nome": "Vampeta",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/178.jpg"
   },
   {
     "numero": "178-ex",
-    "nome": "Cromo 178-ex",
+    "nome": "Belletti",
     "tenho": true,
     "especial": true,
+    "clube": "Brasil",
+    "tipo": "extra sticker",
     "imagem": "images/capas/KOREA JAPAN 2002/178-ex.jpg"
   },
   {
     "numero": "179",
-    "nome": "Cromo 179",
+    "nome": "Mauro Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/179.jpg"
   },
   {
     "numero": "179-ex",
-    "nome": "Cromo 179-ex",
+    "nome": "Ronaldinho Gaúcho",
     "tenho": true,
     "especial": true,
+    "clube": "Brasil",
+    "tipo": "extra sticker",
     "imagem": "images/capas/KOREA JAPAN 2002/179-ex.jpg"
   },
   {
     "numero": "180",
-    "nome": "Cromo 180",
+    "nome": "Emerson",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/180.jpg"
   },
   {
     "numero": "181",
-    "nome": "Cromo 181",
+    "nome": "Juninho Paulista",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/181.jpg"
   },
   {
     "numero": "182",
-    "nome": "Cromo 182",
+    "nome": "Denilson",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/182.jpg"
   },
   {
     "numero": "183",
-    "nome": "Cromo 183",
+    "nome": "Rivaldo",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/183.jpg"
   },
   {
     "numero": "184",
-    "nome": "Cromo 184",
+    "nome": "Ronaldo",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/184.jpg"
   },
   {
     "numero": "185",
-    "nome": "Cromo 185",
+    "nome": "Luizão",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/185.jpg"
   },
   {
     "numero": "186",
-    "nome": "Cromo 186",
+    "nome": "Edilson",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/186.jpg"
   },
   {
     "numero": "187",
-    "nome": "Cromo 187",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/187.jpg"
   },
   {
     "numero": "188",
-    "nome": "Cromo 188",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/188.jpg"
   },
   {
     "numero": "189",
-    "nome": "Cromo 189",
+    "nome": "Rüstü Recber",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/189.jpg"
   },
   {
     "numero": "190",
-    "nome": "Cromo 190",
+    "nome": "Fatih Akyel",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/190.jpg"
   },
   {
     "numero": "191",
-    "nome": "Cromo 191",
+    "nome": "Ümit Özat",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/191.jpg"
   },
   {
     "numero": "192",
-    "nome": "Cromo 192",
+    "nome": "Alpay Özalan",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/192.jpg"
   },
   {
     "numero": "193",
-    "nome": "Cromo 193",
+    "nome": "Ogün Temizkanoglu",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/193.jpg"
   },
   {
     "numero": "194",
-    "nome": "Cromo 194",
+    "nome": "Tayfur Havutcu",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/194.jpg"
   },
   {
     "numero": "195",
-    "nome": "Cromo 195",
+    "nome": "Ümit Davala",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/195.jpg"
   },
   {
     "numero": "196",
-    "nome": "Cromo 196",
+    "nome": "Abdullah Ercan",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/196.jpg"
   },
   {
     "numero": "197",
-    "nome": "Cromo 197",
+    "nome": "Okan Buruk",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/197.jpg"
   },
   {
     "numero": "198",
-    "nome": "Cromo 198",
+    "nome": "Tugay Kerimoglu",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/198.jpg"
   },
   {
     "numero": "199",
-    "nome": "Cromo 199",
+    "nome": "Emre Belözoglu",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/199.jpg"
   },
   {
     "numero": "200",
-    "nome": "Cromo 200",
+    "nome": "Ergün Penbe",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/200.jpg"
   },
   {
     "numero": "201",
-    "nome": "Cromo 201",
+    "nome": "Yildiray Bastürk",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/201.jpg"
   },
   {
     "numero": "202",
-    "nome": "Cromo 202",
+    "nome": "Hasan Sas",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/202.jpg"
   },
   {
     "numero": "203",
-    "nome": "Cromo 203",
+    "nome": "Arif Erdem",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/203.jpg"
   },
   {
     "numero": "204",
-    "nome": "Cromo 204",
+    "nome": "Hakan Sükür",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/204.jpg"
   },
   {
     "numero": "205",
-    "nome": "Cromo 205",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "China",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/205.jpg"
   },
   {
     "numero": "206",
-    "nome": "Cromo 206",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "China",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/206.jpg"
   },
   {
     "numero": "207",
-    "nome": "Cromo 207",
+    "nome": "Jiang Jin",
     "tenho": true,
     "especial": false,
+    "clube": "China",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/207.jpg"
   },
   {
     "numero": "208",
-    "nome": "Cromo 208",
+    "nome": "Sun Jihai",
     "tenho": true,
     "especial": false,
+    "clube": "China",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/208.jpg"
   },
   {
     "numero": "209",
-    "nome": "Cromo 209",
+    "nome": "Yang Pu",
     "tenho": true,
     "especial": false,
+    "clube": "China",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/209.jpg"
   },
   {
     "numero": "210",
-    "nome": "Cromo 210",
+    "nome": "Wu Chengying",
     "tenho": true,
     "especial": false,
+    "clube": "China",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/210.jpg"
   },
   {
     "numero": "211",
-    "nome": "Cromo 211",
+    "nome": "Li Weifeng",
     "tenho": true,
     "especial": false,
+    "clube": "China",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/211.jpg"
   },
   {
     "numero": "212",
-    "nome": "Cromo 212",
+    "nome": "Fan Zhiyi",
     "tenho": true,
     "especial": false,
+    "clube": "China",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/212.jpg"
   },
   {
     "numero": "213",
-    "nome": "Cromo 213",
+    "nome": "Li Ming",
     "tenho": true,
     "especial": false,
+    "clube": "China",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/213.jpg"
   },
   {
     "numero": "214",
-    "nome": "Cromo 214",
+    "nome": "Shen Si",
     "tenho": true,
     "especial": false,
+    "clube": "China",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/214.jpg"
   },
   {
     "numero": "215",
-    "nome": "Cromo 215",
+    "nome": "Qi Hong",
     "tenho": true,
     "especial": false,
+    "clube": "China",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/215.jpg"
   },
   {
     "numero": "216",
-    "nome": "Cromo 216",
+    "nome": "Li Xiaopeng",
     "tenho": true,
     "especial": false,
+    "clube": "China",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/216.jpg"
   },
   {
     "numero": "217",
-    "nome": "Cromo 217",
+    "nome": "Li Tie",
     "tenho": true,
     "especial": false,
+    "clube": "China",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/217.jpg"
   },
   {
     "numero": "218",
-    "nome": "Cromo 218",
+    "nome": "Ma Mingyu",
     "tenho": true,
     "especial": false,
+    "clube": "China",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/218.jpg"
   },
   {
     "numero": "219",
-    "nome": "Cromo 219",
+    "nome": "Qu Bo",
     "tenho": true,
     "especial": false,
+    "clube": "China",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/219.jpg"
   },
   {
     "numero": "220",
-    "nome": "Cromo 220",
+    "nome": "Hao Haidong",
     "tenho": true,
     "especial": false,
+    "clube": "China",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/220.jpg"
   },
   {
     "numero": "221",
-    "nome": "Cromo 221",
+    "nome": "Yang Chen",
     "tenho": true,
     "especial": false,
+    "clube": "China",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/221.jpg"
   },
   {
     "numero": "222",
-    "nome": "Cromo 222",
+    "nome": "Xie Hui",
     "tenho": true,
     "especial": false,
+    "clube": "China",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/222.jpg"
   },
   {
     "numero": "223",
-    "nome": "Cromo 223",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/223.jpg"
   },
   {
     "numero": "224",
-    "nome": "Cromo 224",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/224.jpg"
   },
   {
     "numero": "225",
-    "nome": "Cromo 225",
+    "nome": "Erick Lonnis",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/225.jpg"
   },
   {
     "numero": "226",
-    "nome": "Cromo 226",
+    "nome": "Jervis Drummond",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/226.jpg"
   },
   {
     "numero": "227",
-    "nome": "Cromo 227",
+    "nome": "Reynaldo Parks",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/227.jpg"
   },
   {
     "numero": "228",
-    "nome": "Cromo 228",
+    "nome": "Luis Alberto Marin",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/228.jpg"
   },
   {
     "numero": "229",
-    "nome": "Cromo 229",
+    "nome": "Gilberto Martinez",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/229.jpg"
   },
   {
     "numero": "230",
-    "nome": "Cromo 230",
+    "nome": "Carlos Castro",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/230.jpg"
   },
   {
     "numero": "231",
-    "nome": "Cromo 231",
+    "nome": "Rodrigo Cordero",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/231.jpg"
   },
   {
     "numero": "232",
-    "nome": "Cromo 232",
+    "nome": "Walter Centeno",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/232.jpg"
   },
   {
     "numero": "233",
-    "nome": "Cromo 233",
+    "nome": "Wilmer Lopez",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/233.jpg"
   },
   {
     "numero": "234",
-    "nome": "Cromo 234",
+    "nome": "Steven Bryce",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/234.jpg"
   },
   {
     "numero": "235",
-    "nome": "Cromo 235",
+    "nome": "Mauricio Solis",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/235.jpg"
   },
   {
     "numero": "236",
-    "nome": "Cromo 236",
+    "nome": "William Sunsing",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/236.jpg"
   },
   {
     "numero": "237",
-    "nome": "Cromo 237",
+    "nome": "Rolando Fonseca",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/237.jpg"
   },
   {
     "numero": "238",
-    "nome": "Cromo 238",
+    "nome": "Paulo Wanchope",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/238.jpg"
   },
   {
     "numero": "239",
-    "nome": "Cromo 239",
+    "nome": "Hernan Medford",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/239.jpg"
   },
   {
     "numero": "240",
-    "nome": "Cromo 240",
+    "nome": "Ronald Gomez",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/240.jpg"
   },
   {
     "numero": "241",
-    "nome": "Cromo 241",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Korea",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/241.jpg"
   },
   {
     "numero": "242",
-    "nome": "Cromo 242",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Korea",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/242.jpg"
   },
   {
     "numero": "243",
-    "nome": "Cromo 243",
+    "nome": "Lee Woon-Jae",
     "tenho": true,
     "especial": false,
+    "clube": "Korea",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/243.jpg"
   },
   {
     "numero": "244",
-    "nome": "Cromo 244",
+    "nome": "Kim Tae-Young",
     "tenho": true,
     "especial": false,
+    "clube": "Korea",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/244.jpg"
   },
   {
     "numero": "245",
-    "nome": "Cromo 245",
+    "nome": "Lee Min-Sung",
     "tenho": true,
     "especial": false,
+    "clube": "Korea",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/245.jpg"
   },
   {
     "numero": "246",
-    "nome": "Cromo 246",
+    "nome": "Kang Chul",
     "tenho": true,
     "especial": false,
+    "clube": "Korea",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/246.jpg"
   },
   {
     "numero": "247",
-    "nome": "Cromo 247",
+    "nome": "Hong Myung-Bo",
     "tenho": true,
     "especial": false,
+    "clube": "Korea",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/247.jpg"
   },
   {
     "numero": "248",
-    "nome": "Cromo 248",
+    "nome": "Song Chong-Gug",
     "tenho": true,
     "especial": false,
+    "clube": "Korea",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/248.jpg"
   },
   {
     "numero": "249",
-    "nome": "Cromo 249",
+    "nome": "Choi Sung-Yong",
     "tenho": true,
     "especial": false,
+    "clube": "Korea",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/249.jpg"
   },
   {
     "numero": "250",
-    "nome": "Cromo 250",
+    "nome": "Lee Young-Pyo",
     "tenho": true,
     "especial": false,
+    "clube": "Korea",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/250.jpg"
   },
   {
     "numero": "251",
-    "nome": "Cromo 251",
+    "nome": "Park Ji-Sung",
     "tenho": true,
     "especial": false,
+    "clube": "Korea",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/251.jpg"
   },
   {
     "numero": "252",
-    "nome": "Cromo 252",
+    "nome": "Ko Jong-Soo",
     "tenho": true,
     "especial": false,
+    "clube": "Korea",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/252.jpg"
   },
   {
     "numero": "253",
-    "nome": "Cromo 253",
+    "nome": "Ahn Jung-Hwan",
     "tenho": true,
     "especial": false,
+    "clube": "Korea",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/253.jpg"
   },
   {
     "numero": "254",
-    "nome": "Cromo 254",
+    "nome": "Lee Dong-Guk",
     "tenho": true,
     "especial": false,
+    "clube": "Korea",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/254.jpg"
   },
   {
     "numero": "255",
-    "nome": "Cromo 255",
+    "nome": "Kim Do-Hoon",
     "tenho": true,
     "especial": false,
+    "clube": "Korea",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/255.jpg"
   },
   {
     "numero": "256",
-    "nome": "Cromo 256",
+    "nome": "Seol Ki-Hyun",
     "tenho": true,
     "especial": false,
+    "clube": "Korea",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/256.jpg"
   },
   {
     "numero": "257",
-    "nome": "Cromo 257",
+    "nome": "Hwang Sun-Hong",
     "tenho": true,
     "especial": false,
+    "clube": "Korea",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/257.jpg"
   },
   {
     "numero": "258",
-    "nome": "Cromo 258",
+    "nome": "Kim Yong-Dae",
     "tenho": true,
     "especial": false,
+    "clube": "Korea",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/258.jpg"
   },
   {
     "numero": "259",
-    "nome": "Cromo 259",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/259.jpg"
   },
   {
     "numero": "260",
-    "nome": "Cromo 260",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/260.jpg"
   },
   {
     "numero": "261",
-    "nome": "Cromo 261",
+    "nome": "Jerzy Dudek",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/261.jpg"
   },
   {
     "numero": "262",
-    "nome": "Cromo 262",
+    "nome": "Tomasz Klos",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/262.jpg"
   },
   {
     "numero": "263",
-    "nome": "Cromo 263",
+    "nome": "Tomasz Hajto",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/263.jpg"
   },
   {
     "numero": "264",
-    "nome": "Cromo 264",
+    "nome": "Jacek Zielinski",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/264.jpg"
   },
   {
     "numero": "265",
-    "nome": "Cromo 265",
+    "nome": "Tomasz Waldoch",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/265.jpg"
   },
   {
     "numero": "266",
-    "nome": "Cromo 266",
+    "nome": "Michal Zewlakow",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/266.jpg"
   },
   {
     "numero": "267",
-    "nome": "Cromo 267",
+    "nome": "Piotr Swierczewski",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/267.jpg"
   },
   {
     "numero": "268",
-    "nome": "Cromo 268",
+    "nome": "Jacek Krzynowek",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/268.jpg"
   },
   {
     "numero": "269",
-    "nome": "Cromo 269",
+    "nome": "Marek Kozminski",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/269.jpg"
   },
   {
     "numero": "270",
-    "nome": "Cromo 270",
+    "nome": "Radoslaw Kaluzny",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/270.jpg"
   },
   {
     "numero": "271",
-    "nome": "Cromo 271",
+    "nome": "Bartosz Karwan",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/271.jpg"
   },
   {
     "numero": "272",
-    "nome": "Cromo 272",
+    "nome": "Tomasz Iwan",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/272.jpg"
   },
   {
     "numero": "273",
-    "nome": "Cromo 273",
+    "nome": "Emmanuel Olisadebe",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/273.jpg"
   },
   {
     "numero": "274",
-    "nome": "Cromo 274",
+    "nome": "Pawel Kryszalowicz",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/274.jpg"
   },
   {
     "numero": "275",
-    "nome": "Cromo 275",
+    "nome": "Marcin Zewlakow",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/275.jpg"
   },
   {
     "numero": "276",
-    "nome": "Cromo 276",
+    "nome": "Andrzej Juskowiak",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/276.jpg"
   },
   {
     "numero": "277",
-    "nome": "Cromo 277",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/277.jpg"
   },
   {
     "numero": "278",
-    "nome": "Cromo 278",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/278.jpg"
   },
   {
     "numero": "279",
-    "nome": "Cromo 279",
+    "nome": "Brad Friedel",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/279.jpg"
   },
   {
     "numero": "280",
-    "nome": "Cromo 280",
+    "nome": "Jeff Agoos",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/280.jpg"
   },
   {
     "numero": "281",
-    "nome": "Cromo 281",
+    "nome": "Gregg Berhalter",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/281.jpg"
   },
   {
     "numero": "282",
-    "nome": "Cromo 282",
+    "nome": "Carlos Llamosa",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/282.jpg"
   },
   {
     "numero": "283",
-    "nome": "Cromo 283",
+    "nome": "Eddie Pope",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/283.jpg"
   },
   {
     "numero": "284",
-    "nome": "Cromo 284",
+    "nome": "David Regis",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/284.jpg"
   },
   {
     "numero": "285",
-    "nome": "Cromo 285",
+    "nome": "Tony Sanneh",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/285.jpg"
   },
   {
     "numero": "286",
-    "nome": "Cromo 286",
+    "nome": "Chris Armas",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/286.jpg"
   },
   {
     "numero": "287",
-    "nome": "Cromo 287",
+    "nome": "Cobi Jones",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/287.jpg"
   },
   {
     "numero": "288",
-    "nome": "Cromo 288",
+    "nome": "John O'Brien",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/288.jpg"
   },
   {
     "numero": "289",
-    "nome": "Cromo 289",
+    "nome": "Claudio Reyna",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/289.jpg"
   },
   {
     "numero": "290",
-    "nome": "Cromo 290",
+    "nome": "Earnie Stewart",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/290.jpg"
   },
   {
     "numero": "291",
-    "nome": "Cromo 291",
+    "nome": "Landon Donovan",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/291.jpg"
   },
   {
     "numero": "292",
-    "nome": "Cromo 292",
+    "nome": "Jovan Kirovski",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/292.jpg"
   },
   {
     "numero": "293",
-    "nome": "Cromo 293",
+    "nome": "Joe-Max Moore",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/293.jpg"
   },
   {
     "numero": "294",
-    "nome": "Cromo 294",
+    "nome": "Brian McBride",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/294.jpg"
   },
   {
     "numero": "295",
-    "nome": "Cromo 295",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/295.jpg"
   },
   {
     "numero": "296",
-    "nome": "Cromo 296",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/296.jpg"
   },
   {
     "numero": "297",
-    "nome": "Cromo 297",
+    "nome": "Ricardo",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/297.jpg"
   },
   {
     "numero": "298",
-    "nome": "Cromo 298",
+    "nome": "Frechaut",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/298.jpg"
   },
   {
     "numero": "299",
-    "nome": "Cromo 299",
+    "nome": "Beto",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/299.jpg"
   },
   {
     "numero": "300",
-    "nome": "Cromo 300",
+    "nome": "Fernando Couto",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/300.jpg"
   },
   {
     "numero": "301",
-    "nome": "Cromo 301",
+    "nome": "Jorge Costa",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/301.jpg"
   },
   {
     "numero": "302",
-    "nome": "Cromo 302",
+    "nome": "Rui Jorge",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/302.jpg"
   },
   {
     "numero": "303",
-    "nome": "Cromo 303",
+    "nome": "Petit",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/303.jpg"
   },
   {
     "numero": "304",
-    "nome": "Cromo 304",
+    "nome": "Hugo Viana",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/304.jpg"
   },
   {
     "numero": "305",
-    "nome": "Cromo 305",
+    "nome": "Rui Costa",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/305.jpg"
   },
   {
     "numero": "306",
-    "nome": "Cromo 306",
+    "nome": "Sergio Conceição",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/306.jpg"
   },
   {
     "numero": "307",
-    "nome": "Cromo 307",
+    "nome": "Figo",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/307.jpg"
   },
   {
     "numero": "308",
-    "nome": "Cromo 308",
+    "nome": "Capucho",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/308.jpg"
   },
   {
     "numero": "309",
-    "nome": "Cromo 309",
+    "nome": "João Pinto",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/309.jpg"
   },
   {
     "numero": "310",
-    "nome": "Cromo 310",
+    "nome": "Pauleta",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/310.jpg"
   },
   {
     "numero": "311",
-    "nome": "Cromo 311",
+    "nome": "Nuno Gomes",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/311.jpg"
   },
   {
     "numero": "312",
-    "nome": "Cromo 312",
+    "nome": "Vitor Baia",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/312.jpg"
   },
   {
     "numero": "313",
-    "nome": "Cromo 313",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/313.jpg"
   },
   {
     "numero": "314",
-    "nome": "Cromo 314",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/314.jpg"
   },
   {
     "numero": "315",
-    "nome": "Cromo 315",
+    "nome": "Oliver Kahn",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/315.jpg"
   },
   {
     "numero": "316",
-    "nome": "Cromo 316",
+    "nome": "Thomas Linke",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/316.jpg"
   },
   {
     "numero": "317",
-    "nome": "Cromo 317",
+    "nome": "Jens Nowotny",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/317.jpg"
   },
   {
     "numero": "318",
-    "nome": "Cromo 318",
+    "nome": "Marko Rehmer",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/318.jpg"
   },
   {
     "numero": "319",
-    "nome": "Cromo 319",
+    "nome": "Christian Wörns",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/319.jpg"
   },
   {
     "numero": "320",
-    "nome": "Cromo 320",
+    "nome": "Christian Ziege",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/320.jpg"
   },
   {
     "numero": "321",
-    "nome": "Cromo 321",
+    "nome": "Michael Ballack",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/321.jpg"
   },
   {
     "numero": "322",
-    "nome": "Cromo 322",
+    "nome": "Dietmar Hamann",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/322.jpg"
   },
   {
     "numero": "323",
-    "nome": "Cromo 323",
+    "nome": "Jens Jeremies",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/323.jpg"
   },
   {
     "numero": "324",
-    "nome": "Cromo 324",
+    "nome": "Bernd Schneider",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/324.jpg"
   },
   {
     "numero": "325",
-    "nome": "Cromo 325",
+    "nome": "Sebastian Deisler",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/325.jpg"
   },
   {
     "numero": "326",
-    "nome": "Cromo 326",
+    "nome": "Mehmet Scholl",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/326.jpg"
   },
   {
     "numero": "327",
-    "nome": "Cromo 327",
+    "nome": "Marco Bode",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/327.jpg"
   },
   {
     "numero": "328",
-    "nome": "Cromo 328",
+    "nome": "Carsten Jancker",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/328.jpg"
   },
   {
     "numero": "329",
-    "nome": "Cromo 329",
+    "nome": "Oliver Neuville",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/329.jpg"
   },
   {
     "numero": "330",
-    "nome": "Cromo 330",
+    "nome": "Oliver Bierhoff",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/330.jpg"
   },
   {
     "numero": "331",
-    "nome": "Cromo 331",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/331.jpg"
   },
   {
     "numero": "332",
-    "nome": "Cromo 332",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/332.jpg"
   },
   {
     "numero": "333",
-    "nome": "Cromo 333",
+    "nome": "Mahammad Al-Deayea",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/333.jpg"
   },
   {
     "numero": "334",
-    "nome": "Cromo 334",
+    "nome": "Ahmad Al-Dossari",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/334.jpg"
   },
   {
     "numero": "335",
-    "nome": "Cromo 335",
+    "nome": "Abdullah Zebermawi",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/335.jpg"
   },
   {
     "numero": "336",
-    "nome": "Cromo 336",
+    "nome": "Hamad Al-Montashari",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/336.jpg"
   },
   {
     "numero": "337",
-    "nome": "Cromo 337",
+    "nome": "Saleh Al-Sagri",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/337.jpg"
   },
   {
     "numero": "338",
-    "nome": "Cromo 338",
+    "nome": "Mohammad Al-Jahni",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/338.jpg"
   },
   {
     "numero": "339",
-    "nome": "Cromo 339",
+    "nome": "Ahmad Al-Dokhi",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/339.jpg"
   },
   {
     "numero": "340",
-    "nome": "Cromo 340",
+    "nome": "Khamis Al-Dossari",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/340.jpg"
   },
   {
     "numero": "341",
-    "nome": "Cromo 341",
+    "nome": "Saleh Al-Mohammadi",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/341.jpg"
   },
   {
     "numero": "342",
-    "nome": "Cromo 342",
+    "nome": "Omar Al-Ghamdi",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/342.jpg"
   },
   {
     "numero": "343",
-    "nome": "Cromo 343",
+    "nome": "Ibrahim Al-Harbi",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/343.jpg"
   },
   {
     "numero": "344",
-    "nome": "Cromo 344",
+    "nome": "Talal Meshal",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/344.jpg"
   },
   {
     "numero": "345",
-    "nome": "Cromo 345",
+    "nome": "Sami Al-Jaber",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/345.jpg"
   },
   {
     "numero": "346",
-    "nome": "Cromo 346",
+    "nome": "Hassan Al-Yami",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/346.jpg"
   },
   {
     "numero": "347",
-    "nome": "Cromo 347",
+    "nome": "Abdallah Jamaan",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/347.jpg"
   },
   {
     "numero": "348",
-    "nome": "Cromo 348",
+    "nome": "Mabrouk Zayed",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/348.jpg"
   },
   {
     "numero": "349",
-    "nome": "Cromo 349",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Ireland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/349.jpg"
   },
   {
     "numero": "350",
-    "nome": "Cromo 350",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Ireland",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/350.jpg"
   },
   {
     "numero": "351",
-    "nome": "Cromo 351",
+    "nome": "Shay Given",
     "tenho": true,
     "especial": false,
+    "clube": "Ireland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/351.jpg"
   },
   {
     "numero": "352",
-    "nome": "Cromo 352",
+    "nome": "Gary Breen",
     "tenho": true,
     "especial": false,
+    "clube": "Ireland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/352.jpg"
   },
   {
     "numero": "353",
-    "nome": "Cromo 353",
+    "nome": "Ian Harte",
     "tenho": true,
     "especial": false,
+    "clube": "Ireland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/353.jpg"
   },
   {
     "numero": "354",
-    "nome": "Cromo 354",
+    "nome": "Richard Dunne",
     "tenho": true,
     "especial": false,
+    "clube": "Ireland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/354.jpg"
   },
   {
     "numero": "355",
-    "nome": "Cromo 355",
+    "nome": "Steve Staunton",
     "tenho": true,
     "especial": false,
+    "clube": "Ireland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/355.jpg"
   },
   {
     "numero": "356",
-    "nome": "Cromo 356",
+    "nome": "Steve Finnan",
     "tenho": true,
     "especial": false,
+    "clube": "Ireland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/356.jpg"
   },
   {
     "numero": "357",
-    "nome": "Cromo 357",
+    "nome": "Damien Duff",
     "tenho": true,
     "especial": false,
+    "clube": "Ireland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/357.jpg"
   },
   {
     "numero": "358",
-    "nome": "Cromo 358",
+    "nome": "Jason McAteer",
     "tenho": true,
     "especial": false,
+    "clube": "Ireland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/358.jpg"
   },
   {
     "numero": "359",
-    "nome": "Cromo 359",
+    "nome": "Mark Kinsella",
     "tenho": true,
     "especial": false,
+    "clube": "Ireland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/359.jpg"
   },
   {
     "numero": "360",
-    "nome": "Cromo 360",
+    "nome": "Matt Holland",
     "tenho": true,
     "especial": false,
+    "clube": "Ireland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/360.jpg"
   },
   {
     "numero": "361",
-    "nome": "Cromo 361",
+    "nome": "Roy Keane",
     "tenho": true,
     "especial": false,
+    "clube": "Ireland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/361.jpg"
   },
   {
     "numero": "362",
-    "nome": "Cromo 362",
+    "nome": "Clinton Morrison",
     "tenho": true,
     "especial": false,
+    "clube": "Ireland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/362.jpg"
   },
   {
     "numero": "363",
-    "nome": "Cromo 363",
+    "nome": "David Connolly",
     "tenho": true,
     "especial": false,
+    "clube": "Ireland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/363.jpg"
   },
   {
     "numero": "364",
-    "nome": "Cromo 364",
+    "nome": "Niall Quinn",
     "tenho": true,
     "especial": false,
+    "clube": "Ireland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/364.jpg"
   },
   {
     "numero": "365",
-    "nome": "Cromo 365",
+    "nome": "Robbie Keane",
     "tenho": true,
     "especial": false,
+    "clube": "Ireland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/365.jpg"
   },
   {
     "numero": "366",
-    "nome": "Cromo 366",
+    "nome": "Dean Kiely",
     "tenho": true,
     "especial": false,
+    "clube": "Ireland",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/366.jpg"
   },
   {
     "numero": "367",
-    "nome": "Cromo 367",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/367.jpg"
   },
   {
     "numero": "368",
-    "nome": "Cromo 368",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/368.jpg"
   },
   {
     "numero": "369",
-    "nome": "Cromo 369",
+    "nome": "Alioum Boukar",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/369.jpg"
   },
   {
     "numero": "370",
-    "nome": "Cromo 370",
+    "nome": "Pierre Njanka",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/370.jpg"
   },
   {
     "numero": "371",
-    "nome": "Cromo 371",
+    "nome": "Rigobert Song",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/371.jpg"
   },
   {
     "numero": "372",
-    "nome": "Cromo 372",
+    "nome": "Raymond Kalla",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/372.jpg"
   },
   {
     "numero": "373",
-    "nome": "Cromo 373",
+    "nome": "Bill Tchato",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/373.jpg"
   },
   {
     "numero": "374",
-    "nome": "Cromo 374",
+    "nome": "Pierre Wome",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/374.jpg"
   },
   {
     "numero": "375",
-    "nome": "Cromo 375",
+    "nome": "Geremi Njitap",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/375.jpg"
   },
   {
     "numero": "376",
-    "nome": "Cromo 376",
+    "nome": "Nicolas Alnoudji",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/376.jpg"
   },
   {
     "numero": "377",
-    "nome": "Cromo 377",
+    "nome": "Salomon Olembe",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/377.jpg"
   },
   {
     "numero": "378",
-    "nome": "Cromo 378",
+    "nome": "Marc-Vivien Foe",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/378.jpg"
   },
   {
     "numero": "379",
-    "nome": "Cromo 379",
+    "nome": "Lauren Etame",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/379.jpg"
   },
   {
     "numero": "380",
-    "nome": "Cromo 380",
+    "nome": "Joёl Epalle",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/380.jpg"
   },
   {
     "numero": "381",
-    "nome": "Cromo 381",
+    "nome": "Bernard Tchoutang",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/381.jpg"
   },
   {
     "numero": "382",
-    "nome": "Cromo 382",
+    "nome": "Patrick Mboma",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/382.jpg"
   },
   {
     "numero": "383",
-    "nome": "Cromo 383",
+    "nome": "Samuel Eto'o",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/383.jpg"
   },
   {
     "numero": "384",
-    "nome": "Cromo 384",
+    "nome": "Pius Ndiefi",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/384.jpg"
   },
   {
     "numero": "385",
-    "nome": "Cromo 385",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/385.jpg"
   },
   {
     "numero": "386",
-    "nome": "Cromo 386",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/386.jpg"
   },
   {
     "numero": "387",
-    "nome": "Cromo 387",
+    "nome": "Roberto Oscar Bonano",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/387.jpg"
   },
   {
     "numero": "388",
-    "nome": "Cromo 388",
+    "nome": "Nelson David Vivas",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/388.jpg"
   },
   {
     "numero": "389",
-    "nome": "Cromo 389",
+    "nome": "Roberto Fabian Ayala",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/389.jpg"
   },
   {
     "numero": "390",
-    "nome": "Cromo 390",
+    "nome": "Walter Adrian Samuel",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/390.jpg"
   },
   {
     "numero": "391",
-    "nome": "Cromo 391",
+    "nome": "Juan Pablo Sorin",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/391.jpg"
   },
   {
     "numero": "392",
-    "nome": "Cromo 392",
+    "nome": "Javier Adelmar Zanetti",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/392.jpg"
   },
   {
     "numero": "393",
-    "nome": "Cromo 393",
+    "nome": "Diego Pablo Simeone",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/393.jpg"
   },
   {
     "numero": "394",
-    "nome": "Cromo 394",
+    "nome": "Matias Jesus Almeyda",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/394.jpg"
   },
   {
     "numero": "395",
-    "nome": "Cromo 395",
+    "nome": "Juan Sebastian Veron",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/395.jpg"
   },
   {
     "numero": "396",
-    "nome": "Cromo 396",
+    "nome": "Pablo Cesar Aimar",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/396.jpg"
   },
   {
     "numero": "397",
-    "nome": "Cromo 397",
+    "nome": "Gustavo Adrian Lopez",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/397.jpg"
   },
   {
     "numero": "398",
-    "nome": "Cromo 398",
+    "nome": "Cristian Alberto \"Kily\" Gonzalez",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/398.jpg"
   },
   {
     "numero": "399",
-    "nome": "Cromo 399",
+    "nome": "Ariel Arnaldo Ortega",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/399.jpg"
   },
   {
     "numero": "400",
-    "nome": "Cromo 400",
+    "nome": "Javier Pedro Saviola",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/400.jpg"
   },
   {
     "numero": "401",
-    "nome": "Cromo 401",
+    "nome": "Claudio Javier Lopez",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/401.jpg"
   },
   {
     "numero": "402",
-    "nome": "Cromo 402",
+    "nome": "Hernan Jorge Crespo",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/402.jpg"
   },
   {
     "numero": "403",
-    "nome": "Cromo 403",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/403.jpg"
   },
   {
     "numero": "404",
-    "nome": "Cromo 404",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/404.jpg"
   },
   {
     "numero": "405",
-    "nome": "Cromo 405",
+    "nome": "Ike Shorunmu",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/405.jpg"
   },
   {
     "numero": "406",
-    "nome": "Cromo 406",
+    "nome": "Pascal Ojigwe",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/406.jpg"
   },
   {
     "numero": "407",
-    "nome": "Cromo 407",
+    "nome": "Emeka Ifejiagwa",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/407.jpg"
   },
   {
     "numero": "408",
-    "nome": "Cromo 408",
+    "nome": "Taribo West",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/408.jpg"
   },
   {
     "numero": "409",
-    "nome": "Cromo 409",
+    "nome": "Joseph Yobo",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/409.jpg"
   },
   {
     "numero": "410",
-    "nome": "Cromo 410",
+    "nome": "Ifeanyi Udeze",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/410.jpg"
   },
   {
     "numero": "411",
-    "nome": "Cromo 411",
+    "nome": "Celestine Babayaro",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/411.jpg"
   },
   {
     "numero": "412",
-    "nome": "Cromo 412",
+    "nome": "Sunday Oliseh",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/412.jpg"
   },
   {
     "numero": "413",
-    "nome": "Cromo 413",
+    "nome": "Garba Lawal",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/413.jpg"
   },
   {
     "numero": "414",
-    "nome": "Cromo 414",
+    "nome": "Augustine Okocha",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/414.jpg"
   },
   {
     "numero": "415",
-    "nome": "Cromo 415",
+    "nome": "Tijani Babangida",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/415.jpg"
   },
   {
     "numero": "416",
-    "nome": "Cromo 416",
+    "nome": "Finidi George",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/416.jpg"
   },
   {
     "numero": "417",
-    "nome": "Cromo 417",
+    "nome": "Benedict Akwuegbu",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/417.jpg"
   },
   {
     "numero": "418",
-    "nome": "Cromo 418",
+    "nome": "Nwankwo Kanu",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/418.jpg"
   },
   {
     "numero": "419",
-    "nome": "Cromo 419",
+    "nome": "Victor Agali",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/419.jpg"
   },
   {
     "numero": "420",
-    "nome": "Cromo 420",
+    "nome": "Julius Aghahowa",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/420.jpg"
   },
   {
     "numero": "421",
-    "nome": "Cromo 421",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/421.jpg"
   },
   {
     "numero": "422",
-    "nome": "Cromo 422",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/422.jpg"
   },
   {
     "numero": "423",
-    "nome": "Cromo 423",
+    "nome": "David Seaman",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/423.jpg"
   },
   {
     "numero": "424",
-    "nome": "Cromo 424",
+    "nome": "Ashley Cole",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/424.jpg"
   },
   {
     "numero": "425",
-    "nome": "Cromo 425",
+    "nome": "Gareth Southgate",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/425.jpg"
   },
   {
     "numero": "426",
-    "nome": "Cromo 426",
+    "nome": "Gary Neville",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/426.jpg"
   },
   {
     "numero": "427",
-    "nome": "Cromo 427",
+    "nome": "Rio Ferdinand",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/427.jpg"
   },
   {
     "numero": "428",
-    "nome": "Cromo 428",
+    "nome": "Sol Campbell",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/428.jpg"
   },
   {
     "numero": "429",
-    "nome": "Cromo 429",
+    "nome": "Kieron Dyer",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/429.jpg"
   },
   {
     "numero": "430",
-    "nome": "Cromo 430",
+    "nome": "David Beckham",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/430.jpg"
   },
   {
     "numero": "431",
-    "nome": "Cromo 431",
+    "nome": "Steve McManaman",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/431.jpg"
   },
   {
     "numero": "432",
-    "nome": "Cromo 432",
+    "nome": "Steven Gerrard",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/432.jpg"
   },
   {
     "numero": "433",
-    "nome": "Cromo 433",
+    "nome": "Paul Scholes",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/433.jpg"
   },
   {
     "numero": "434",
-    "nome": "Cromo 434",
+    "nome": "Emile Heskey",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/434.jpg"
   },
   {
     "numero": "435",
-    "nome": "Cromo 435",
+    "nome": "Michael Owen",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/435.jpg"
   },
   {
     "numero": "436",
-    "nome": "Cromo 436",
+    "nome": "Robbie Fowler",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/436.jpg"
   },
   {
     "numero": "437",
-    "nome": "Cromo 437",
+    "nome": "Teddy Sheringham",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/437.jpg"
   },
   {
     "numero": "438",
-    "nome": "Cromo 438",
+    "nome": "Nigel Martyn",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/438.jpg"
   },
   {
     "numero": "439",
-    "nome": "Cromo 439",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/439.jpg"
   },
   {
     "numero": "440",
-    "nome": "Cromo 440",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/440.jpg"
   },
   {
     "numero": "441",
-    "nome": "Cromo 441",
+    "nome": "Magnus Hedman",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/441.jpg"
   },
   {
     "numero": "442",
-    "nome": "Cromo 442",
+    "nome": "Olof Mellberg",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/442.jpg"
   },
   {
     "numero": "443",
-    "nome": "Cromo 443",
+    "nome": "Patrik Andersson",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/443.jpg"
   },
   {
     "numero": "444",
-    "nome": "Cromo 444",
+    "nome": "Johan Mjällby",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/444.jpg"
   },
   {
     "numero": "445",
-    "nome": "Cromo 445",
+    "nome": "Christoffer Andersson",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/445.jpg"
   },
   {
     "numero": "446",
-    "nome": "Cromo 446",
+    "nome": "Kleber Saarenpää",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/446.jpg"
   },
   {
     "numero": "447",
-    "nome": "Cromo 447",
+    "nome": "Niclas Alexandersson",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/447.jpg"
   },
   {
     "numero": "448",
-    "nome": "Cromo 448",
+    "nome": "Tobias Linderoth",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/448.jpg"
   },
   {
     "numero": "449",
-    "nome": "Cromo 449",
+    "nome": "Anders Svensson",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/449.jpg"
   },
   {
     "numero": "450",
-    "nome": "Cromo 450",
+    "nome": "Fredrik Ljungberg",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/450.jpg"
   },
   {
     "numero": "451",
-    "nome": "Cromo 451",
+    "nome": "Daniel Andersson",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/451.jpg"
   },
   {
     "numero": "452",
-    "nome": "Cromo 452",
+    "nome": "Hakan Mild",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/452.jpg"
   },
   {
     "numero": "453",
-    "nome": "Cromo 453",
+    "nome": "Iksel Osmanovski",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/453.jpg"
   },
   {
     "numero": "454",
-    "nome": "Cromo 454",
+    "nome": "Henrik Larsson",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/454.jpg"
   },
   {
     "numero": "455",
-    "nome": "Cromo 455",
+    "nome": "Marcus Allbäck",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/455.jpg"
   },
   {
     "numero": "456",
-    "nome": "Cromo 456",
+    "nome": "Zlatan Ibrahimovic",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/456.jpg"
   },
   {
     "numero": "457",
-    "nome": "Cromo 457",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/457.jpg"
   },
   {
     "numero": "458",
-    "nome": "Cromo 458",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/458.jpg"
   },
   {
     "numero": "459",
-    "nome": "Cromo 459",
+    "nome": "Gianluigi Buffon",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/459.jpg"
   },
   {
     "numero": "460",
-    "nome": "Cromo 460",
+    "nome": "Paolo Maldini",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/460.jpg"
   },
   {
     "numero": "461",
-    "nome": "Cromo 461",
+    "nome": "Fabio Cannavaro",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/461.jpg"
   },
   {
     "numero": "462",
-    "nome": "Cromo 462",
+    "nome": "Alessandro Nesta",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/462.jpg"
   },
   {
     "numero": "463",
-    "nome": "Cromo 463",
+    "nome": "Marco Materazzi",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/463.jpg"
   },
   {
     "numero": "464",
-    "nome": "Cromo 464",
+    "nome": "Francesco Coco",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/464.jpg"
   },
   {
     "numero": "465",
-    "nome": "Cromo 465",
+    "nome": "Gianluca Zambrotta",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/465.jpg"
   },
   {
     "numero": "466",
-    "nome": "Cromo 466",
+    "nome": "Alessio Tacchinardi",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/466.jpg"
   },
   {
     "numero": "467",
-    "nome": "Cromo 467",
+    "nome": "Damiano Tommasi",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/467.jpg"
   },
   {
     "numero": "468",
-    "nome": "Cromo 468",
+    "nome": "Demetrio Albertini",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/468.jpg"
   },
   {
     "numero": "469",
-    "nome": "Cromo 469",
+    "nome": "Cristiano Doni",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/469.jpg"
   },
   {
     "numero": "470",
-    "nome": "Cromo 470",
+    "nome": "Francesco Totti",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/470.jpg"
   },
   {
     "numero": "471",
-    "nome": "Cromo 471",
+    "nome": "Alessandro Del Piero",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/471.jpg"
   },
   {
     "numero": "472",
-    "nome": "Cromo 472",
+    "nome": "Filippo Inzaghi",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/472.jpg"
   },
   {
     "numero": "473",
-    "nome": "Cromo 473",
+    "nome": "Christian Vieri",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/473.jpg"
   },
   {
     "numero": "474",
-    "nome": "Cromo 474",
+    "nome": "Francesco Toldo",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/474.jpg"
   },
   {
     "numero": "475",
-    "nome": "Cromo 475",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/475.jpg"
   },
   {
     "numero": "476",
-    "nome": "Cromo 476",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/476.jpg"
   },
   {
     "numero": "477",
-    "nome": "Cromo 477",
+    "nome": "Stipe Pletikosa",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/477.jpg"
   },
   {
     "numero": "478",
-    "nome": "Cromo 478",
+    "nome": "Dario Simic",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/478.jpg"
   },
   {
     "numero": "479",
-    "nome": "Cromo 479",
+    "nome": "Igor Tudor",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/479.jpg"
   },
   {
     "numero": "480",
-    "nome": "Cromo 480",
+    "nome": "Robert Kovac",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/480.jpg"
   },
   {
     "numero": "481",
-    "nome": "Cromo 481",
+    "nome": "Igor Stimac",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/481.jpg"
   },
   {
     "numero": "482",
-    "nome": "Cromo 482",
+    "nome": "Boris Zivkovic",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/482.jpg"
   },
   {
     "numero": "483",
-    "nome": "Cromo 483",
+    "nome": "Zvonimir Soldo",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/483.jpg"
   },
   {
     "numero": "484",
-    "nome": "Cromo 484",
+    "nome": "Niko Kovac",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/484.jpg"
   },
   {
     "numero": "485",
-    "nome": "Cromo 485",
+    "nome": "Robert Jarni",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/485.jpg"
   },
   {
     "numero": "486",
-    "nome": "Cromo 486",
+    "nome": "Robert Prosinecki",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/486.jpg"
   },
   {
     "numero": "487",
-    "nome": "Cromo 487",
+    "nome": "Mario Stanic",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/487.jpg"
   },
   {
     "numero": "488",
-    "nome": "Cromo 488",
+    "nome": "Davor Vugrinec",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/488.jpg"
   },
   {
     "numero": "489",
-    "nome": "Cromo 489",
+    "nome": "Davor Suker",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/489.jpg"
   },
   {
     "numero": "490",
-    "nome": "Cromo 490",
+    "nome": "Bosko Balaban",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/490.jpg"
   },
   {
     "numero": "491",
-    "nome": "Cromo 491",
+    "nome": "Alen Boksic",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/491.jpg"
   },
   {
     "numero": "492",
-    "nome": "Cromo 492",
+    "nome": "Goran Vlaovic",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/492.jpg"
   },
   {
     "numero": "493",
-    "nome": "Cromo 493",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/493.jpg"
   },
   {
     "numero": "494",
-    "nome": "Cromo 494",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/494.jpg"
   },
   {
     "numero": "495",
-    "nome": "Cromo 495",
+    "nome": "Oscar Perez",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/495.jpg"
   },
   {
     "numero": "496",
-    "nome": "Cromo 496",
+    "nome": "Manuel Vidrio",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/496.jpg"
   },
   {
     "numero": "497",
-    "nome": "Cromo 497",
+    "nome": "Rafael Marquez",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/497.jpg"
   },
   {
     "numero": "498",
-    "nome": "Cromo 498",
+    "nome": "Claudio Suarez",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/498.jpg"
   },
   {
     "numero": "499",
-    "nome": "Cromo 499",
+    "nome": "Pavel Pardo",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/499.jpg"
   },
   {
     "numero": "500",
-    "nome": "Cromo 500",
+    "nome": "Duilio Davino",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/500.jpg"
   },
   {
     "numero": "501",
-    "nome": "Cromo 501",
+    "nome": "Gerardo Torrado",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/501.jpg"
   },
   {
     "numero": "502",
-    "nome": "Cromo 502",
+    "nome": "Johan Rodriguez",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/502.jpg"
   },
   {
     "numero": "503",
-    "nome": "Cromo 503",
+    "nome": "Victor Ruiz",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/503.jpg"
   },
   {
     "numero": "504",
-    "nome": "Cromo 504",
+    "nome": "Alberto Garcia Aspe",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/504.jpg"
   },
   {
     "numero": "505",
-    "nome": "Cromo 505",
+    "nome": "Ramon Morales",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/505.jpg"
   },
   {
     "numero": "506",
-    "nome": "Cromo 506",
+    "nome": "Jesus Arellano",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/506.jpg"
   },
   {
     "numero": "507",
-    "nome": "Cromo 507",
+    "nome": "Miguel Zepeda",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/507.jpg"
   },
   {
     "numero": "508",
-    "nome": "Cromo 508",
+    "nome": "Cuauhtemoc Blanco",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/508.jpg"
   },
   {
     "numero": "509",
-    "nome": "Cromo 509",
+    "nome": "Francisco Palencia",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/509.jpg"
   },
   {
     "numero": "510",
-    "nome": "Cromo 510",
+    "nome": "Jared Borgetti",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/510.jpg"
   },
   {
     "numero": "511",
-    "nome": "Cromo 511",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/511.jpg"
   },
   {
     "numero": "512",
-    "nome": "Cromo 512",
+    "nome": "Jose Francisco Cevallos/Ulises De La Cruz",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/512.jpg"
   },
   {
     "numero": "513",
-    "nome": "Cromo 513",
+    "nome": "Ivan Hurtado/Augusto Porozo",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/513.jpg"
   },
   {
     "numero": "514",
-    "nome": "Cromo 514",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/514.jpg"
   },
   {
     "numero": "515",
-    "nome": "Cromo 515",
+    "nome": "Raul Guerron/Giovany Espinoza",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/515.jpg"
   },
   {
     "numero": "516",
-    "nome": "Cromo 516",
+    "nome": "Marlon Ayovi/Alfonso Obregon",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/516.jpg"
   },
   {
     "numero": "517",
-    "nome": "Cromo 517",
+    "nome": "Edwin Tenorio/Cleber Chala",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/517.jpg"
   },
   {
     "numero": "518",
-    "nome": "Cromo 518",
+    "nome": "Juan Carlos Burbano/Wellington Sanchez",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/518.jpg"
   },
   {
     "numero": "519",
-    "nome": "Cromo 519",
+    "nome": "Alex Aguinaga/Ivan Kaviedes",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/519.jpg"
   },
   {
     "numero": "520",
-    "nome": "Cromo 520",
+    "nome": "Agustin Delgado/Angel Fernandez",
     "tenho": true,
     "especial": false,
+    "clube": "Ecuador",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/520.jpg"
   },
   {
     "numero": "521",
-    "nome": "Cromo 521",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/521.jpg"
   },
   {
     "numero": "522",
-    "nome": "Cromo 522",
+    "nome": "Ruslan Nigmatullin/Viktor Onopko",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/522.jpg"
   },
   {
     "numero": "523",
-    "nome": "Cromo 523",
+    "nome": "Igor Chugainov/Yuri Kovtun",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/523.jpg"
   },
   {
     "numero": "524",
-    "nome": "Cromo 524",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/524.jpg"
   },
   {
     "numero": "525",
-    "nome": "Cromo 525",
+    "nome": "Yuri Drozdov/Aleksei Smertin",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/525.jpg"
   },
   {
     "numero": "526",
-    "nome": "Cromo 526",
+    "nome": "Valeri Karpin/Dmitri Khokhlov",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/526.jpg"
   },
   {
     "numero": "527",
-    "nome": "Cromo 527",
+    "nome": "Dmitri Alenichev / Aleksandr Mostovoi",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/527.jpg"
   },
   {
     "numero": "528",
-    "nome": "Cromo 528",
+    "nome": "Sergei Semak/Rolan Gusev",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/528.jpg"
   },
   {
     "numero": "529",
-    "nome": "Cromo 529",
+    "nome": "Egor Titov/Marat Izmailov",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/529.jpg"
   },
   {
     "numero": "530",
-    "nome": "Cromo 530",
+    "nome": "Vladimir Beschastnykh/Alexander Panov",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/530.jpg"
   },
   {
     "numero": "531",
-    "nome": "Cromo 531",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/531.jpg"
   },
   {
     "numero": "532",
-    "nome": "Cromo 532",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/532.jpg"
   },
   {
     "numero": "533",
-    "nome": "Cromo 533",
+    "nome": "Yoshikatsu Kawaguchi",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/533.jpg"
   },
   {
     "numero": "534",
-    "nome": "Cromo 534",
+    "nome": "Ryuzo Morioka",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/534.jpg"
   },
   {
     "numero": "535",
-    "nome": "Cromo 535",
+    "nome": "Yasuhiro Hato",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/535.jpg"
   },
   {
     "numero": "536",
-    "nome": "Cromo 536",
+    "nome": "Tsuneyasu Miyamoto",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/536.jpg"
   },
   {
     "numero": "537",
-    "nome": "Cromo 537",
+    "nome": "Koji Nakata",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/537.jpg"
   },
   {
     "numero": "538",
-    "nome": "Cromo 538",
+    "nome": "Toshihiro Hattori",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/538.jpg"
   },
   {
     "numero": "539",
-    "nome": "Cromo 539",
+    "nome": "Kazuyuki Toda",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/539.jpg"
   },
   {
     "numero": "540",
-    "nome": "Cromo 540",
+    "nome": "Hiroaki Morishima",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/540.jpg"
   },
   {
     "numero": "541",
-    "nome": "Cromo 541",
+    "nome": "Hidetoshi Nakata",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/541.jpg"
   },
   {
     "numero": "542",
-    "nome": "Cromo 542",
+    "nome": "Junichi Inamoto",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/542.jpg"
   },
   {
     "numero": "543",
-    "nome": "Cromo 543",
+    "nome": "Shinji Ono",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/543.jpg"
   },
   {
     "numero": "544",
-    "nome": "Cromo 544",
+    "nome": "Masashi Nakayama",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/544.jpg"
   },
   {
     "numero": "545",
-    "nome": "Cromo 545",
+    "nome": "Akinori Nishizawa",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/545.jpg"
   },
   {
     "numero": "546",
-    "nome": "Cromo 546",
+    "nome": "Atsushi Yanagisawa",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/546.jpg"
   },
   {
     "numero": "547",
-    "nome": "Cromo 547",
+    "nome": "Naohiro Takahara",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/547.jpg"
   },
   {
     "numero": "548",
-    "nome": "Cromo 548",
+    "nome": "Hitoshi Sogahata",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/548.jpg"
   },
   {
     "numero": "549",
-    "nome": "Cromo 549",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Belgique - Belgiё",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/549.jpg"
   },
   {
     "numero": "550",
-    "nome": "Cromo 550",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Belgique - Belgiё",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/550.jpg"
   },
   {
     "numero": "551",
-    "nome": "Cromo 551",
+    "nome": "Geert De Vlieger",
     "tenho": true,
     "especial": false,
+    "clube": "Belgique - Belgiё",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/551.jpg"
   },
   {
     "numero": "552",
-    "nome": "Cromo 552",
+    "nome": "Eric Deflandre",
     "tenho": true,
     "especial": false,
+    "clube": "Belgique - Belgiё",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/552.jpg"
   },
   {
     "numero": "553",
-    "nome": "Cromo 553",
+    "nome": "Philippe Clement",
     "tenho": true,
     "especial": false,
+    "clube": "Belgique - Belgiё",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/553.jpg"
   },
   {
     "numero": "554",
-    "nome": "Cromo 554",
+    "nome": "Glen De Boeck",
     "tenho": true,
     "especial": false,
+    "clube": "Belgique - Belgiё",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/554.jpg"
   },
   {
     "numero": "555",
-    "nome": "Cromo 555",
+    "nome": "Joos Valgaeren",
     "tenho": true,
     "especial": false,
+    "clube": "Belgique - Belgiё",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/555.jpg"
   },
   {
     "numero": "556",
-    "nome": "Cromo 556",
+    "nome": "Eric Van Meir",
     "tenho": true,
     "especial": false,
+    "clube": "Belgique - Belgiё",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/556.jpg"
   },
   {
     "numero": "557",
-    "nome": "Cromo 557",
+    "nome": "Nico Van Kerckhoven",
     "tenho": true,
     "especial": false,
+    "clube": "Belgique - Belgiё",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/557.jpg"
   },
   {
     "numero": "558",
-    "nome": "Cromo 558",
+    "nome": "Yves Vanderhaeghe",
     "tenho": true,
     "especial": false,
+    "clube": "Belgique - Belgiё",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/558.jpg"
   },
   {
     "numero": "559",
-    "nome": "Cromo 559",
+    "nome": "Timmy Simons",
     "tenho": true,
     "especial": false,
+    "clube": "Belgique - Belgiё",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/559.jpg"
   },
   {
     "numero": "560",
-    "nome": "Cromo 560",
+    "nome": "Walter Baseggio",
     "tenho": true,
     "especial": false,
+    "clube": "Belgique - Belgiё",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/560.jpg"
   },
   {
     "numero": "561",
-    "nome": "Cromo 561",
+    "nome": "Bart Goor",
     "tenho": true,
     "especial": false,
+    "clube": "Belgique - Belgiё",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/561.jpg"
   },
   {
     "numero": "562",
-    "nome": "Cromo 562",
+    "nome": "Marc Wilmots",
     "tenho": true,
     "especial": false,
+    "clube": "Belgique - Belgiё",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/562.jpg"
   },
   {
     "numero": "563",
-    "nome": "Cromo 563",
+    "nome": "Gert Verheyen",
     "tenho": true,
     "especial": false,
+    "clube": "Belgique - Belgiё",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/563.jpg"
   },
   {
     "numero": "564",
-    "nome": "Cromo 564",
+    "nome": "Wesley Sonck",
     "tenho": true,
     "especial": false,
+    "clube": "Belgique - Belgiё",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/564.jpg"
   },
   {
     "numero": "565",
-    "nome": "Cromo 565",
+    "nome": "Emile Mpenza",
     "tenho": true,
     "especial": false,
+    "clube": "Belgique - Belgiё",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/565.jpg"
   },
   {
     "numero": "566",
-    "nome": "Cromo 566",
+    "nome": "Frederic Herpoel",
     "tenho": true,
     "especial": false,
+    "clube": "Belgique - Belgiё",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/566.jpg"
   },
   {
     "numero": "567",
-    "nome": "Cromo 567",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisie",
+    "tipo": "metal",
     "imagem": "images/capas/KOREA JAPAN 2002/567.jpg"
   },
   {
     "numero": "568",
-    "nome": "Cromo 568",
+    "nome": "Chokri El Ouaer/Khaled Badra",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisie",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/568.jpg"
   },
   {
     "numero": "569",
-    "nome": "Cromo 569",
+    "nome": "Radhi Jaidi/Sami Trabelsi",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisie",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/569.jpg"
   },
   {
     "numero": "570",
-    "nome": "Cromo 570",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisie",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/570.jpg"
   },
   {
     "numero": "571",
-    "nome": "Cromo 571",
+    "nome": "Tarek Thabet/Hatem Trabelsi",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisie",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/571.jpg"
   },
   {
     "numero": "572",
-    "nome": "Cromo 572",
+    "nome": "Raouf Bouzaiene/Sirajeddine Chihi",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisie",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/572.jpg"
   },
   {
     "numero": "573",
-    "nome": "Cromo 573",
+    "nome": "Riadh Bouazizi/Hassen Gabsi",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisie",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/573.jpg"
   },
   {
     "numero": "574",
-    "nome": "Cromo 574",
+    "nome": "Zoubeir Beya/Kaies Ghodbane",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisie",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/574.jpg"
   },
   {
     "numero": "575",
-    "nome": "Cromo 575",
+    "nome": "Imed Mhadhbi/Zied Jaziri",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisie",
+    "tipo": "-",
     "imagem": "images/capas/KOREA JAPAN 2002/575.jpg"
   },
   {
     "numero": "576",
-    "nome": "Cromo 576",
+    "nome": "Ali Zitouni/Adel Sellimi",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisie",
     "imagem": "images/capas/KOREA JAPAN 2002/576.jpg"
   }
 ]
