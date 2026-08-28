@@ -1,0 +1,6878 @@
+[
+  {
+    "numero": "1",
+    "nome": "Official Logo - 1",
+    "tenho": true,
+    "especial": false,
+    "clube": "UEFA Euro 2016",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/1.jpg"
+  },
+  {
+    "numero": "2",
+    "nome": "Official Logo - 2",
+    "tenho": true,
+    "especial": false,
+    "clube": "UEFA Euro 2016",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/2.jpg"
+  },
+  {
+    "numero": "3",
+    "nome": "Official Mascot",
+    "tenho": true,
+    "especial": false,
+    "clube": "UEFA Euro 2016",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/3.jpg"
+  },
+  {
+    "numero": "4",
+    "nome": "Panini sticker",
+    "tenho": true,
+    "especial": false,
+    "clube": "UEFA Euro 2016",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/4.jpg"
+  },
+  {
+    "numero": "5",
+    "nome": "Trophy - 1",
+    "tenho": true,
+    "especial": false,
+    "clube": "UEFA Euro 2016",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/5.jpg"
+  },
+  {
+    "numero": "6",
+    "nome": "Trophy - 2",
+    "tenho": false,
+    "especial": false,
+    "clube": "UEFA Euro 2016",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/6.jpg"
+  },
+  {
+    "numero": "7",
+    "nome": "Official Match Ball",
+    "tenho": true,
+    "especial": false,
+    "clube": "UEFA Euro 2016",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/7.jpg"
+  },
+  {
+    "numero": "8",
+    "nome": "UEFA Euro 2016 [Primary identity]",
+    "tenho": true,
+    "especial": false,
+    "clube": "UEFA Euro 2016",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/8.jpg"
+  },
+  {
+    "numero": "9",
+    "nome": "Team Photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/9.jpg"
+  },
+  {
+    "numero": "10",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/10.jpg"
+  },
+  {
+    "numero": "11",
+    "nome": "Team Photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/11.jpg"
+  },
+  {
+    "numero": "12",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/12.jpg"
+  },
+  {
+    "numero": "13",
+    "nome": "Team Photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/13.jpg"
+  },
+  {
+    "numero": "14",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/14.jpg"
+  },
+  {
+    "numero": "15",
+    "nome": "Team Photo",
+    "tenho": false,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/15.jpg"
+  },
+  {
+    "numero": "16",
+    "nome": "Badge",
+    "tenho": false,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/16.jpg"
+  },
+  {
+    "numero": "17",
+    "nome": "Hugo Lloris",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/17.jpg"
+  },
+  {
+    "numero": "18",
+    "nome": "Steve Mandanda",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/18.jpg"
+  },
+  {
+    "numero": "19",
+    "nome": "Bacary Sagna",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/19.jpg"
+  },
+  {
+    "numero": "20",
+    "nome": "Raphaël Varane",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/20.jpg"
+  },
+  {
+    "numero": "20x",
+    "nome": "Christophe Jallet",
+    "tenho": true,
+    "especial": true,
+    "clube": "France",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/20x.jpg"
+  },
+  {
+    "numero": "21",
+    "nome": "Laurent Koscielny",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/21.jpg"
+  },
+  {
+    "numero": "22",
+    "nome": "Patrice Evra",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/22.jpg"
+  },
+  {
+    "numero": "23",
+    "nome": "Lucas Digne",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/23.jpg"
+  },
+  {
+    "numero": "24",
+    "nome": "Mamadou Sakho",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/24.jpg"
+  },
+  {
+    "numero": "24x",
+    "nome": "Adil Rami",
+    "tenho": true,
+    "especial": true,
+    "clube": "France",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/24x.jpg"
+  },
+  {
+    "numero": "25",
+    "nome": "Eliaquim Mangala",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/25.jpg"
+  },
+  {
+    "numero": "26",
+    "nome": "Lassana Diarra",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/26.jpg"
+  },
+  {
+    "numero": "26x",
+    "nome": "N'Golo Kanté",
+    "tenho": true,
+    "especial": true,
+    "clube": "France",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/26x.jpg"
+  },
+  {
+    "numero": "27",
+    "nome": "Paul Pogba",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/27.jpg"
+  },
+  {
+    "numero": "28",
+    "nome": "Blaise Matuidi",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/28.jpg"
+  },
+  {
+    "numero": "29",
+    "nome": "Yohan Cabaye",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/29.jpg"
+  },
+  {
+    "numero": "30",
+    "nome": "Morgan Schneiderlin",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/30.jpg"
+  },
+  {
+    "numero": "31",
+    "nome": "Moussa Sissoko",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/31.jpg"
+  },
+  {
+    "numero": "32",
+    "nome": "Antoine Griezmann",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/32.jpg"
+  },
+  {
+    "numero": "33",
+    "nome": "Olivier Giroud",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/33.jpg"
+  },
+  {
+    "numero": "34",
+    "nome": "Mathieu Valbuena",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/34.jpg"
+  },
+  {
+    "numero": "34x",
+    "nome": "André-Pierre Gignac",
+    "tenho": true,
+    "especial": true,
+    "clube": "France",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/34x.jpg"
+  },
+  {
+    "numero": "35",
+    "nome": "Alexandre Lacazette",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/35.jpg"
+  },
+  {
+    "numero": "35x",
+    "nome": "Dimitri Payet",
+    "tenho": true,
+    "especial": true,
+    "clube": "France",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/35x.jpg"
+  },
+  {
+    "numero": "36",
+    "nome": "Anthony Martial",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/36.jpg"
+  },
+  {
+    "numero": "37",
+    "nome": "Paul Pogba",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/37.jpg"
+  },
+  {
+    "numero": "38",
+    "nome": "Hugo Lloris / Bacary Sagna",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/38.jpg"
+  },
+  {
+    "numero": "39",
+    "nome": "Raphaël Varane / Laurent Koscielny",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/39.jpg"
+  },
+  {
+    "numero": "40",
+    "nome": "Patrice Evra / Blaise Matuidi",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/40.jpg"
+  },
+  {
+    "numero": "41",
+    "nome": "Lassana Diarra / Mathieu Valbuena",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/41.jpg"
+  },
+  {
+    "numero": "42",
+    "nome": "Olivier Giroud / Antoine Griezmann",
+    "tenho": true,
+    "especial": false,
+    "clube": "France",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/42.jpg"
+  },
+  {
+    "numero": "43",
+    "nome": "Razvan Rat",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/43.jpg"
+  },
+  {
+    "numero": "44",
+    "nome": "Ciprian Tãtãruşanu / Paul Papp",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/44.jpg"
+  },
+  {
+    "numero": "45",
+    "nome": "Dragos Grigore / Vlad Chiriches",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/45.jpg"
+  },
+  {
+    "numero": "46",
+    "nome": "Mihai Pintilii / Ovidiu Hoban",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/46.jpg"
+  },
+  {
+    "numero": "47",
+    "nome": "Gabriel Torje / Constantin Budescu",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/47.jpg"
+  },
+  {
+    "numero": "48",
+    "nome": "Bogdan Stancu / Claudiu Keserü",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/48.jpg"
+  },
+  {
+    "numero": "49",
+    "nome": "Ciprian Tatarusanu",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/49.jpg"
+  },
+  {
+    "numero": "50",
+    "nome": "Costel Pantilimon",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/50.jpg"
+  },
+  {
+    "numero": "51",
+    "nome": "Razvan Rat",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/51.jpg"
+  },
+  {
+    "numero": "52",
+    "nome": "Vlad Chiriches",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/52.jpg"
+  },
+  {
+    "numero": "53",
+    "nome": "Dragos Grigore",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/53.jpg"
+  },
+  {
+    "numero": "54",
+    "nome": "Florin Gardos",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/54.jpg"
+  },
+  {
+    "numero": "54x",
+    "nome": "Valerică Găman",
+    "tenho": true,
+    "especial": true,
+    "clube": "România",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/54x.jpg"
+  },
+  {
+    "numero": "55",
+    "nome": "Paul Papp",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/55.jpg"
+  },
+  {
+    "numero": "55x",
+    "nome": "Cosmin Moti",
+    "tenho": true,
+    "especial": true,
+    "clube": "România",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/55x.jpg"
+  },
+  {
+    "numero": "56",
+    "nome": "Cristian Sapunaru",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/56.jpg"
+  },
+  {
+    "numero": "57",
+    "nome": "Mihai Pintilii",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/57.jpg"
+  },
+  {
+    "numero": "58",
+    "nome": "Ovidiu Hoban",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/58.jpg"
+  },
+  {
+    "numero": "59",
+    "nome": "Lucian Sânmărtean",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/59.jpg"
+  },
+  {
+    "numero": "60",
+    "nome": "Alexandru Maxim",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/60.jpg"
+  },
+  {
+    "numero": "60x",
+    "nome": "Steliano Filip",
+    "tenho": true,
+    "especial": true,
+    "clube": "România",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/60x.jpg"
+  },
+  {
+    "numero": "61",
+    "nome": "Alexandru Chipciu",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/61.jpg"
+  },
+  {
+    "numero": "62",
+    "nome": "Constantin Budescu",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/62.jpg"
+  },
+  {
+    "numero": "62x",
+    "nome": "Nicolae Stanciu",
+    "tenho": true,
+    "especial": true,
+    "clube": "România",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/62x.jpg"
+  },
+  {
+    "numero": "63",
+    "nome": "Gabriel Torje",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/63.jpg"
+  },
+  {
+    "numero": "64",
+    "nome": "Adrian Popa",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/64.jpg"
+  },
+  {
+    "numero": "65",
+    "nome": "Bogdan Stancu",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/65.jpg"
+  },
+  {
+    "numero": "66",
+    "nome": "Florin Andone",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/66.jpg"
+  },
+  {
+    "numero": "67",
+    "nome": "Claudiu Keserü",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/67.jpg"
+  },
+  {
+    "numero": "68",
+    "nome": "Ciprian Marica",
+    "tenho": true,
+    "especial": false,
+    "clube": "România",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/68.jpg"
+  },
+  {
+    "numero": "68x",
+    "nome": "Denis Alibec",
+    "tenho": true,
+    "especial": true,
+    "clube": "România",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/68x.jpg"
+  },
+  {
+    "numero": "69",
+    "nome": "Etrit Berisha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/69.jpg"
+  },
+  {
+    "numero": "70",
+    "nome": "Berat Djimsiti",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/70.jpg"
+  },
+  {
+    "numero": "70x",
+    "nome": "Frédéric Veseli",
+    "tenho": true,
+    "especial": true,
+    "clube": "Shqipëria",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/70x.jpg"
+  },
+  {
+    "numero": "71",
+    "nome": "Elseid Hysaj",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/71.jpg"
+  },
+  {
+    "numero": "72",
+    "nome": "Mërgim Mavraj",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/72.jpg"
+  },
+  {
+    "numero": "73",
+    "nome": "Arlind Ajeti",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/73.jpg"
+  },
+  {
+    "numero": "74",
+    "nome": "Ansi Agolli",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/74.jpg"
+  },
+  {
+    "numero": "75",
+    "nome": "Andi Lila",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/75.jpg"
+  },
+  {
+    "numero": "76",
+    "nome": "Lorik Cana",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/76.jpg"
+  },
+  {
+    "numero": "77",
+    "nome": "Amir Abrashi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/77.jpg"
+  },
+  {
+    "numero": "78",
+    "nome": "Migjen Basha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/78.jpg"
+  },
+  {
+    "numero": "79",
+    "nome": "Burim Kukeli",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/79.jpg"
+  },
+  {
+    "numero": "80",
+    "nome": "Ermir Lenjani",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/80.jpg"
+  },
+  {
+    "numero": "81",
+    "nome": "Odise Roshi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/81.jpg"
+  },
+  {
+    "numero": "82",
+    "nome": "Taulant Xhaka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/82.jpg"
+  },
+  {
+    "numero": "83",
+    "nome": "Ergys Kaçe",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/83.jpg"
+  },
+  {
+    "numero": "84",
+    "nome": "Ledian Memushaj",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/84.jpg"
+  },
+  {
+    "numero": "85",
+    "nome": "Shkëlzen Gashi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/85.jpg"
+  },
+  {
+    "numero": "86",
+    "nome": "Armando Sadiku",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/86.jpg"
+  },
+  {
+    "numero": "87",
+    "nome": "Bekim Balaj",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/87.jpg"
+  },
+  {
+    "numero": "88",
+    "nome": "Sokol Çikalleshi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/88.jpg"
+  },
+  {
+    "numero": "89",
+    "nome": "Lorik Cana",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/89.jpg"
+  },
+  {
+    "numero": "90",
+    "nome": "Etrit Berisha / Elseid Hysaj",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/90.jpg"
+  },
+  {
+    "numero": "91",
+    "nome": "Berat Djimsiti / Ansi Agolli",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/91.jpg"
+  },
+  {
+    "numero": "92",
+    "nome": "Taulant Xhaka / Shkëlzen Gashi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/92.jpg"
+  },
+  {
+    "numero": "93",
+    "nome": "Andi Lila / Ledian Memushaj",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/93.jpg"
+  },
+  {
+    "numero": "94",
+    "nome": "Ermir Lenjani / Sokol Çikalleshi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Shqipëria",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/94.jpg"
+  },
+  {
+    "numero": "95",
+    "nome": "Xherdan Shaqiri",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/95.jpg"
+  },
+  {
+    "numero": "96",
+    "nome": "Yann Sommer / Stephan Lichtsteiner",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/96.jpg"
+  },
+  {
+    "numero": "97",
+    "nome": "Fabian Schär / Johan Djourou",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/97.jpg"
+  },
+  {
+    "numero": "98",
+    "nome": "Ricardo Rodríguez / Granit Xhaka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/98.jpg"
+  },
+  {
+    "numero": "99",
+    "nome": "Gökhan Inler / Valon Behrami",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/99.jpg"
+  },
+  {
+    "numero": "100",
+    "nome": "Haris Seferovic / Admir Mehmedi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/100.jpg"
+  },
+  {
+    "numero": "101",
+    "nome": "Yann Sommer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/101.jpg"
+  },
+  {
+    "numero": "102",
+    "nome": "Roman Bürki",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/102.jpg"
+  },
+  {
+    "numero": "103",
+    "nome": "Stephan Lichtsteiner",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/103.jpg"
+  },
+  {
+    "numero": "104",
+    "nome": "Johan Djourou",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/104.jpg"
+  },
+  {
+    "numero": "105",
+    "nome": "Fabian Schär",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/105.jpg"
+  },
+  {
+    "numero": "106",
+    "nome": "Timm Klose",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/106.jpg"
+  },
+  {
+    "numero": "106x",
+    "nome": "Steve von Bergen",
+    "tenho": true,
+    "especial": true,
+    "clube": "Switzerland",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/106x.jpg"
+  },
+  {
+    "numero": "107",
+    "nome": "Michael Lang",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/107.jpg"
+  },
+  {
+    "numero": "108",
+    "nome": "Ricardo Rodríguez",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/108.jpg"
+  },
+  {
+    "numero": "109",
+    "nome": "François Moubandje",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/109.jpg"
+  },
+  {
+    "numero": "110",
+    "nome": "Valon Behrami",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/110.jpg"
+  },
+  {
+    "numero": "111",
+    "nome": "Gökhan Inler",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/111.jpg"
+  },
+  {
+    "numero": "111x",
+    "nome": "Fabian Frei",
+    "tenho": true,
+    "especial": true,
+    "clube": "Switzerland",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/111x.jpg"
+  },
+  {
+    "numero": "112",
+    "nome": "Granit Xhaka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/112.jpg"
+  },
+  {
+    "numero": "113",
+    "nome": "Blerim Džemaili",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/113.jpg"
+  },
+  {
+    "numero": "114",
+    "nome": "Pajtim Kasami",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/114.jpg"
+  },
+  {
+    "numero": "114x",
+    "nome": "Gelson Fernandes",
+    "tenho": true,
+    "especial": true,
+    "clube": "Switzerland",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/114x.jpg"
+  },
+  {
+    "numero": "115",
+    "nome": "Valentin Stocker",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/115.jpg"
+  },
+  {
+    "numero": "115x",
+    "nome": "Shani Tarashaj",
+    "tenho": true,
+    "especial": true,
+    "clube": "Switzerland",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/115x.jpg"
+  },
+  {
+    "numero": "116",
+    "nome": "Xherdan Shaqiri",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/116.jpg"
+  },
+  {
+    "numero": "117",
+    "nome": "Breel Embolo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/117.jpg"
+  },
+  {
+    "numero": "118",
+    "nome": "Admir Mehmedi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/118.jpg"
+  },
+  {
+    "numero": "119",
+    "nome": "Haris Seferović",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/119.jpg"
+  },
+  {
+    "numero": "120",
+    "nome": "Josip Drmic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/120.jpg"
+  },
+  {
+    "numero": "120x",
+    "nome": "Eren Derdiyok",
+    "tenho": true,
+    "especial": true,
+    "clube": "Switzerland",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/120x.jpg"
+  },
+  {
+    "numero": "121",
+    "nome": "Team Photo",
+    "tenho": false,
+    "especial": false,
+    "clube": "England",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/121.jpg"
+  },
+  {
+    "numero": "122",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/122.jpg"
+  },
+  {
+    "numero": "123",
+    "nome": "Team Photo",
+    "tenho": false,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/123.jpg"
+  },
+  {
+    "numero": "124",
+    "nome": "Badge",
+    "tenho": false,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/124.jpg"
+  },
+  {
+    "numero": "125",
+    "nome": "Team Photo",
+    "tenho": false,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/125.jpg"
+  },
+  {
+    "numero": "126",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/126.jpg"
+  },
+  {
+    "numero": "127",
+    "nome": "Team Photo",
+    "tenho": false,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/127.jpg"
+  },
+  {
+    "numero": "128",
+    "nome": "Badge",
+    "tenho": false,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/128.jpg"
+  },
+  {
+    "numero": "129",
+    "nome": "Joe Hart",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/129.jpg"
+  },
+  {
+    "numero": "130",
+    "nome": "Gary Cahill",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/130.jpg"
+  },
+  {
+    "numero": "131",
+    "nome": "Chris Smalling",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/131.jpg"
+  },
+  {
+    "numero": "132",
+    "nome": "Phil Jones",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/132.jpg"
+  },
+  {
+    "numero": "132x",
+    "nome": "Danny Rose",
+    "tenho": true,
+    "especial": true,
+    "clube": "England",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/132x.jpg"
+  },
+  {
+    "numero": "133",
+    "nome": "John Stones",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/133.jpg"
+  },
+  {
+    "numero": "134",
+    "nome": "Nathaniel Clyne",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/134.jpg"
+  },
+  {
+    "numero": "135",
+    "nome": "Luke Shaw",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/135.jpg"
+  },
+  {
+    "numero": "135x",
+    "nome": "Kyle Walker",
+    "tenho": true,
+    "especial": true,
+    "clube": "England",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/135x.jpg"
+  },
+  {
+    "numero": "136",
+    "nome": "Leighton Baines",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/136.jpg"
+  },
+  {
+    "numero": "136x",
+    "nome": "Dele Alli",
+    "tenho": true,
+    "especial": true,
+    "clube": "England",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/136x.jpg"
+  },
+  {
+    "numero": "137",
+    "nome": "James Milner",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/137.jpg"
+  },
+  {
+    "numero": "138",
+    "nome": "Jordan Henderson",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/138.jpg"
+  },
+  {
+    "numero": "139",
+    "nome": "Jack Wilshere",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/139.jpg"
+  },
+  {
+    "numero": "140",
+    "nome": "Adam Lallana",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/140.jpg"
+  },
+  {
+    "numero": "141",
+    "nome": "Ross Barkley",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/141.jpg"
+  },
+  {
+    "numero": "142",
+    "nome": "Alex Oxlade-Chamberlain",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/142.jpg"
+  },
+  {
+    "numero": "142x",
+    "nome": "Eric Dier",
+    "tenho": true,
+    "especial": true,
+    "clube": "England",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/142x.jpg"
+  },
+  {
+    "numero": "143",
+    "nome": "Theo Walcott",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/143.jpg"
+  },
+  {
+    "numero": "143x",
+    "nome": "Daniel Sturridge",
+    "tenho": true,
+    "especial": true,
+    "clube": "England",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/143x.jpg"
+  },
+  {
+    "numero": "144",
+    "nome": "Raheem Sterling",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/144.jpg"
+  },
+  {
+    "numero": "145",
+    "nome": "Wayne Rooney",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/145.jpg"
+  },
+  {
+    "numero": "146",
+    "nome": "Danny Welbeck",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/146.jpg"
+  },
+  {
+    "numero": "146x",
+    "nome": "Marcus Rashford",
+    "tenho": true,
+    "especial": true,
+    "clube": "England",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/146x.jpg"
+  },
+  {
+    "numero": "147",
+    "nome": "Jamie Vardy",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/147.jpg"
+  },
+  {
+    "numero": "148",
+    "nome": "Harry Kane",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/148.jpg"
+  },
+  {
+    "numero": "149",
+    "nome": "Wayne Rooney",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/149.jpg"
+  },
+  {
+    "numero": "150",
+    "nome": "Joe Hart / Nathaniel Clyne",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/150.jpg"
+  },
+  {
+    "numero": "151",
+    "nome": "Chris Smalling / Gary Cahill",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/151.jpg"
+  },
+  {
+    "numero": "152",
+    "nome": "Leighton Baines / Adam Lallana",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/152.jpg"
+  },
+  {
+    "numero": "153",
+    "nome": "James Milner / Ross Barkley",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/153.jpg"
+  },
+  {
+    "numero": "154",
+    "nome": "Raheem Sterling / Harry Kane",
+    "tenho": true,
+    "especial": false,
+    "clube": "England",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/154.jpg"
+  },
+  {
+    "numero": "155",
+    "nome": "Roman Shirokov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/155.jpg"
+  },
+  {
+    "numero": "156",
+    "nome": "Igor Akinfeev / Igor Smolnikov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/156.jpg"
+  },
+  {
+    "numero": "157",
+    "nome": "Sergei Ignashevich / Vasili Berezutski",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/157.jpg"
+  },
+  {
+    "numero": "158",
+    "nome": "Dmitri Kombarov / Alan Dzagoev",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/158.jpg"
+  },
+  {
+    "numero": "159",
+    "nome": "Igor Denisov / Aleksandr Kokorin",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/159.jpg"
+  },
+  {
+    "numero": "160",
+    "nome": "Oleg Shatov / Artem Dzyuba",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/160.jpg"
+  },
+  {
+    "numero": "161",
+    "nome": "Igor Akinfeev",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/161.jpg"
+  },
+  {
+    "numero": "162",
+    "nome": "Yuri Lodygin",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/162.jpg"
+  },
+  {
+    "numero": "163",
+    "nome": "Sergei Ignashevich",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/163.jpg"
+  },
+  {
+    "numero": "164",
+    "nome": "Aleksei Berezutski",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/164.jpg"
+  },
+  {
+    "numero": "165",
+    "nome": "Vasili Berezutski",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/165.jpg"
+  },
+  {
+    "numero": "166",
+    "nome": "Oleg Kuzmin",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/166.jpg"
+  },
+  {
+    "numero": "166x",
+    "nome": "Georgi Schennikov",
+    "tenho": true,
+    "especial": true,
+    "clube": "Russia",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/166x.jpg"
+  },
+  {
+    "numero": "167",
+    "nome": "Igor Smolnikov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/167.jpg"
+  },
+  {
+    "numero": "168",
+    "nome": "Dmitri Kombarov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/168.jpg"
+  },
+  {
+    "numero": "169",
+    "nome": "Yuri Zhirkov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/169.jpg"
+  },
+  {
+    "numero": "169x",
+    "nome": "Roman Shishkin",
+    "tenho": true,
+    "especial": true,
+    "clube": "Russia",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/169x.jpg"
+  },
+  {
+    "numero": "170",
+    "nome": "Igor Denisov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/170.jpg"
+  },
+  {
+    "numero": "171",
+    "nome": "Alan Dzagoev",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/171.jpg"
+  },
+  {
+    "numero": "171x",
+    "nome": "Roman Neustädter",
+    "tenho": true,
+    "especial": true,
+    "clube": "Russia",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/171x.jpg"
+  },
+  {
+    "numero": "172",
+    "nome": "Aleksandr Samedov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/172.jpg"
+  },
+  {
+    "numero": "173",
+    "nome": "Denis Glushakov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/173.jpg"
+  },
+  {
+    "numero": "174",
+    "nome": "Roman Shirokov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/174.jpg"
+  },
+  {
+    "numero": "175",
+    "nome": "Oleg Shatov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/175.jpg"
+  },
+  {
+    "numero": "176",
+    "nome": "Denis Cheryshev",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/176.jpg"
+  },
+  {
+    "numero": "176x",
+    "nome": "Dmitri Torbinski",
+    "tenho": true,
+    "especial": true,
+    "clube": "Russia",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/176x.jpg"
+  },
+  {
+    "numero": "177",
+    "nome": "Aleksandr Kokorin",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/177.jpg"
+  },
+  {
+    "numero": "178",
+    "nome": "Fedor Smolov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/178.jpg"
+  },
+  {
+    "numero": "179",
+    "nome": "Artem Dzyuba",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/179.jpg"
+  },
+  {
+    "numero": "180",
+    "nome": "Aleksandr Kerzhakov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/180.jpg"
+  },
+  {
+    "numero": "180x",
+    "nome": "Aleksandr Golovin",
+    "tenho": true,
+    "especial": true,
+    "clube": "Russia",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/180x.jpg"
+  },
+  {
+    "numero": "181",
+    "nome": "Wayne Hennessey",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/181.jpg"
+  },
+  {
+    "numero": "182",
+    "nome": "Ashley Williams",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/182.jpg"
+  },
+  {
+    "numero": "183",
+    "nome": "James Chester",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/183.jpg"
+  },
+  {
+    "numero": "184",
+    "nome": "David Edwards",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/184.jpg"
+  },
+  {
+    "numero": "185",
+    "nome": "Chris Gunter",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/185.jpg"
+  },
+  {
+    "numero": "186",
+    "nome": "Ben Davies",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/186.jpg"
+  },
+  {
+    "numero": "187",
+    "nome": "Ashley Richards",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/187.jpg"
+  },
+  {
+    "numero": "188",
+    "nome": "Neil Taylor",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/188.jpg"
+  },
+  {
+    "numero": "189",
+    "nome": "David Vaughan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/189.jpg"
+  },
+  {
+    "numero": "190",
+    "nome": "Joe Allen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/190.jpg"
+  },
+  {
+    "numero": "191",
+    "nome": "Andy King",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/191.jpg"
+  },
+  {
+    "numero": "192",
+    "nome": "Joe Ledley",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/192.jpg"
+  },
+  {
+    "numero": "193",
+    "nome": "Jonathan Williams",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/193.jpg"
+  },
+  {
+    "numero": "194",
+    "nome": "Aaron Ramsey",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/194.jpg"
+  },
+  {
+    "numero": "195",
+    "nome": "Gareth Bale",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/195.jpg"
+  },
+  {
+    "numero": "196",
+    "nome": "George Williams",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/196.jpg"
+  },
+  {
+    "numero": "197",
+    "nome": "David Cotterill",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/197.jpg"
+  },
+  {
+    "numero": "198",
+    "nome": "Simon Church",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/198.jpg"
+  },
+  {
+    "numero": "199",
+    "nome": "Sam Vokes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/199.jpg"
+  },
+  {
+    "numero": "200",
+    "nome": "Hal Robson-Kanu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/200.jpg"
+  },
+  {
+    "numero": "201",
+    "nome": "Gareth Bale",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/201.jpg"
+  },
+  {
+    "numero": "202",
+    "nome": "Wayne Hennessey / Chris Gunter",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/202.jpg"
+  },
+  {
+    "numero": "203",
+    "nome": "Ashley Williams / Ben Davies",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/203.jpg"
+  },
+  {
+    "numero": "204",
+    "nome": "Jonathan Williams / Joe Ledley",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/204.jpg"
+  },
+  {
+    "numero": "205",
+    "nome": "Joe Allen / Neil Taylor",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/205.jpg"
+  },
+  {
+    "numero": "206",
+    "nome": "Aaron Ramsey / Hal Robson-Kanu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Wales",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/206.jpg"
+  },
+  {
+    "numero": "207",
+    "nome": "Marek Hamsík",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/207.jpg"
+  },
+  {
+    "numero": "208",
+    "nome": "Matúš Kozáčik / Peter Pekarík",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/208.jpg"
+  },
+  {
+    "numero": "209",
+    "nome": "Martin Škrtel / Ján Durica",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/209.jpg"
+  },
+  {
+    "numero": "210",
+    "nome": "Tomáš Hubočan / Juraj Kucka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/210.jpg"
+  },
+  {
+    "numero": "211",
+    "nome": "Viktor Pečovský / Róbert Mak",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/211.jpg"
+  },
+  {
+    "numero": "212",
+    "nome": "Vladimír Weiss / Adam Nemec",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/212.jpg"
+  },
+  {
+    "numero": "213",
+    "nome": "Matús Kozácik",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/213.jpg"
+  },
+  {
+    "numero": "214",
+    "nome": "Ján Durica",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/214.jpg"
+  },
+  {
+    "numero": "215",
+    "nome": "Kornel Saláta",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/215.jpg"
+  },
+  {
+    "numero": "216",
+    "nome": "Martin Škrtel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/216.jpg"
+  },
+  {
+    "numero": "217",
+    "nome": "Norbert Gyömbér",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/217.jpg"
+  },
+  {
+    "numero": "218",
+    "nome": "Peter Pekarík",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/218.jpg"
+  },
+  {
+    "numero": "219",
+    "nome": "Tomás Hubocan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/219.jpg"
+  },
+  {
+    "numero": "220",
+    "nome": "Viktor Pecovský",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/220.jpg"
+  },
+  {
+    "numero": "221",
+    "nome": "Patrik Hrosovský",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/221.jpg"
+  },
+  {
+    "numero": "222",
+    "nome": "Juraj Kucka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/222.jpg"
+  },
+  {
+    "numero": "223",
+    "nome": "Dusan Svento",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/223.jpg"
+  },
+  {
+    "numero": "224",
+    "nome": "Erik Sabo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/224.jpg"
+  },
+  {
+    "numero": "224x",
+    "nome": "Ján Greguš",
+    "tenho": true,
+    "especial": true,
+    "clube": "Slovenská Republika",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/224x.jpg"
+  },
+  {
+    "numero": "225",
+    "nome": "Marek Hamšík",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/225.jpg"
+  },
+  {
+    "numero": "226",
+    "nome": "Róbert Mak",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/226.jpg"
+  },
+  {
+    "numero": "227",
+    "nome": "Ondrej Duda",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/227.jpg"
+  },
+  {
+    "numero": "228",
+    "nome": "Vladimír Weiss",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/228.jpg"
+  },
+  {
+    "numero": "229",
+    "nome": "Miroslav Stoch",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/229.jpg"
+  },
+  {
+    "numero": "230",
+    "nome": "Stanislav Sesták",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/230.jpg"
+  },
+  {
+    "numero": "231",
+    "nome": "Michal Ďuriš",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/231.jpg"
+  },
+  {
+    "numero": "232",
+    "nome": "Adam Nemec",
+    "tenho": true,
+    "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/232.jpg"
+  },
+  {
+    "numero": "233",
+    "nome": "Team Photo",
+    "tenho": false,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/233.jpg"
+  },
+  {
+    "numero": "234",
+    "nome": "Badge",
+    "tenho": false,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/234.jpg"
+  },
+  {
+    "numero": "235",
+    "nome": "Team Photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/235.jpg"
+  },
+  {
+    "numero": "236",
+    "nome": "Badge",
+    "tenho": false,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/236.jpg"
+  },
+  {
+    "numero": "237",
+    "nome": "Team Photo",
+    "tenho": false,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/237.jpg"
+  },
+  {
+    "numero": "238",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/238.jpg"
+  },
+  {
+    "numero": "239",
+    "nome": "Team Photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/239.jpg"
+  },
+  {
+    "numero": "240",
+    "nome": "Badge",
+    "tenho": false,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/240.jpg"
+  },
+  {
+    "numero": "241",
+    "nome": "Manuel Neuer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/241.jpg"
+  },
+  {
+    "numero": "242",
+    "nome": "Marc-André ter Stegen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/242.jpg"
+  },
+  {
+    "numero": "243",
+    "nome": "Jérôme Boateng",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/243.jpg"
+  },
+  {
+    "numero": "244",
+    "nome": "Mats Hummels",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/244.jpg"
+  },
+  {
+    "numero": "245",
+    "nome": "Matthias Ginter",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/245.jpg"
+  },
+  {
+    "numero": "245x",
+    "nome": "Benedikt Höwedes",
+    "tenho": true,
+    "especial": true,
+    "clube": "Deutschland",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/245x.jpg"
+  },
+  {
+    "numero": "246",
+    "nome": "Jonas Hector",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/246.jpg"
+  },
+  {
+    "numero": "247",
+    "nome": "Erik Durm",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/247.jpg"
+  },
+  {
+    "numero": "247x",
+    "nome": "Shkodran Mustafi",
+    "tenho": true,
+    "especial": true,
+    "clube": "Deutschland",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/247x.jpg"
+  },
+  {
+    "numero": "248",
+    "nome": "Sami Khedira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/248.jpg"
+  },
+  {
+    "numero": "249",
+    "nome": "Toni Kroos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/249.jpg"
+  },
+  {
+    "numero": "250",
+    "nome": "Bastian Schweinsteiger",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/250.jpg"
+  },
+  {
+    "numero": "251",
+    "nome": "Ilkay Gündogan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/251.jpg"
+  },
+  {
+    "numero": "251x",
+    "nome": "Joshua Kimmich",
+    "tenho": true,
+    "especial": true,
+    "clube": "Deutschland",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/251x.jpg"
+  },
+  {
+    "numero": "252",
+    "nome": "Christoph Kramer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/252.jpg"
+  },
+  {
+    "numero": "252x",
+    "nome": "Emre Can",
+    "tenho": true,
+    "especial": true,
+    "clube": "Deutschland",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/252x.jpg"
+  },
+  {
+    "numero": "253",
+    "nome": "André Schürrle",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/253.jpg"
+  },
+  {
+    "numero": "254",
+    "nome": "Julian Draxler",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/254.jpg"
+  },
+  {
+    "numero": "255",
+    "nome": "Mesut Özil",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/255.jpg"
+  },
+  {
+    "numero": "256",
+    "nome": "Marco Reus",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/256.jpg"
+  },
+  {
+    "numero": "256x",
+    "nome": "Leroy Sané",
+    "tenho": true,
+    "especial": true,
+    "clube": "Deutschland",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/256x.jpg"
+  },
+  {
+    "numero": "257",
+    "nome": "Mario Götze",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/257.jpg"
+  },
+  {
+    "numero": "258",
+    "nome": "Lukas Podolski",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/258.jpg"
+  },
+  {
+    "numero": "259",
+    "nome": "Max Kruse",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/259.jpg"
+  },
+  {
+    "numero": "259x",
+    "nome": "Mario Gomez",
+    "tenho": true,
+    "especial": true,
+    "clube": "Deutschland",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/259x.jpg"
+  },
+  {
+    "numero": "260",
+    "nome": "Thomas Müller",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/260.jpg"
+  },
+  {
+    "numero": "261",
+    "nome": "Thomas Müller",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/261.jpg"
+  },
+  {
+    "numero": "262",
+    "nome": "Manuel Neuer / Matthias Ginter",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/262.jpg"
+  },
+  {
+    "numero": "263",
+    "nome": "Mats Hummels / Jérôme Boateng",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/263.jpg"
+  },
+  {
+    "numero": "264",
+    "nome": "Jonas Hector / Toni Kroos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/264.jpg"
+  },
+  {
+    "numero": "265",
+    "nome": "Bastian Schweinsteiger / Mesut Özil",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/265.jpg"
+  },
+  {
+    "numero": "266",
+    "nome": "Marco Reus / Mario Götze",
+    "tenho": true,
+    "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/266.jpg"
+  },
+  {
+    "numero": "267",
+    "nome": "Andriy Yarmolenko",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/267.jpg"
+  },
+  {
+    "numero": "268",
+    "nome": "Andriy Pyatov / Artem Fedetskiy",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/268.jpg"
+  },
+  {
+    "numero": "269",
+    "nome": "Yevhen Khacheridi / Yaroslav Rakitskiy",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/269.jpg"
+  },
+  {
+    "numero": "270",
+    "nome": "Vyacheslav Shevchuk / Taras Stepanenko",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/270.jpg"
+  },
+  {
+    "numero": "271",
+    "nome": "Ruslan Rotan / Serhiy Sydorchuk",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/271.jpg"
+  },
+  {
+    "numero": "272",
+    "nome": "Yevhen Konoplyanka / Yevhen Seleznyov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/272.jpg"
+  },
+  {
+    "numero": "273",
+    "nome": "Andriy Pyatov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/273.jpg"
+  },
+  {
+    "numero": "274",
+    "nome": "Olexandr Kucher",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/274.jpg"
+  },
+  {
+    "numero": "275",
+    "nome": "Artem Fedetskiy",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/275.jpg"
+  },
+  {
+    "numero": "276",
+    "nome": "Yevhen Khacheridi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/276.jpg"
+  },
+  {
+    "numero": "277",
+    "nome": "Yaroslav Rakitskiy",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/277.jpg"
+  },
+  {
+    "numero": "278",
+    "nome": "Vyacheslav Shevchuk",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/278.jpg"
+  },
+  {
+    "numero": "279",
+    "nome": "Anatoliy Tymoshchuk",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/279.jpg"
+  },
+  {
+    "numero": "280",
+    "nome": "Denys Garmash",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/280.jpg"
+  },
+  {
+    "numero": "281",
+    "nome": "Serhiy Rybalka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/281.jpg"
+  },
+  {
+    "numero": "282",
+    "nome": "Ruslan Rotan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/282.jpg"
+  },
+  {
+    "numero": "283",
+    "nome": "Taras Stepanenko",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/283.jpg"
+  },
+  {
+    "numero": "284",
+    "nome": "Edmar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/284.jpg"
+  },
+  {
+    "numero": "284x",
+    "nome": "Oleksandr Zinchenko",
+    "tenho": true,
+    "especial": true,
+    "clube": "Ukraine",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/284x.jpg"
+  },
+  {
+    "numero": "285",
+    "nome": "Oleh Gusev",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/285.jpg"
+  },
+  {
+    "numero": "285x",
+    "nome": "Oleksandr Karavaev",
+    "tenho": true,
+    "especial": true,
+    "clube": "Ukraine",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/285x.jpg"
+  },
+  {
+    "numero": "286",
+    "nome": "Serhiy Sydorchuk",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/286.jpg"
+  },
+  {
+    "numero": "287",
+    "nome": "Yevhen Konoplyanka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/287.jpg"
+  },
+  {
+    "numero": "288",
+    "nome": "Roman Zozulya",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/288.jpg"
+  },
+  {
+    "numero": "289",
+    "nome": "Andriy Yarmolenko",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/289.jpg"
+  },
+  {
+    "numero": "290",
+    "nome": "Pylyp Budkivskiy",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/290.jpg"
+  },
+  {
+    "numero": "291",
+    "nome": "Artem Kravets",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/291.jpg"
+  },
+  {
+    "numero": "291x",
+    "nome": "Viktor Kovalenko",
+    "tenho": true,
+    "especial": true,
+    "clube": "Ukraine",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/291x.jpg"
+  },
+  {
+    "numero": "292",
+    "nome": "Yevhen Seleznyov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ukraine",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/292.jpg"
+  },
+  {
+    "numero": "293",
+    "nome": "Lukasz Fabiański",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/293.jpg"
+  },
+  {
+    "numero": "294",
+    "nome": "Wojciech Szczęsny",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/294.jpg"
+  },
+  {
+    "numero": "295",
+    "nome": "Kamil Glik",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/295.jpg"
+  },
+  {
+    "numero": "296",
+    "nome": "Artur Jedrzejczyk",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/296.jpg"
+  },
+  {
+    "numero": "297",
+    "nome": "Michał Pazdan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/297.jpg"
+  },
+  {
+    "numero": "298",
+    "nome": "Lukasz Szukala",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/298.jpg"
+  },
+  {
+    "numero": "298x",
+    "nome": "Thiago Cionek",
+    "tenho": true,
+    "especial": true,
+    "clube": "Polska",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/298x.jpg"
+  },
+  {
+    "numero": "299",
+    "nome": "Jakub Wawrzyniak",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/299.jpg"
+  },
+  {
+    "numero": "300",
+    "nome": "Pawel Olkowski",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/300.jpg"
+  },
+  {
+    "numero": "300x",
+    "nome": "Bartosz Salamon",
+    "tenho": true,
+    "especial": true,
+    "clube": "Polska",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/300x.jpg"
+  },
+  {
+    "numero": "301",
+    "nome": "Łukasz Piszczek",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/301.jpg"
+  },
+  {
+    "numero": "302",
+    "nome": "Grzegorz Krychowiak",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/302.jpg"
+  },
+  {
+    "numero": "303",
+    "nome": "Maciej Rybus",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/303.jpg"
+  },
+  {
+    "numero": "303x",
+    "nome": "Sławomir Peszko",
+    "tenho": true,
+    "especial": true,
+    "clube": "Polska",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/303x.jpg"
+  },
+  {
+    "numero": "304",
+    "nome": "Tomasz Jodlowiec",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/304.jpg"
+  },
+  {
+    "numero": "305",
+    "nome": "Krzysztof Maczynski",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/305.jpg"
+  },
+  {
+    "numero": "306",
+    "nome": "Jakub Blaszczykowski",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/306.jpg"
+  },
+  {
+    "numero": "307",
+    "nome": "Sebastian Mila",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/307.jpg"
+  },
+  {
+    "numero": "307x",
+    "nome": "Karol Linetty",
+    "tenho": true,
+    "especial": true,
+    "clube": "Polska",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/307x.jpg"
+  },
+  {
+    "numero": "308",
+    "nome": "Piotr Zielinski",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/308.jpg"
+  },
+  {
+    "numero": "309",
+    "nome": "Bartosz Kapustka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/309.jpg"
+  },
+  {
+    "numero": "310",
+    "nome": "Kamil Grosicki",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/310.jpg"
+  },
+  {
+    "numero": "311",
+    "nome": "Arkadiusz Milik",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/311.jpg"
+  },
+  {
+    "numero": "312",
+    "nome": "Robert Lewandowski",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/312.jpg"
+  },
+  {
+    "numero": "313",
+    "nome": "Robert Lewandowski",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/313.jpg"
+  },
+  {
+    "numero": "314",
+    "nome": "Lukasz Fabianski / Lukasz Piszczek",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/314.jpg"
+  },
+  {
+    "numero": "315",
+    "nome": "Kamil Glik / Michal Pazdan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/315.jpg"
+  },
+  {
+    "numero": "316",
+    "nome": "Maciej Rybus / Grzegorz Krychowiak",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/316.jpg"
+  },
+  {
+    "numero": "317",
+    "nome": "Krzysztof Maczynski / Jakub Blaszczykowski",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/317.jpg"
+  },
+  {
+    "numero": "318",
+    "nome": "Arkadiusz Milik / Kamil Grosicki",
+    "tenho": true,
+    "especial": false,
+    "clube": "Polska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/318.jpg"
+  },
+  {
+    "numero": "319",
+    "nome": "Steven Davis",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/319.jpg"
+  },
+  {
+    "numero": "320",
+    "nome": "Michael McGovern / Conor McLaughlin",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/320.jpg"
+  },
+  {
+    "numero": "321",
+    "nome": "Gareth McAuley / Jonny Evans",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/321.jpg"
+  },
+  {
+    "numero": "322",
+    "nome": "Chris Brunt / Chris Baird",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/322.jpg"
+  },
+  {
+    "numero": "323",
+    "nome": "Jamie Ward / Oliver Norwood",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/323.jpg"
+  },
+  {
+    "numero": "324",
+    "nome": "Stuart Dallas / Kyle Lafferty",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/324.jpg"
+  },
+  {
+    "numero": "325",
+    "nome": "Michael McGovern",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/325.jpg"
+  },
+  {
+    "numero": "326",
+    "nome": "Roy Carroll",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/326.jpg"
+  },
+  {
+    "numero": "327",
+    "nome": "Gareth McAuley",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/327.jpg"
+  },
+  {
+    "numero": "328",
+    "nome": "Chris Baird",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/328.jpg"
+  },
+  {
+    "numero": "329",
+    "nome": "Aaron Hughes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/329.jpg"
+  },
+  {
+    "numero": "330",
+    "nome": "Conor McLaughlin",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/330.jpg"
+  },
+  {
+    "numero": "331",
+    "nome": "Jonny Evans",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/331.jpg"
+  },
+  {
+    "numero": "332",
+    "nome": "Craig Cathcart",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/332.jpg"
+  },
+  {
+    "numero": "333",
+    "nome": "Paddy McNair",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/333.jpg"
+  },
+  {
+    "numero": "334",
+    "nome": "Shane Ferguson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/334.jpg"
+  },
+  {
+    "numero": "335",
+    "nome": "Corry Evans",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/335.jpg"
+  },
+  {
+    "numero": "336",
+    "nome": "Niall McGinn",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/336.jpg"
+  },
+  {
+    "numero": "337",
+    "nome": "Stuart Dallas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/337.jpg"
+  },
+  {
+    "numero": "338",
+    "nome": "Chris Brunt",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/338.jpg"
+  },
+  {
+    "numero": "338x",
+    "nome": "Lee Hodson",
+    "tenho": true,
+    "especial": true,
+    "clube": "Northern Ireland",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/338x.jpg"
+  },
+  {
+    "numero": "339",
+    "nome": "Steven Davis",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/339.jpg"
+  },
+  {
+    "numero": "340",
+    "nome": "Oliver Norwood",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/340.jpg"
+  },
+  {
+    "numero": "341",
+    "nome": "Jamie Ward",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/341.jpg"
+  },
+  {
+    "numero": "342",
+    "nome": "Liam Boyce",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/342.jpg"
+  },
+  {
+    "numero": "342x",
+    "nome": "Will Grigg",
+    "tenho": true,
+    "especial": true,
+    "clube": "Northern Ireland",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/342x.jpg"
+  },
+  {
+    "numero": "343",
+    "nome": "Josh Magennis",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/343.jpg"
+  },
+  {
+    "numero": "344",
+    "nome": "Kyle Lafferty",
+    "tenho": true,
+    "especial": false,
+    "clube": "Northern Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/344.jpg"
+  },
+  {
+    "numero": "345",
+    "nome": "Team Photo",
+    "tenho": false,
+    "especial": false,
+    "clube": "España",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/345.jpg"
+  },
+  {
+    "numero": "346",
+    "nome": "Badge",
+    "tenho": false,
+    "especial": false,
+    "clube": "España",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/346.jpg"
+  },
+  {
+    "numero": "347",
+    "nome": "Team Photo",
+    "tenho": false,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/347.jpg"
+  },
+  {
+    "numero": "348",
+    "nome": "Badge",
+    "tenho": false,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/348.jpg"
+  },
+  {
+    "numero": "349",
+    "nome": "Team Photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/349.jpg"
+  },
+  {
+    "numero": "350",
+    "nome": "Badge",
+    "tenho": false,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/350.jpg"
+  },
+  {
+    "numero": "351",
+    "nome": "Team Photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/351.jpg"
+  },
+  {
+    "numero": "352",
+    "nome": "Badge",
+    "tenho": false,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/352.jpg"
+  },
+  {
+    "numero": "353",
+    "nome": "Iker Casillas",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/353.jpg"
+  },
+  {
+    "numero": "354",
+    "nome": "David de Gea",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/354.jpg"
+  },
+  {
+    "numero": "355",
+    "nome": "Sergio Ramos",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/355.jpg"
+  },
+  {
+    "numero": "356",
+    "nome": "Gerard Piqué",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/356.jpg"
+  },
+  {
+    "numero": "357",
+    "nome": "Juanfran",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/357.jpg"
+  },
+  {
+    "numero": "358",
+    "nome": "Jordi Alba",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/358.jpg"
+  },
+  {
+    "numero": "359",
+    "nome": "Dani Carvajal",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/359.jpg"
+  },
+  {
+    "numero": "359x",
+    "nome": "Сésar Azpilicueta",
+    "tenho": true,
+    "especial": true,
+    "clube": "España",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/359x.jpg"
+  },
+  {
+    "numero": "360",
+    "nome": "Marc Bartra",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/360.jpg"
+  },
+  {
+    "numero": "361",
+    "nome": "Sergio Busquets",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/361.jpg"
+  },
+  {
+    "numero": "362",
+    "nome": "Cesc Fàbregas",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/362.jpg"
+  },
+  {
+    "numero": "363",
+    "nome": "Andrés Iniesta",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/363.jpg"
+  },
+  {
+    "numero": "364",
+    "nome": "Koke",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/364.jpg"
+  },
+  {
+    "numero": "365",
+    "nome": "Isco",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/365.jpg"
+  },
+  {
+    "numero": "365x",
+    "nome": "Bruno Soriano",
+    "tenho": true,
+    "especial": true,
+    "clube": "España",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/365x.jpg"
+  },
+  {
+    "numero": "366",
+    "nome": "Santi Cazorla",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/366.jpg"
+  },
+  {
+    "numero": "366x",
+    "nome": "Lucas Vázquez",
+    "tenho": true,
+    "especial": true,
+    "clube": "España",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/366x.jpg"
+  },
+  {
+    "numero": "367",
+    "nome": "Juan Mata",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/367.jpg"
+  },
+  {
+    "numero": "367x",
+    "nome": "Thiago Alcántara",
+    "tenho": true,
+    "especial": true,
+    "clube": "España",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/367x.jpg"
+  },
+  {
+    "numero": "368",
+    "nome": "David Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/368.jpg"
+  },
+  {
+    "numero": "369",
+    "nome": "Pedro Rodríguez",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/369.jpg"
+  },
+  {
+    "numero": "370",
+    "nome": "Álvaro Morata",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/370.jpg"
+  },
+  {
+    "numero": "371",
+    "nome": "Diego Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/371.jpg"
+  },
+  {
+    "numero": "371x",
+    "nome": "Aritz Aduriz",
+    "tenho": true,
+    "especial": true,
+    "clube": "España",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/371x.jpg"
+  },
+  {
+    "numero": "372",
+    "nome": "Paco Alcácer",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/372.jpg"
+  },
+  {
+    "numero": "372x",
+    "nome": "Nolito",
+    "tenho": true,
+    "especial": true,
+    "clube": "España",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/372x.jpg"
+  },
+  {
+    "numero": "373",
+    "nome": "Andrés Iniesta",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/373.jpg"
+  },
+  {
+    "numero": "374",
+    "nome": "Iker Casillas / Juanfran",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/374.jpg"
+  },
+  {
+    "numero": "375",
+    "nome": "Gerard Piqué / Sergio Ramos",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/375.jpg"
+  },
+  {
+    "numero": "376",
+    "nome": "Jordi Alba / Sergio Busquets",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/376.jpg"
+  },
+  {
+    "numero": "377",
+    "nome": "Cesc Fàbregas / Santi Cazorla",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/377.jpg"
+  },
+  {
+    "numero": "378",
+    "nome": "Paco Alcácer / David Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "España",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/378.jpg"
+  },
+  {
+    "numero": "379",
+    "nome": "Petr Cech",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/379.jpg"
+  },
+  {
+    "numero": "380",
+    "nome": "Pavel Kaderábek / Tomáš Sivok",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/380.jpg"
+  },
+  {
+    "numero": "381",
+    "nome": "Michal Kadlec / David Limberský",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/381.jpg"
+  },
+  {
+    "numero": "382",
+    "nome": "Vladimír Darida / David Pavelka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/382.jpg"
+  },
+  {
+    "numero": "383",
+    "nome": "Borek Dockal / Tomás Rosický",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/383.jpg"
+  },
+  {
+    "numero": "384",
+    "nome": "Ladislav Krejcí / David Lafata",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/384.jpg"
+  },
+  {
+    "numero": "385",
+    "nome": "Petr Cech",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/385.jpg"
+  },
+  {
+    "numero": "386",
+    "nome": "Pavel Kaderábek",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/386.jpg"
+  },
+  {
+    "numero": "387",
+    "nome": "Václav Procházka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/387.jpg"
+  },
+  {
+    "numero": "387x",
+    "nome": "Theodor Gebre Selassie",
+    "tenho": true,
+    "especial": true,
+    "clube": "Česká Republika",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/387x.jpg"
+  },
+  {
+    "numero": "388",
+    "nome": "Daniel Pudil",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/388.jpg"
+  },
+  {
+    "numero": "389",
+    "nome": "Marek Suchý",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/389.jpg"
+  },
+  {
+    "numero": "390",
+    "nome": "Michal Kadlec",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/390.jpg"
+  },
+  {
+    "numero": "391",
+    "nome": "David Limberský",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/391.jpg"
+  },
+  {
+    "numero": "392",
+    "nome": "Tomáš Sivok",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/392.jpg"
+  },
+  {
+    "numero": "393",
+    "nome": "David Pavelka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/393.jpg"
+  },
+  {
+    "numero": "394",
+    "nome": "Vladimír Darida",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/394.jpg"
+  },
+  {
+    "numero": "395",
+    "nome": "Daniel Kolár",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/395.jpg"
+  },
+  {
+    "numero": "396",
+    "nome": "Jaroslav Plasil",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/396.jpg"
+  },
+  {
+    "numero": "397",
+    "nome": "Tomás Rosický",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/397.jpg"
+  },
+  {
+    "numero": "398",
+    "nome": "Borek Dockal",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/398.jpg"
+  },
+  {
+    "numero": "399",
+    "nome": "Ladislav Krejcí",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/399.jpg"
+  },
+  {
+    "numero": "400",
+    "nome": "Václav Pilar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/400.jpg"
+  },
+  {
+    "numero": "400x",
+    "nome": "Jiři Skalák",
+    "tenho": true,
+    "especial": true,
+    "clube": "Česká Republika",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/400x.jpg"
+  },
+  {
+    "numero": "401",
+    "nome": "Matej Vydra",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/401.jpg"
+  },
+  {
+    "numero": "401x",
+    "nome": "Josef Šural",
+    "tenho": true,
+    "especial": true,
+    "clube": "Česká Republika",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/401x.jpg"
+  },
+  {
+    "numero": "402",
+    "nome": "Milan Skoda",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/402.jpg"
+  },
+  {
+    "numero": "403",
+    "nome": "David Lafata",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/403.jpg"
+  },
+  {
+    "numero": "404",
+    "nome": "Tomás Necid",
+    "tenho": true,
+    "especial": false,
+    "clube": "Česká Republika",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/404.jpg"
+  },
+  {
+    "numero": "405",
+    "nome": "Volkan Babacan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/405.jpg"
+  },
+  {
+    "numero": "406",
+    "nome": "Serdar Aziz",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/406.jpg"
+  },
+  {
+    "numero": "406x",
+    "nome": "Ahmet Çalik",
+    "tenho": true,
+    "especial": true,
+    "clube": "Türkiye",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/406x.jpg"
+  },
+  {
+    "numero": "407",
+    "nome": "Hakan Balta",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/407.jpg"
+  },
+  {
+    "numero": "408",
+    "nome": "Gökhan Gönül",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/408.jpg"
+  },
+  {
+    "numero": "409",
+    "nome": "Semih Kaya",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/409.jpg"
+  },
+  {
+    "numero": "410",
+    "nome": "Şener Özbayrakli",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/410.jpg"
+  },
+  {
+    "numero": "411",
+    "nome": "Mehmet Topal",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/411.jpg"
+  },
+  {
+    "numero": "412",
+    "nome": "Ersan Gülüm",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/412.jpg"
+  },
+  {
+    "numero": "412x",
+    "nome": "Nuri Şahin",
+    "tenho": true,
+    "especial": true,
+    "clube": "Türkiye",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/412x.jpg"
+  },
+  {
+    "numero": "413",
+    "nome": "Emre Tasdemir",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/413.jpg"
+  },
+  {
+    "numero": "413x",
+    "nome": "Emre Mor",
+    "tenho": true,
+    "especial": true,
+    "clube": "Türkiye",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/413x.jpg"
+  },
+  {
+    "numero": "414",
+    "nome": "Ozan Tufan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/414.jpg"
+  },
+  {
+    "numero": "415",
+    "nome": "Caner Erkin",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/415.jpg"
+  },
+  {
+    "numero": "416",
+    "nome": "Gökhan Töre",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/416.jpg"
+  },
+  {
+    "numero": "416x",
+    "nome": "Yunus Malli",
+    "tenho": true,
+    "especial": true,
+    "clube": "Türkiye",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/416x.jpg"
+  },
+  {
+    "numero": "417",
+    "nome": "Selçuk Inan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/417.jpg"
+  },
+  {
+    "numero": "418",
+    "nome": "Volkan Sen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/418.jpg"
+  },
+  {
+    "numero": "419",
+    "nome": "Arda Turan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/419.jpg"
+  },
+  {
+    "numero": "420",
+    "nome": "Hakan Çalhanoğlu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/420.jpg"
+  },
+  {
+    "numero": "421",
+    "nome": "Oğuzhan Özyakup",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/421.jpg"
+  },
+  {
+    "numero": "422",
+    "nome": "Olcay Şahan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/422.jpg"
+  },
+  {
+    "numero": "423",
+    "nome": "Umut Bulut",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/423.jpg"
+  },
+  {
+    "numero": "423x",
+    "nome": "Cenk Tosun",
+    "tenho": true,
+    "especial": true,
+    "clube": "Türkiye",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/423x.jpg"
+  },
+  {
+    "numero": "424",
+    "nome": "Burak Yilmaz",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/424.jpg"
+  },
+  {
+    "numero": "425",
+    "nome": "Arda Turan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/425.jpg"
+  },
+  {
+    "numero": "426",
+    "nome": "Volkan Babacan / Şener Özbayrakli",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/426.jpg"
+  },
+  {
+    "numero": "427",
+    "nome": "Serdar Aziz / Hakan Balta",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/427.jpg"
+  },
+  {
+    "numero": "428",
+    "nome": "Caner Erkin / Selçuk Inan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/428.jpg"
+  },
+  {
+    "numero": "429",
+    "nome": "Ozan Tufan / Hakan Çalhanoğlu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/429.jpg"
+  },
+  {
+    "numero": "430",
+    "nome": "Oguzhan Özyakup / Burak Yilmaz",
+    "tenho": true,
+    "especial": false,
+    "clube": "Türkiye",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/430.jpg"
+  },
+  {
+    "numero": "431",
+    "nome": "Ivan Rakitić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/431.jpg"
+  },
+  {
+    "numero": "432",
+    "nome": "Danijel Subašić / Darijo Srna",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/432.jpg"
+  },
+  {
+    "numero": "433",
+    "nome": "Domagoj Vida / Vedran Ćorluka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/433.jpg"
+  },
+  {
+    "numero": "434",
+    "nome": "Josip Pivarić / Luka Modrić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/434.jpg"
+  },
+  {
+    "numero": "435",
+    "nome": "Mateo Kovacic / Marko Pjaca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/435.jpg"
+  },
+  {
+    "numero": "436",
+    "nome": "Ivan Perišić / Mario Mandžukić",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/436.jpg"
+  },
+  {
+    "numero": "437",
+    "nome": "Danijel Subasic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/437.jpg"
+  },
+  {
+    "numero": "438",
+    "nome": "Darijo Srna",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/438.jpg"
+  },
+  {
+    "numero": "439",
+    "nome": "Vedran Corluka",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/439.jpg"
+  },
+  {
+    "numero": "440",
+    "nome": "Domagoj Vida",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/440.jpg"
+  },
+  {
+    "numero": "441",
+    "nome": "Dejan Lovren",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/441.jpg"
+  },
+  {
+    "numero": "441x",
+    "nome": "Tin Jedvaj",
+    "tenho": true,
+    "especial": true,
+    "clube": "Hrvatska",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/441x.jpg"
+  },
+  {
+    "numero": "442",
+    "nome": "Marko Leskovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/442.jpg"
+  },
+  {
+    "numero": "442x",
+    "nome": "Gordon Schildenfeld",
+    "tenho": true,
+    "especial": true,
+    "clube": "Hrvatska",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/442x.jpg"
+  },
+  {
+    "numero": "443",
+    "nome": "Šime Vrsaljko",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/443.jpg"
+  },
+  {
+    "numero": "444",
+    "nome": "Josip Pivaric",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/444.jpg"
+  },
+  {
+    "numero": "444x",
+    "nome": "Ivan Strinić",
+    "tenho": true,
+    "especial": true,
+    "clube": "Hrvatska",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/444x.jpg"
+  },
+  {
+    "numero": "445",
+    "nome": "Mario Pasalic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/445.jpg"
+  },
+  {
+    "numero": "445x",
+    "nome": "Ante Ćorić",
+    "tenho": true,
+    "especial": true,
+    "clube": "Hrvatska",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/445x.jpg"
+  },
+  {
+    "numero": "446",
+    "nome": "Marcelo Brozovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/446.jpg"
+  },
+  {
+    "numero": "447",
+    "nome": "Milan Badelj",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/447.jpg"
+  },
+  {
+    "numero": "448",
+    "nome": "Luka Modric",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/448.jpg"
+  },
+  {
+    "numero": "449",
+    "nome": "Mateo Kovacic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/449.jpg"
+  },
+  {
+    "numero": "450",
+    "nome": "Ivan Rakitic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/450.jpg"
+  },
+  {
+    "numero": "451",
+    "nome": "Ivan Perisic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/451.jpg"
+  },
+  {
+    "numero": "452",
+    "nome": "Alen Halilovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/452.jpg"
+  },
+  {
+    "numero": "452x",
+    "nome": "Marko Rog",
+    "tenho": true,
+    "especial": true,
+    "clube": "Hrvatska",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/452x.jpg"
+  },
+  {
+    "numero": "453",
+    "nome": "Marko Pjaca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/453.jpg"
+  },
+  {
+    "numero": "454",
+    "nome": "Andrej Kramaric",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/454.jpg"
+  },
+  {
+    "numero": "455",
+    "nome": "Nikola Kalinic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/455.jpg"
+  },
+  {
+    "numero": "456",
+    "nome": "Mario Mandžukic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/456.jpg"
+  },
+  {
+    "numero": "457",
+    "nome": "Team Photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/457.jpg"
+  },
+  {
+    "numero": "458",
+    "nome": "Badge",
+    "tenho": false,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/458.jpg"
+  },
+  {
+    "numero": "459",
+    "nome": "Team Photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/459.jpg"
+  },
+  {
+    "numero": "460",
+    "nome": "Badge",
+    "tenho": false,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/460.jpg"
+  },
+  {
+    "numero": "461",
+    "nome": "Team Photo",
+    "tenho": false,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/461.jpg"
+  },
+  {
+    "numero": "462",
+    "nome": "Badge",
+    "tenho": false,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/462.jpg"
+  },
+  {
+    "numero": "463",
+    "nome": "Team Photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/463.jpg"
+  },
+  {
+    "numero": "464",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/464.jpg"
+  },
+  {
+    "numero": "465",
+    "nome": "Thibaut Courtois",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/465.jpg"
+  },
+  {
+    "numero": "466",
+    "nome": "Simon Mignolet",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/466.jpg"
+  },
+  {
+    "numero": "467",
+    "nome": "Vincent Kompany",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/467.jpg"
+  },
+  {
+    "numero": "467x",
+    "nome": "Jordan Lukaku",
+    "tenho": true,
+    "especial": true,
+    "clube": "Belgique/België",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/467x.jpg"
+  },
+  {
+    "numero": "468",
+    "nome": "Thomas Vermaelen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/468.jpg"
+  },
+  {
+    "numero": "469",
+    "nome": "Jan Vertonghen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/469.jpg"
+  },
+  {
+    "numero": "470",
+    "nome": "Nicolas Lombaerts",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/470.jpg"
+  },
+  {
+    "numero": "470x",
+    "nome": "Laurent Ciman",
+    "tenho": true,
+    "especial": true,
+    "clube": "Belgique/België",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/470x.jpg"
+  },
+  {
+    "numero": "471",
+    "nome": "Jason Denayer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/471.jpg"
+  },
+  {
+    "numero": "472",
+    "nome": "Toby Alderweireld",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/472.jpg"
+  },
+  {
+    "numero": "473",
+    "nome": "Radja Nainggolan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/473.jpg"
+  },
+  {
+    "numero": "474",
+    "nome": "Marouane Fellaini",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/474.jpg"
+  },
+  {
+    "numero": "475",
+    "nome": "Axel Witsel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/475.jpg"
+  },
+  {
+    "numero": "476",
+    "nome": "Kevin De Bruyne",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/476.jpg"
+  },
+  {
+    "numero": "477",
+    "nome": "Eden Hazard",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/477.jpg"
+  },
+  {
+    "numero": "478",
+    "nome": "Dries Mertens",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/478.jpg"
+  },
+  {
+    "numero": "479",
+    "nome": "Nacer Chadli",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/479.jpg"
+  },
+  {
+    "numero": "479x",
+    "nome": "Divock Origi",
+    "tenho": true,
+    "especial": true,
+    "clube": "Belgique/België",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/479x.jpg"
+  },
+  {
+    "numero": "480",
+    "nome": "Yannick Ferreira-Carrasco",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/480.jpg"
+  },
+  {
+    "numero": "481",
+    "nome": "Mousa Dembélé",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/481.jpg"
+  },
+  {
+    "numero": "482",
+    "nome": "Christian Benteke",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/482.jpg"
+  },
+  {
+    "numero": "483",
+    "nome": "Michy Batshuayi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/483.jpg"
+  },
+  {
+    "numero": "484",
+    "nome": "Romelu Lukaku",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/484.jpg"
+  },
+  {
+    "numero": "485",
+    "nome": "Eden Hazard",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/485.jpg"
+  },
+  {
+    "numero": "486",
+    "nome": "Thibaut Courtois / Toby Alderweireld",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/486.jpg"
+  },
+  {
+    "numero": "487",
+    "nome": "Vincent Kompany / Nicolas Lombaerts",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/487.jpg"
+  },
+  {
+    "numero": "488",
+    "nome": "Jan Vertonghen / Marouane Fellaini",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/488.jpg"
+  },
+  {
+    "numero": "489",
+    "nome": "Radja Nainggolan / Axel Witsel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/489.jpg"
+  },
+  {
+    "numero": "490",
+    "nome": "Kevin De Bruyne / Romelu Lukaku",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belgique/België",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/490.jpg"
+  },
+  {
+    "numero": "491",
+    "nome": "Gianluigi Buffon",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/491.jpg"
+  },
+  {
+    "numero": "492",
+    "nome": "Matteo Darmian / Leonardo Bonucci",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/492.jpg"
+  },
+  {
+    "numero": "493",
+    "nome": "Giorgio Chiellini / Mattia De Sciglio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/493.jpg"
+  },
+  {
+    "numero": "494",
+    "nome": "Alessandro Florenzi / Marco Verratti",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/494.jpg"
+  },
+  {
+    "numero": "495",
+    "nome": "Claudio Marchisio / Antonio Candreva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/495.jpg"
+  },
+  {
+    "numero": "496",
+    "nome": "Éder / Graziano Pellè",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/496.jpg"
+  },
+  {
+    "numero": "497",
+    "nome": "Gianluigi Buffon",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/497.jpg"
+  },
+  {
+    "numero": "498",
+    "nome": "Andrea Barzagli",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/498.jpg"
+  },
+  {
+    "numero": "499",
+    "nome": "Leonardo Bonucci",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/499.jpg"
+  },
+  {
+    "numero": "500",
+    "nome": "Giorgio Chiellini",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/500.jpg"
+  },
+  {
+    "numero": "501",
+    "nome": "Matteo Darmian",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/501.jpg"
+  },
+  {
+    "numero": "502",
+    "nome": "Mattia De Sciglio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/502.jpg"
+  },
+  {
+    "numero": "503",
+    "nome": "Alessandro Florenzi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/503.jpg"
+  },
+  {
+    "numero": "504",
+    "nome": "Daniele De Rossi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/504.jpg"
+  },
+  {
+    "numero": "505",
+    "nome": "Andrea Pirlo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/505.jpg"
+  },
+  {
+    "numero": "505x",
+    "nome": "Thiago Motta",
+    "tenho": true,
+    "especial": true,
+    "clube": "Italia",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/505x.jpg"
+  },
+  {
+    "numero": "506",
+    "nome": "Claudio Marchisio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/506.jpg"
+  },
+  {
+    "numero": "506x",
+    "nome": "Emanuele Giaccherini",
+    "tenho": true,
+    "especial": true,
+    "clube": "Italia",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/506x.jpg"
+  },
+  {
+    "numero": "507",
+    "nome": "Marco Verratti",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/507.jpg"
+  },
+  {
+    "numero": "507x",
+    "nome": "Stefano Sturaro",
+    "tenho": true,
+    "especial": true,
+    "clube": "Italia",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/507x.jpg"
+  },
+  {
+    "numero": "508",
+    "nome": "Marco Parolo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/508.jpg"
+  },
+  {
+    "numero": "509",
+    "nome": "Roberto Soriano",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/509.jpg"
+  },
+  {
+    "numero": "509x",
+    "nome": "Federico Bernardeschi",
+    "tenho": true,
+    "especial": true,
+    "clube": "Italia",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/509x.jpg"
+  },
+  {
+    "numero": "510",
+    "nome": "Giacomo Bonaventura",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/510.jpg"
+  },
+  {
+    "numero": "510x",
+    "nome": "Simone Zaza",
+    "tenho": true,
+    "especial": true,
+    "clube": "Italia",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/510x.jpg"
+  },
+  {
+    "numero": "511",
+    "nome": "Antonio Candreva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/511.jpg"
+  },
+  {
+    "numero": "512",
+    "nome": "Stephan El Shaarawy",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/512.jpg"
+  },
+  {
+    "numero": "513",
+    "nome": "Lorenzo Insigne",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/513.jpg"
+  },
+  {
+    "numero": "514",
+    "nome": "Ciro Immobile",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/514.jpg"
+  },
+  {
+    "numero": "515",
+    "nome": "Éder",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/515.jpg"
+  },
+  {
+    "numero": "516",
+    "nome": "Graziano Pellè",
+    "tenho": true,
+    "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/516.jpg"
+  },
+  {
+    "numero": "517",
+    "nome": "Shay Given",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/517.jpg"
+  },
+  {
+    "numero": "518",
+    "nome": "Darren Randolph",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/518.jpg"
+  },
+  {
+    "numero": "519",
+    "nome": "John O’Shea",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/519.jpg"
+  },
+  {
+    "numero": "520",
+    "nome": "Richard Keogh",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/520.jpg"
+  },
+  {
+    "numero": "521",
+    "nome": "Seamus Coleman",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/521.jpg"
+  },
+  {
+    "numero": "522",
+    "nome": "Marc Wilson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/522.jpg"
+  },
+  {
+    "numero": "522x",
+    "nome": "Cyrus Christie",
+    "tenho": true,
+    "especial": true,
+    "clube": "Republic of Ireland",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/522x.jpg"
+  },
+  {
+    "numero": "523",
+    "nome": "Stephen Ward",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/523.jpg"
+  },
+  {
+    "numero": "524",
+    "nome": "Ciaran Clark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/524.jpg"
+  },
+  {
+    "numero": "525",
+    "nome": "David Meyler",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/525.jpg"
+  },
+  {
+    "numero": "526",
+    "nome": "Jeff Hendrick",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/526.jpg"
+  },
+  {
+    "numero": "527",
+    "nome": "James McCarthy",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/527.jpg"
+  },
+  {
+    "numero": "528",
+    "nome": "James McClean",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/528.jpg"
+  },
+  {
+    "numero": "529",
+    "nome": "Robbie Brady",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/529.jpg"
+  },
+  {
+    "numero": "530",
+    "nome": "Glenn Whelan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/530.jpg"
+  },
+  {
+    "numero": "531",
+    "nome": "Wes Hoolahan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/531.jpg"
+  },
+  {
+    "numero": "532",
+    "nome": "Aiden McGeady",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/532.jpg"
+  },
+  {
+    "numero": "533",
+    "nome": "Daryl Murphy",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/533.jpg"
+  },
+  {
+    "numero": "534",
+    "nome": "Robbie Keane",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/534.jpg"
+  },
+  {
+    "numero": "535",
+    "nome": "Shane Long",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/535.jpg"
+  },
+  {
+    "numero": "536",
+    "nome": "Jon Walters",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/536.jpg"
+  },
+  {
+    "numero": "537",
+    "nome": "Robbie Keane",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/537.jpg"
+  },
+  {
+    "numero": "538",
+    "nome": "Darren Randolph / Seamus Coleman",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/538.jpg"
+  },
+  {
+    "numero": "539",
+    "nome": "John O’Shea / Richard Keogh",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/539.jpg"
+  },
+  {
+    "numero": "540",
+    "nome": "Stephen Ward / Jeff Hendrick",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/540.jpg"
+  },
+  {
+    "numero": "541",
+    "nome": "James McCarthy / Glenn Whelan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/541.jpg"
+  },
+  {
+    "numero": "542",
+    "nome": "Robbie Brady / Jon Walters",
+    "tenho": true,
+    "especial": false,
+    "clube": "Republic of Ireland",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/542.jpg"
+  },
+  {
+    "numero": "543",
+    "nome": "Zlatan Ibrahimovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/543.jpg"
+  },
+  {
+    "numero": "544",
+    "nome": "Andreas Isaksson / Mikael Lustig",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/544.jpg"
+  },
+  {
+    "numero": "545",
+    "nome": "Andreas Granqvist / Mikael Antonsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/545.jpg"
+  },
+  {
+    "numero": "546",
+    "nome": "Martin Olsson / Sebastian Larsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/546.jpg"
+  },
+  {
+    "numero": "547",
+    "nome": "Kim Källström / Oscar Lewicki",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/547.jpg"
+  },
+  {
+    "numero": "548",
+    "nome": "Emil Forsberg / Marcus Berg",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/548.jpg"
+  },
+  {
+    "numero": "549",
+    "nome": "Andreas Isaksson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/549.jpg"
+  },
+  {
+    "numero": "550",
+    "nome": "Mikael Antonsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/550.jpg"
+  },
+  {
+    "numero": "550x",
+    "nome": "Ludwig Augustinsson",
+    "tenho": true,
+    "especial": true,
+    "clube": "Sverige",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/550x.jpg"
+  },
+  {
+    "numero": "551",
+    "nome": "Pierre Bengtsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/551.jpg"
+  },
+  {
+    "numero": "551x",
+    "nome": "Victor Lindelöf",
+    "tenho": true,
+    "especial": true,
+    "clube": "Sverige",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/551x.jpg"
+  },
+  {
+    "numero": "552",
+    "nome": "Andreas Granqvist",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/552.jpg"
+  },
+  {
+    "numero": "553",
+    "nome": "Erik Johansson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/553.jpg"
+  },
+  {
+    "numero": "554",
+    "nome": "Mikael Lustig",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/554.jpg"
+  },
+  {
+    "numero": "555",
+    "nome": "Martin Olsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/555.jpg"
+  },
+  {
+    "numero": "556",
+    "nome": "Oscar Hiljemark",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/556.jpg"
+  },
+  {
+    "numero": "557",
+    "nome": "Jimmy Durmaz",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/557.jpg"
+  },
+  {
+    "numero": "558",
+    "nome": "Albin Ekdal",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/558.jpg"
+  },
+  {
+    "numero": "559",
+    "nome": "Emil Forsberg",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/559.jpg"
+  },
+  {
+    "numero": "560",
+    "nome": "Kim Källström",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/560.jpg"
+  },
+  {
+    "numero": "561",
+    "nome": "Sebastian Larsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/561.jpg"
+  },
+  {
+    "numero": "562",
+    "nome": "Oscar Lewicki",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/562.jpg"
+  },
+  {
+    "numero": "563",
+    "nome": "Erkan Zengin",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/563.jpg"
+  },
+  {
+    "numero": "564",
+    "nome": "Pontus Wernbloom",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/564.jpg"
+  },
+  {
+    "numero": "565",
+    "nome": "Marcus Berg",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/565.jpg"
+  },
+  {
+    "numero": "566",
+    "nome": "Ola Toivonen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/566.jpg"
+  },
+  {
+    "numero": "566x",
+    "nome": "Emir Kujović",
+    "tenho": true,
+    "especial": true,
+    "clube": "Sverige",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/566x.jpg"
+  },
+  {
+    "numero": "567",
+    "nome": "Zlatan Ibrahimovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/567.jpg"
+  },
+  {
+    "numero": "568",
+    "nome": "John Guidetti",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sverige",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/568.jpg"
+  },
+  {
+    "numero": "569",
+    "nome": "Team Photo",
+    "tenho": false,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/569.jpg"
+  },
+  {
+    "numero": "570",
+    "nome": "Badge",
+    "tenho": false,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/570.jpg"
+  },
+  {
+    "numero": "571",
+    "nome": "Team Photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/571.jpg"
+  },
+  {
+    "numero": "572",
+    "nome": "Badge",
+    "tenho": false,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/572.jpg"
+  },
+  {
+    "numero": "573",
+    "nome": "Team Photo",
+    "tenho": false,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/573.jpg"
+  },
+  {
+    "numero": "574",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/574.jpg"
+  },
+  {
+    "numero": "575",
+    "nome": "Team Photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/575.jpg"
+  },
+  {
+    "numero": "576",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "foil",
+    "imagem": "images/capas/Euro 2016/576.jpg"
+  },
+  {
+    "numero": "577",
+    "nome": "Rui Patrício",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/577.jpg"
+  },
+  {
+    "numero": "578",
+    "nome": "Bruno Alves",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/578.jpg"
+  },
+  {
+    "numero": "579",
+    "nome": "Ricardo Carvalho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/579.jpg"
+  },
+  {
+    "numero": "580",
+    "nome": "Pepe",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/580.jpg"
+  },
+  {
+    "numero": "581",
+    "nome": "Eliseu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/581.jpg"
+  },
+  {
+    "numero": "582",
+    "nome": "Fábio Coentrão",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/582.jpg"
+  },
+  {
+    "numero": "582x",
+    "nome": "José Fonte",
+    "tenho": true,
+    "especial": true,
+    "clube": "Portugal",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/582x.jpg"
+  },
+  {
+    "numero": "583",
+    "nome": "Cédric Soares",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/583.jpg"
+  },
+  {
+    "numero": "584",
+    "nome": "Vieirinha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/584.jpg"
+  },
+  {
+    "numero": "585",
+    "nome": "André André",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/585.jpg"
+  },
+  {
+    "numero": "585x",
+    "nome": "André Gomes",
+    "tenho": true,
+    "especial": true,
+    "clube": "Portugal",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/585x.jpg"
+  },
+  {
+    "numero": "586",
+    "nome": "Danilo Pereira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/586.jpg"
+  },
+  {
+    "numero": "587",
+    "nome": "William Carvalho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/587.jpg"
+  },
+  {
+    "numero": "588",
+    "nome": "João Mário",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/588.jpg"
+  },
+  {
+    "numero": "589",
+    "nome": "João Moutinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/589.jpg"
+  },
+  {
+    "numero": "590",
+    "nome": "Nani",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/590.jpg"
+  },
+  {
+    "numero": "591",
+    "nome": "Miguel Veloso",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/591.jpg"
+  },
+  {
+    "numero": "591x",
+    "nome": "Adrien Silva",
+    "tenho": true,
+    "especial": true,
+    "clube": "Portugal",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/591x.jpg"
+  },
+  {
+    "numero": "592",
+    "nome": "Danny",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/592.jpg"
+  },
+  {
+    "numero": "592x",
+    "nome": "Renato Sanches",
+    "tenho": true,
+    "especial": true,
+    "clube": "Portugal",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/592x.jpg"
+  },
+  {
+    "numero": "593",
+    "nome": "Ricardo Quaresma",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/593.jpg"
+  },
+  {
+    "numero": "594",
+    "nome": "Bernardo Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/594.jpg"
+  },
+  {
+    "numero": "594x",
+    "nome": "Rafa Silva",
+    "tenho": true,
+    "especial": true,
+    "clube": "Portugal",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/594x.jpg"
+  },
+  {
+    "numero": "595",
+    "nome": "Éder",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/595.jpg"
+  },
+  {
+    "numero": "596",
+    "nome": "Cristiano Ronaldo",
+    "tenho": false,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/596.jpg"
+  },
+  {
+    "numero": "597",
+    "nome": "Cristiano Ronaldo",
+    "tenho": false,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/597.jpg"
+  },
+  {
+    "numero": "598",
+    "nome": "Rui Patrício / Cédric Soares",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/598.jpg"
+  },
+  {
+    "numero": "599",
+    "nome": "Ricardo Carvalho / Pepe",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/599.jpg"
+  },
+  {
+    "numero": "600",
+    "nome": "Fábio Coentrão / João Moutinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/600.jpg"
+  },
+  {
+    "numero": "601",
+    "nome": "William Carvalho / Miguel Veloso",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/601.jpg"
+  },
+  {
+    "numero": "602",
+    "nome": "Nani / Bernardo Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/602.jpg"
+  },
+  {
+    "numero": "603",
+    "nome": "Gylfi Sigurdsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/603.jpg"
+  },
+  {
+    "numero": "604",
+    "nome": "Hannes Halldórsson / Birkir Sævarsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/604.jpg"
+  },
+  {
+    "numero": "605",
+    "nome": "Kári Árnason / Ragnar Sigurdsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/605.jpg"
+  },
+  {
+    "numero": "606",
+    "nome": "Ari Skúlason / Johann Gudmundsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/606.jpg"
+  },
+  {
+    "numero": "607",
+    "nome": "Aron Gunnarsson / Birkir Bjarnason",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/607.jpg"
+  },
+  {
+    "numero": "608",
+    "nome": "Kolbeinn Sigthórsson / Jón Dadi Bödvarsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/608.jpg"
+  },
+  {
+    "numero": "609",
+    "nome": "Hannes Halldórsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/609.jpg"
+  },
+  {
+    "numero": "610",
+    "nome": "Ögmundur Kristinsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/610.jpg"
+  },
+  {
+    "numero": "611",
+    "nome": "Birkir Sævarsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/611.jpg"
+  },
+  {
+    "numero": "612",
+    "nome": "Ragnar Sigurdsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/612.jpg"
+  },
+  {
+    "numero": "613",
+    "nome": "Sölvi Ottesen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/613.jpg"
+  },
+  {
+    "numero": "613x",
+    "nome": "Haukur Hauksson",
+    "tenho": true,
+    "especial": true,
+    "clube": "Island",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/613x.jpg"
+  },
+  {
+    "numero": "614",
+    "nome": "Ari Skúlason",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/614.jpg"
+  },
+  {
+    "numero": "615",
+    "nome": "Kári Árnason",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/615.jpg"
+  },
+  {
+    "numero": "616",
+    "nome": "Birkir Bjarnason",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/616.jpg"
+  },
+  {
+    "numero": "617",
+    "nome": "Gylfi Sigurdsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/617.jpg"
+  },
+  {
+    "numero": "618",
+    "nome": "Emil Hallfredsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/618.jpg"
+  },
+  {
+    "numero": "619",
+    "nome": "Aron Gunnarsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/619.jpg"
+  },
+  {
+    "numero": "620",
+    "nome": "Rúrik Gíslason",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/620.jpg"
+  },
+  {
+    "numero": "620x",
+    "nome": "Hördur Magnússon",
+    "tenho": true,
+    "especial": true,
+    "clube": "Island",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/620x.jpg"
+  },
+  {
+    "numero": "621",
+    "nome": "Elmar Bjarnason",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/621.jpg"
+  },
+  {
+    "numero": "622",
+    "nome": "Ólafur Skúlason",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/622.jpg"
+  },
+  {
+    "numero": "622x",
+    "nome": "Rúnar Már Sigurjónsson",
+    "tenho": true,
+    "especial": true,
+    "clube": "Island",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/622x.jpg"
+  },
+  {
+    "numero": "623",
+    "nome": "Jón Dadi Bödvarsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/623.jpg"
+  },
+  {
+    "numero": "624",
+    "nome": "Johann Gudmundsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/624.jpg"
+  },
+  {
+    "numero": "625",
+    "nome": "Vidar Orn Kjartansson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/625.jpg"
+  },
+  {
+    "numero": "625x",
+    "nome": "Arnór Traustason",
+    "tenho": true,
+    "especial": true,
+    "clube": "Island",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/625x.jpg"
+  },
+  {
+    "numero": "626",
+    "nome": "Alfred Finnbogason",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/626.jpg"
+  },
+  {
+    "numero": "627",
+    "nome": "Kolbeinn Sigthórsson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/627.jpg"
+  },
+  {
+    "numero": "628",
+    "nome": "Eidur Gudjohnsen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Island",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/628.jpg"
+  },
+  {
+    "numero": "629",
+    "nome": "Robert Almer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/629.jpg"
+  },
+  {
+    "numero": "630",
+    "nome": "Ramazan Özcan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/630.jpg"
+  },
+  {
+    "numero": "631",
+    "nome": "Christian Fuchs",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/631.jpg"
+  },
+  {
+    "numero": "632",
+    "nome": "Sebastian Prödl",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/632.jpg"
+  },
+  {
+    "numero": "633",
+    "nome": "Aleksandar Dragovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/633.jpg"
+  },
+  {
+    "numero": "634",
+    "nome": "Martin Hinteregger",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/634.jpg"
+  },
+  {
+    "numero": "635",
+    "nome": "Kevin Wimmer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/635.jpg"
+  },
+  {
+    "numero": "636",
+    "nome": "Florian Klein",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/636.jpg"
+  },
+  {
+    "numero": "637",
+    "nome": "György Garics",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/637.jpg"
+  },
+  {
+    "numero": "638",
+    "nome": "David Alaba",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/638.jpg"
+  },
+  {
+    "numero": "639",
+    "nome": "Julian Baumgartlinger",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/639.jpg"
+  },
+  {
+    "numero": "640",
+    "nome": "Jakob Jantscher",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/640.jpg"
+  },
+  {
+    "numero": "641",
+    "nome": "Stefan Ilsanker",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/641.jpg"
+  },
+  {
+    "numero": "642",
+    "nome": "Zlatko Junuzovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/642.jpg"
+  },
+  {
+    "numero": "643",
+    "nome": "Marko Arnautovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/643.jpg"
+  },
+  {
+    "numero": "644",
+    "nome": "Martin Harnik",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/644.jpg"
+  },
+  {
+    "numero": "645",
+    "nome": "Lukas Hinterseer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/645.jpg"
+  },
+  {
+    "numero": "646",
+    "nome": "Rubin Okotie",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/646.jpg"
+  },
+  {
+    "numero": "647",
+    "nome": "Marcel Sabitzer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/647.jpg"
+  },
+  {
+    "numero": "648",
+    "nome": "Marc Janko",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/648.jpg"
+  },
+  {
+    "numero": "649",
+    "nome": "David Alaba",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/649.jpg"
+  },
+  {
+    "numero": "650",
+    "nome": "Robert Almer / Florian Klein",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/650.jpg"
+  },
+  {
+    "numero": "651",
+    "nome": "Aleksandar Dragovic / Sebastian Prödl",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/651.jpg"
+  },
+  {
+    "numero": "652",
+    "nome": "Christian Fuchs / Julian Baumgartlinger",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/652.jpg"
+  },
+  {
+    "numero": "653",
+    "nome": "Martin Harnik / Zlatko Junuzovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/653.jpg"
+  },
+  {
+    "numero": "654",
+    "nome": "Marko Arnautovic / Marc Janko",
+    "tenho": true,
+    "especial": false,
+    "clube": "Österreich",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/654.jpg"
+  },
+  {
+    "numero": "655",
+    "nome": "Balázs Dzsudzsák",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/655.jpg"
+  },
+  {
+    "numero": "656",
+    "nome": "Gábor Király / Attila Fiola",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/656.jpg"
+  },
+  {
+    "numero": "657",
+    "nome": "Roland Juhász / Richárd Guzmics",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/657.jpg"
+  },
+  {
+    "numero": "658",
+    "nome": "Tamás Kádár / Ákos Elek",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/658.jpg"
+  },
+  {
+    "numero": "659",
+    "nome": "Zoltán Gera / László Kleinheisler",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/659.jpg"
+  },
+  {
+    "numero": "660",
+    "nome": "Gergő Lovrencsics / Tamás Priskin",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/660.jpg"
+  },
+  {
+    "numero": "661",
+    "nome": "Gábor Király",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/661.jpg"
+  },
+  {
+    "numero": "662",
+    "nome": "Ádám Bogdán",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/662.jpg"
+  },
+  {
+    "numero": "662x",
+    "nome": "Dénes Dibusz",
+    "tenho": true,
+    "especial": true,
+    "clube": "Magyarország",
+    "tipo": "Update / International",
+    "imagem": "images/capas/Euro 2016/662x.jpg"
+  },
+  {
+    "numero": "663",
+    "nome": "Roland Juhász",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/663.jpg"
+  },
+  {
+    "numero": "664",
+    "nome": "Attila Fiola",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/664.jpg"
+  },
+  {
+    "numero": "665",
+    "nome": "Richárd Guzmics",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/665.jpg"
+  },
+  {
+    "numero": "666",
+    "nome": "Ádám Lang",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/666.jpg"
+  },
+  {
+    "numero": "667",
+    "nome": "Tamás Kádár",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/667.jpg"
+  },
+  {
+    "numero": "668",
+    "nome": "Ádám Pintér",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/668.jpg"
+  },
+  {
+    "numero": "669",
+    "nome": "Ákos Elek",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/669.jpg"
+  },
+  {
+    "numero": "670",
+    "nome": "Zoltán Gera",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/670.jpg"
+  },
+  {
+    "numero": "671",
+    "nome": "Ádám Nagy",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/671.jpg"
+  },
+  {
+    "numero": "672",
+    "nome": "Zoltán Stieber",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/672.jpg"
+  },
+  {
+    "numero": "673",
+    "nome": "Balázs Dzsudzsák",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/673.jpg"
+  },
+  {
+    "numero": "674",
+    "nome": "László Kleinheisler",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/674.jpg"
+  },
+  {
+    "numero": "675",
+    "nome": "Gergo Lovrencsics",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/675.jpg"
+  },
+  {
+    "numero": "676",
+    "nome": "Krisztián Németh",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/676.jpg"
+  },
+  {
+    "numero": "677",
+    "nome": "Nemanja Nikolic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/677.jpg"
+  },
+  {
+    "numero": "678",
+    "nome": "Dániel Böde",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/678.jpg"
+  },
+  {
+    "numero": "679",
+    "nome": "Tamás Priskin",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/679.jpg"
+  },
+  {
+    "numero": "680",
+    "nome": "Ádám Szalai",
+    "tenho": true,
+    "especial": false,
+    "clube": "Magyarország",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 2016/680.jpg"
+  }
+]
