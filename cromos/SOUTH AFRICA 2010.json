@@ -1,5022 +1,6454 @@
 [
-
   {
     "numero": "00",
-    "nome": "Cromo 00",
+    "nome": "My Game is Fair Play",
     "tenho": true,
-    "especial": true,
+    "especial": false,
+    "clube": "Introduction",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/00.jpg"
   },
   {
     "numero": "000",
-    "nome": "Cromo 000",
+    "nome": "Panini Stamp",
     "tenho": true,
-    "especial": true,
+    "especial": false,
+    "clube": "Introduction",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/000.jpg"
   },
   {
     "numero": "1",
-    "nome": "Cromo 1",
+    "nome": "FIFA World Cup Trophy",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/1.jpg"
   },
   {
     "numero": "2",
-    "nome": "Cromo 2",
+    "nome": "Official Logo - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/2.jpg"
   },
   {
     "numero": "3",
-    "nome": "Cromo 3",
+    "nome": "Official Logo - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/3.jpg"
   },
   {
     "numero": "4",
-    "nome": "Cromo 4",
+    "nome": "Official Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/4.jpg"
   },
   {
     "numero": "5",
-    "nome": "Cromo 5",
+    "nome": "Official Ball",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/5.jpg"
   },
   {
     "numero": "6",
-    "nome": "Cromo 6",
+    "nome": "Cape Town - Green Point Stadium  - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/6.jpg"
   },
   {
     "numero": "7",
-    "nome": "Cromo 7",
+    "nome": "Cape Town - Green Point Stadium  - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/7.jpg"
   },
   {
     "numero": "8",
-    "nome": "Cromo 8",
+    "nome": "Durban - Durban Stadium  - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/8.jpg"
   },
   {
     "numero": "9",
-    "nome": "Cromo 9",
+    "nome": "Durban - Durban Stadium  - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/9.jpg"
   },
   {
     "numero": "10",
-    "nome": "Cromo 10",
+    "nome": "Johannesburg - Ellis Park Stadium  - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/10.jpg"
   },
   {
     "numero": "11",
-    "nome": "Cromo 11",
+    "nome": "Johannesburg - Ellis Park Stadium  - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/11.jpg"
   },
   {
     "numero": "12",
-    "nome": "Cromo 12",
+    "nome": "Johannesburg - Soccer City Stadium  - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/12.jpg"
   },
   {
     "numero": "13",
-    "nome": "Cromo 13",
+    "nome": "Johannesburg - Soccer City Stadium  - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/13.jpg"
   },
   {
     "numero": "14",
-    "nome": "Cromo 14",
+    "nome": "Mangaung/Bloemfontein - Free State Stadium  - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/14.jpg"
   },
   {
     "numero": "15",
-    "nome": "Cromo 15",
+    "nome": "Mangaung/Bloemfontein - Free State Stadium  - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/15.jpg"
   },
   {
     "numero": "16",
-    "nome": "Cromo 16",
+    "nome": "Nelson Mandela Bay/Port Elizabeth - Nelson Mandela Bay Stadium  - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/16.jpg"
   },
   {
     "numero": "17",
-    "nome": "Cromo 17",
+    "nome": "Nelson Mandela Bay/Port Elizabeth - Nelson Mandela Bay Stadium  - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/17.jpg"
   },
   {
     "numero": "18",
-    "nome": "Cromo 18",
+    "nome": "Nelspruit - Mbombela Stadium  - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/18.jpg"
   },
   {
     "numero": "19",
-    "nome": "Cromo 19",
+    "nome": "Nelspruit - Mbombela Stadium  - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/19.jpg"
   },
   {
     "numero": "20",
-    "nome": "Cromo 20",
+    "nome": "Polokwane - Peter Mokaba Stadium  - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/20.jpg"
   },
   {
     "numero": "21",
-    "nome": "Cromo 21",
+    "nome": "Polokwane - Peter Mokaba Stadium  - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/21.jpg"
   },
   {
     "numero": "22",
-    "nome": "Cromo 22",
+    "nome": "Rustenburg - Royal Bafokeng Stadium  - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/22.jpg"
   },
   {
     "numero": "23",
-    "nome": "Cromo 23",
+    "nome": "Rustenburg - Royal Bafokeng Stadium  - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/23.jpg"
   },
   {
     "numero": "24",
-    "nome": "Cromo 24",
+    "nome": "Tshwane/Pretoria - Loftus Versfeld Stadium  - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/24.jpg"
   },
   {
     "numero": "25",
-    "nome": "Cromo 25",
+    "nome": "Tshwane/Pretoria - Loftus Versfeld Stadium  - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/25.jpg"
   },
   {
     "numero": "26",
-    "nome": "Cromo 26",
+    "nome": "Official Slogan",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/26.jpg"
   },
   {
     "numero": "27",
-    "nome": "Cromo 27",
+    "nome": "Official Poster  - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/27.jpg"
   },
   {
     "numero": "28",
-    "nome": "Cromo 28",
+    "nome": "Official Poster  - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/28.jpg"
   },
   {
     "numero": "29",
-    "nome": "Cromo 29",
+    "nome": "Official Mascot",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/29.jpg"
   },
   {
     "numero": "30",
-    "nome": "Cromo 30",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/30.jpg"
   },
   {
     "numero": "31",
-    "nome": "Cromo 31",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/31.jpg"
   },
   {
     "numero": "32",
-    "nome": "Cromo 32",
+    "nome": "Itumeleng Khune",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/32.jpg"
   },
   {
     "numero": "33",
-    "nome": "Cromo 33",
+    "nome": "Siboniso Gaxa",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/33.jpg"
   },
   {
     "numero": "34",
-    "nome": "Cromo 34",
+    "nome": "Tsepo Masilela",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/34.jpg"
   },
   {
     "numero": "35",
-    "nome": "Cromo 35",
+    "nome": "Matthew Booth",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/35.jpg"
   },
   {
     "numero": "36",
-    "nome": "Cromo 36",
+    "nome": "Morgan Gould",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/36.jpg"
   },
   {
     "numero": "36x",
-    "nome": "Cromo 36x",
+    "nome": "Bongani Khumalo",
     "tenho": true,
     "especial": true,
+    "clube": "South Africa",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/36x.jpg"
   },
   {
     "numero": "37",
-    "nome": "Cromo 37",
+    "nome": "Lucas Thwala",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/37.jpg"
   },
   {
     "numero": "38",
-    "nome": "Cromo 38",
+    "nome": "Aaron Mokoena",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/38.jpg"
   },
   {
     "numero": "39",
-    "nome": "Cromo 39",
+    "nome": "Macbeth Sibaya",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/39.jpg"
   },
   {
     "numero": "40",
-    "nome": "Cromo 40",
+    "nome": "Kagisho Dikgacoi",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/40.jpg"
   },
   {
     "numero": "41",
-    "nome": "Cromo 41",
+    "nome": "Teko Modise",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/41.jpg"
   },
   {
     "numero": "42",
-    "nome": "Cromo 42",
+    "nome": "Siphiwe Tshabalala",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/42.jpg"
   },
   {
     "numero": "43",
-    "nome": "Cromo 43",
+    "nome": "Steven Pienaar",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/43.jpg"
   },
   {
     "numero": "44",
-    "nome": "Cromo 44",
+    "nome": "Richard Henyekane",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/44.jpg"
   },
   {
     "numero": "44x",
-    "nome": "Cromo 44x",
+    "nome": "Lance Davids",
     "tenho": true,
     "especial": true,
+    "clube": "South Africa",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/44x.jpg"
   },
   {
     "numero": "45",
-    "nome": "Cromo 45",
+    "nome": "Thembinkosi Fanteni",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/45.jpg"
   },
   {
     "numero": "45x",
-    "nome": "Cromo 45x",
+    "nome": "Surprise Moriri",
     "tenho": true,
     "especial": true,
+    "clube": "South Africa",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/45x.jpg"
   },
   {
     "numero": "46",
-    "nome": "Cromo 46",
+    "nome": "Benni McCarthy",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/46.jpg"
   },
   {
     "numero": "46x",
-    "nome": "Cromo 46x",
+    "nome": "Siyabonga Nomvethe",
     "tenho": true,
     "especial": true,
+    "clube": "South Africa",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/46x.jpg"
   },
   {
     "numero": "47",
-    "nome": "Cromo 47",
+    "nome": "Katlego Mphela",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/47.jpg"
   },
   {
     "numero": "48",
-    "nome": "Cromo 48",
+    "nome": "Bernard Parker",
     "tenho": true,
     "especial": false,
+    "clube": "South Africa",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/48.jpg"
   },
   {
     "numero": "49",
-    "nome": "Cromo 49",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "México",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/49.jpg"
   },
   {
     "numero": "50",
-    "nome": "Cromo 50",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "México",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/50.jpg"
   },
   {
     "numero": "51",
-    "nome": "Cromo 51",
+    "nome": "Guillermo Ochoa",
     "tenho": true,
     "especial": false,
+    "clube": "México",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/51.jpg"
   },
   {
     "numero": "52",
-    "nome": "Cromo 52",
+    "nome": "Carlos Salcido",
     "tenho": true,
     "especial": false,
+    "clube": "México",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/52.jpg"
   },
   {
     "numero": "53",
-    "nome": "Cromo 53",
+    "nome": "Ricardo Osorio",
     "tenho": true,
     "especial": false,
+    "clube": "México",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/53.jpg"
   },
   {
     "numero": "54",
-    "nome": "Cromo 54",
+    "nome": "Jose Jonny Magallon",
     "tenho": true,
     "especial": false,
+    "clube": "México",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/54.jpg"
   },
   {
     "numero": "55",
-    "nome": "Cromo 55",
+    "nome": "Aaron Galindo",
     "tenho": true,
     "especial": false,
+    "clube": "México",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/55.jpg"
   },
   {
     "numero": "55x",
-    "nome": "Cromo 55x",
+    "nome": "Francisco Rodriguez",
     "tenho": true,
     "especial": true,
+    "clube": "México",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/55x.jpg"
   },
   {
     "numero": "56",
-    "nome": "Cromo 56",
+    "nome": "Rafael Marquez",
     "tenho": true,
     "especial": false,
+    "clube": "México",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/56.jpg"
   },
   {
     "numero": "57",
-    "nome": "Cromo 57",
+    "nome": "Gerardo Torrado",
     "tenho": true,
     "especial": false,
+    "clube": "México",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/57.jpg"
   },
   {
     "numero": "58",
-    "nome": "Cromo 58",
+    "nome": "Pavel Pardo",
     "tenho": true,
     "especial": false,
+    "clube": "México",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/58.jpg"
   },
   {
     "numero": "58x",
-    "nome": "Cromo 58x",
+    "nome": "Hector Moreno",
     "tenho": true,
     "especial": true,
+    "clube": "México",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/58x.jpg"
   },
   {
     "numero": "59",
-    "nome": "Cromo 59",
+    "nome": "Alberto Medina",
     "tenho": true,
     "especial": false,
+    "clube": "México",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/59.jpg"
   },
   {
     "numero": "60",
-    "nome": "Cromo 60",
+    "nome": "Andres Guardado",
     "tenho": true,
     "especial": false,
+    "clube": "México",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/60.jpg"
   },
   {
     "numero": "61",
-    "nome": "Cromo 61",
+    "nome": "Giovani Dos Santos",
     "tenho": true,
     "especial": false,
+    "clube": "México",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/61.jpg"
   },
   {
     "numero": "62",
-    "nome": "Cromo 62",
+    "nome": "Guillermo Franco",
     "tenho": true,
     "especial": false,
+    "clube": "México",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/62.jpg"
   },
   {
     "numero": "63",
-    "nome": "Cromo 63",
+    "nome": "Cuauhtemoc Blanco",
     "tenho": true,
     "especial": false,
+    "clube": "México",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/63.jpg"
   },
   {
     "numero": "64",
-    "nome": "Cromo 64",
+    "nome": "Javier Hernandez",
     "tenho": true,
     "especial": false,
+    "clube": "México",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/64.jpg"
   },
   {
     "numero": "65",
-    "nome": "Cromo 65",
+    "nome": "Carlos Vela",
     "tenho": true,
     "especial": false,
+    "clube": "México",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/65.jpg"
   },
   {
     "numero": "66",
-    "nome": "Cromo 66",
+    "nome": "Aldo De Nigris",
     "tenho": true,
     "especial": false,
+    "clube": "México",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/66.jpg"
   },
   {
     "numero": "66x",
-    "nome": "Cromo 66x",
+    "nome": "Adolfo Bautista",
     "tenho": true,
     "especial": true,
+    "clube": "México",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/66x.jpg"
   },
   {
     "numero": "67",
-    "nome": "Cromo 67",
+    "nome": "Miguel Sabah",
     "tenho": true,
     "especial": false,
+    "clube": "México",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/67.jpg"
   },
   {
     "numero": "67x",
-    "nome": "Cromo 67x",
+    "nome": "Pablo Barrera",
     "tenho": true,
     "especial": true,
+    "clube": "México",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/67x.jpg"
   },
   {
     "numero": "68",
-    "nome": "Cromo 68",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/68.jpg"
   },
   {
     "numero": "69",
-    "nome": "Cromo 69",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/69.jpg"
   },
   {
     "numero": "70",
-    "nome": "Cromo 70",
+    "nome": "Fernando Muslera",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/70.jpg"
   },
   {
     "numero": "71",
-    "nome": "Cromo 71",
+    "nome": "Diego Lugano",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/71.jpg"
   },
   {
     "numero": "72",
-    "nome": "Cromo 72",
+    "nome": "Diego Godin",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/72.jpg"
   },
   {
     "numero": "73",
-    "nome": "Cromo 73",
+    "nome": "Maxi Pereira",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/73.jpg"
   },
   {
     "numero": "74",
-    "nome": "Cromo 74",
+    "nome": "Martin Caceres",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/74.jpg"
   },
   {
     "numero": "75",
-    "nome": "Cromo 75",
+    "nome": "Jorge Fucile",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/75.jpg"
   },
   {
     "numero": "76",
-    "nome": "Cromo 76",
+    "nome": "Bruno Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/76.jpg"
   },
   {
     "numero": "76x",
-    "nome": "Cromo 76x",
+    "nome": "Andres Scotti",
     "tenho": true,
     "especial": true,
+    "clube": "Uruguay",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/76x.jpg"
   },
   {
     "numero": "77",
-    "nome": "Cromo 77",
+    "nome": "Walter Gargano",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/77.jpg"
   },
   {
     "numero": "78",
-    "nome": "Cromo 78",
+    "nome": "Cristian Rodriguez",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/78.jpg"
   },
   {
     "numero": "78x",
-    "nome": "Cromo 78x",
+    "nome": "Ignacio Gonzalez",
     "tenho": true,
     "especial": true,
+    "clube": "Uruguay",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/78x.jpg"
   },
   {
     "numero": "79",
-    "nome": "Cromo 79",
+    "nome": "Sebastian Eguren",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/79.jpg"
   },
   {
     "numero": "80",
-    "nome": "Cromo 80",
+    "nome": "Alvaro Pereira",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/80.jpg"
   },
   {
     "numero": "81",
-    "nome": "Cromo 81",
+    "nome": "Diego Perez",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/81.jpg"
   },
   {
     "numero": "82",
-    "nome": "Cromo 82",
+    "nome": "Nicolas Lodeiro",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/82.jpg"
   },
   {
     "numero": "83",
-    "nome": "Cromo 83",
+    "nome": "Edinson Cavani",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/83.jpg"
   },
   {
     "numero": "84",
-    "nome": "Cromo 84",
+    "nome": "Luis Suarez",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/84.jpg"
   },
   {
     "numero": "85",
-    "nome": "Cromo 85",
+    "nome": "Diego Forlan",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/85.jpg"
   },
   {
     "numero": "86",
-    "nome": "Cromo 86",
+    "nome": "Sebastian Abreu",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/86.jpg"
   },
   {
     "numero": "87",
-    "nome": "Cromo 87",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/87.jpg"
   },
   {
     "numero": "88",
-    "nome": "Cromo 88",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/88.jpg"
   },
   {
     "numero": "89",
-    "nome": "Cromo 89",
+    "nome": "Hugo Lloris",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/89.jpg"
   },
   {
     "numero": "90",
-    "nome": "Cromo 90",
+    "nome": "Steve Mandanda",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/90.jpg"
   },
   {
     "numero": "91",
-    "nome": "Cromo 91",
+    "nome": "William Gallas",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/91.jpg"
   },
   {
     "numero": "92",
-    "nome": "Cromo 92",
+    "nome": "Eric Abidal",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/92.jpg"
   },
   {
     "numero": "93",
-    "nome": "Cromo 93",
+    "nome": "Bacary Sagna",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/93.jpg"
   },
   {
     "numero": "94",
-    "nome": "Cromo 94",
+    "nome": "Patrice Evra",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/94.jpg"
   },
   {
     "numero": "95",
-    "nome": "Cromo 95",
+    "nome": "Lassana Diarra",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/95.jpg"
   },
   {
     "numero": "95x",
-    "nome": "Cromo 95x",
+    "nome": "Mathieu Valbuena",
     "tenho": true,
     "especial": true,
+    "clube": "France",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/95x.jpg"
   },
   {
     "numero": "96",
-    "nome": "Cromo 96",
+    "nome": "Jeremy Toulalan",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/96.jpg"
   },
   {
     "numero": "97",
-    "nome": "Cromo 97",
+    "nome": "Alou Diarra",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/97.jpg"
   },
   {
     "numero": "98",
-    "nome": "Cromo 98",
+    "nome": "Yoann Gourcuff",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/98.jpg"
   },
   {
     "numero": "99",
-    "nome": "Cromo 99",
+    "nome": "Florent Malouda",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/99.jpg"
   },
   {
     "numero": "100",
-    "nome": "Cromo 100",
+    "nome": "Franck Ribery",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/100.jpg"
   },
   {
     "numero": "101",
-    "nome": "Cromo 101",
+    "nome": "Sidney Govou",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/101.jpg"
   },
   {
     "numero": "102",
-    "nome": "Cromo 102",
+    "nome": "Nicolas Anelka",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/102.jpg"
   },
   {
     "numero": "103",
-    "nome": "Cromo 103",
+    "nome": "Thierry Henry",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/103.jpg"
   },
   {
     "numero": "104",
-    "nome": "Cromo 104",
+    "nome": "Karim Benzema",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/104.jpg"
   },
   {
     "numero": "104x",
-    "nome": "Cromo 104x",
+    "nome": "Djibril Cisse",
     "tenho": true,
     "especial": true,
+    "clube": "France",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/104x.jpg"
   },
   {
     "numero": "105",
-    "nome": "Cromo 105",
+    "nome": "Andre-Pierre Gignac",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/105.jpg"
   },
   {
     "numero": "106",
-    "nome": "Cromo 106",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/106.jpg"
   },
   {
     "numero": "107",
-    "nome": "Cromo 107",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/107.jpg"
   },
   {
     "numero": "108",
-    "nome": "Cromo 108",
+    "nome": "Sergio Romero",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/108.jpg"
   },
   {
     "numero": "109",
-    "nome": "Cromo 109",
+    "nome": "Martin Demichelis",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/109.jpg"
   },
   {
     "numero": "110",
-    "nome": "Cromo 110",
+    "nome": "Gabriel Heinze",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/110.jpg"
   },
   {
     "numero": "111",
-    "nome": "Cromo 111",
+    "nome": "Walter Samuel",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/111.jpg"
   },
   {
     "numero": "112",
-    "nome": "Cromo 112",
+    "nome": "Nicolas Otamendi",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/112.jpg"
   },
   {
     "numero": "113",
-    "nome": "Cromo 113",
+    "nome": "Javier Zanetti",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/113.jpg"
   },
   {
     "numero": "113x",
-    "nome": "Cromo 113x",
+    "nome": "Nicolas Burdisso",
     "tenho": true,
     "especial": true,
+    "clube": "Argentina",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/113x.jpg"
   },
   {
     "numero": "114",
-    "nome": "Cromo 114",
+    "nome": "Esteban Cambiasso",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/114.jpg"
   },
   {
     "numero": "114x",
-    "nome": "Cromo 114x",
+    "nome": "Mario Bolatti",
     "tenho": true,
     "especial": true,
+    "clube": "Argentina",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/114x.jpg"
   },
   {
     "numero": "115",
-    "nome": "Cromo 115",
+    "nome": "Fernando Gago",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/115.jpg"
   },
   {
     "numero": "115x",
-    "nome": "Cromo 115x",
+    "nome": "Javier Pastore",
     "tenho": true,
     "especial": true,
+    "clube": "Argentina",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/115x.jpg"
   },
   {
     "numero": "116",
-    "nome": "Cromo 116",
+    "nome": "Javier Mascherano",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/116.jpg"
   },
   {
     "numero": "117",
-    "nome": "Cromo 117",
+    "nome": "Maxi Rodriguez",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/117.jpg"
   },
   {
     "numero": "118",
-    "nome": "Cromo 118",
+    "nome": "Juan Sebastian Veron",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/118.jpg"
   },
   {
     "numero": "119",
-    "nome": "Cromo 119",
+    "nome": "Angel Di Maria",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/119.jpg"
   },
   {
     "numero": "120",
-    "nome": "Cromo 120",
+    "nome": "Gonzalo Higuain",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/120.jpg"
   },
   {
     "numero": "121",
-    "nome": "Cromo 121",
+    "nome": "Sergio Agüero",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/121.jpg"
   },
   {
     "numero": "122",
-    "nome": "Cromo 122",
+    "nome": "Lionel Messi",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/122.jpg"
   },
   {
     "numero": "123",
-    "nome": "Cromo 123",
+    "nome": "Diego Milito",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/123.jpg"
   },
   {
     "numero": "124",
-    "nome": "Cromo 124",
+    "nome": "Carlos Tevez",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/124.jpg"
   },
   {
     "numero": "125",
-    "nome": "Cromo 125",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/125.jpg"
   },
   {
     "numero": "126",
-    "nome": "Cromo 126",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/126.jpg"
   },
   {
     "numero": "127",
-    "nome": "Cromo 127",
+    "nome": "Vincent Enyeama",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/127.jpg"
   },
   {
     "numero": "128",
-    "nome": "Cromo 128",
+    "nome": "Joseph Yobo",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/128.jpg"
   },
   {
     "numero": "129",
-    "nome": "Cromo 129",
+    "nome": "Taye Taiwo",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/129.jpg"
   },
   {
     "numero": "130",
-    "nome": "Cromo 130",
+    "nome": "Obinna Nwaneri",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/130.jpg"
   },
   {
     "numero": "130x",
-    "nome": "Cromo 130x",
+    "nome": "Rabiu Afolabi",
     "tenho": true,
     "especial": true,
+    "clube": "Nigeria",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/130x.jpg"
   },
   {
     "numero": "131",
-    "nome": "Cromo 131",
+    "nome": "Chidi Odiah",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/131.jpg"
   },
   {
     "numero": "132",
-    "nome": "Cromo 132",
+    "nome": "Onyekachi Apam",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/132.jpg"
   },
   {
     "numero": "132x",
-    "nome": "Cromo 132x",
+    "nome": "Uwa Echiejile",
     "tenho": true,
     "especial": true,
+    "clube": "Nigeria",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/132x.jpg"
   },
   {
     "numero": "133",
-    "nome": "Cromo 133",
+    "nome": "Danny Shittu",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/133.jpg"
   },
   {
     "numero": "134",
-    "nome": "Cromo 134",
+    "nome": "Ayila Yussuf",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/134.jpg"
   },
   {
     "numero": "135",
-    "nome": "Cromo 135",
+    "nome": "John Obi Mikel",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/135.jpg"
   },
   {
     "numero": "135x",
-    "nome": "Cromo 135x",
+    "nome": "Sani Kaita",
     "tenho": true,
     "especial": true,
+    "clube": "Nigeria",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/135x.jpg"
   },
   {
     "numero": "136",
-    "nome": "Cromo 136",
+    "nome": "Seyi Olofinjana",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/136.jpg"
   },
   {
     "numero": "136x",
-    "nome": "Cromo 136x",
+    "nome": "Dickson Etuhu",
     "tenho": true,
     "especial": true,
+    "clube": "Nigeria",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/136x.jpg"
   },
   {
     "numero": "137",
-    "nome": "Cromo 137",
+    "nome": "Kalu Uche",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/137.jpg"
   },
   {
     "numero": "138",
-    "nome": "Cromo 138",
+    "nome": "Peter Odemwingie",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/138.jpg"
   },
   {
     "numero": "139",
-    "nome": "Cromo 139",
+    "nome": "Nwankwo Kanu",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/139.jpg"
   },
   {
     "numero": "140",
-    "nome": "Cromo 140",
+    "nome": "Chinedu Obasi Ogbuke",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/140.jpg"
   },
   {
     "numero": "141",
-    "nome": "Cromo 141",
+    "nome": "Victor Obinna",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/141.jpg"
   },
   {
     "numero": "142",
-    "nome": "Cromo 142",
+    "nome": "Obafemi Martins",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/142.jpg"
   },
   {
     "numero": "143",
-    "nome": "Cromo 143",
+    "nome": "Yakubu Aiyegbeni",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/143.jpg"
   },
   {
     "numero": "144",
-    "nome": "Cromo 144",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Rebublic",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/144.jpg"
   },
   {
     "numero": "145",
-    "nome": "Cromo 145",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Rebublic",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/145.jpg"
   },
   {
     "numero": "146",
-    "nome": "Cromo 146",
+    "nome": "Lee Woon-Jae",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Rebublic",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/146.jpg"
   },
   {
     "numero": "147",
-    "nome": "Cromo 147",
+    "nome": "Jung Sung-Ryong",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Rebublic",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/147.jpg"
   },
   {
     "numero": "148",
-    "nome": "Cromo 148",
+    "nome": "Cho Yong-Hyung",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Rebublic",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/148.jpg"
   },
   {
     "numero": "149",
-    "nome": "Cromo 149",
+    "nome": "Kang Min-Soo",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Rebublic",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/149.jpg"
   },
   {
     "numero": "150",
-    "nome": "Cromo 150",
+    "nome": "Lee Jung-Soo",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Rebublic",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/150.jpg"
   },
   {
     "numero": "151",
-    "nome": "Cromo 151",
+    "nome": "Kim Dong-Jin",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Rebublic",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/151.jpg"
   },
   {
     "numero": "152",
-    "nome": "Cromo 152",
+    "nome": "Oh Beom-Seok",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Rebublic",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/152.jpg"
   },
   {
     "numero": "153",
-    "nome": "Cromo 153",
+    "nome": "Lee Young-Pyo",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Rebublic",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/153.jpg"
   },
   {
     "numero": "154",
-    "nome": "Cromo 154",
+    "nome": "Park Ji-Sung",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Rebublic",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/154.jpg"
   },
   {
     "numero": "155",
-    "nome": "Cromo 155",
+    "nome": "Cho Won-Hee",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Rebublic",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/155.jpg"
   },
   {
     "numero": "155x",
-    "nome": "Cromo 155x",
+    "nome": "Cha Du-Ri",
     "tenho": true,
     "especial": true,
+    "clube": "Korea Rebublic",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/155x.jpg"
   },
   {
     "numero": "156",
-    "nome": "Cromo 156",
+    "nome": "Lee Chung-Yong",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Rebublic",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/156.jpg"
   },
   {
     "numero": "157",
-    "nome": "Cromo 157",
+    "nome": "Ki Sung-Yueng",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Rebublic",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/157.jpg"
   },
   {
     "numero": "158",
-    "nome": "Cromo 158",
+    "nome": "Kim Nam-Il",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Rebublic",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/158.jpg"
   },
   {
     "numero": "159",
-    "nome": "Cromo 159",
+    "nome": "Kim Do-Heon",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Rebublic",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/159.jpg"
   },
   {
     "numero": "159x",
-    "nome": "Cromo 159x",
+    "nome": "Kim Jung-Woo",
     "tenho": true,
     "especial": true,
+    "clube": "Korea Rebublic",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/159x.jpg"
   },
   {
     "numero": "160",
-    "nome": "Cromo 160",
+    "nome": "Seol Ki-Hyeon",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Rebublic",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/160.jpg"
   },
   {
     "numero": "160x",
-    "nome": "Cromo 160x",
+    "nome": "Ahn Jung-Hwan",
     "tenho": true,
     "especial": true,
+    "clube": "Korea Rebublic",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/160x.jpg"
   },
   {
     "numero": "161",
-    "nome": "Cromo 161",
+    "nome": "Park Chu-Young",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Rebublic",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/161.jpg"
   },
   {
     "numero": "162",
-    "nome": "Cromo 162",
+    "nome": "Lee Keun-Ho",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Rebublic",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/162.jpg"
   },
   {
     "numero": "162x",
-    "nome": "Cromo 162x",
+    "nome": "Yeom Ki-Hun",
     "tenho": true,
     "especial": true,
+    "clube": "Korea Rebublic",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/162x.jpg"
   },
   {
     "numero": "163",
-    "nome": "Cromo 163",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/163.jpg"
   },
   {
     "numero": "164",
-    "nome": "Cromo 164",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/164.jpg"
   },
   {
     "numero": "165",
-    "nome": "Cromo 165",
+    "nome": "Alexandros Tzorvas",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/165.jpg"
   },
   {
     "numero": "166",
-    "nome": "Cromo 166",
+    "nome": "Sotirios Kyrgiakos",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/166.jpg"
   },
   {
     "numero": "167",
-    "nome": "Cromo 167",
+    "nome": "Vangelis Moras",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/167.jpg"
   },
   {
     "numero": "168",
-    "nome": "Cromo 168",
+    "nome": "Sokratis Papastathopoulos",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/168.jpg"
   },
   {
     "numero": "169",
-    "nome": "Cromo 169",
+    "nome": "Christos Patsatzoglou",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/169.jpg"
   },
   {
     "numero": "170",
-    "nome": "Cromo 170",
+    "nome": "Avraam Papadopoulos",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/170.jpg"
   },
   {
     "numero": "171",
-    "nome": "Cromo 171",
+    "nome": "Vasilis Torosidis",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/171.jpg"
   },
   {
     "numero": "172",
-    "nome": "Cromo 172",
+    "nome": "Georgios Seitaridis",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/172.jpg"
   },
   {
     "numero": "173",
-    "nome": "Cromo 173",
+    "nome": "Alexandros Tziolis",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/173.jpg"
   },
   {
     "numero": "174",
-    "nome": "Cromo 174",
+    "nome": "Angelos Basinas",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/174.jpg"
   },
   {
     "numero": "174x",
-    "nome": "Cromo 174x",
+    "nome": "Athanasios Prittas",
     "tenho": true,
     "especial": true,
+    "clube": "Hellas",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/174x.jpg"
   },
   {
     "numero": "175",
-    "nome": "Cromo 175",
+    "nome": "Kostas Katsouranis",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/175.jpg"
   },
   {
     "numero": "176",
-    "nome": "Cromo 176",
+    "nome": "Giorgos Karagounis",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/176.jpg"
   },
   {
     "numero": "177",
-    "nome": "Cromo 177",
+    "nome": "Sotiris Ninis",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/177.jpg"
   },
   {
     "numero": "178",
-    "nome": "Cromo 178",
+    "nome": "Dimitris Salpingidis",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/178.jpg"
   },
   {
     "numero": "179",
-    "nome": "Cromo 179",
+    "nome": "Theofanis Gekas",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/179.jpg"
   },
   {
     "numero": "180",
-    "nome": "Cromo 180",
+    "nome": "Georgios Samaras",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/180.jpg"
   },
   {
     "numero": "181",
-    "nome": "Cromo 181",
+    "nome": "Angelos Charisteas",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/181.jpg"
   },
   {
     "numero": "182",
-    "nome": "Cromo 182",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/182.jpg"
   },
   {
     "numero": "183",
-    "nome": "Cromo 183",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/183.jpg"
   },
   {
     "numero": "184",
-    "nome": "Cromo 184",
+    "nome": "David James",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/184.jpg"
   },
   {
     "numero": "185",
-    "nome": "Cromo 185",
+    "nome": "John Terry",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/185.jpg"
   },
   {
     "numero": "186",
-    "nome": "Cromo 186",
+    "nome": "Rio Ferdinand",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/186.jpg"
   },
   {
     "numero": "186x",
-    "nome": "Cromo 186x",
+    "nome": "Ledley King",
     "tenho": true,
     "especial": true,
+    "clube": "England",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/186x.jpg"
   },
   {
     "numero": "187",
-    "nome": "Cromo 187",
+    "nome": "Glen Johnson",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/187.jpg"
   },
   {
     "numero": "188",
-    "nome": "Cromo 188",
+    "nome": "Ashley Cole",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/188.jpg"
   },
   {
     "numero": "189",
-    "nome": "Cromo 189",
+    "nome": "Matthew Upson",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/189.jpg"
   },
   {
     "numero": "190",
-    "nome": "Cromo 190",
+    "nome": "David Beckham",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/190.jpg"
   },
   {
     "numero": "190x",
-    "nome": "Cromo 190x",
+    "nome": "Jamie Carragher",
     "tenho": true,
     "especial": true,
+    "clube": "England",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/190x.jpg"
   },
   {
     "numero": "191",
-    "nome": "Cromo 191",
+    "nome": "Frank Lampard",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/191.jpg"
   },
   {
     "numero": "192",
-    "nome": "Cromo 192",
+    "nome": "Steven Gerrard",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/192.jpg"
   },
   {
     "numero": "193",
-    "nome": "Cromo 193",
+    "nome": "Aaron Lennon",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/193.jpg"
   },
   {
     "numero": "194",
-    "nome": "Cromo 194",
+    "nome": "Gareth Barry",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/194.jpg"
   },
   {
     "numero": "195",
-    "nome": "Cromo 195",
+    "nome": "Shaun Wright-Phillips",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/195.jpg"
   },
   {
     "numero": "196",
-    "nome": "Cromo 196",
+    "nome": "Theo Walcott",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/196.jpg"
   },
   {
     "numero": "196x",
-    "nome": "Cromo 196x",
+    "nome": "James Milner",
     "tenho": true,
     "especial": true,
+    "clube": "England",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/196x.jpg"
   },
   {
     "numero": "197",
-    "nome": "Cromo 197",
+    "nome": "Emile Heskey",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/197.jpg"
   },
   {
     "numero": "198",
-    "nome": "Cromo 198",
+    "nome": "Wayne Rooney",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/198.jpg"
   },
   {
     "numero": "199",
-    "nome": "Cromo 199",
+    "nome": "Jermain Defoe",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/199.jpg"
   },
   {
     "numero": "200",
-    "nome": "Cromo 200",
+    "nome": "Peter Crouch",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/200.jpg"
   },
   {
     "numero": "201",
-    "nome": "Cromo 201",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/201.jpg"
   },
   {
     "numero": "202",
-    "nome": "Cromo 202",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/202.jpg"
   },
   {
     "numero": "203",
-    "nome": "Cromo 203",
+    "nome": "Tim Howard",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/203.jpg"
   },
   {
     "numero": "204",
-    "nome": "Cromo 204",
+    "nome": "Carlos Bocanegra",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/204.jpg"
   },
   {
     "numero": "205",
-    "nome": "Cromo 205",
+    "nome": "Steve Cherundolo",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/205.jpg"
   },
   {
     "numero": "206",
-    "nome": "Cromo 206",
+    "nome": "Jay Demerit",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/206.jpg"
   },
   {
     "numero": "207",
-    "nome": "Cromo 207",
+    "nome": "Jonathan Bornstein",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/207.jpg"
   },
   {
     "numero": "208",
-    "nome": "Cromo 208",
+    "nome": "Jonathan Spector",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/208.jpg"
   },
   {
     "numero": "209",
-    "nome": "Cromo 209",
+    "nome": "Oguchi Onyewu",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/209.jpg"
   },
   {
     "numero": "210",
-    "nome": "Cromo 210",
+    "nome": "Michael Bradley",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/210.jpg"
   },
   {
     "numero": "211",
-    "nome": "Cromo 211",
+    "nome": "Ricardo Clark",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/211.jpg"
   },
   {
     "numero": "212",
-    "nome": "Cromo 212",
+    "nome": "Benny Feilhaber",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/212.jpg"
   },
   {
     "numero": "213",
-    "nome": "Cromo 213",
+    "nome": "Maurice Edu",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/213.jpg"
   },
   {
     "numero": "214",
-    "nome": "Cromo 214",
+    "nome": "Stuart Holden",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/214.jpg"
   },
   {
     "numero": "215",
-    "nome": "Cromo 215",
+    "nome": "Robbie Rogers",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/215.jpg"
   },
   {
     "numero": "215x",
-    "nome": "Cromo 215x",
+    "nome": "Edson Buddle",
     "tenho": true,
     "especial": true,
+    "clube": "USA",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/215x.jpg"
   },
   {
     "numero": "216",
-    "nome": "Cromo 216",
+    "nome": "Clint Dempsey",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/216.jpg"
   },
   {
     "numero": "217",
-    "nome": "Cromo 217",
+    "nome": "Damarcus Beasley",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/217.jpg"
   },
   {
     "numero": "218",
-    "nome": "Cromo 218",
+    "nome": "Landon Donovan",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/218.jpg"
   },
   {
     "numero": "219",
-    "nome": "Cromo 219",
+    "nome": "Jozy Altidore",
     "tenho": true,
     "especial": false,
+    "clube": "USA",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/219.jpg"
   },
   {
     "numero": "220",
-    "nome": "Cromo 220",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Algérie",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/220.jpg"
   },
   {
     "numero": "221",
-    "nome": "Cromo 221",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Algérie",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/221.jpg"
   },
   {
     "numero": "222",
-    "nome": "Cromo 222",
+    "nome": "Faouzi Chaouchi",
     "tenho": true,
     "especial": false,
+    "clube": "Algérie",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/222.jpg"
   },
   {
     "numero": "223",
-    "nome": "Cromo 223",
+    "nome": "Lounes Gaouaoui",
     "tenho": true,
     "especial": false,
+    "clube": "Algérie",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/223.jpg"
   },
   {
     "numero": "224",
-    "nome": "Cromo 224",
+    "nome": "Anthar Yahia",
     "tenho": true,
     "especial": false,
+    "clube": "Algérie",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/224.jpg"
   },
   {
     "numero": "225",
-    "nome": "Cromo 225",
+    "nome": "Nadir Belhadj",
     "tenho": true,
     "especial": false,
+    "clube": "Algérie",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/225.jpg"
   },
   {
     "numero": "226",
-    "nome": "Cromo 226",
+    "nome": "Madjid Bougherra",
     "tenho": true,
     "especial": false,
+    "clube": "Algérie",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/226.jpg"
   },
   {
     "numero": "227",
-    "nome": "Cromo 227",
+    "nome": "Rafik Halliche",
     "tenho": true,
     "especial": false,
+    "clube": "Algérie",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/227.jpg"
   },
   {
     "numero": "228",
-    "nome": "Cromo 228",
+    "nome": "Hassan Yebda",
     "tenho": true,
     "especial": false,
+    "clube": "Algérie",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/228.jpg"
   },
   {
     "numero": "229",
-    "nome": "Cromo 229",
+    "nome": "Yazid Mansouri",
     "tenho": true,
     "especial": false,
+    "clube": "Algérie",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/229.jpg"
   },
   {
     "numero": "230",
-    "nome": "Cromo 230",
+    "nome": "Yacine Bezzaz",
     "tenho": true,
     "especial": false,
+    "clube": "Algérie",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/230.jpg"
   },
   {
     "numero": "230x",
-    "nome": "Cromo 230x",
+    "nome": "Ryad Boudebouz",
     "tenho": true,
     "especial": true,
+    "clube": "Algérie",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/230x.jpg"
   },
   {
     "numero": "231",
-    "nome": "Cromo 231",
+    "nome": "Khaled Lemmouchia",
     "tenho": true,
     "especial": false,
+    "clube": "Algérie",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/231.jpg"
   },
   {
     "numero": "231x",
-    "nome": "Cromo 231x",
+    "nome": "Djamel Abdoun",
     "tenho": true,
     "especial": true,
+    "clube": "Algérie",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/231x.jpg"
   },
   {
     "numero": "232",
-    "nome": "Cromo 232",
+    "nome": "Karim Ziani",
     "tenho": true,
     "especial": false,
+    "clube": "Algérie",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/232.jpg"
   },
   {
     "numero": "233",
-    "nome": "Cromo 233",
+    "nome": "Mourad Meghni",
     "tenho": true,
     "especial": false,
+    "clube": "Algérie",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/233.jpg"
   },
   {
     "numero": "233x",
-    "nome": "Cromo 233x",
+    "nome": "Mehdi Lacen",
     "tenho": true,
     "especial": true,
+    "clube": "Algérie",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/233x.jpg"
   },
   {
     "numero": "234",
-    "nome": "Cromo 234",
+    "nome": "Hameur Bouazza",
     "tenho": true,
     "especial": false,
+    "clube": "Algérie",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/234.jpg"
   },
   {
     "numero": "234x",
-    "nome": "Cromo 234x",
+    "nome": "Foued Kadir",
     "tenho": true,
     "especial": true,
+    "clube": "Algérie",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/234x.jpg"
   },
   {
     "numero": "235",
-    "nome": "Cromo 235",
+    "nome": "Karim Matmour",
     "tenho": true,
     "especial": false,
+    "clube": "Algérie",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/235.jpg"
   },
   {
     "numero": "236",
-    "nome": "Cromo 236",
+    "nome": "Abdelkader Ghezzal",
     "tenho": true,
     "especial": false,
+    "clube": "Algérie",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/236.jpg"
   },
   {
     "numero": "237",
-    "nome": "Cromo 237",
+    "nome": "Rafik Saifi",
     "tenho": true,
     "especial": false,
+    "clube": "Algérie",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/237.jpg"
   },
   {
     "numero": "238",
-    "nome": "Cromo 238",
+    "nome": "Rafik Djebbour",
     "tenho": true,
     "especial": false,
+    "clube": "Algérie",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/238.jpg"
   },
   {
     "numero": "239",
-    "nome": "Cromo 239",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/239.jpg"
   },
   {
     "numero": "240",
-    "nome": "Cromo 240",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/240.jpg"
   },
   {
     "numero": "241",
-    "nome": "Cromo 241",
+    "nome": "Samir Handanovic",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/241.jpg"
   },
   {
     "numero": "242",
-    "nome": "Cromo 242",
+    "nome": "Bostjan Cesar",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/242.jpg"
   },
   {
     "numero": "243",
-    "nome": "Cromo 243",
+    "nome": "Miso Brecko",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/243.jpg"
   },
   {
     "numero": "244",
-    "nome": "Cromo 244",
+    "nome": "Marko Suler",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/244.jpg"
   },
   {
     "numero": "245",
-    "nome": "Cromo 245",
+    "nome": "Bojan Jokic",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/245.jpg"
   },
   {
     "numero": "246",
-    "nome": "Cromo 246",
+    "nome": "Branko Ilic",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/246.jpg"
   },
   {
     "numero": "247",
-    "nome": "Cromo 247",
+    "nome": "Andraz Kirm",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/247.jpg"
   },
   {
     "numero": "248",
-    "nome": "Cromo 248",
+    "nome": "Robert Koren",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/248.jpg"
   },
   {
     "numero": "249",
-    "nome": "Cromo 249",
+    "nome": "Aleksandar Radosavljevic",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/249.jpg"
   },
   {
     "numero": "250",
-    "nome": "Cromo 250",
+    "nome": "Andrej Komac",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/250.jpg"
   },
   {
     "numero": "251",
-    "nome": "Cromo 251",
+    "nome": "Rene Krhin",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/251.jpg"
   },
   {
     "numero": "252",
-    "nome": "Cromo 252",
+    "nome": "Mirnes Sisic",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/252.jpg"
   },
   {
     "numero": "252x",
-    "nome": "Cromo 252x",
+    "nome": "Dalibor Stevanovic",
     "tenho": true,
     "especial": true,
+    "clube": "Slovenija",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/252x.jpg"
   },
   {
     "numero": "253",
-    "nome": "Cromo 253",
+    "nome": "Nejc Pecnik",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/253.jpg"
   },
   {
     "numero": "254",
-    "nome": "Cromo 254",
+    "nome": "Zlatan Ljubijankic",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/254.jpg"
   },
   {
     "numero": "255",
-    "nome": "Cromo 255",
+    "nome": "Valter Birsa",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/255.jpg"
   },
   {
     "numero": "256",
-    "nome": "Cromo 256",
+    "nome": "Milivoje Novakovic",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/256.jpg"
   },
   {
     "numero": "257",
-    "nome": "Cromo 257",
+    "nome": "Zlatko Dedic",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/257.jpg"
   },
   {
     "numero": "258",
-    "nome": "Cromo 258",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/258.jpg"
   },
   {
     "numero": "259",
-    "nome": "Cromo 259",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/259.jpg"
   },
   {
     "numero": "260",
-    "nome": "Cromo 260",
+    "nome": "Rene Adler",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/260.jpg"
   },
   {
     "numero": "260x",
-    "nome": "Cromo 260x",
+    "nome": "Manuel Neuer",
     "tenho": true,
     "especial": true,
+    "clube": "Deutschland",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/260x.jpg"
   },
   {
     "numero": "261",
-    "nome": "Cromo 261",
+    "nome": "Tim Wiese",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/261.jpg"
   },
   {
     "numero": "261x",
-    "nome": "Cromo 261x",
+    "nome": "Jorg Butt",
     "tenho": true,
     "especial": true,
+    "clube": "Deutschland",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/261x.jpg"
   },
   {
     "numero": "262",
-    "nome": "Cromo 262",
+    "nome": "Per Mertesacker",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/262.jpg"
   },
   {
     "numero": "263",
-    "nome": "Cromo 263",
+    "nome": "Philipp Lahm",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/263.jpg"
   },
   {
     "numero": "264",
-    "nome": "Cromo 264",
+    "nome": "Heiko Westermann",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/264.jpg"
   },
   {
     "numero": "265",
-    "nome": "Cromo 265",
+    "nome": "Serdar Tasci",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/265.jpg"
   },
   {
     "numero": "266",
-    "nome": "Cromo 266",
+    "nome": "Arne Friedrich",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/266.jpg"
   },
   {
     "numero": "267",
-    "nome": "Cromo 267",
+    "nome": "Simon Rolfes",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/267.jpg"
   },
   {
     "numero": "267x",
-    "nome": "Cromo 267x",
+    "nome": "Toni Kroos",
     "tenho": true,
     "especial": true,
+    "clube": "Deutschland",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/267x.jpg"
   },
   {
     "numero": "268",
-    "nome": "Cromo 268",
+    "nome": "Michael Ballack",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/268.jpg"
   },
   {
     "numero": "268x",
-    "nome": "Cromo 268x",
+    "nome": "Sami Khedira",
     "tenho": true,
     "especial": true,
+    "clube": "Deutschland",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/268x.jpg"
   },
   {
     "numero": "269",
-    "nome": "Cromo 269",
+    "nome": "Thomas Hitzlsperger",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/269.jpg"
   },
   {
     "numero": "269x",
-    "nome": "Cromo 269x",
+    "nome": "Thomas Muller",
     "tenho": true,
     "especial": true,
+    "clube": "Deutschland",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/269x.jpg"
   },
   {
     "numero": "270",
-    "nome": "Cromo 270",
+    "nome": "Bastian Schweinsteiger",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/270.jpg"
   },
   {
     "numero": "271",
-    "nome": "Cromo 271",
+    "nome": "Piotr Trochowski",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/271.jpg"
   },
   {
     "numero": "272",
-    "nome": "Cromo 272",
+    "nome": "Mesut Özil",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/272.jpg"
   },
   {
     "numero": "273",
-    "nome": "Cromo 273",
+    "nome": "Stefan Kiessling",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/273.jpg"
   },
   {
     "numero": "274",
-    "nome": "Cromo 274",
+    "nome": "Lukas Podolski",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/274.jpg"
   },
   {
     "numero": "275",
-    "nome": "Cromo 275",
+    "nome": "Miroslav Klose",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/275.jpg"
   },
   {
     "numero": "276",
-    "nome": "Cromo 276",
+    "nome": "Mario Gomez",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/276.jpg"
   },
   {
     "numero": "277",
-    "nome": "Cromo 277",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/277.jpg"
   },
   {
     "numero": "278",
-    "nome": "Cromo 278",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/278.jpg"
   },
   {
     "numero": "279",
-    "nome": "Cromo 279",
+    "nome": "Mark Schwarzer",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/279.jpg"
   },
   {
     "numero": "280",
-    "nome": "Cromo 280",
+    "nome": "Scott Chipperfield",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/280.jpg"
   },
   {
     "numero": "281",
-    "nome": "Cromo 281",
+    "nome": "Lucas Neill",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/281.jpg"
   },
   {
     "numero": "282",
-    "nome": "Cromo 282",
+    "nome": "Patrick Kisnorbo",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/282.jpg"
   },
   {
     "numero": "282x",
-    "nome": "Cromo 282x",
+    "nome": "Craig Moore",
     "tenho": true,
     "especial": true,
+    "clube": "Australia",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/282x.jpg"
   },
   {
     "numero": "283",
-    "nome": "Cromo 283",
+    "nome": "Rhys Williams",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/283.jpg"
   },
   {
     "numero": "283x",
-    "nome": "Cromo 283x",
+    "nome": "Michael Beauchamp",
     "tenho": true,
     "especial": true,
+    "clube": "Australia",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/283x.jpg"
   },
   {
     "numero": "284",
-    "nome": "Cromo 284",
+    "nome": "David Carney",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/284.jpg"
   },
   {
     "numero": "285",
-    "nome": "Cromo 285",
+    "nome": "Vincenzo Grella",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/285.jpg"
   },
   {
     "numero": "286",
-    "nome": "Cromo 286",
+    "nome": "Luke Wilkshire",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/286.jpg"
   },
   {
     "numero": "287",
-    "nome": "Cromo 287",
+    "nome": "Carl Valeri",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/287.jpg"
   },
   {
     "numero": "288",
-    "nome": "Cromo 288",
+    "nome": "Jason Culina",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/288.jpg"
   },
   {
     "numero": "289",
-    "nome": "Cromo 289",
+    "nome": "Mark Bresciano",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/289.jpg"
   },
   {
     "numero": "290",
-    "nome": "Cromo 290",
+    "nome": "Tim Cahill",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/290.jpg"
   },
   {
     "numero": "291",
-    "nome": "Cromo 291",
+    "nome": "Brett Holman",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/291.jpg"
   },
   {
     "numero": "292",
-    "nome": "Cromo 292",
+    "nome": "Brett Emerton",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/292.jpg"
   },
   {
     "numero": "293",
-    "nome": "Cromo 293",
+    "nome": "Harry Kewell",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/293.jpg"
   },
   {
     "numero": "294",
-    "nome": "Cromo 294",
+    "nome": "Joshua Kennedy",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/294.jpg"
   },
   {
     "numero": "295",
-    "nome": "Cromo 295",
+    "nome": "Scott McDonald",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/295.jpg"
   },
   {
     "numero": "295x",
-    "nome": "Cromo 295x",
+    "nome": "Nikita Rukavytsya",
     "tenho": true,
     "especial": true,
+    "clube": "Australia",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/295x.jpg"
   },
   {
     "numero": "296",
-    "nome": "Cromo 296",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Srbija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/296.jpg"
   },
   {
     "numero": "297",
-    "nome": "Cromo 297",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Srbija",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/297.jpg"
   },
   {
     "numero": "298",
-    "nome": "Cromo 298",
+    "nome": "Vladimir Stojkovic",
     "tenho": true,
     "especial": false,
+    "clube": "Srbija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/298.jpg"
   },
   {
     "numero": "299",
-    "nome": "Cromo 299",
+    "nome": "Nemanja Vidic",
     "tenho": true,
     "especial": false,
+    "clube": "Srbija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/299.jpg"
   },
   {
     "numero": "300",
-    "nome": "Cromo 300",
+    "nome": "Branislav Ivanovic",
     "tenho": true,
     "especial": false,
+    "clube": "Srbija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/300.jpg"
   },
   {
     "numero": "301",
-    "nome": "Cromo 301",
+    "nome": "Ivica Dragutinovic",
     "tenho": true,
     "especial": false,
+    "clube": "Srbija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/301.jpg"
   },
   {
     "numero": "301x",
-    "nome": "Cromo 301x",
+    "nome": "Ivan Obradovic",
     "tenho": true,
     "especial": true,
+    "clube": "Srbija",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/301x.jpg"
   },
   {
     "numero": "302",
-    "nome": "Cromo 302",
+    "nome": "Antonio Rukavina",
     "tenho": true,
     "especial": false,
+    "clube": "Srbija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/302.jpg"
   },
   {
     "numero": "303",
-    "nome": "Cromo 303",
+    "nome": "Aleksandar Lukovic",
     "tenho": true,
     "especial": false,
+    "clube": "Srbija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/303.jpg"
   },
   {
     "numero": "304",
-    "nome": "Cromo 304",
+    "nome": "Aleksandar Kolarov",
     "tenho": true,
     "especial": false,
+    "clube": "Srbija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/304.jpg"
   },
   {
     "numero": "305",
-    "nome": "Cromo 305",
+    "nome": "Neven Subotic",
     "tenho": true,
     "especial": false,
+    "clube": "Srbija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/305.jpg"
   },
   {
     "numero": "306",
-    "nome": "Cromo 306",
+    "nome": "Zdravko Kuzmanovic",
     "tenho": true,
     "especial": false,
+    "clube": "Srbija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/306.jpg"
   },
   {
     "numero": "307",
-    "nome": "Cromo 307",
+    "nome": "Dejan Stankovic",
     "tenho": true,
     "especial": false,
+    "clube": "Srbija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/307.jpg"
   },
   {
     "numero": "308",
-    "nome": "Cromo 308",
+    "nome": "Nenad Milijas",
     "tenho": true,
     "especial": false,
+    "clube": "Srbija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/308.jpg"
   },
   {
     "numero": "309",
-    "nome": "Cromo 309",
+    "nome": "Milos Krasic",
     "tenho": true,
     "especial": false,
+    "clube": "Srbija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/309.jpg"
   },
   {
     "numero": "310",
-    "nome": "Cromo 310",
+    "nome": "Gojko Kacar",
     "tenho": true,
     "especial": false,
+    "clube": "Srbija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/310.jpg"
   },
   {
     "numero": "311",
-    "nome": "Cromo 311",
+    "nome": "Marko Pantelic",
     "tenho": true,
     "especial": false,
+    "clube": "Srbija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/311.jpg"
   },
   {
     "numero": "312",
-    "nome": "Cromo 312",
+    "nome": "Milan Jovanovic",
     "tenho": true,
     "especial": false,
+    "clube": "Srbija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/312.jpg"
   },
   {
     "numero": "313",
-    "nome": "Cromo 313",
+    "nome": "Nikola Zigic",
     "tenho": true,
     "especial": false,
+    "clube": "Srbija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/313.jpg"
   },
   {
     "numero": "314",
-    "nome": "Cromo 314",
+    "nome": "Danko Lazovic",
     "tenho": true,
     "especial": false,
+    "clube": "Srbija",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/314.jpg"
   },
   {
     "numero": "315",
-    "nome": "Cromo 315",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/315.jpg"
   },
   {
     "numero": "316",
-    "nome": "Cromo 316",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/316.jpg"
   },
   {
     "numero": "317",
-    "nome": "Cromo 317",
+    "nome": "Richard Kingson",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/317.jpg"
   },
   {
     "numero": "318",
-    "nome": "Cromo 318",
+    "nome": "John Mensah",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/318.jpg"
   },
   {
     "numero": "319",
-    "nome": "Cromo 319",
+    "nome": "John Pantsil",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/319.jpg"
   },
   {
     "numero": "320",
-    "nome": "Cromo 320",
+    "nome": "Eric Addo",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/320.jpg"
   },
   {
     "numero": "320x",
-    "nome": "Cromo 320x",
+    "nome": "Jonathan Mensah",
     "tenho": true,
     "especial": true,
+    "clube": "Ghana",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/320x.jpg"
   },
   {
     "numero": "321",
-    "nome": "Cromo 321",
+    "nome": "Harrison Afful",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/321.jpg"
   },
   {
     "numero": "321x",
-    "nome": "Cromo 321x",
+    "nome": "Isaac Vorsah",
     "tenho": true,
     "especial": true,
+    "clube": "Ghana",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/321x.jpg"
   },
   {
     "numero": "322",
-    "nome": "Cromo 322",
+    "nome": "Samuel Inkoom",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/322.jpg"
   },
   {
     "numero": "323",
-    "nome": "Cromo 323",
+    "nome": "Hans Sarpei",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/323.jpg"
   },
   {
     "numero": "324",
-    "nome": "Cromo 324",
+    "nome": "Stephen Appiah",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/324.jpg"
   },
   {
     "numero": "325",
-    "nome": "Cromo 325",
+    "nome": "Michael Essien",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/325.jpg"
   },
   {
     "numero": "325x",
-    "nome": "Cromo 325x",
+    "nome": "Kevin-Prince Boateng",
     "tenho": true,
     "especial": true,
+    "clube": "Ghana",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/325x.jpg"
   },
   {
     "numero": "326",
-    "nome": "Cromo 326",
+    "nome": "Anthony Annan",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/326.jpg"
   },
   {
     "numero": "327",
-    "nome": "Cromo 327",
+    "nome": "Sulley Muntari",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/327.jpg"
   },
   {
     "numero": "328",
-    "nome": "Cromo 328",
+    "nome": "Kwadwo Asamoah",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/328.jpg"
   },
   {
     "numero": "329",
-    "nome": "Cromo 329",
+    "nome": "Haminu Dramani",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/329.jpg"
   },
   {
     "numero": "329x",
-    "nome": "Cromo 329x",
+    "nome": "Derek Boateng",
     "tenho": true,
     "especial": true,
+    "clube": "Ghana",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/329x.jpg"
   },
   {
     "numero": "330",
-    "nome": "Cromo 330",
+    "nome": "Andre Ayew",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/330.jpg"
   },
   {
     "numero": "331",
-    "nome": "Cromo 331",
+    "nome": "Asamoah Gyan",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/331.jpg"
   },
   {
     "numero": "332",
-    "nome": "Cromo 332",
+    "nome": "Matthew Amoah",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/332.jpg"
   },
   {
     "numero": "333",
-    "nome": "Cromo 333",
+    "nome": "Dominic Adiyiah",
     "tenho": true,
     "especial": false,
+    "clube": "Ghana",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/333.jpg"
   },
   {
     "numero": "334",
-    "nome": "Cromo 334",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/334.jpg"
   },
   {
     "numero": "335",
-    "nome": "Cromo 335",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/335.jpg"
   },
   {
     "numero": "336",
-    "nome": "Cromo 336",
+    "nome": "Maarten Stekelenburg",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/336.jpg"
   },
   {
     "numero": "337",
-    "nome": "Cromo 337",
+    "nome": "Giovanni van Bronckhorst",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/337.jpg"
   },
   {
     "numero": "338",
-    "nome": "Cromo 338",
+    "nome": "Joris Mathijsen",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/338.jpg"
   },
   {
     "numero": "339",
-    "nome": "Cromo 339",
+    "nome": "John Heitinga",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/339.jpg"
   },
   {
     "numero": "340",
-    "nome": "Cromo 340",
+    "nome": "Andre Ooijer",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/340.jpg"
   },
   {
     "numero": "341",
-    "nome": "Cromo 341",
+    "nome": "Gregory van der Wiel",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/341.jpg"
   },
   {
     "numero": "342",
-    "nome": "Cromo 342",
+    "nome": "Mark van Bommel",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/342.jpg"
   },
   {
     "numero": "343",
-    "nome": "Cromo 343",
+    "nome": "Nigel de Jong",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/343.jpg"
   },
   {
     "numero": "344",
-    "nome": "Cromo 344",
+    "nome": "Demy de Zeeuw",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/344.jpg"
   },
   {
     "numero": "345",
-    "nome": "Cromo 345",
+    "nome": "Rafael van der Vaart",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/345.jpg"
   },
   {
     "numero": "346",
-    "nome": "Cromo 346",
+    "nome": "Wesley Sneijder",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/346.jpg"
   },
   {
     "numero": "347",
-    "nome": "Cromo 347",
+    "nome": "Ibrahim Afellay",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/347.jpg"
   },
   {
     "numero": "348",
-    "nome": "Cromo 348",
+    "nome": "Arjen Robben",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/348.jpg"
   },
   {
     "numero": "349",
-    "nome": "Cromo 349",
+    "nome": "Eljero Elia",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/349.jpg"
   },
   {
     "numero": "350",
-    "nome": "Cromo 350",
+    "nome": "Robin van Persie",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/350.jpg"
   },
   {
     "numero": "351",
-    "nome": "Cromo 351",
+    "nome": "Dirk Kuyt",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/351.jpg"
   },
   {
     "numero": "352",
-    "nome": "Cromo 352",
+    "nome": "Klaas-Jan Huntelaar",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/352.jpg"
   },
   {
     "numero": "353",
-    "nome": "Cromo 353",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/353.jpg"
   },
   {
     "numero": "354",
-    "nome": "Cromo 354",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/354.jpg"
   },
   {
     "numero": "355",
-    "nome": "Cromo 355",
+    "nome": "Thomas Sørensen",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/355.jpg"
   },
   {
     "numero": "356",
-    "nome": "Cromo 356",
+    "nome": "Daniel Agger",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/356.jpg"
   },
   {
     "numero": "357",
-    "nome": "Cromo 357",
+    "nome": "Lars Jacobsen",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/357.jpg"
   },
   {
     "numero": "358",
-    "nome": "Cromo 358",
+    "nome": "Simon Kjaer",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/358.jpg"
   },
   {
     "numero": "359",
-    "nome": "Cromo 359",
+    "nome": "Michael Jakobsen",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/359.jpg"
   },
   {
     "numero": "359x",
-    "nome": "Cromo 359x",
+    "nome": "Per Kroldrup",
     "tenho": true,
     "especial": true,
+    "clube": "Danmark",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/359x.jpg"
   },
   {
     "numero": "360",
-    "nome": "Cromo 360",
+    "nome": "William Kvist",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/360.jpg"
   },
   {
     "numero": "361",
-    "nome": "Cromo 361",
+    "nome": "Christian Poulsen",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/361.jpg"
   },
   {
     "numero": "362",
-    "nome": "Cromo 362",
+    "nome": "Michael Silberbauer",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/362.jpg"
   },
   {
     "numero": "362x",
-    "nome": "Cromo 362x",
+    "nome": "Christian Eriksen",
     "tenho": true,
     "especial": true,
+    "clube": "Danmark",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/362x.jpg"
   },
   {
     "numero": "363",
-    "nome": "Cromo 363",
+    "nome": "Daniel Jensen",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/363.jpg"
   },
   {
     "numero": "364",
-    "nome": "Cromo 364",
+    "nome": "Jakob Poulsen",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/364.jpg"
   },
   {
     "numero": "365",
-    "nome": "Cromo 365",
+    "nome": "Thomas Kahlenberg",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/365.jpg"
   },
   {
     "numero": "366",
-    "nome": "Cromo 366",
+    "nome": "Martin Jørgensen",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/366.jpg"
   },
   {
     "numero": "367",
-    "nome": "Cromo 367",
+    "nome": "Dennis Rommedahl",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/367.jpg"
   },
   {
     "numero": "368",
-    "nome": "Cromo 368",
+    "nome": "Jesper Grønkjær",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/368.jpg"
   },
   {
     "numero": "369",
-    "nome": "Cromo 369",
+    "nome": "Soren Larsen",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/369.jpg"
   },
   {
     "numero": "370",
-    "nome": "Cromo 370",
+    "nome": "Nicklas Bendtner",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/370.jpg"
   },
   {
     "numero": "371",
-    "nome": "Cromo 371",
+    "nome": "Jon Dahl Tomasson",
     "tenho": true,
     "especial": false,
+    "clube": "Danmark",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/371.jpg"
   },
   {
     "numero": "372",
-    "nome": "Cromo 372",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/372.jpg"
   },
   {
     "numero": "373",
-    "nome": "Cromo 373",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/373.jpg"
   },
   {
     "numero": "374",
-    "nome": "Cromo 374",
+    "nome": "Eiji Kawashima",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/374.jpg"
   },
   {
     "numero": "375",
-    "nome": "Cromo 375",
+    "nome": "Seigo Narazaki",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/375.jpg"
   },
   {
     "numero": "376",
-    "nome": "Cromo 376",
+    "nome": "Yuji Nakazawa",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/376.jpg"
   },
   {
     "numero": "377",
-    "nome": "Cromo 377",
+    "nome": "Marcus Tulio Tanaka",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/377.jpg"
   },
   {
     "numero": "378",
-    "nome": "Cromo 378",
+    "nome": "Atsuto Uchida",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/378.jpg"
   },
   {
     "numero": "379",
-    "nome": "Cromo 379",
+    "nome": "Yasuyuki Konno",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/379.jpg"
   },
   {
     "numero": "380",
-    "nome": "Cromo 380",
+    "nome": "Yuto Nagatomo",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/380.jpg"
   },
   {
     "numero": "381",
-    "nome": "Cromo 381",
+    "nome": "Yuki Abe",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/381.jpg"
   },
   {
     "numero": "382",
-    "nome": "Cromo 382",
+    "nome": "Hideo Hashimoto",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/382.jpg"
   },
   {
     "numero": "382x",
-    "nome": "Cromo 382x",
+    "nome": "Junichi Inamoto",
     "tenho": true,
     "especial": true,
+    "clube": "Japan",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/382x.jpg"
   },
   {
     "numero": "383",
-    "nome": "Cromo 383",
+    "nome": "Keisuke Honda",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/383.jpg"
   },
   {
     "numero": "384",
-    "nome": "Cromo 384",
+    "nome": "Makoto Hasebe",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/384.jpg"
   },
   {
     "numero": "385",
-    "nome": "Cromo 385",
+    "nome": "Kengo Nakamura",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/385.jpg"
   },
   {
     "numero": "386",
-    "nome": "Cromo 386",
+    "nome": "Daisuke Matsui",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/386.jpg"
   },
   {
     "numero": "387",
-    "nome": "Cromo 387",
+    "nome": "Yasuhito Endo",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/387.jpg"
   },
   {
     "numero": "388",
-    "nome": "Cromo 388",
+    "nome": "Shunsuke Nakamura",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/388.jpg"
   },
   {
     "numero": "389",
-    "nome": "Cromo 389",
+    "nome": "Shinji Okazaki",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/389.jpg"
   },
   {
     "numero": "390",
-    "nome": "Cromo 390",
+    "nome": "Yoshito Okubo",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/390.jpg"
   },
   {
     "numero": "391",
-    "nome": "Cromo 391",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/391.jpg"
   },
   {
     "numero": "392",
-    "nome": "Cromo 392",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/392.jpg"
   },
   {
     "numero": "393",
-    "nome": "Cromo 393",
+    "nome": "Idriss Kameni",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/393.jpg"
   },
   {
     "numero": "394",
-    "nome": "Cromo 394",
+    "nome": "Rigobert Song",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/394.jpg"
   },
   {
     "numero": "395",
-    "nome": "Cromo 395",
+    "nome": "Andre Bikey",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/395.jpg"
   },
   {
     "numero": "395x",
-    "nome": "Cromo 395x",
+    "nome": "Aurelien Chedjou",
     "tenho": true,
     "especial": true,
+    "clube": "Cameroun",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/395x.jpg"
   },
   {
     "numero": "396",
-    "nome": "Cromo 396",
+    "nome": "Geremi Njitap",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/396.jpg"
   },
   {
     "numero": "397",
-    "nome": "Cromo 397",
+    "nome": "Nicolas N'Koulou",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/397.jpg"
   },
   {
     "numero": "398",
-    "nome": "Cromo 398",
+    "nome": "Benoit Assou-Ekotto",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/398.jpg"
   },
   {
     "numero": "399",
-    "nome": "Cromo 399",
+    "nome": "Alex Song",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/399.jpg"
   },
   {
     "numero": "400",
-    "nome": "Cromo 400",
+    "nome": "Stephane Mbia",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/400.jpg"
   },
   {
     "numero": "401",
-    "nome": "Cromo 401",
+    "nome": "Thimothee Atouba",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/401.jpg"
   },
   {
     "numero": "401x",
-    "nome": "Cromo 401x",
+    "nome": "Joel Matip",
     "tenho": true,
     "especial": true,
+    "clube": "Cameroun",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/401x.jpg"
   },
   {
     "numero": "402",
-    "nome": "Cromo 402",
+    "nome": "Jean Makoun",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/402.jpg"
   },
   {
     "numero": "403",
-    "nome": "Cromo 403",
+    "nome": "Achille Emana",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/403.jpg"
   },
   {
     "numero": "404",
-    "nome": "Cromo 404",
+    "nome": "Landry N'Guemo",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/404.jpg"
   },
   {
     "numero": "405",
-    "nome": "Cromo 405",
+    "nome": "Eyong Enoh",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/405.jpg"
   },
   {
     "numero": "406",
-    "nome": "Cromo 406",
+    "nome": "Somen Tchoyi",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/406.jpg"
   },
   {
     "numero": "406x",
-    "nome": "Cromo 406x",
+    "nome": "Georges Mandjeck",
     "tenho": true,
     "especial": true,
+    "clube": "Cameroun",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/406x.jpg"
   },
   {
     "numero": "407",
-    "nome": "Cromo 407",
+    "nome": "Paul Alo'o Efoulou",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/407.jpg"
   },
   {
     "numero": "407x",
-    "nome": "Cromo 407x",
+    "nome": "Mohamadou Idrissou",
     "tenho": true,
     "especial": true,
+    "clube": "Cameroun",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/407x.jpg"
   },
   {
     "numero": "408",
-    "nome": "Cromo 408",
+    "nome": "Samuel Eto'o",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/408.jpg"
   },
   {
     "numero": "409",
-    "nome": "Cromo 409",
+    "nome": "Achille Webo",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroun",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/409.jpg"
   },
   {
     "numero": "410",
-    "nome": "Cromo 410",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/410.jpg"
   },
   {
     "numero": "411",
-    "nome": "Cromo 411",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/411.jpg"
   },
   {
     "numero": "412",
-    "nome": "Cromo 412",
+    "nome": "Gianluigi Buffon",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/412.jpg"
   },
   {
     "numero": "413",
-    "nome": "Cromo 413",
+    "nome": "Fabio Cannavaro",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/413.jpg"
   },
   {
     "numero": "414",
-    "nome": "Cromo 414",
+    "nome": "Giorgio Chiellini",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/414.jpg"
   },
   {
     "numero": "415",
-    "nome": "Cromo 415",
+    "nome": "Fabio Grosso",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/415.jpg"
   },
   {
     "numero": "415x",
-    "nome": "Cromo 415x",
+    "nome": "Christian Maggio",
     "tenho": true,
     "especial": true,
+    "clube": "Italia",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/415x.jpg"
   },
   {
     "numero": "416",
-    "nome": "Cromo 416",
+    "nome": "Gianluca Zambrotta",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/416.jpg"
   },
   {
     "numero": "417",
-    "nome": "Cromo 417",
+    "nome": "Nicola Legrottaglie",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/417.jpg"
   },
   {
     "numero": "417x",
-    "nome": "Cromo 417x",
+    "nome": "Leonardo Bonucci",
     "tenho": true,
     "especial": true,
+    "clube": "Italia",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/417x.jpg"
   },
   {
     "numero": "418",
-    "nome": "Cromo 418",
+    "nome": "Domenico Criscito",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/418.jpg"
   },
   {
     "numero": "419",
-    "nome": "Cromo 419",
+    "nome": "Angelo Palombo",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/419.jpg"
   },
   {
     "numero": "420",
-    "nome": "Cromo 420",
+    "nome": "Daniele De Rossi",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/420.jpg"
   },
   {
     "numero": "421",
-    "nome": "Cromo 421",
+    "nome": "Gennaro Gattuso",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/421.jpg"
   },
   {
     "numero": "422",
-    "nome": "Cromo 422",
+    "nome": "Andrea Pirlo",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/422.jpg"
   },
   {
     "numero": "423",
-    "nome": "Cromo 423",
+    "nome": "Claudio Marchisio",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/423.jpg"
   },
   {
     "numero": "424",
-    "nome": "Cromo 424",
+    "nome": "Mauro Camoranesi",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/424.jpg"
   },
   {
     "numero": "425",
-    "nome": "Cromo 425",
+    "nome": "Antonio Di Natale",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/425.jpg"
   },
   {
     "numero": "426",
-    "nome": "Cromo 426",
+    "nome": "Marco Borriello",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/426.jpg"
   },
   {
     "numero": "426x",
-    "nome": "Cromo 426x",
+    "nome": "Giampaolo Pazzini",
     "tenho": true,
     "especial": true,
+    "clube": "Italia",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/426x.jpg"
   },
   {
     "numero": "427",
-    "nome": "Cromo 427",
+    "nome": "Alberto Gilardino",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/427.jpg"
   },
   {
     "numero": "428",
-    "nome": "Cromo 428",
+    "nome": "Vincenzo Iaquinta",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/428.jpg"
   },
   {
     "numero": "429",
-    "nome": "Cromo 429",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/429.jpg"
   },
   {
     "numero": "430",
-    "nome": "Cromo 430",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/430.jpg"
   },
   {
     "numero": "431",
-    "nome": "Cromo 431",
+    "nome": "Justo Villar",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/431.jpg"
   },
   {
     "numero": "432",
-    "nome": "Cromo 432",
+    "nome": "Denis Caniza",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/432.jpg"
   },
   {
     "numero": "433",
-    "nome": "Cromo 433",
+    "nome": "Paulo Da Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/433.jpg"
   },
   {
     "numero": "434",
-    "nome": "Cromo 434",
+    "nome": "Julio Manzur",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/434.jpg"
   },
   {
     "numero": "434x",
-    "nome": "Cromo 434x",
+    "nome": "Aureliano Torres",
     "tenho": true,
     "especial": true,
+    "clube": "Paraguay",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/434x.jpg"
   },
   {
     "numero": "435",
-    "nome": "Cromo 435",
+    "nome": "Julio Cesar Caceres",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/435.jpg"
   },
   {
     "numero": "436",
-    "nome": "Cromo 436",
+    "nome": "Dario Veron",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/436.jpg"
   },
   {
     "numero": "437",
-    "nome": "Cromo 437",
+    "nome": "Claudio Morel Rodriguez",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/437.jpg"
   },
   {
     "numero": "438",
-    "nome": "Cromo 438",
+    "nome": "Carlos Bonet",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/438.jpg"
   },
   {
     "numero": "439",
-    "nome": "Cromo 439",
+    "nome": "Cristian Riveros",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/439.jpg"
   },
   {
     "numero": "440",
-    "nome": "Cromo 440",
+    "nome": "Edgar Barreto",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/440.jpg"
   },
   {
     "numero": "441",
-    "nome": "Cromo 441",
+    "nome": "Enrique Vera",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/441.jpg"
   },
   {
     "numero": "442",
-    "nome": "Cromo 442",
+    "nome": "Victor Caceres",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/442.jpg"
   },
   {
     "numero": "443",
-    "nome": "Cromo 443",
+    "nome": "Jonathan Santana",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/443.jpg"
   },
   {
     "numero": "444",
-    "nome": "Cromo 444",
+    "nome": "Roque Santa Cruz",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/444.jpg"
   },
   {
     "numero": "445",
-    "nome": "Cromo 445",
+    "nome": "Nelson Valdez",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/445.jpg"
   },
   {
     "numero": "446",
-    "nome": "Cromo 446",
+    "nome": "Edgar Benitez",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/446.jpg"
   },
   {
     "numero": "447",
-    "nome": "Cromo 447",
+    "nome": "Oscar Cardozo",
     "tenho": true,
     "especial": false,
+    "clube": "Paraguay",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/447.jpg"
   },
   {
     "numero": "448",
-    "nome": "Cromo 448",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "New Zealand",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/448.jpg"
   },
   {
     "numero": "449",
-    "nome": "Cromo 449",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "New Zealand",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/449.jpg"
   },
   {
     "numero": "450",
-    "nome": "Cromo 450",
+    "nome": "Mark Paston",
     "tenho": true,
     "especial": false,
+    "clube": "New Zealand",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/450.jpg"
   },
   {
     "numero": "451",
-    "nome": "Cromo 451",
+    "nome": "Ryan Nelsen",
     "tenho": true,
     "especial": false,
+    "clube": "New Zealand",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/451.jpg"
   },
   {
     "numero": "452",
-    "nome": "Cromo 452",
+    "nome": "Ivan Vicelich",
     "tenho": true,
     "especial": false,
+    "clube": "New Zealand",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/452.jpg"
   },
   {
     "numero": "453",
-    "nome": "Cromo 453",
+    "nome": "Ben Sigmund",
     "tenho": true,
     "especial": false,
+    "clube": "New Zealand",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/453.jpg"
   },
   {
     "numero": "454",
-    "nome": "Cromo 454",
+    "nome": "Tony Lochhead",
     "tenho": true,
     "especial": false,
+    "clube": "New Zealand",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/454.jpg"
   },
   {
     "numero": "455",
-    "nome": "Cromo 455",
+    "nome": "David Mulligan",
     "tenho": true,
     "especial": false,
+    "clube": "New Zealand",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/455.jpg"
   },
   {
     "numero": "456",
-    "nome": "Cromo 456",
+    "nome": "Andrew Boyens",
     "tenho": true,
     "especial": false,
+    "clube": "New Zealand",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/456.jpg"
   },
   {
     "numero": "457",
-    "nome": "Cromo 457",
+    "nome": "Tim Brown",
     "tenho": true,
     "especial": false,
+    "clube": "New Zealand",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/457.jpg"
   },
   {
     "numero": "458",
-    "nome": "Cromo 458",
+    "nome": "Leo Bertos",
     "tenho": true,
     "especial": false,
+    "clube": "New Zealand",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/458.jpg"
   },
   {
     "numero": "459",
-    "nome": "Cromo 459",
+    "nome": "Duncan Oughton",
     "tenho": true,
     "especial": false,
+    "clube": "New Zealand",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/459.jpg"
   },
   {
     "numero": "459x",
-    "nome": "Cromo 459x",
+    "nome": "Andy Barron",
     "tenho": true,
     "especial": true,
+    "clube": "New Zealand",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/459x.jpg"
   },
   {
     "numero": "460",
-    "nome": "Cromo 460",
+    "nome": "Jeremy Christie",
     "tenho": true,
     "especial": false,
+    "clube": "New Zealand",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/460.jpg"
   },
   {
     "numero": "461",
-    "nome": "Cromo 461",
+    "nome": "Simon Elliott",
     "tenho": true,
     "especial": false,
+    "clube": "New Zealand",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/461.jpg"
   },
   {
     "numero": "462",
-    "nome": "Cromo 462",
+    "nome": "James Pritchett",
     "tenho": true,
     "especial": false,
+    "clube": "New Zealand",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/462.jpg"
   },
   {
     "numero": "462x",
-    "nome": "Cromo 462x",
+    "nome": "Michael McGlinchey",
     "tenho": true,
     "especial": true,
+    "clube": "New Zealand",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/462x.jpg"
   },
   {
     "numero": "463",
-    "nome": "Cromo 463",
+    "nome": "Chris Wood",
     "tenho": true,
     "especial": false,
+    "clube": "New Zealand",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/463.jpg"
   },
   {
     "numero": "464",
-    "nome": "Cromo 464",
+    "nome": "Chris Killen",
     "tenho": true,
     "especial": false,
+    "clube": "New Zealand",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/464.jpg"
   },
   {
     "numero": "465",
-    "nome": "Cromo 465",
+    "nome": "Shane Smeltz",
     "tenho": true,
     "especial": false,
+    "clube": "New Zealand",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/465.jpg"
   },
   {
     "numero": "466",
-    "nome": "Cromo 466",
+    "nome": "Rory Fallon",
     "tenho": true,
     "especial": false,
+    "clube": "New Zealand",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/466.jpg"
   },
   {
     "numero": "467",
-    "nome": "Cromo 467",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/467.jpg"
   },
   {
     "numero": "468",
-    "nome": "Cromo 468",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/468.jpg"
   },
   {
     "numero": "469",
-    "nome": "Cromo 469",
+    "nome": "Jan Mucha",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/469.jpg"
   },
   {
     "numero": "470",
-    "nome": "Cromo 470",
+    "nome": "Martin Skrtel",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/470.jpg"
   },
   {
     "numero": "471",
-    "nome": "Cromo 471",
+    "nome": "Peter Pekarik",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/471.jpg"
   },
   {
     "numero": "472",
-    "nome": "Cromo 472",
+    "nome": "Jan Durica",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/472.jpg"
   },
   {
     "numero": "473",
-    "nome": "Cromo 473",
+    "nome": "Marek Cech",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/473.jpg"
   },
   {
     "numero": "474",
-    "nome": "Cromo 474",
+    "nome": "Zdeno Strba",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/474.jpg"
   },
   {
     "numero": "475",
-    "nome": "Cromo 475",
+    "nome": "Martin Petras",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/475.jpg"
   },
   {
     "numero": "476",
-    "nome": "Cromo 476",
+    "nome": "Vladimir Weiss",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/476.jpg"
   },
   {
     "numero": "477",
-    "nome": "Cromo 477",
+    "nome": "Marek Sapara",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/477.jpg"
   },
   {
     "numero": "478",
-    "nome": "Cromo 478",
+    "nome": "Miroslav Karhan",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/478.jpg"
   },
   {
     "numero": "478x",
-    "nome": "Cromo 478x",
+    "nome": "Miroslav Stoch",
     "tenho": true,
     "especial": true,
+    "clube": "Slovenská Republika",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/478x.jpg"
   },
   {
     "numero": "479",
-    "nome": "Cromo 479",
+    "nome": "Jan Kozak",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/479.jpg"
   },
   {
     "numero": "480",
-    "nome": "Cromo 480",
+    "nome": "Marek Hamsik",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/480.jpg"
   },
   {
     "numero": "481",
-    "nome": "Cromo 481",
+    "nome": "Jan Novak",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/481.jpg"
   },
   {
     "numero": "481x",
-    "nome": "Cromo 481x",
+    "nome": "Martin Jakubko",
     "tenho": true,
     "especial": true,
+    "clube": "Slovenská Republika",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/481x.jpg"
   },
   {
     "numero": "482",
-    "nome": "Cromo 482",
+    "nome": "Robert Vittek",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/482.jpg"
   },
   {
     "numero": "483",
-    "nome": "Cromo 483",
+    "nome": "Erik Jendrisek",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/483.jpg"
   },
   {
     "numero": "484",
-    "nome": "Cromo 484",
+    "nome": "Stanislav Sestak",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/484.jpg"
   },
   {
     "numero": "485",
-    "nome": "Cromo 485",
+    "nome": "Filip Holosko",
     "tenho": true,
     "especial": false,
+    "clube": "Slovenská Republika",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/485.jpg"
   },
   {
     "numero": "486",
-    "nome": "Cromo 486",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/486.jpg"
   },
   {
     "numero": "487",
-    "nome": "Cromo 487",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/487.jpg"
   },
   {
     "numero": "488",
-    "nome": "Cromo 488",
+    "nome": "Julio Cesar",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/488.jpg"
   },
   {
     "numero": "489",
-    "nome": "Cromo 489",
+    "nome": "Lucio",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/489.jpg"
   },
   {
     "numero": "490",
-    "nome": "Cromo 490",
+    "nome": "Juan",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/490.jpg"
   },
   {
     "numero": "491",
-    "nome": "Cromo 491",
+    "nome": "Luisão",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/491.jpg"
   },
   {
     "numero": "492",
-    "nome": "Cromo 492",
+    "nome": "Maicon",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/492.jpg"
   },
   {
     "numero": "493",
-    "nome": "Cromo 493",
+    "nome": "Dani Alves",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/493.jpg"
   },
   {
     "numero": "494",
-    "nome": "Cromo 494",
+    "nome": "Andre Santos",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/494.jpg"
   },
   {
     "numero": "494x",
-    "nome": "Cromo 494x",
+    "nome": "Ramires",
     "tenho": true,
     "especial": true,
+    "clube": "Brasil",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/494x.jpg"
   },
   {
     "numero": "495",
-    "nome": "Cromo 495",
+    "nome": "Josue",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/495.jpg"
   },
   {
     "numero": "496",
-    "nome": "Cromo 496",
+    "nome": "Gilberto Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/496.jpg"
   },
   {
     "numero": "497",
-    "nome": "Cromo 497",
+    "nome": "Felipe Melo",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/497.jpg"
   },
   {
     "numero": "498",
-    "nome": "Cromo 498",
+    "nome": "Elano",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/498.jpg"
   },
   {
     "numero": "499",
-    "nome": "Cromo 499",
+    "nome": "Kaka",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/499.jpg"
   },
   {
     "numero": "500",
-    "nome": "Cromo 500",
+    "nome": "Ronaldinho",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/500.jpg"
   },
   {
     "numero": "500x",
-    "nome": "Cromo 500x",
+    "nome": "Julio Baptista",
     "tenho": true,
     "especial": true,
+    "clube": "Brasil",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/500x.jpg"
   },
   {
     "numero": "501",
-    "nome": "Cromo 501",
+    "nome": "Robinho",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/501.jpg"
   },
   {
     "numero": "502",
-    "nome": "Cromo 502",
+    "nome": "Nilmar",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/502.jpg"
   },
   {
     "numero": "503",
-    "nome": "Cromo 503",
+    "nome": "Luis Fabiano",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/503.jpg"
   },
   {
     "numero": "504",
-    "nome": "Cromo 504",
+    "nome": "Adriano",
     "tenho": true,
     "especial": false,
+    "clube": "Brasil",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/504.jpg"
   },
   {
     "numero": "504x",
-    "nome": "Cromo 504x",
+    "nome": "Grafite",
     "tenho": true,
     "especial": true,
+    "clube": "Brasil",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/504x.jpg"
   },
   {
     "numero": "505",
-    "nome": "Cromo 505",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Korea DPR",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/505.jpg"
   },
   {
     "numero": "506",
-    "nome": "Cromo 506",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Korea DPR",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/506.jpg"
   },
   {
     "numero": "507",
-    "nome": "Cromo 507",
+    "nome": "Ri Myong-Guk",
     "tenho": true,
     "especial": false,
+    "clube": "Korea DPR",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/507.jpg"
   },
   {
     "numero": "508",
-    "nome": "Cromo 508",
+    "nome": "Ri Jun-Il",
     "tenho": true,
     "especial": false,
+    "clube": "Korea DPR",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/508.jpg"
   },
   {
     "numero": "509",
-    "nome": "Cromo 509",
+    "nome": "Cha Jong-Hyok",
     "tenho": true,
     "especial": false,
+    "clube": "Korea DPR",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/509.jpg"
   },
   {
     "numero": "510",
-    "nome": "Cromo 510",
+    "nome": "Ri Kwang-Chon",
     "tenho": true,
     "especial": false,
+    "clube": "Korea DPR",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/510.jpg"
   },
   {
     "numero": "511",
-    "nome": "Cromo 511",
+    "nome": "Pak Chol-Jin",
     "tenho": true,
     "especial": false,
+    "clube": "Korea DPR",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/511.jpg"
   },
   {
     "numero": "512",
-    "nome": "Cromo 512",
+    "nome": "Nam Song-Chol",
     "tenho": true,
     "especial": false,
+    "clube": "Korea DPR",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/512.jpg"
   },
   {
     "numero": "513",
-    "nome": "Cromo 513",
+    "nome": "Ji Yun-Nam",
     "tenho": true,
     "especial": false,
+    "clube": "Korea DPR",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/513.jpg"
   },
   {
     "numero": "514",
-    "nome": "Cromo 514",
+    "nome": "An Chol-Hyok",
     "tenho": true,
     "especial": false,
+    "clube": "Korea DPR",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/514.jpg"
   },
   {
     "numero": "515",
-    "nome": "Cromo 515",
+    "nome": "Ri Chol-Myong",
     "tenho": true,
     "especial": false,
+    "clube": "Korea DPR",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/515.jpg"
   },
   {
     "numero": "516",
-    "nome": "Cromo 516",
+    "nome": "Pak Nam-Chol",
     "tenho": true,
     "especial": false,
+    "clube": "Korea DPR",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/516.jpg"
   },
   {
     "numero": "517",
-    "nome": "Cromo 517",
+    "nome": "Mun In-Guk",
     "tenho": true,
     "especial": false,
+    "clube": "Korea DPR",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/517.jpg"
   },
   {
     "numero": "518",
-    "nome": "Cromo 518",
+    "nome": "An Yong-Hak",
     "tenho": true,
     "especial": false,
+    "clube": "Korea DPR",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/518.jpg"
   },
   {
     "numero": "519",
-    "nome": "Cromo 519",
+    "nome": "Kim Myong-Won",
     "tenho": true,
     "especial": false,
+    "clube": "Korea DPR",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/519.jpg"
   },
   {
     "numero": "519x",
-    "nome": "Cromo 519x",
+    "nome": "Kim Yong-Jun",
     "tenho": true,
     "especial": true,
+    "clube": "Korea DPR",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/519x.jpg"
   },
   {
     "numero": "520",
-    "nome": "Cromo 520",
+    "nome": "Kim Kum-Il",
     "tenho": true,
     "especial": false,
+    "clube": "Korea DPR",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/520.jpg"
   },
   {
     "numero": "521",
-    "nome": "Cromo 521",
+    "nome": "Hong Yong-Jo",
     "tenho": true,
     "especial": false,
+    "clube": "Korea DPR",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/521.jpg"
   },
   {
     "numero": "522",
-    "nome": "Cromo 522",
+    "nome": "Jong Tae-Se",
     "tenho": true,
     "especial": false,
+    "clube": "Korea DPR",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/522.jpg"
   },
   {
     "numero": "523",
-    "nome": "Cromo 523",
+    "nome": "Choe Kum-Chol",
     "tenho": true,
     "especial": false,
+    "clube": "Korea DPR",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/523.jpg"
   },
   {
     "numero": "524",
-    "nome": "Cromo 524",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Côte D'Ivoire",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/524.jpg"
   },
   {
     "numero": "525",
-    "nome": "Cromo 525",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Côte D'Ivoire",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/525.jpg"
   },
   {
     "numero": "526",
-    "nome": "Cromo 526",
+    "nome": "Boubacar Barry",
     "tenho": true,
     "especial": false,
+    "clube": "Côte D'Ivoire",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/526.jpg"
   },
   {
     "numero": "527",
-    "nome": "Cromo 527",
+    "nome": "Kolo Toure",
     "tenho": true,
     "especial": false,
+    "clube": "Côte D'Ivoire",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/527.jpg"
   },
   {
     "numero": "528",
-    "nome": "Cromo 528",
+    "nome": "Emmanuel Eboue",
     "tenho": true,
     "especial": false,
+    "clube": "Côte D'Ivoire",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/528.jpg"
   },
   {
     "numero": "529",
-    "nome": "Cromo 529",
+    "nome": "Arthur Boka",
     "tenho": true,
     "especial": false,
+    "clube": "Côte D'Ivoire",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/529.jpg"
   },
   {
     "numero": "530",
-    "nome": "Cromo 530",
+    "nome": "Abdoulaye Meite",
     "tenho": true,
     "especial": false,
+    "clube": "Côte D'Ivoire",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/530.jpg"
   },
   {
     "numero": "530x",
-    "nome": "Cromo 530x",
+    "nome": "Steve Gohouri",
     "tenho": true,
     "especial": true,
+    "clube": "Côte D'Ivoire",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/530x.jpg"
   },
   {
     "numero": "531",
-    "nome": "Cromo 531",
+    "nome": "Souleymane Bamba",
     "tenho": true,
     "especial": false,
+    "clube": "Côte D'Ivoire",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/531.jpg"
   },
   {
     "numero": "532",
-    "nome": "Cromo 532",
+    "nome": "Siaka Tiene",
     "tenho": true,
     "especial": false,
+    "clube": "Côte D'Ivoire",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/532.jpg"
   },
   {
     "numero": "533",
-    "nome": "Cromo 533",
+    "nome": "Kanga Akale",
     "tenho": true,
     "especial": false,
+    "clube": "Côte D'Ivoire",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/533.jpg"
   },
   {
     "numero": "533x",
-    "nome": "Cromo 533x",
+    "nome": "Jean-Jacques Gosso",
     "tenho": true,
     "especial": true,
+    "clube": "Côte D'Ivoire",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/533x.jpg"
   },
   {
     "numero": "534",
-    "nome": "Cromo 534",
+    "nome": "Yaya Toure",
     "tenho": true,
     "especial": false,
+    "clube": "Côte D'Ivoire",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/534.jpg"
   },
   {
     "numero": "535",
-    "nome": "Cromo 535",
+    "nome": "Didier Zokora",
     "tenho": true,
     "especial": false,
+    "clube": "Côte D'Ivoire",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/535.jpg"
   },
   {
     "numero": "536",
-    "nome": "Cromo 536",
+    "nome": "Guy Demel",
     "tenho": true,
     "especial": false,
+    "clube": "Côte D'Ivoire",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/536.jpg"
   },
   {
     "numero": "537",
-    "nome": "Cromo 537",
+    "nome": "Romaric",
     "tenho": true,
     "especial": false,
+    "clube": "Côte D'Ivoire",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/537.jpg"
   },
   {
     "numero": "538",
-    "nome": "Cromo 538",
+    "nome": "Kader Keita",
     "tenho": true,
     "especial": false,
+    "clube": "Côte D'Ivoire",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/538.jpg"
   },
   {
     "numero": "539",
-    "nome": "Cromo 539",
+    "nome": "Gervinho",
     "tenho": true,
     "especial": false,
+    "clube": "Côte D'Ivoire",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/539.jpg"
   },
   {
     "numero": "540",
-    "nome": "Cromo 540",
+    "nome": "Bakari Kone",
     "tenho": true,
     "especial": false,
+    "clube": "Côte D'Ivoire",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/540.jpg"
   },
   {
     "numero": "540x",
-    "nome": "Cromo 540x",
+    "nome": "Aruna Dindane",
     "tenho": true,
     "especial": true,
+    "clube": "Côte D'Ivoire",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/540x.jpg"
   },
   {
     "numero": "541",
-    "nome": "Cromo 541",
+    "nome": "Salomon Kalou",
     "tenho": true,
     "especial": false,
+    "clube": "Côte D'Ivoire",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/541.jpg"
   },
   {
     "numero": "542",
-    "nome": "Cromo 542",
+    "nome": "Didier Drogba",
     "tenho": true,
     "especial": false,
+    "clube": "Côte D'Ivoire",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/542.jpg"
   },
   {
     "numero": "543",
-    "nome": "Cromo 543",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/543.jpg"
   },
   {
     "numero": "544",
-    "nome": "Cromo 544",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/544.jpg"
   },
   {
     "numero": "545",
-    "nome": "Cromo 545",
+    "nome": "Eduardo",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/545.jpg"
   },
   {
     "numero": "546",
-    "nome": "Cromo 546",
+    "nome": "Ricardo Carvalho",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/546.jpg"
   },
   {
     "numero": "547",
-    "nome": "Cromo 547",
+    "nome": "Bruno Alves",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/547.jpg"
   },
   {
     "numero": "548",
-    "nome": "Cromo 548",
+    "nome": "Pepe",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/548.jpg"
   },
   {
     "numero": "549",
-    "nome": "Cromo 549",
+    "nome": "Jose Bosingwa",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/549.jpg"
   },
   {
     "numero": "549x",
-    "nome": "Cromo 549x",
+    "nome": "Miguel",
     "tenho": true,
     "especial": true,
+    "clube": "Portugal",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/549x.jpg"
   },
   {
     "numero": "550",
-    "nome": "Cromo 550",
+    "nome": "Paulo Ferreira",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/550.jpg"
   },
   {
     "numero": "551",
-    "nome": "Cromo 551",
+    "nome": "Tiago Mendes",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/551.jpg"
   },
   {
     "numero": "552",
-    "nome": "Cromo 552",
+    "nome": "Duda",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/552.jpg"
   },
   {
     "numero": "553",
-    "nome": "Cromo 553",
+    "nome": "Raul Meireles",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/553.jpg"
   },
   {
     "numero": "554",
-    "nome": "Cromo 554",
+    "nome": "João Moutinho",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/554.jpg"
   },
   {
     "numero": "554x",
-    "nome": "Cromo 554x",
+    "nome": "Pedro Mendes",
     "tenho": true,
     "especial": true,
+    "clube": "Portugal",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/554x.jpg"
   },
   {
     "numero": "555",
-    "nome": "Cromo 555",
+    "nome": "Miguel Veloso",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/555.jpg"
   },
   {
     "numero": "556",
-    "nome": "Cromo 556",
+    "nome": "Deco",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/556.jpg"
   },
   {
     "numero": "557",
-    "nome": "Cromo 557",
+    "nome": "Nani",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/557.jpg"
   },
   {
     "numero": "557x",
-    "nome": "Cromo 557x",
+    "nome": "Danny",
     "tenho": true,
     "especial": true,
+    "clube": "Portugal",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/557x.jpg"
   },
   {
     "numero": "558",
-    "nome": "Cromo 558",
+    "nome": "Simão",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/558.jpg"
   },
   {
     "numero": "559",
-    "nome": "Cromo 559",
+    "nome": "Cristiano Ronaldo",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/559.jpg"
   },
   {
     "numero": "560",
-    "nome": "Cromo 560",
+    "nome": "Liedson",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/560.jpg"
   },
   {
     "numero": "561",
-    "nome": "Cromo 561",
+    "nome": "Hugo Almeida",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/561.jpg"
   },
   {
     "numero": "562",
-    "nome": "Cromo 562",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/562.jpg"
   },
   {
     "numero": "563",
-    "nome": "Cromo 563",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/563.jpg"
   },
   {
     "numero": "564",
-    "nome": "Cromo 564",
+    "nome": "Iker Casillas",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/564.jpg"
   },
   {
     "numero": "565",
-    "nome": "Cromo 565",
+    "nome": "Carles Puyol",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/565.jpg"
   },
   {
     "numero": "566",
-    "nome": "Cromo 566",
+    "nome": "Gerard Pique",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/566.jpg"
   },
   {
     "numero": "567",
-    "nome": "Cromo 567",
+    "nome": "Sergio Ramos",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/567.jpg"
   },
   {
     "numero": "568",
-    "nome": "Cromo 568",
+    "nome": "Raul Albiol",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/568.jpg"
   },
   {
     "numero": "569",
-    "nome": "Cromo 569",
+    "nome": "Joan Capdevila",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/569.jpg"
   },
   {
     "numero": "570",
-    "nome": "Cromo 570",
+    "nome": "Alvaro Arbeloa",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/570.jpg"
   },
   {
     "numero": "571",
-    "nome": "Cromo 571",
+    "nome": "Sergio Busquets",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/571.jpg"
   },
   {
     "numero": "572",
-    "nome": "Cromo 572",
+    "nome": "Marcos Senna",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/572.jpg"
   },
   {
     "numero": "572x",
-    "nome": "Cromo 572x",
+    "nome": "Javi Martinez",
     "tenho": true,
     "especial": true,
+    "clube": "España",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/572x.jpg"
   },
   {
     "numero": "573",
-    "nome": "Cromo 573",
+    "nome": "Xavi Hernandez",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/573.jpg"
   },
   {
     "numero": "574",
-    "nome": "Cromo 574",
+    "nome": "Xabi Alonso",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/574.jpg"
   },
   {
     "numero": "575",
-    "nome": "Cromo 575",
+    "nome": "Jesus Navas",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/575.jpg"
   },
   {
     "numero": "576",
-    "nome": "Cromo 576",
+    "nome": "Cesc Fabregas",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/576.jpg"
   },
   {
     "numero": "577",
-    "nome": "Cromo 577",
+    "nome": "Andres Iniesta",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/577.jpg"
   },
   {
     "numero": "578",
-    "nome": "Cromo 578",
+    "nome": "David Silva",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/578.jpg"
   },
   {
     "numero": "579",
-    "nome": "Cromo 579",
+    "nome": "David Villa",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/579.jpg"
   },
   {
     "numero": "580",
-    "nome": "Cromo 580",
+    "nome": "Fernando Torres",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/580.jpg"
   },
   {
     "numero": "581",
-    "nome": "Cromo 581",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/581.jpg"
   },
   {
     "numero": "582",
-    "nome": "Cromo 582",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/582.jpg"
   },
   {
     "numero": "583",
-    "nome": "Cromo 583",
+    "nome": "Diego Benaglio",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/583.jpg"
   },
   {
     "numero": "584",
-    "nome": "Cromo 584",
+    "nome": "Ludovic Magnin",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/584.jpg"
   },
   {
     "numero": "585",
-    "nome": "Cromo 585",
+    "nome": "Stephan Lichtsteiner",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/585.jpg"
   },
   {
     "numero": "586",
-    "nome": "Cromo 586",
+    "nome": "Stephane Grichting",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/586.jpg"
   },
   {
     "numero": "587",
-    "nome": "Cromo 587",
+    "nome": "Christoph Spycher",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/587.jpg"
   },
   {
     "numero": "587x",
-    "nome": "Cromo 587x",
+    "nome": "Reto Ziegler",
     "tenho": true,
     "especial": true,
+    "clube": "Helvetia",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/587x.jpg"
   },
   {
     "numero": "588",
-    "nome": "Cromo 588",
+    "nome": "Philippe Senderos",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/588.jpg"
   },
   {
     "numero": "589",
-    "nome": "Cromo 589",
+    "nome": "Valon Behrami",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/589.jpg"
   },
   {
     "numero": "590",
-    "nome": "Cromo 590",
+    "nome": "Marco Padalino",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/590.jpg"
   },
   {
     "numero": "591",
-    "nome": "Cromo 591",
+    "nome": "Benjamin Huggel",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/591.jpg"
   },
   {
     "numero": "592",
-    "nome": "Cromo 592",
+    "nome": "Gökhan Inler",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/592.jpg"
   },
   {
     "numero": "593",
-    "nome": "Cromo 593",
+    "nome": "Tranquillo Barnetta",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/593.jpg"
   },
   {
     "numero": "594",
-    "nome": "Cromo 594",
+    "nome": "Gelson Fernandes",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/594.jpg"
   },
   {
     "numero": "595",
-    "nome": "Cromo 595",
+    "nome": "Hakan Yakin",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/595.jpg"
   },
   {
     "numero": "596",
-    "nome": "Cromo 596",
+    "nome": "Johan Vonlanthen",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/596.jpg"
   },
   {
     "numero": "596x",
-    "nome": "Cromo 596x",
+    "nome": "Albert Bunjaku",
     "tenho": true,
     "especial": true,
+    "clube": "Helvetia",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/596x.jpg"
   },
   {
     "numero": "597",
-    "nome": "Cromo 597",
+    "nome": "Alexander Frei",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/597.jpg"
   },
   {
     "numero": "598",
-    "nome": "Cromo 598",
+    "nome": "Blaise Nkufo",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/598.jpg"
   },
   {
     "numero": "599",
-    "nome": "Cromo 599",
+    "nome": "Eren Derdiyok",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/599.jpg"
   },
   {
     "numero": "600",
-    "nome": "Cromo 600",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Honduras",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/600.jpg"
   },
   {
     "numero": "601",
-    "nome": "Cromo 601",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Honduras",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/601.jpg"
   },
   {
     "numero": "602",
-    "nome": "Cromo 602",
+    "nome": "Noel Valladares",
     "tenho": true,
     "especial": false,
+    "clube": "Honduras",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/602.jpg"
   },
   {
     "numero": "603",
-    "nome": "Cromo 603",
+    "nome": "Maynor Figueroa",
     "tenho": true,
     "especial": false,
+    "clube": "Honduras",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/603.jpg"
   },
   {
     "numero": "604",
-    "nome": "Cromo 604",
+    "nome": "Osman Chavez",
     "tenho": true,
     "especial": false,
+    "clube": "Honduras",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/604.jpg"
   },
   {
     "numero": "605",
-    "nome": "Cromo 605",
+    "nome": "Victor Bernardez",
     "tenho": true,
     "especial": false,
+    "clube": "Honduras",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/605.jpg"
   },
   {
     "numero": "606",
-    "nome": "Cromo 606",
+    "nome": "Luis Ramos",
     "tenho": true,
     "especial": false,
+    "clube": "Honduras",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/606.jpg"
   },
   {
     "numero": "606x",
-    "nome": "Cromo 606x",
+    "nome": "Oscar Garcia",
     "tenho": true,
     "especial": true,
+    "clube": "Honduras",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/606x.jpg"
   },
   {
     "numero": "607",
-    "nome": "Cromo 607",
+    "nome": "Mauricio Sabillon",
     "tenho": true,
     "especial": false,
+    "clube": "Honduras",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/607.jpg"
   },
   {
     "numero": "608",
-    "nome": "Cromo 608",
+    "nome": "Wilson Palacios",
     "tenho": true,
     "especial": false,
+    "clube": "Honduras",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/608.jpg"
   },
   {
     "numero": "609",
-    "nome": "Cromo 609",
+    "nome": "Emilio Izaguirre",
     "tenho": true,
     "especial": false,
+    "clube": "Honduras",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/609.jpg"
   },
   {
     "numero": "610",
-    "nome": "Cromo 610",
+    "nome": "Amado Guevara",
     "tenho": true,
     "especial": false,
+    "clube": "Honduras",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/610.jpg"
   },
   {
     "numero": "611",
-    "nome": "Cromo 611",
+    "nome": "Ramon Nuñez",
     "tenho": true,
     "especial": false,
+    "clube": "Honduras",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/611.jpg"
   },
   {
     "numero": "612",
-    "nome": "Cromo 612",
+    "nome": "Hendry Thomas",
     "tenho": true,
     "especial": false,
+    "clube": "Honduras",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/612.jpg"
   },
   {
     "numero": "613",
-    "nome": "Cromo 613",
+    "nome": "Danilo Elvis Turcios",
     "tenho": true,
     "especial": false,
+    "clube": "Honduras",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/613.jpg"
   },
   {
     "numero": "614",
-    "nome": "Cromo 614",
+    "nome": "Edgar Alvarez",
     "tenho": true,
     "especial": false,
+    "clube": "Honduras",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/614.jpg"
   },
   {
     "numero": "615",
-    "nome": "Cromo 615",
+    "nome": "Julio Cesar Leon",
     "tenho": true,
     "especial": false,
+    "clube": "Honduras",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/615.jpg"
   },
   {
     "numero": "616",
-    "nome": "Cromo 616",
+    "nome": "Carlos Pavon",
     "tenho": true,
     "especial": false,
+    "clube": "Honduras",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/616.jpg"
   },
   {
     "numero": "617",
-    "nome": "Cromo 617",
+    "nome": "David Suazo",
     "tenho": true,
     "especial": false,
+    "clube": "Honduras",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/617.jpg"
   },
   {
     "numero": "618",
-    "nome": "Cromo 618",
+    "nome": "Carlo Costly",
     "tenho": true,
     "especial": false,
+    "clube": "Honduras",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/618.jpg"
   },
   {
     "numero": "618x",
-    "nome": "Cromo 618x",
+    "nome": "Walter Martinez",
     "tenho": true,
     "especial": true,
+    "clube": "Honduras",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/618x.jpg"
   },
   {
     "numero": "619",
-    "nome": "Cromo 619",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Chile",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/619.jpg"
   },
   {
     "numero": "620",
-    "nome": "Cromo 620",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Chile",
+    "tipo": "foil",
     "imagem": "images/capas/SOUTH AFRICA 2010/620.jpg"
   },
   {
     "numero": "621",
-    "nome": "Cromo 621",
+    "nome": "Claudio Bravo",
     "tenho": true,
     "especial": false,
+    "clube": "Chile",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/621.jpg"
   },
   {
     "numero": "622",
-    "nome": "Cromo 622",
+    "nome": "Gonzalo Jara",
     "tenho": true,
     "especial": false,
+    "clube": "Chile",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/622.jpg"
   },
   {
     "numero": "623",
-    "nome": "Cromo 623",
+    "nome": "Gary Medel",
     "tenho": true,
     "especial": false,
+    "clube": "Chile",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/623.jpg"
   },
   {
     "numero": "624",
-    "nome": "Cromo 624",
+    "nome": "Waldo Ponce",
     "tenho": true,
     "especial": false,
+    "clube": "Chile",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/624.jpg"
   },
   {
     "numero": "625",
-    "nome": "Cromo 625",
+    "nome": "Arturo Vidal",
     "tenho": true,
     "especial": false,
+    "clube": "Chile",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/625.jpg"
   },
   {
     "numero": "626",
-    "nome": "Cromo 626",
+    "nome": "Ismael Fuentes",
     "tenho": true,
     "especial": false,
+    "clube": "Chile",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/626.jpg"
   },
   {
     "numero": "627",
-    "nome": "Cromo 627",
+    "nome": "Mauricio Isla",
     "tenho": true,
     "especial": false,
+    "clube": "Chile",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/627.jpg"
   },
   {
     "numero": "628",
-    "nome": "Cromo 628",
+    "nome": "Rodrigo Millar",
     "tenho": true,
     "especial": false,
+    "clube": "Chile",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/628.jpg"
   },
   {
     "numero": "629",
-    "nome": "Cromo 629",
+    "nome": "Carlos Carmona",
     "tenho": true,
     "especial": false,
+    "clube": "Chile",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/629.jpg"
   },
   {
     "numero": "630",
-    "nome": "Cromo 630",
+    "nome": "Roberto Cereceda",
     "tenho": true,
     "especial": false,
+    "clube": "Chile",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/630.jpg"
   },
   {
     "numero": "630x",
-    "nome": "Cromo 630x",
+    "nome": "Pablo Contreras",
     "tenho": true,
     "especial": true,
+    "clube": "Chile",
+    "tipo": "International / Update",
     "imagem": "images/capas/SOUTH AFRICA 2010/630x.jpg"
   },
   {
     "numero": "631",
-    "nome": "Cromo 631",
+    "nome": "Marco Estrada",
     "tenho": true,
     "especial": false,
+    "clube": "Chile",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/631.jpg"
   },
   {
     "numero": "632",
-    "nome": "Cromo 632",
+    "nome": "Matias Fernandez",
     "tenho": true,
     "especial": false,
+    "clube": "Chile",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/632.jpg"
   },
   {
     "numero": "633",
-    "nome": "Cromo 633",
+    "nome": "Fabian Orellana",
     "tenho": true,
     "especial": false,
+    "clube": "Chile",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/633.jpg"
   },
   {
     "numero": "634",
-    "nome": "Cromo 634",
+    "nome": "Alexis Sanchez",
     "tenho": true,
     "especial": false,
+    "clube": "Chile",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/634.jpg"
   },
   {
     "numero": "635",
-    "nome": "Cromo 635",
+    "nome": "Mark Gonzalez",
     "tenho": true,
     "especial": false,
+    "clube": "Chile",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/635.jpg"
   },
   {
     "numero": "636",
-    "nome": "Cromo 636",
+    "nome": "Humberto Suazo",
     "tenho": true,
     "especial": false,
+    "clube": "Chile",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/636.jpg"
   },
   {
     "numero": "637",
-    "nome": "Cromo 637",
+    "nome": "Jean Beausejour",
     "tenho": true,
     "especial": false,
+    "clube": "Chile",
+    "tipo": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/637.jpg"
   },
   {
     "numero": "638",
-    "nome": "Cromo 638",
+    "nome": "FIFA World Cup Trophy",
     "tenho": true,
     "especial": false,
+    "clube": "-",
     "imagem": "images/capas/SOUTH AFRICA 2010/638.jpg"
   }
 ]
