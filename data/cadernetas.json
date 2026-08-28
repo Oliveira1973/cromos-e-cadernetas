@@ -5,7 +5,8 @@
     "editora": "Edições Flash",
     "ano": 1988,
     "totalCromos": 260,
-    "capa": "images/capas/Offside 88 89.jpg"
+    "capa": "images/capas/Offside 88 89.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Festa do Futebol 81 82",
@@ -13,7 +14,8 @@
     "editora": "Sorcácius",
     "ano": 1981,
     "totalCromos": 224,
-    "capa": "images/capas/Festa do Futebol 81 82.jpg"
+    "capa": "images/capas/Festa do Futebol 81 82.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 82",
@@ -21,7 +23,8 @@
     "editora": "APR",
     "ano": 1981,
     "totalCromos": 305,
-    "capa": "images/capas/Futebol 82.jpg"
+    "capa": "images/capas/Futebol 82.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Os Cracks 82 83",
@@ -29,7 +32,8 @@
     "editora": "Francisco MAS",
     "ano": 1982,
     "totalCromos": 266,
-    "capa": "images/capas/Os Cracks 82 83.jpg"
+    "capa": "images/capas/Os Cracks 82 83.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Cromos de futebol 2010 2011",
@@ -37,7 +41,8 @@
     "editora": "Pirata",
     "ano": 2010,
     "totalCromos": 256,
-    "capa": "images/capas/Cromos de futebol 2010 2011.jpg"
+    "capa": "images/capas/Cromos de futebol 2010 2011.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Mundial Espanha 82",
@@ -45,7 +50,8 @@
     "editora": "Mabilgráfica",
     "ano": 1982,
     "totalCromos": 288,
-    "capa": "images/capas/Mundial Espanha 82.jpg"
+    "capa": "images/capas/Mundial Espanha 82.jpg",
+    "tema": "Mundiais"
   },
   {
     "id": "O Golo STOP",
@@ -53,7 +59,8 @@
     "editora": "Sócromo",
     "ano": 1989,
     "totalCromos": 176,
-    "capa": "images/capas/O Golo STOP.jpg"
+    "capa": "images/capas/O Golo STOP.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Bola ao Centro",
@@ -61,7 +68,8 @@
     "editora": "Mabilgráfica",
     "ano": 1982,
     "totalCromos": 204,
-    "capa": "images/capas/Bola ao Centro.jpg"
+    "capa": "images/capas/Bola ao Centro.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol Post 84",
@@ -69,7 +77,8 @@
     "editora": "Mabilgráfica",
     "ano": 1984,
     "totalCromos": 208,
-    "capa": "images/capas/Futebol Post 84.jpg"
+    "capa": "images/capas/Futebol Post 84.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Gira a Nota 83 84",
@@ -77,7 +86,8 @@
     "editora": "Mabilgráfica",
     "ano": 1983,
     "totalCromos": 192,
-    "capa": "images/capas/Gira a Nota 83 84.jpg"
+    "capa": "images/capas/Gira a Nota 83 84.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Ases Mundial 82",
@@ -85,7 +95,8 @@
     "editora": "Francisco Más",
     "ano": 1982,
     "totalCromos": 140,
-    "capa": "images/capas/Ases Mundial 82.jpg"
+    "capa": "images/capas/Ases Mundial 82.jpg",
+    "tema": "Mundiais"
   },
   {
     "id": "Humor e Futebol 78 79",
@@ -93,7 +104,8 @@
     "editora": "Sorcácius",
     "ano": 1979,
     "totalCromos": 259,
-    "capa": "images/capas/Humor e Futebol 78 79.jpg"
+    "capa": "images/capas/Humor e Futebol 78 79.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Idolos de Portugal",
@@ -101,7 +113,8 @@
     "editora": "Mabilgráfica",
     "ano": 1980,
     "totalCromos": 256,
-    "capa": "images/capas/Idolos de Portugal.jpg"
+    "capa": "images/capas/Idolos de Portugal.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Top Futebol",
@@ -109,7 +122,8 @@
     "editora": "Sorcácius",
     "ano": 1980,
     "totalCromos": 224,
-    "capa": "images/capas/Top Futebol.jpg"
+    "capa": "images/capas/Top Futebol.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Arte e Futebol",
@@ -117,7 +131,8 @@
     "editora": "Mabilgráfica",
     "ano": 1979,
     "totalCromos": 208,
-    "capa": "images/capas/Arte e Futebol.jpg"
+    "capa": "images/capas/Arte e Futebol.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Norte e Sul 88 89",
@@ -125,7 +140,8 @@
     "editora": "Sorcácius",
     "ano": 1988,
     "totalCromos": 260,
-    "capa": "images/capas/Norte e Sul 88 89.jpg"
+    "capa": "images/capas/Norte e Sul 88 89.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Pontapé de Saída 82 83",
@@ -133,7 +149,8 @@
     "editora": "Sorcácius",
     "ano": 1982,
     "totalCromos": 224,
-    "capa": "images/capas/Pontapé de Saída 82 83.jpg"
+    "capa": "images/capas/Pontapé de Saída 82 83.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "O Planeta da Bola 80",
@@ -141,7 +158,8 @@
     "editora": "Sorcácius",
     "ano": 1980,
     "totalCromos": 208,
-    "capa": "images/capas/O Planeta da Bola 80.jpg"
+    "capa": "images/capas/O Planeta da Bola 80.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Campeões 78 80",
@@ -149,7 +167,8 @@
     "editora": "Mabilgráfica",
     "ano": 1979,
     "totalCromos": 224,
-    "capa": "images/capas/Campeões 78 80.jpg"
+    "capa": "images/capas/Campeões 78 80.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 77",
@@ -157,7 +176,8 @@
     "editora": "Edições Acrópole",
     "ano": 1976,
     "totalCromos": 192,
-    "capa": "images/capas/Futebol 77.jpg"
+    "capa": "images/capas/Futebol 77.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Dribling 87 88",
@@ -165,7 +185,8 @@
     "editora": "Edições APS",
     "ano": 1987,
     "totalCromos": 300,
-    "capa": "images/capas/Dribling 87 88.jpg"
+    "capa": "images/capas/Dribling 87 88.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 93 94",
@@ -173,7 +194,8 @@
     "editora": "Panini",
     "ano": 1993,
     "totalCromos": 378,
-    "capa": "images/capas/Futebol 93 94.jpg"
+    "capa": "images/capas/Futebol 93 94.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 95 96",
@@ -181,7 +203,8 @@
     "editora": "Panini",
     "ano": 1995,
     "totalCromos": 362,
-    "capa": "images/capas/Futebol 95 96.jpg"
+    "capa": "images/capas/Futebol 95 96.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 94 95",
@@ -189,7 +212,8 @@
     "editora": "Panini",
     "ano": 1994,
     "totalCromos": 367,
-    "capa": "images/capas/Futebol 94 95.jpg"
+    "capa": "images/capas/Futebol 94 95.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 2000 2001",
@@ -197,7 +221,8 @@
     "editora": "Panini",
     "ano": 2000,
     "totalCromos": 360,
-    "capa": "images/capas/Futebol 2000 2001.jpg"
+    "capa": "images/capas/Futebol 2000 2001.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 2005 2006",
@@ -205,7 +230,8 @@
     "editora": "Panini",
     "ano": 2005,
     "totalCromos": 486,
-    "capa": "images/capas/Futebol 2005 2006.jpg"
+    "capa": "images/capas/Futebol 2005 2006.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 2006 2007",
@@ -213,7 +239,8 @@
     "editora": "Panini",
     "ano": 2006,
     "totalCromos": 404,
-    "capa": "images/capas/Futebol 2006 2007.jpg"
+    "capa": "images/capas/Futebol 2006 2007.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 2007 2008",
@@ -221,7 +248,8 @@
     "editora": "Panini",
     "ano": 2007,
     "totalCromos": 404,
-    "capa": "images/capas/Futebol 2007 2008.jpg"
+    "capa": "images/capas/Futebol 2007 2008.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 2008 2009",
@@ -229,7 +257,8 @@
     "editora": "Panini",
     "ano": 2008,
     "totalCromos": 404,
-    "capa": "images/capas/Futebol 2008 2009.jpg"
+    "capa": "images/capas/Futebol 2008 2009.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 2009 2010",
@@ -237,7 +266,8 @@
     "editora": "Panini",
     "ano": 2009,
     "totalCromos": 405,
-    "capa": "images/capas/Futebol 2009 2010.jpg"
+    "capa": "images/capas/Futebol 2009 2010.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 2010 2011",
@@ -245,7 +275,8 @@
     "editora": "Panini",
     "ano": 2010,
     "totalCromos": 412,
-    "capa": "images/capas/Futebol 2010 2011.jpg"
+    "capa": "images/capas/Futebol 2010 2011.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 2022 2023",
@@ -253,7 +284,8 @@
     "editora": "Panini",
     "ano": 2022,
     "totalCromos": 477,
-    "capa": "images/capas/Futebol 2022 2023.jpg"
+    "capa": "images/capas/Futebol 2022 2023.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 2012 2013",
@@ -261,7 +293,8 @@
     "editora": "Panini",
     "ano": 2012,
     "totalCromos": 426,
-    "capa": "images/capas/Futebol 2012 2013.jpg"
+    "capa": "images/capas/Futebol 2012 2013.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 2011 2012",
@@ -269,7 +302,8 @@
     "editora": "Panini",
     "ano": 2011,
     "totalCromos": 431,
-    "capa": "images/capas/Futebol 2011 2012.jpg"
+    "capa": "images/capas/Futebol 2011 2012.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 2013 2014",
@@ -277,7 +311,8 @@
     "editora": "Panini",
     "ano": 2013,
     "totalCromos": 418,
-    "capa": "images/capas/Futebol 2013 2014.jpg"
+    "capa": "images/capas/Futebol 2013 2014.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 2014 2015",
@@ -285,7 +320,8 @@
     "editora": "Panini",
     "ano": 2014,
     "totalCromos": 406,
-    "capa": "images/capas/Futebol 2014 2015.jpg"
+    "capa": "images/capas/Futebol 2014 2015.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 2015 2016",
@@ -293,7 +329,8 @@
     "editora": "Panini",
     "ano": 2015,
     "totalCromos": 436,
-    "capa": "images/capas/Futebol 2015 2016.jpg"
+    "capa": "images/capas/Futebol 2015 2016.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 2016 2017",
@@ -301,7 +338,8 @@
     "editora": "Panini",
     "ano": 2016,
     "totalCromos": 442,
-    "capa": "images/capas/Futebol 2016 2017.jpg"
+    "capa": "images/capas/Futebol 2016 2017.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 2017 2018",
@@ -309,7 +347,8 @@
     "editora": "Panini",
     "ano": 2017,
     "totalCromos": 398,
-    "capa": "images/capas/Futebol 2017 2018.jpg"
+    "capa": "images/capas/Futebol 2017 2018.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 2018 2019",
@@ -317,7 +356,8 @@
     "editora": "Panini",
     "ano": 2018,
     "totalCromos": 432,
-    "capa": "images/capas/Futebol 2018 2019.jpg"
+    "capa": "images/capas/Futebol 2018 2019.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 2019 2020",
@@ -325,7 +365,8 @@
     "editora": "Panini",
     "ano": 2019,
     "totalCromos": 423,
-    "capa": "images/capas/Futebol 2019 2020.jpg"
+    "capa": "images/capas/Futebol 2019 2020.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 2020 2021",
@@ -333,7 +374,8 @@
     "editora": "Panini",
     "ano": 2020,
     "totalCromos": 445,
-    "capa": "images/capas/Futebol 2020 2021.jpg"
+    "capa": "images/capas/Futebol 2020 2021.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 2021 2022",
@@ -341,7 +383,8 @@
     "editora": "Panini",
     "ano": 2021,
     "totalCromos": 438,
-    "capa": "images/capas/Futebol 2021 2022.jpg"
+    "capa": "images/capas/Futebol 2021 2022.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 2023 2024",
@@ -349,7 +392,8 @@
     "editora": "Panini",
     "ano": 2023,
     "totalCromos": 527,
-    "capa": "images/capas/Futebol 2023 2024.jpg"
+    "capa": "images/capas/Futebol 2023 2024.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 2024 2025",
@@ -357,7 +401,8 @@
     "editora": "Panini",
     "ano": 2024,
     "totalCromos": 528,
-    "capa": "images/capas/Futebol 2024 2025.jpg"
+    "capa": "images/capas/Futebol 2024 2025.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "Futebol 2025 2026",
@@ -365,7 +410,8 @@
     "editora": "Panini",
     "ano": 2025,
     "totalCromos": 526,
-    "capa": "images/capas/Futebol 2025 2026.jpg"
+    "capa": "images/capas/Futebol 2025 2026.jpg",
+    "tema": "Liga Portuguesa"
   },
   {
     "id": "ESPANA 82",
