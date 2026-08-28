@@ -530,6 +530,33 @@
     "tema": "Europeus"
   },
   {
+    "id": "Euro 2012",
+    "nome": "Euro 2012",
+    "editora": "Panini",
+    "ano": 2012,
+    "totalCromos": 1,
+    "capa": "images/capas/Euro 2012.jpg",
+    "tema": "Europeus"
+  },
+  {
+    "id": "Euro 2016",
+    "nome": "Euro 2016",
+    "editora": "Panini",
+    "ano": 2016,
+    "totalCromos": 1,
+    "capa": "images/capas/Euro 2016.jpg",
+    "tema": "Europeus"
+  },
+  {
+    "id": "Euro 2020",
+    "nome": "Euro 2020",
+    "editora": "Panini",
+    "ano": 2020,
+    "totalCromos": 764,
+    "capa": "images/capas/Euro 2020.jpg",
+    "tema": "Europeus"
+  },
+  {
     "id": "EURO 2024",
     "nome": "EURO 2024",
     "editora": "Topps",
