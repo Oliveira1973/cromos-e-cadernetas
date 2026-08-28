@@ -1,5420 +1,7076 @@
 [
   {
-    "numero": "00",
-    "nome": "Cromo 00",
+    "numero": "0",
+    "nome": "Panini",
     "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/RUSSIA 2018/00.jpg"
+    "especial": false,
+    "clube": "Introduction",
+    "tipo": "foil",
+    "imagem": "images/capas/RUSSIA 2018/0.jpg"
   },
   {
     "numero": "1",
-    "nome": "Cromo 1",
+    "nome": "FIFA Fair Play",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/1.jpg"
   },
   {
     "numero": "2",
-    "nome": "Cromo 2",
+    "nome": "FIFA World Cup Trophy",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/2.jpg"
   },
   {
     "numero": "3",
-    "nome": "Cromo 3",
+    "nome": "Style guide - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/3.jpg"
   },
   {
     "numero": "4",
-    "nome": "Cromo 4",
+    "nome": "Style guide - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/4.jpg"
   },
   {
     "numero": "5",
-    "nome": "Cromo 5",
+    "nome": "FIFA World Cup Logo - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/5.jpg"
   },
   {
     "numero": "6",
-    "nome": "Cromo 6",
+    "nome": "FIFA World Cup Logo - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/6.jpg"
   },
   {
     "numero": "7",
-    "nome": "Cromo 7",
+    "nome": "Official Ball",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/7.jpg"
   },
   {
     "numero": "8",
-    "nome": "Cromo 8",
+    "nome": "Ekaterinburg Arena",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/8.jpg"
   },
   {
     "numero": "9",
-    "nome": "Cromo 9",
+    "nome": "Kaliningrad Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/9.jpg"
   },
   {
     "numero": "10",
-    "nome": "Cromo 10",
+    "nome": "Kazan Arena",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/10.jpg"
   },
   {
     "numero": "11",
-    "nome": "Cromo 11",
+    "nome": "Spartak Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/11.jpg"
   },
   {
     "numero": "12",
-    "nome": "Cromo 12",
+    "nome": "Nizhny Novgorod Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/12.jpg"
   },
   {
     "numero": "13",
-    "nome": "Cromo 13",
+    "nome": "Luzhniki Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/13.jpg"
   },
   {
     "numero": "14",
-    "nome": "Cromo 14",
+    "nome": "Rostov Arena",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/14.jpg"
   },
   {
     "numero": "15",
-    "nome": "Cromo 15",
+    "nome": "Saint Petersburg Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/15.jpg"
   },
   {
     "numero": "16",
-    "nome": "Cromo 16",
+    "nome": "Samara Arena",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/16.jpg"
   },
   {
     "numero": "17",
-    "nome": "Cromo 17",
+    "nome": "Mordovia Arena",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/17.jpg"
   },
   {
     "numero": "18",
-    "nome": "Cromo 18",
+    "nome": "Fisht Stadium",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/18.jpg"
   },
   {
     "numero": "19",
-    "nome": "Cromo 19",
+    "nome": "Volgograd Arena",
     "tenho": true,
     "especial": false,
+    "clube": "Stadiums",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/19.jpg"
   },
   {
     "numero": "20",
-    "nome": "Cromo 20",
+    "nome": "Moscow - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Host cities' posters",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/20.jpg"
   },
   {
     "numero": "21",
-    "nome": "Cromo 21",
+    "nome": "Moscow - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Host cities' posters",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/21.jpg"
   },
   {
     "numero": "22",
-    "nome": "Cromo 22",
+    "nome": "Kaliningrad",
     "tenho": true,
     "especial": false,
+    "clube": "Host cities' posters",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/22.jpg"
   },
   {
     "numero": "23",
-    "nome": "Cromo 23",
+    "nome": "Saint Petersburg",
     "tenho": true,
     "especial": false,
+    "clube": "Host cities' posters",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/23.jpg"
   },
   {
     "numero": "24",
-    "nome": "Cromo 24",
+    "nome": "Sochi",
     "tenho": true,
     "especial": false,
+    "clube": "Host cities' posters",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/24.jpg"
   },
   {
     "numero": "25",
-    "nome": "Cromo 25",
+    "nome": "Rostov-On-Don",
     "tenho": true,
     "especial": false,
+    "clube": "Host cities' posters",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/25.jpg"
   },
   {
     "numero": "26",
-    "nome": "Cromo 26",
+    "nome": "Volgograd",
     "tenho": true,
     "especial": false,
+    "clube": "Host cities' posters",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/26.jpg"
   },
   {
     "numero": "27",
-    "nome": "Cromo 27",
+    "nome": "Kazan",
     "tenho": true,
     "especial": false,
+    "clube": "Host cities' posters",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/27.jpg"
   },
   {
     "numero": "28",
-    "nome": "Cromo 28",
+    "nome": "Nizhny Novgorod",
     "tenho": true,
     "especial": false,
+    "clube": "Host cities' posters",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/28.jpg"
   },
   {
     "numero": "29",
-    "nome": "Cromo 29",
+    "nome": "Samara",
     "tenho": true,
     "especial": false,
+    "clube": "Host cities' posters",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/29.jpg"
   },
   {
     "numero": "30",
-    "nome": "Cromo 30",
+    "nome": "Ekaterinburg",
     "tenho": true,
     "especial": false,
+    "clube": "Host cities' posters",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/30.jpg"
   },
   {
     "numero": "31",
-    "nome": "Cromo 31",
+    "nome": "Saransk",
     "tenho": true,
     "especial": false,
+    "clube": "Host cities' posters",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/31.jpg"
   },
   {
     "numero": "32",
-    "nome": "Cromo 32",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Russia",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/32.jpg"
   },
   {
     "numero": "33",
-    "nome": "Cromo 33",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/33.jpg"
   },
   {
     "numero": "34",
-    "nome": "Cromo 34",
+    "nome": "Igor Akinfeev",
     "tenho": true,
     "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/34.jpg"
   },
   {
     "numero": "35",
-    "nome": "Cromo 35",
+    "nome": "Igor Smolnikov",
     "tenho": true,
     "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/35.jpg"
   },
   {
     "numero": "36",
-    "nome": "Cromo 36",
+    "nome": "Viktor Vasin",
     "tenho": true,
     "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/36.jpg"
   },
   {
     "numero": "36x",
-    "nome": "Cromo 36x",
+    "nome": "Andrei Semenov",
     "tenho": true,
     "especial": true,
+    "clube": "Russia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/36x.jpg"
   },
   {
     "numero": "37",
-    "nome": "Cromo 37",
+    "nome": "Mário Fernandes",
     "tenho": true,
     "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/37.jpg"
   },
   {
     "numero": "38",
-    "nome": "Cromo 38",
+    "nome": "Fedor Kudryashov",
     "tenho": true,
     "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/38.jpg"
   },
   {
     "numero": "39",
-    "nome": "Cromo 39",
+    "nome": "Ilya Kutepov",
     "tenho": true,
     "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/39.jpg"
   },
   {
     "numero": "40",
-    "nome": "Cromo 40",
+    "nome": "Dmitri Kombarov",
     "tenho": true,
     "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/40.jpg"
   },
   {
     "numero": "40x",
-    "nome": "Cromo 40x",
+    "nome": "Vladimir Granat",
     "tenho": true,
     "especial": true,
+    "clube": "Russia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/40x.jpg"
   },
   {
     "numero": "41",
-    "nome": "Cromo 41",
+    "nome": "Aleksei Miranchuk",
     "tenho": true,
     "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/41.jpg"
   },
   {
     "numero": "42",
-    "nome": "Cromo 42",
+    "nome": "Denis Glushakov",
     "tenho": true,
     "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/42.jpg"
   },
   {
     "numero": "42x",
-    "nome": "Cromo 42x",
+    "nome": "Denis Cheryshev",
     "tenho": true,
     "especial": true,
+    "clube": "Russia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/42x.jpg"
   },
   {
     "numero": "43",
-    "nome": "Cromo 43",
+    "nome": "Aleksandr Golovin",
     "tenho": true,
     "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/43.jpg"
   },
   {
     "numero": "44",
-    "nome": "Cromo 44",
+    "nome": "Yuri Zhirkov",
     "tenho": true,
     "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/44.jpg"
   },
   {
     "numero": "45",
-    "nome": "Cromo 45",
+    "nome": "Aleksandr Samedov",
     "tenho": true,
     "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/45.jpg"
   },
   {
     "numero": "46",
-    "nome": "Cromo 46",
+    "nome": "Aleksandr Erokhin",
     "tenho": true,
     "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/46.jpg"
   },
   {
     "numero": "47",
-    "nome": "Cromo 47",
+    "nome": "Alan Dzagoev",
     "tenho": true,
     "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/47.jpg"
   },
   {
     "numero": "48",
-    "nome": "Cromo 48",
+    "nome": "Daler Kuzyaev",
     "tenho": true,
     "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/48.jpg"
   },
   {
     "numero": "49",
-    "nome": "Cromo 49",
+    "nome": "Dmitri Poloz",
     "tenho": true,
     "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/49.jpg"
   },
   {
     "numero": "49x",
-    "nome": "Cromo 49x",
+    "nome": "Roman Zobnin",
     "tenho": true,
     "especial": true,
+    "clube": "Russia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/49x.jpg"
   },
   {
     "numero": "50",
-    "nome": "Cromo 50",
+    "nome": "Fedor Smolov",
     "tenho": true,
     "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/50.jpg"
   },
   {
     "numero": "51",
-    "nome": "Cromo 51",
+    "nome": "Aleksandr Kokorin",
     "tenho": true,
     "especial": false,
+    "clube": "Russia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/51.jpg"
   },
   {
     "numero": "51x",
-    "nome": "Cromo 51x",
+    "nome": "Artem Dzyuba",
     "tenho": true,
     "especial": true,
+    "clube": "Russia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/51x.jpg"
   },
   {
     "numero": "52",
-    "nome": "Cromo 52",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/52.jpg"
   },
   {
     "numero": "53",
-    "nome": "Cromo 53",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/53.jpg"
   },
   {
     "numero": "54",
-    "nome": "Cromo 54",
+    "nome": "Abdullah Al-Mayouf",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/54.jpg"
   },
   {
     "numero": "55",
-    "nome": "Cromo 55",
+    "nome": "Osama Hawsawi",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/55.jpg"
   },
   {
     "numero": "56",
-    "nome": "Cromo 56",
+    "nome": "Abdullah Al-Zori",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/56.jpg"
   },
   {
     "numero": "56x",
-    "nome": "Cromo 56x",
+    "nome": "Housain Al-Mogahwi",
     "tenho": true,
     "especial": true,
+    "clube": "Saudi Arabia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/56x.jpg"
   },
   {
     "numero": "57",
-    "nome": "Cromo 57",
+    "nome": "Mansour Al-Harbi",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/57.jpg"
   },
   {
     "numero": "58",
-    "nome": "Cromo 58",
+    "nome": "Omar Hawsawi",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/58.jpg"
   },
   {
     "numero": "59",
-    "nome": "Cromo 59",
+    "nome": "Yasser Al-Shahrani",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/59.jpg"
   },
   {
     "numero": "60",
-    "nome": "Cromo 60",
+    "nome": "Motaz Hawsawi",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/60.jpg"
   },
   {
     "numero": "61",
-    "nome": "Cromo 61",
+    "nome": "Mohammed Al-Beraik",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/61.jpg"
   },
   {
     "numero": "62",
-    "nome": "Cromo 62",
+    "nome": "Taisir Al-Jassim",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/62.jpg"
   },
   {
     "numero": "63",
-    "nome": "Cromo 63",
+    "nome": "Salman Al-Faraj",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/63.jpg"
   },
   {
     "numero": "64",
-    "nome": "Cromo 64",
+    "nome": "Abdulmalek Al-Khaibri",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/64.jpg"
   },
   {
     "numero": "65",
-    "nome": "Cromo 65",
+    "nome": "Salman Al-Moasher",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/65.jpg"
   },
   {
     "numero": "65x",
-    "nome": "Cromo 65x",
+    "nome": "Abdullah Otayf",
     "tenho": true,
     "especial": true,
+    "clube": "Saudi Arabia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/65x.jpg"
   },
   {
     "numero": "66",
-    "nome": "Cromo 66",
+    "nome": "Yahya Al-Shehri",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/66.jpg"
   },
   {
     "numero": "67",
-    "nome": "Cromo 67",
+    "nome": "Salem Al-Dosari",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/67.jpg"
   },
   {
     "numero": "68",
-    "nome": "Cromo 68",
+    "nome": "Nawaf Al-Abed",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/68.jpg"
   },
   {
     "numero": "68x",
-    "nome": "Cromo 68x",
+    "nome": "Abdullah Al-Khaibari",
     "tenho": true,
     "especial": true,
+    "clube": "Saudi Arabia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/68x.jpg"
   },
   {
     "numero": "69",
-    "nome": "Cromo 69",
+    "nome": "Mohammad Al-Sahlawi",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/69.jpg"
   },
   {
     "numero": "70",
-    "nome": "Cromo 70",
+    "nome": "Nasser Al-Shamrani",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/70.jpg"
   },
   {
     "numero": "70x",
-    "nome": "Cromo 70x",
+    "nome": "Mohamed Kanno",
     "tenho": true,
     "especial": true,
+    "clube": "Saudi Arabia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/70x.jpg"
   },
   {
     "numero": "71",
-    "nome": "Cromo 71",
+    "nome": "Fahad Al-Muwallad",
     "tenho": true,
     "especial": false,
+    "clube": "Saudi Arabia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/71.jpg"
   },
   {
     "numero": "72",
-    "nome": "Cromo 72",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Egypt",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/72.jpg"
   },
   {
     "numero": "73",
-    "nome": "Cromo 73",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Egypt",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/73.jpg"
   },
   {
     "numero": "74",
-    "nome": "Cromo 74",
+    "nome": "Essam El Hadary",
     "tenho": true,
     "especial": false,
+    "clube": "Egypt",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/74.jpg"
   },
   {
     "numero": "75",
-    "nome": "Cromo 75",
+    "nome": "Ali Gabr",
     "tenho": true,
     "especial": false,
+    "clube": "Egypt",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/75.jpg"
   },
   {
     "numero": "76",
-    "nome": "Cromo 76",
+    "nome": "Ahmed Elmohamady",
     "tenho": true,
     "especial": false,
+    "clube": "Egypt",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/76.jpg"
   },
   {
     "numero": "77",
-    "nome": "Cromo 77",
+    "nome": "Omar Gaber",
     "tenho": true,
     "especial": false,
+    "clube": "Egypt",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/77.jpg"
   },
   {
     "numero": "78",
-    "nome": "Cromo 78",
+    "nome": "Ramy Rabia",
     "tenho": true,
     "especial": false,
+    "clube": "Egypt",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/78.jpg"
   },
   {
     "numero": "78x",
-    "nome": "Cromo 78x",
+    "nome": "Ayman Ashraf",
     "tenho": true,
     "especial": true,
+    "clube": "Egypt",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/78x.jpg"
   },
   {
     "numero": "79",
-    "nome": "Cromo 79",
+    "nome": "Ahmed Hegazi",
     "tenho": true,
     "especial": false,
+    "clube": "Egypt",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/79.jpg"
   },
   {
     "numero": "80",
-    "nome": "Cromo 80",
+    "nome": "Ahmed Abdelmonem Fathy",
     "tenho": true,
     "especial": false,
+    "clube": "Egypt",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/80.jpg"
   },
   {
     "numero": "81",
-    "nome": "Cromo 81",
+    "nome": "Mohamed Abdel Shafy",
     "tenho": true,
     "especial": false,
+    "clube": "Egypt",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/81.jpg"
   },
   {
     "numero": "82",
-    "nome": "Cromo 82",
+    "nome": "Saad El-Din Samir",
     "tenho": true,
     "especial": false,
+    "clube": "Egypt",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/82.jpg"
   },
   {
     "numero": "83",
-    "nome": "Cromo 83",
+    "nome": "Tarek Hamed",
     "tenho": true,
     "especial": false,
+    "clube": "Egypt",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/83.jpg"
   },
   {
     "numero": "84",
-    "nome": "Cromo 84",
+    "nome": "Mahmoud Kahraba",
     "tenho": true,
     "especial": false,
+    "clube": "Egypt",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/84.jpg"
   },
   {
     "numero": "85",
-    "nome": "Cromo 85",
+    "nome": "Mohamed Elneny",
     "tenho": true,
     "especial": false,
+    "clube": "Egypt",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/85.jpg"
   },
   {
     "numero": "86",
-    "nome": "Cromo 86",
+    "nome": "Trézéguet",
     "tenho": true,
     "especial": false,
+    "clube": "Egypt",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/86.jpg"
   },
   {
     "numero": "87",
-    "nome": "Cromo 87",
+    "nome": "Abdallah El Said",
     "tenho": true,
     "especial": false,
+    "clube": "Egypt",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/87.jpg"
   },
   {
     "numero": "88",
-    "nome": "Cromo 88",
+    "nome": "Ramadan Sobhi",
     "tenho": true,
     "especial": false,
+    "clube": "Egypt",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/88.jpg"
   },
   {
     "numero": "89",
-    "nome": "Cromo 89",
+    "nome": "Ahmed Hassan",
     "tenho": true,
     "especial": false,
+    "clube": "Egypt",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/89.jpg"
   },
   {
     "numero": "89x",
-    "nome": "Cromo 89x",
+    "nome": "Sam Morsy",
     "tenho": true,
     "especial": true,
+    "clube": "Egypt",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/89x.jpg"
   },
   {
     "numero": "90",
-    "nome": "Cromo 90",
+    "nome": "Mohamed Salah",
     "tenho": true,
     "especial": false,
+    "clube": "Egypt",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/90.jpg"
   },
   {
     "numero": "91",
-    "nome": "Cromo 91",
+    "nome": "Amr Gamal",
     "tenho": true,
     "especial": false,
+    "clube": "Egypt",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/91.jpg"
   },
   {
     "numero": "91x",
-    "nome": "Cromo 91x",
+    "nome": "Marwan Mohsen",
     "tenho": true,
     "especial": true,
+    "clube": "Egypt",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/91x.jpg"
   },
   {
     "numero": "92",
-    "nome": "Cromo 92",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/92.jpg"
   },
   {
     "numero": "93",
-    "nome": "Cromo 93",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/93.jpg"
   },
   {
     "numero": "94",
-    "nome": "Cromo 94",
+    "nome": "Fernando Muslera",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/94.jpg"
   },
   {
     "numero": "95",
-    "nome": "Cromo 95",
+    "nome": "Maxi Pereira",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/95.jpg"
   },
   {
     "numero": "96",
-    "nome": "Cromo 96",
+    "nome": "Diego Godín",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/96.jpg"
   },
   {
     "numero": "97",
-    "nome": "Cromo 97",
+    "nome": "Martín Cáceres",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/97.jpg"
   },
   {
     "numero": "98",
-    "nome": "Cromo 98",
+    "nome": "José Giménez",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/98.jpg"
   },
   {
     "numero": "99",
-    "nome": "Cromo 99",
+    "nome": "Sebastián Coates",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/99.jpg"
   },
   {
     "numero": "100",
-    "nome": "Cromo 100",
+    "nome": "Gastón Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/100.jpg"
   },
   {
     "numero": "101",
-    "nome": "Cromo 101",
+    "nome": "Mathías Corujo",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/101.jpg"
   },
   {
     "numero": "101x",
-    "nome": "Cromo 101x",
+    "nome": "Diego Laxalt",
     "tenho": true,
     "especial": true,
+    "clube": "Uruguay",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/101x.jpg"
   },
   {
     "numero": "102",
-    "nome": "Cromo 102",
+    "nome": "Egidio Arévalo Ríos",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/102.jpg"
   },
   {
     "numero": "102x",
-    "nome": "Cromo 102x",
+    "nome": "Nahitan Nandez",
     "tenho": true,
     "especial": true,
+    "clube": "Uruguay",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/102x.jpg"
   },
   {
     "numero": "103",
-    "nome": "Cromo 103",
+    "nome": "Álvaro González",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/103.jpg"
   },
   {
     "numero": "103x",
-    "nome": "Cromo 103x",
+    "nome": "Rodrigo Bentancur",
     "tenho": true,
     "especial": true,
+    "clube": "Uruguay",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/103x.jpg"
   },
   {
     "numero": "104",
-    "nome": "Cromo 104",
+    "nome": "Nicolás Lodeiro",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/104.jpg"
   },
   {
     "numero": "104x",
-    "nome": "Cromo 104x",
+    "nome": "Giorgian De Arrascaeta",
     "tenho": true,
     "especial": true,
+    "clube": "Uruguay",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/104x.jpg"
   },
   {
     "numero": "105",
-    "nome": "Cromo 105",
+    "nome": "Carlos Sánchez",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/105.jpg"
   },
   {
     "numero": "106",
-    "nome": "Cromo 106",
+    "nome": "Cristian Rodríguez",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/106.jpg"
   },
   {
     "numero": "107",
-    "nome": "Cromo 107",
+    "nome": "Matías Vecino",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/107.jpg"
   },
   {
     "numero": "108",
-    "nome": "Cromo 108",
+    "nome": "Edinson Cavani",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/108.jpg"
   },
   {
     "numero": "109",
-    "nome": "Cromo 109",
+    "nome": "Luis Suárez",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/109.jpg"
   },
   {
     "numero": "110",
-    "nome": "Cromo 110",
+    "nome": "Cristhian Stuani",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/110.jpg"
   },
   {
     "numero": "111",
-    "nome": "Cromo 111",
+    "nome": "Diego Rolán",
     "tenho": true,
     "especial": false,
+    "clube": "Uruguay",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/111.jpg"
   },
   {
     "numero": "111x",
-    "nome": "Cromo 111x",
+    "nome": "Maximiliano Gómez",
     "tenho": true,
     "especial": true,
+    "clube": "Uruguay",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/111x.jpg"
   },
   {
     "numero": "112",
-    "nome": "Cromo 112",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/112.jpg"
   },
   {
     "numero": "113",
-    "nome": "Cromo 113",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/113.jpg"
   },
   {
     "numero": "114",
-    "nome": "Cromo 114",
+    "nome": "Rui Patrício",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/114.jpg"
   },
   {
     "numero": "115",
-    "nome": "Cromo 115",
+    "nome": "Bruno Alves",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/115.jpg"
   },
   {
     "numero": "116",
-    "nome": "Cromo 116",
+    "nome": "Pepe",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/116.jpg"
   },
   {
     "numero": "117",
-    "nome": "Cromo 117",
+    "nome": "José Fonte",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/117.jpg"
   },
   {
     "numero": "118",
-    "nome": "Cromo 118",
+    "nome": "Eliseu",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/118.jpg"
   },
   {
     "numero": "118x",
-    "nome": "Cromo 118x",
+    "nome": "Ricardo Pereira",
     "tenho": true,
     "especial": true,
+    "clube": "Portugal",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/118x.jpg"
   },
   {
     "numero": "119",
-    "nome": "Cromo 119",
+    "nome": "Cédric Soares",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/119.jpg"
   },
   {
     "numero": "120",
-    "nome": "Cromo 120",
+    "nome": "Raphaël Guerreiro",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/120.jpg"
   },
   {
     "numero": "121",
-    "nome": "Cromo 121",
+    "nome": "João Moutinho",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/121.jpg"
   },
   {
     "numero": "122",
-    "nome": "Cromo 122",
+    "nome": "João Mário",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/122.jpg"
   },
   {
     "numero": "123",
-    "nome": "Cromo 123",
+    "nome": "Danilo Pereira",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/123.jpg"
   },
   {
     "numero": "123x",
-    "nome": "Cromo 123x",
+    "nome": "Bruno Fernandes",
     "tenho": true,
     "especial": true,
+    "clube": "Portugal",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/123x.jpg"
   },
   {
     "numero": "124",
-    "nome": "Cromo 124",
+    "nome": "William Carvalho",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/124.jpg"
   },
   {
     "numero": "125",
-    "nome": "Cromo 125",
+    "nome": "André Gomes",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/125.jpg"
   },
   {
     "numero": "125x",
-    "nome": "Cromo 125x",
+    "nome": "Adrien Silva",
     "tenho": true,
     "especial": true,
+    "clube": "Portugal",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/125x.jpg"
   },
   {
     "numero": "126",
-    "nome": "Cromo 126",
+    "nome": "Ricardo Quaresma",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/126.jpg"
   },
   {
     "numero": "127",
-    "nome": "Cromo 127",
+    "nome": "Bernardo Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/127.jpg"
   },
   {
     "numero": "128",
-    "nome": "Cromo 128",
+    "nome": "André Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/128.jpg"
   },
   {
     "numero": "129",
-    "nome": "Cromo 129",
+    "nome": "Gelson Martins",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/129.jpg"
   },
   {
     "numero": "130",
-    "nome": "Cromo 130",
+    "nome": "Cristiano Ronaldo",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/130.jpg"
   },
   {
     "numero": "131",
-    "nome": "Cromo 131",
+    "nome": "Nani",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/131.jpg"
   },
   {
     "numero": "131x",
-    "nome": "Cromo 131x",
+    "nome": "Gonçalo Guedes",
     "tenho": true,
     "especial": true,
+    "clube": "Portugal",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/131x.jpg"
   },
   {
     "numero": "132",
-    "nome": "Cromo 132",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/132.jpg"
   },
   {
     "numero": "133",
-    "nome": "Cromo 133",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/133.jpg"
   },
   {
     "numero": "134",
-    "nome": "Cromo 134",
+    "nome": "David de Gea",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/134.jpg"
   },
   {
     "numero": "135",
-    "nome": "Cromo 135",
+    "nome": "Jordi Alba",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/135.jpg"
   },
   {
     "numero": "136",
-    "nome": "Cromo 136",
+    "nome": "Nacho Fernández",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/136.jpg"
   },
   {
     "numero": "137",
-    "nome": "Cromo 137",
+    "nome": "Nacho Monreal",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/137.jpg"
   },
   {
     "numero": "138",
-    "nome": "Cromo 138",
+    "nome": "Gerard Piqué",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/138.jpg"
   },
   {
     "numero": "139",
-    "nome": "Cromo 139",
+    "nome": "Sergio Ramos",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/139.jpg"
   },
   {
     "numero": "140",
-    "nome": "Cromo 140",
+    "nome": "Daniel Carvajal",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/140.jpg"
   },
   {
     "numero": "141",
-    "nome": "Cromo 141",
+    "nome": "Sergio Busquets",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/141.jpg"
   },
   {
     "numero": "142",
-    "nome": "Cromo 142",
+    "nome": "Thiago Alcántara",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/142.jpg"
   },
   {
     "numero": "143",
-    "nome": "Cromo 143",
+    "nome": "Isco",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/143.jpg"
   },
   {
     "numero": "144",
-    "nome": "Cromo 144",
+    "nome": "Koke",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/144.jpg"
   },
   {
     "numero": "145",
-    "nome": "Cromo 145",
+    "nome": "Marco Asensio",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/145.jpg"
   },
   {
     "numero": "146",
-    "nome": "Cromo 146",
+    "nome": "Andrés Iniesta",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/146.jpg"
   },
   {
     "numero": "147",
-    "nome": "Cromo 147",
+    "nome": "David Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/147.jpg"
   },
   {
     "numero": "148",
-    "nome": "Cromo 148",
+    "nome": "Saúl Ñíguez",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/148.jpg"
   },
   {
     "numero": "149",
-    "nome": "Cromo 149",
+    "nome": "Álvaro Morata",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/149.jpg"
   },
   {
     "numero": "149x",
-    "nome": "Cromo 149x",
+    "nome": "Rodrigo Moreno",
     "tenho": true,
     "especial": true,
+    "clube": "Spain",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/149x.jpg"
   },
   {
     "numero": "150",
-    "nome": "Cromo 150",
+    "nome": "Vitolo",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/150.jpg"
   },
   {
     "numero": "150x",
-    "nome": "Cromo 150x",
+    "nome": "Iago Aspas",
     "tenho": true,
     "especial": true,
+    "clube": "Spain",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/150x.jpg"
   },
   {
     "numero": "151",
-    "nome": "Cromo 151",
+    "nome": "Diego Costa",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/151.jpg"
   },
   {
     "numero": "152",
-    "nome": "Cromo 152",
-    "tenho": true,
+    "nome": "Emblem",
+    "tenho": false,
     "especial": false,
+    "clube": "Morocco",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/152.jpg"
   },
   {
     "numero": "153",
-    "nome": "Cromo 153",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Morocco",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/153.jpg"
   },
   {
     "numero": "154",
-    "nome": "Cromo 154",
+    "nome": "Munir Mohamedi",
     "tenho": true,
     "especial": false,
+    "clube": "Morocco",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/154.jpg"
   },
   {
     "numero": "155",
-    "nome": "Cromo 155",
+    "nome": "Medhi Benatia",
     "tenho": true,
     "especial": false,
+    "clube": "Morocco",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/155.jpg"
   },
   {
     "numero": "156",
-    "nome": "Cromo 156",
+    "nome": "Nabil Dirar",
     "tenho": true,
     "especial": false,
+    "clube": "Morocco",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/156.jpg"
   },
   {
     "numero": "157",
-    "nome": "Cromo 157",
+    "nome": "Romain Saïss",
     "tenho": true,
     "especial": false,
+    "clube": "Morocco",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/157.jpg"
   },
   {
     "numero": "158",
-    "nome": "Cromo 158",
+    "nome": "Fouad Chafik",
     "tenho": true,
     "especial": false,
+    "clube": "Morocco",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/158.jpg"
   },
   {
     "numero": "158x",
-    "nome": "Cromo 158x",
+    "nome": "Manuel Da Costa",
     "tenho": true,
     "especial": true,
+    "clube": "Morocco",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/158x.jpg"
   },
   {
     "numero": "159",
-    "nome": "Cromo 159",
+    "nome": "Hamza Mendyl",
     "tenho": true,
     "especial": false,
+    "clube": "Morocco",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/159.jpg"
   },
   {
     "numero": "160",
-    "nome": "Cromo 160",
+    "nome": "Achraf Hakimi",
     "tenho": true,
     "especial": false,
+    "clube": "Morocco",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/160.jpg"
   },
   {
     "numero": "161",
-    "nome": "Cromo 161",
+    "nome": "Mbark Boussoufa",
     "tenho": true,
     "especial": false,
+    "clube": "Morocco",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/161.jpg"
   },
   {
     "numero": "162",
-    "nome": "Cromo 162",
+    "nome": "Karim El Ahmadi",
     "tenho": true,
     "especial": false,
+    "clube": "Morocco",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/162.jpg"
   },
   {
     "numero": "163",
-    "nome": "Cromo 163",
+    "nome": "Younès Belhanda",
     "tenho": true,
     "especial": false,
+    "clube": "Morocco",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/163.jpg"
   },
   {
     "numero": "164",
-    "nome": "Cromo 164",
+    "nome": "Nordin Amrabat",
     "tenho": true,
     "especial": false,
+    "clube": "Morocco",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/164.jpg"
   },
   {
     "numero": "165",
-    "nome": "Cromo 165",
+    "nome": "Fayçal Fajr",
     "tenho": true,
     "especial": false,
+    "clube": "Morocco",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/165.jpg"
   },
   {
     "numero": "166",
-    "nome": "Cromo 166",
+    "nome": "Hakim Ziyech",
     "tenho": true,
     "especial": false,
+    "clube": "Morocco",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/166.jpg"
   },
   {
     "numero": "167",
-    "nome": "Cromo 167",
+    "nome": "Youssef Aït Bennasser",
     "tenho": true,
     "especial": false,
+    "clube": "Morocco",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/167.jpg"
   },
   {
     "numero": "168",
-    "nome": "Cromo 168",
+    "nome": "Khalid Boutaïb",
     "tenho": true,
     "especial": false,
+    "clube": "Morocco",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/168.jpg"
   },
   {
     "numero": "169",
-    "nome": "Cromo 169",
+    "nome": "Rachid Alioui",
     "tenho": true,
     "especial": false,
+    "clube": "Morocco",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/169.jpg"
   },
   {
     "numero": "169x",
-    "nome": "Cromo 169x",
+    "nome": "Sofyan Amrabat",
     "tenho": true,
     "especial": true,
+    "clube": "Morocco",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/169x.jpg"
   },
   {
     "numero": "170",
-    "nome": "Cromo 170",
+    "nome": "Aziz Bouhaddouz",
     "tenho": true,
     "especial": false,
+    "clube": "Morocco",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/170.jpg"
   },
   {
     "numero": "171",
-    "nome": "Cromo 171",
+    "nome": "Youssef En-Nesyri",
     "tenho": true,
     "especial": false,
+    "clube": "Morocco",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/171.jpg"
   },
   {
     "numero": "172",
-    "nome": "Cromo 172",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/172.jpg"
   },
   {
     "numero": "173",
-    "nome": "Cromo 173",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/173.jpg"
   },
   {
     "numero": "174",
-    "nome": "Cromo 174",
+    "nome": "Alireza Beiranvand",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/174.jpg"
   },
   {
     "numero": "175",
-    "nome": "Cromo 175",
+    "nome": "Pejman Montazeri",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/175.jpg"
   },
   {
     "numero": "176",
-    "nome": "Cromo 176",
+    "nome": "Vouria Ghafouri",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/176.jpg"
   },
   {
     "numero": "176x",
-    "nome": "Cromo 176x",
+    "nome": "Roozbeh Cheshmi",
     "tenho": true,
     "especial": true,
+    "clube": "Iran",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/176x.jpg"
   },
   {
     "numero": "177",
-    "nome": "Cromo 177",
+    "nome": "Jalal Hosseini",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/177.jpg"
   },
   {
     "numero": "177x",
-    "nome": "Cromo 177x",
+    "nome": "Masoud Shojaei",
     "tenho": true,
     "especial": true,
+    "clube": "Iran",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/177x.jpg"
   },
   {
     "numero": "178",
-    "nome": "Cromo 178",
+    "nome": "Milad Mohammadi",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/178.jpg"
   },
   {
     "numero": "179",
-    "nome": "Cromo 179",
+    "nome": "Morteza Pouraliganji",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/179.jpg"
   },
   {
     "numero": "180",
-    "nome": "Cromo 180",
+    "nome": "Ramin Rezaeian",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/180.jpg"
   },
   {
     "numero": "181",
-    "nome": "Cromo 181",
+    "nome": "Ehsan Hajsafi",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/181.jpg"
   },
   {
     "numero": "182",
-    "nome": "Cromo 182",
+    "nome": "Omid Ebrahimi",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/182.jpg"
   },
   {
     "numero": "183",
-    "nome": "Cromo 183",
+    "nome": "Saeid Ezatolahi",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/183.jpg"
   },
   {
     "numero": "184",
-    "nome": "Cromo 184",
+    "nome": "Vahid Amiri",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/184.jpg"
   },
   {
     "numero": "185",
-    "nome": "Cromo 185",
+    "nome": "Alireza Jahanbakhsh",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/185.jpg"
   },
   {
     "numero": "186",
-    "nome": "Cromo 186",
+    "nome": "Ashkan Dejagah",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/186.jpg"
   },
   {
     "numero": "187",
-    "nome": "Cromo 187",
+    "nome": "Saman Ghoddos",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/187.jpg"
   },
   {
     "numero": "188",
-    "nome": "Cromo 188",
+    "nome": "Mehdi Taremi",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/188.jpg"
   },
   {
     "numero": "189",
-    "nome": "Cromo 189",
+    "nome": "Karim Ansarifard",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/189.jpg"
   },
   {
     "numero": "190",
-    "nome": "Cromo 190",
+    "nome": "Reza Ghoochannejhad",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/190.jpg"
   },
   {
     "numero": "191",
-    "nome": "Cromo 191",
+    "nome": "Sardar Azmoun",
     "tenho": true,
     "especial": false,
+    "clube": "Iran",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/191.jpg"
   },
   {
     "numero": "192",
-    "nome": "Cromo 192",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/192.jpg"
   },
   {
     "numero": "193",
-    "nome": "Cromo 193",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/193.jpg"
   },
   {
     "numero": "194",
-    "nome": "Cromo 194",
+    "nome": "Hugo Lloris",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/194.jpg"
   },
   {
     "numero": "195",
-    "nome": "Cromo 195",
+    "nome": "Raphaël Varane",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/195.jpg"
   },
   {
     "numero": "196",
-    "nome": "Cromo 196",
+    "nome": "Lucas Digne",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/196.jpg"
   },
   {
     "numero": "196x",
-    "nome": "Cromo 196x",
+    "nome": "Benjamin Mendy",
     "tenho": true,
     "especial": true,
+    "clube": "France",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/196x.jpg"
   },
   {
     "numero": "197",
-    "nome": "Cromo 197",
+    "nome": "Djibril Sidibé",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/197.jpg"
   },
   {
     "numero": "198",
-    "nome": "Cromo 198",
+    "nome": "Samuel Umtiti",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/198.jpg"
   },
   {
     "numero": "199",
-    "nome": "Cromo 199",
+    "nome": "Layvin Kurzawa",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/199.jpg"
   },
   {
     "numero": "199x",
-    "nome": "Cromo 199x",
+    "nome": "Lucas Hernández",
     "tenho": true,
     "especial": true,
+    "clube": "France",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/199x.jpg"
   },
   {
     "numero": "200",
-    "nome": "Cromo 200",
+    "nome": "Laurent Koscielny",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/200.jpg"
   },
   {
     "numero": "200x",
-    "nome": "Cromo 200x",
+    "nome": "Adil Rami",
     "tenho": true,
     "especial": true,
+    "clube": "France",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/200x.jpg"
   },
   {
     "numero": "201",
-    "nome": "Cromo 201",
+    "nome": "Blaise Matuidi",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/201.jpg"
   },
   {
     "numero": "202",
-    "nome": "Cromo 202",
+    "nome": "N'Golo Kanté",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/202.jpg"
   },
   {
     "numero": "203",
-    "nome": "Cromo 203",
+    "nome": "Thomas Lemar",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/203.jpg"
   },
   {
     "numero": "204",
-    "nome": "Cromo 204",
+    "nome": "Adrien Rabiot",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/204.jpg"
   },
   {
     "numero": "204x",
-    "nome": "Cromo 204x",
+    "nome": "Corentin Tolisso",
     "tenho": true,
     "especial": true,
+    "clube": "France",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/204x.jpg"
   },
   {
     "numero": "205",
-    "nome": "Cromo 205",
+    "nome": "Paul Pogba",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/205.jpg"
   },
   {
     "numero": "206",
-    "nome": "Cromo 206",
+    "nome": "Olivier Giroud",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/206.jpg"
   },
   {
     "numero": "207",
-    "nome": "Cromo 207",
+    "nome": "Antoine Griezmann",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/207.jpg"
   },
   {
     "numero": "208",
-    "nome": "Cromo 208",
+    "nome": "Alexandre Lacazette",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/208.jpg"
   },
   {
     "numero": "208x",
-    "nome": "Cromo 208x",
+    "nome": "Nabil Fekir",
     "tenho": true,
     "especial": true,
+    "clube": "France",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/208x.jpg"
   },
   {
     "numero": "209",
-    "nome": "Cromo 209",
+    "nome": "Kylian Mbappé",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/209.jpg"
   },
   {
     "numero": "210",
-    "nome": "Cromo 210",
+    "nome": "Ousmane Dembélé",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/210.jpg"
   },
   {
     "numero": "211",
-    "nome": "Cromo 211",
+    "nome": "Anthony Martial",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/211.jpg"
   },
   {
     "numero": "211x",
-    "nome": "Cromo 211x",
+    "nome": "Florian Thauvin",
     "tenho": true,
     "especial": true,
+    "clube": "France",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/211x.jpg"
   },
   {
     "numero": "212",
-    "nome": "Cromo 212",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/212.jpg"
   },
   {
     "numero": "213",
-    "nome": "Cromo 213",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/213.jpg"
   },
   {
     "numero": "214",
-    "nome": "Cromo 214",
+    "nome": "Mathew Ryan",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/214.jpg"
   },
   {
     "numero": "215",
-    "nome": "Cromo 215",
+    "nome": "Mitchell Langerak",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/215.jpg"
   },
   {
     "numero": "215x",
-    "nome": "Cromo 215x",
+    "nome": "Brad Jones",
     "tenho": true,
     "especial": true,
+    "clube": "Australia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/215x.jpg"
   },
   {
     "numero": "216",
-    "nome": "Cromo 216",
+    "nome": "Milos Degenek",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/216.jpg"
   },
   {
     "numero": "217",
-    "nome": "Cromo 217",
+    "nome": "Bailey Wright",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/217.jpg"
   },
   {
     "numero": "217x",
-    "nome": "Cromo 217x",
+    "nome": "Josh Risdon",
     "tenho": true,
     "especial": true,
+    "clube": "Australia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/217x.jpg"
   },
   {
     "numero": "218",
-    "nome": "Cromo 218",
+    "nome": "Aziz Behich",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/218.jpg"
   },
   {
     "numero": "219",
-    "nome": "Cromo 219",
+    "nome": "Trent Sainsbury",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/219.jpg"
   },
   {
     "numero": "220",
-    "nome": "Cromo 220",
+    "nome": "Ryan McGowan",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/220.jpg"
   },
   {
     "numero": "220x",
-    "nome": "Cromo 220x",
+    "nome": "Matthew Jurman",
     "tenho": true,
     "especial": true,
+    "clube": "Australia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/220x.jpg"
   },
   {
     "numero": "221",
-    "nome": "Cromo 221",
+    "nome": "Mark Milligan",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/221.jpg"
   },
   {
     "numero": "222",
-    "nome": "Cromo 222",
+    "nome": "Aaron Mooy",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/222.jpg"
   },
   {
     "numero": "223",
-    "nome": "Cromo 223",
+    "nome": "James Troisi",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/223.jpg"
   },
   {
     "numero": "223x",
-    "nome": "Cromo 223x",
+    "nome": "Andrew Nabbout",
     "tenho": true,
     "especial": true,
+    "clube": "Australia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/223x.jpg"
   },
   {
     "numero": "224",
-    "nome": "Cromo 224",
+    "nome": "Mile Jedinak",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/224.jpg"
   },
   {
     "numero": "225",
-    "nome": "Cromo 225",
+    "nome": "Massimo Luongo",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/225.jpg"
   },
   {
     "numero": "226",
-    "nome": "Cromo 226",
+    "nome": "Jackson Irvine",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/226.jpg"
   },
   {
     "numero": "227",
-    "nome": "Cromo 227",
+    "nome": "Tom Rogic",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/227.jpg"
   },
   {
     "numero": "228",
-    "nome": "Cromo 228",
+    "nome": "Tim Cahill",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/228.jpg"
   },
   {
     "numero": "229",
-    "nome": "Cromo 229",
+    "nome": "Mathew Leckie",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/229.jpg"
   },
   {
     "numero": "230",
-    "nome": "Cromo 230",
+    "nome": "Tomi Juric",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/230.jpg"
   },
   {
     "numero": "231",
-    "nome": "Cromo 231",
+    "nome": "Robbie Kruse",
     "tenho": true,
     "especial": false,
+    "clube": "Australia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/231.jpg"
   },
   {
     "numero": "232",
-    "nome": "Cromo 232",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/232.jpg"
   },
   {
     "numero": "233",
-    "nome": "Cromo 233",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/233.jpg"
   },
   {
     "numero": "234",
-    "nome": "Cromo 234",
+    "nome": "Pedro Gallese",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/234.jpg"
   },
   {
     "numero": "235",
-    "nome": "Cromo 235",
+    "nome": "Carlos Cáceda",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/235.jpg"
   },
   {
     "numero": "236",
-    "nome": "Cromo 236",
+    "nome": "Aldo Corzo",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/236.jpg"
   },
   {
     "numero": "237",
-    "nome": "Cromo 237",
+    "nome": "Miguel Trauco",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/237.jpg"
   },
   {
     "numero": "238",
-    "nome": "Cromo 238",
+    "nome": "Christian Ramos",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/238.jpg"
   },
   {
     "numero": "239",
-    "nome": "Cromo 239",
+    "nome": "Luis Advíncula",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/239.jpg"
   },
   {
     "numero": "240",
-    "nome": "Cromo 240",
+    "nome": "Alberto Rodríguez",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/240.jpg"
   },
   {
     "numero": "241",
-    "nome": "Cromo 241",
+    "nome": "Miguel Araujo",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/241.jpg"
   },
   {
     "numero": "242",
-    "nome": "Cromo 242",
+    "nome": "Christian Cueva",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/242.jpg"
   },
   {
     "numero": "243",
-    "nome": "Cromo 243",
+    "nome": "Renato Tapia",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/243.jpg"
   },
   {
     "numero": "244",
-    "nome": "Cromo 244",
+    "nome": "Andy Polo",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/244.jpg"
   },
   {
     "numero": "245",
-    "nome": "Cromo 245",
+    "nome": "Yoshimar Yotún",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/245.jpg"
   },
   {
     "numero": "246",
-    "nome": "Cromo 246",
+    "nome": "Edison Flores",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/246.jpg"
   },
   {
     "numero": "247",
-    "nome": "Cromo 247",
+    "nome": "Paolo Hurtado",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/247.jpg"
   },
   {
     "numero": "248",
-    "nome": "Cromo 248",
+    "nome": "Paolo Guerrero",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/248.jpg"
   },
   {
     "numero": "249",
-    "nome": "Cromo 249",
+    "nome": "Jefferson Farfán",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/249.jpg"
   },
   {
     "numero": "250",
-    "nome": "Cromo 250",
+    "nome": "Raul Ruidíaz",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/250.jpg"
   },
   {
     "numero": "251",
-    "nome": "Cromo 251",
+    "nome": "André Carrillo",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/251.jpg"
   },
   {
     "numero": "252",
-    "nome": "Cromo 252",
-    "tenho": true,
+    "nome": "Emblem",
+    "tenho": false,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/252.jpg"
   },
   {
     "numero": "253",
-    "nome": "Cromo 253",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/253.jpg"
   },
   {
     "numero": "254",
-    "nome": "Cromo 254",
+    "nome": "Kasper Schmeichel",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/254.jpg"
   },
   {
     "numero": "255",
-    "nome": "Cromo 255",
+    "nome": "Jannik Vestergaard",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/255.jpg"
   },
   {
     "numero": "256",
-    "nome": "Cromo 256",
+    "nome": "Simon Kjaer",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/256.jpg"
   },
   {
     "numero": "257",
-    "nome": "Cromo 257",
+    "nome": "Andreas Christensen",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/257.jpg"
   },
   {
     "numero": "258",
-    "nome": "Cromo 258",
+    "nome": "Andreas Bjelland",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/258.jpg"
   },
   {
     "numero": "258x",
-    "nome": "Cromo 258x",
+    "nome": "Henrik Dalsgaard",
     "tenho": true,
     "especial": true,
+    "clube": "Denmark",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/258x.jpg"
   },
   {
     "numero": "259",
-    "nome": "Cromo 259",
+    "nome": "Mathias Jørgensen",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/259.jpg"
   },
   {
     "numero": "260",
-    "nome": "Cromo 260",
+    "nome": "Jens Stryger Larsen",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/260.jpg"
   },
   {
     "numero": "261",
-    "nome": "Cromo 261",
+    "nome": "Peter Ankersen",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/261.jpg"
   },
   {
     "numero": "261x",
-    "nome": "Cromo 261x",
+    "nome": "Martin Braithwaite",
     "tenho": true,
     "especial": true,
+    "clube": "Denmark",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/261x.jpg"
   },
   {
     "numero": "262",
-    "nome": "Cromo 262",
+    "nome": "Riza Durmisi",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/262.jpg"
   },
   {
     "numero": "262x",
-    "nome": "Cromo 262x",
+    "nome": "Viktor Fischer",
     "tenho": true,
     "especial": true,
+    "clube": "Denmark",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/262x.jpg"
   },
   {
     "numero": "263",
-    "nome": "Cromo 263",
+    "nome": "William Kvist",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/263.jpg"
   },
   {
     "numero": "264",
-    "nome": "Cromo 264",
+    "nome": "Thomas Delaney",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/264.jpg"
   },
   {
     "numero": "265",
-    "nome": "Cromo 265",
+    "nome": "Christian Eriksen",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/265.jpg"
   },
   {
     "numero": "266",
-    "nome": "Cromo 266",
+    "nome": "Lasse Schöne",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/266.jpg"
   },
   {
     "numero": "267",
-    "nome": "Cromo 267",
+    "nome": "Pione Sisto",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/267.jpg"
   },
   {
     "numero": "268",
-    "nome": "Cromo 268",
+    "nome": "Nicklas Bendtner",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/268.jpg"
   },
   {
     "numero": "268x",
-    "nome": "Cromo 268x",
+    "nome": "Kasper Dolberg",
     "tenho": true,
     "especial": true,
+    "clube": "Denmark",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/268x.jpg"
   },
   {
     "numero": "269",
-    "nome": "Cromo 269",
+    "nome": "Nicolai Jørgensen",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/269.jpg"
   },
   {
     "numero": "270",
-    "nome": "Cromo 270",
+    "nome": "Yussuf Poulsen",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/270.jpg"
   },
   {
     "numero": "271",
-    "nome": "Cromo 271",
+    "nome": "Andreas Cornelius",
     "tenho": true,
     "especial": false,
+    "clube": "Denmark",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/271.jpg"
   },
   {
     "numero": "272",
-    "nome": "Cromo 272",
-    "tenho": true,
+    "nome": "Emblem",
+    "tenho": false,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/272.jpg"
   },
   {
     "numero": "273",
-    "nome": "Cromo 273",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/273.jpg"
   },
   {
     "numero": "274",
-    "nome": "Cromo 274",
+    "nome": "Sergio Romero",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/274.jpg"
   },
   {
     "numero": "274x",
-    "nome": "Cromo 274x",
+    "nome": "Willy Caballero",
     "tenho": true,
     "especial": true,
+    "clube": "Argentina",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/274x.jpg"
   },
   {
     "numero": "275",
-    "nome": "Cromo 275",
+    "nome": "Gabriel Mercado",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/275.jpg"
   },
   {
     "numero": "276",
-    "nome": "Cromo 276",
+    "nome": "Federico Fazio",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/276.jpg"
   },
   {
     "numero": "277",
-    "nome": "Cromo 277",
+    "nome": "Javier Mascherano",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/277.jpg"
   },
   {
     "numero": "278",
-    "nome": "Cromo 278",
+    "nome": "Nicolás Otamendi",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/278.jpg"
   },
   {
     "numero": "279",
-    "nome": "Cromo 279",
+    "nome": "Marcos Rojo",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/279.jpg"
   },
   {
     "numero": "280",
-    "nome": "Cromo 280",
+    "nome": "Ramiro Funes Mori",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/280.jpg"
   },
   {
     "numero": "280x",
-    "nome": "Cromo 280x",
+    "nome": "Nicolás Tagliafico",
     "tenho": true,
     "especial": true,
+    "clube": "Argentina",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/280x.jpg"
   },
   {
     "numero": "281",
-    "nome": "Cromo 281",
+    "nome": "Lucas Biglia",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/281.jpg"
   },
   {
     "numero": "282",
-    "nome": "Cromo 282",
+    "nome": "Enzo Pérez",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/282.jpg"
   },
   {
     "numero": "282x",
-    "nome": "Cromo 282x",
+    "nome": "Manuel Lanzini",
     "tenho": true,
     "especial": true,
+    "clube": "Argentina",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/282x.jpg"
   },
   {
     "numero": "283",
-    "nome": "Cromo 283",
+    "nome": "Ángel Di María",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/283.jpg"
   },
   {
     "numero": "284",
-    "nome": "Cromo 284",
+    "nome": "Marcos Acuña",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/284.jpg"
   },
   {
     "numero": "285",
-    "nome": "Cromo 285",
+    "nome": "Éver Banega",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/285.jpg"
   },
   {
     "numero": "286",
-    "nome": "Cromo 286",
+    "nome": "Eduardo Salvio",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/286.jpg"
   },
   {
     "numero": "287",
-    "nome": "Cromo 287",
+    "nome": "Mauro Icardi",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/287.jpg"
   },
   {
     "numero": "287x",
-    "nome": "Cromo 287x",
+    "nome": "Giovani Lo Celso",
     "tenho": true,
     "especial": true,
+    "clube": "Argentina",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/287x.jpg"
   },
   {
     "numero": "288",
-    "nome": "Cromo 288",
+    "nome": "Lionel Messi",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/288.jpg"
   },
   {
     "numero": "289",
-    "nome": "Cromo 289",
+    "nome": "Paulo Dybala",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/289.jpg"
   },
   {
     "numero": "290",
-    "nome": "Cromo 290",
+    "nome": "Sergio Agüero",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/290.jpg"
   },
   {
     "numero": "291",
-    "nome": "Cromo 291",
+    "nome": "Gonzalo Higuaín",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/291.jpg"
   },
   {
     "numero": "292",
-    "nome": "Cromo 292",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Iceland",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/292.jpg"
   },
   {
     "numero": "293",
-    "nome": "Cromo 293",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/293.jpg"
   },
   {
     "numero": "294",
-    "nome": "Cromo 294",
+    "nome": "Hannes Halldórsson",
     "tenho": true,
     "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/294.jpg"
   },
   {
     "numero": "295",
-    "nome": "Cromo 295",
+    "nome": "Birkir Sævarsson",
     "tenho": true,
     "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/295.jpg"
   },
   {
     "numero": "296",
-    "nome": "Cromo 296",
+    "nome": "Ragnar Sigurdsson",
     "tenho": true,
     "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/296.jpg"
   },
   {
     "numero": "297",
-    "nome": "Cromo 297",
+    "nome": "Kári Árnason",
     "tenho": true,
     "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/297.jpg"
   },
   {
     "numero": "298",
-    "nome": "Cromo 298",
+    "nome": "Ari Skúlason",
     "tenho": true,
     "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/298.jpg"
   },
   {
     "numero": "299",
-    "nome": "Cromo 299",
+    "nome": "Sverrir Ingason",
     "tenho": true,
     "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/299.jpg"
   },
   {
     "numero": "300",
-    "nome": "Cromo 300",
+    "nome": "Hordur Magnússon",
     "tenho": true,
     "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/300.jpg"
   },
   {
     "numero": "301",
-    "nome": "Cromo 301",
+    "nome": "Aron Gunnarsson",
     "tenho": true,
     "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/301.jpg"
   },
   {
     "numero": "302",
-    "nome": "Cromo 302",
+    "nome": "Birkir Bjarnason",
     "tenho": true,
     "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/302.jpg"
   },
   {
     "numero": "303",
-    "nome": "Cromo 303",
+    "nome": "Emil Hallfredsson",
     "tenho": true,
     "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/303.jpg"
   },
   {
     "numero": "304",
-    "nome": "Cromo 304",
+    "nome": "Gylfi Sigurdsson",
     "tenho": true,
     "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/304.jpg"
   },
   {
     "numero": "305",
-    "nome": "Cromo 305",
+    "nome": "Arnór Ingvi Traustason",
     "tenho": true,
     "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/305.jpg"
   },
   {
     "numero": "306",
-    "nome": "Cromo 306",
+    "nome": "Rúrik Gislason",
     "tenho": true,
     "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/306.jpg"
   },
   {
     "numero": "307",
-    "nome": "Cromo 307",
+    "nome": "Johann Gudmundsson",
     "tenho": true,
     "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/307.jpg"
   },
   {
     "numero": "308",
-    "nome": "Cromo 308",
+    "nome": "Alfred Finnbogason",
     "tenho": true,
     "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/308.jpg"
   },
   {
     "numero": "309",
-    "nome": "Cromo 309",
+    "nome": "Jón Dadi Bödvarsson",
     "tenho": true,
     "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/309.jpg"
   },
   {
     "numero": "310",
-    "nome": "Cromo 310",
+    "nome": "Vidar Örn Kjartansson",
     "tenho": true,
     "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/310.jpg"
   },
   {
     "numero": "310x",
-    "nome": "Cromo 310x",
+    "nome": "Albert Gudmundsson",
     "tenho": true,
     "especial": true,
+    "clube": "Iceland",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/310x.jpg"
   },
   {
     "numero": "311",
-    "nome": "Cromo 311",
+    "nome": "Björn Sigurdarson",
     "tenho": true,
     "especial": false,
+    "clube": "Iceland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/311.jpg"
   },
   {
     "numero": "312",
-    "nome": "Cromo 312",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/312.jpg"
   },
   {
     "numero": "313",
-    "nome": "Cromo 313",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/313.jpg"
   },
   {
     "numero": "314",
-    "nome": "Cromo 314",
+    "nome": "Danijel Subašić",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/314.jpg"
   },
   {
     "numero": "315",
-    "nome": "Cromo 315",
+    "nome": "Šime Vrsaljko",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/315.jpg"
   },
   {
     "numero": "316",
-    "nome": "Cromo 316",
+    "nome": "Ivan Strinić",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/316.jpg"
   },
   {
     "numero": "317",
-    "nome": "Cromo 317",
+    "nome": "Dejan Lovren",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/317.jpg"
   },
   {
     "numero": "318",
-    "nome": "Cromo 318",
+    "nome": "Domagoj Vida",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/318.jpg"
   },
   {
     "numero": "319",
-    "nome": "Cromo 319",
+    "nome": "Josip Pivarić",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/319.jpg"
   },
   {
     "numero": "320",
-    "nome": "Cromo 320",
+    "nome": "Vedran Ćorluka",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/320.jpg"
   },
   {
     "numero": "321",
-    "nome": "Cromo 321",
+    "nome": "Ivan Rakitić",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/321.jpg"
   },
   {
     "numero": "322",
-    "nome": "Cromo 322",
+    "nome": "Luka Modrić",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/322.jpg"
   },
   {
     "numero": "323",
-    "nome": "Cromo 323",
+    "nome": "Marcelo Brozović",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/323.jpg"
   },
   {
     "numero": "324",
-    "nome": "Cromo 324",
+    "nome": "Marko Rog",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/324.jpg"
   },
   {
     "numero": "324x",
-    "nome": "Cromo 324x",
+    "nome": "Marko Pjaca",
     "tenho": true,
     "especial": true,
+    "clube": "Croatia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/324x.jpg"
   },
   {
     "numero": "325",
-    "nome": "Cromo 325",
+    "nome": "Mario Pašalić",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/325.jpg"
   },
   {
     "numero": "325x",
-    "nome": "Cromo 325x",
+    "nome": "Ante Rebić",
     "tenho": true,
     "especial": true,
+    "clube": "Croatia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/325x.jpg"
   },
   {
     "numero": "326",
-    "nome": "Cromo 326",
+    "nome": "Milan Badelj",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/326.jpg"
   },
   {
     "numero": "327",
-    "nome": "Cromo 327",
+    "nome": "Mateo Kovačić",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/327.jpg"
   },
   {
     "numero": "328",
-    "nome": "Cromo 328",
+    "nome": "Andrej Kramarić",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/328.jpg"
   },
   {
     "numero": "329",
-    "nome": "Cromo 329",
+    "nome": "Nikola Kalinić",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/329.jpg"
   },
   {
     "numero": "330",
-    "nome": "Cromo 330",
+    "nome": "Mario Mandžukić",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/330.jpg"
   },
   {
     "numero": "331",
-    "nome": "Cromo 331",
+    "nome": "Ivan Perišić",
     "tenho": true,
     "especial": false,
+    "clube": "Croatia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/331.jpg"
   },
   {
     "numero": "332",
-    "nome": "Cromo 332",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/332.jpg"
   },
   {
     "numero": "333",
-    "nome": "Cromo 333",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/333.jpg"
   },
   {
     "numero": "334",
-    "nome": "Cromo 334",
+    "nome": "Ikechukwu Ezenwa",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/334.jpg"
   },
   {
     "numero": "335",
-    "nome": "Cromo 335",
+    "nome": "Elderson Echiéjilé",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/335.jpg"
   },
   {
     "numero": "336",
-    "nome": "Cromo 336",
+    "nome": "Shehu Abdullahi",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/336.jpg"
   },
   {
     "numero": "337",
-    "nome": "Cromo 337",
+    "nome": "William Troost-Ekong",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/337.jpg"
   },
   {
     "numero": "338",
-    "nome": "Cromo 338",
+    "nome": "Leon Balogun",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/338.jpg"
   },
   {
     "numero": "339",
-    "nome": "Cromo 339",
+    "nome": "Kenneth Omeruo",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/339.jpg"
   },
   {
     "numero": "340",
-    "nome": "Cromo 340",
+    "nome": "Ola Aina",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/340.jpg"
   },
   {
     "numero": "340x",
-    "nome": "Cromo 340x",
+    "nome": "Bryan Idowu",
     "tenho": true,
     "especial": true,
+    "clube": "Nigeria",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/340x.jpg"
   },
   {
     "numero": "341",
-    "nome": "Cromo 341",
+    "nome": "John Obi Mikel",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/341.jpg"
   },
   {
     "numero": "342",
-    "nome": "Cromo 342",
+    "nome": "Ogenyi Onazi",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/342.jpg"
   },
   {
     "numero": "343",
-    "nome": "Cromo 343",
+    "nome": "Etebo Oghenekaro",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/343.jpg"
   },
   {
     "numero": "344",
-    "nome": "Cromo 344",
+    "nome": "Wilfred Ndidi",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/344.jpg"
   },
   {
     "numero": "345",
-    "nome": "Cromo 345",
+    "nome": "Mikel Agu",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/345.jpg"
   },
   {
     "numero": "345x",
-    "nome": "Cromo 345x",
+    "nome": "Joel Obi",
     "tenho": true,
     "especial": true,
+    "clube": "Nigeria",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/345x.jpg"
   },
   {
     "numero": "346",
-    "nome": "Cromo 346",
+    "nome": "Ahmed Musa",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/346.jpg"
   },
   {
     "numero": "347",
-    "nome": "Cromo 347",
+    "nome": "Victor Moses",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/347.jpg"
   },
   {
     "numero": "348",
-    "nome": "Cromo 348",
+    "nome": "Moses Simon",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/348.jpg"
   },
   {
     "numero": "348x",
-    "nome": "Cromo 348x",
+    "nome": "Simy Nwankwo",
     "tenho": true,
     "especial": true,
+    "clube": "Nigeria",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/348x.jpg"
   },
   {
     "numero": "349",
-    "nome": "Cromo 349",
+    "nome": "Odion Ighalo",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/349.jpg"
   },
   {
     "numero": "350",
-    "nome": "Cromo 350",
+    "nome": "Alex Iwobi",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/350.jpg"
   },
   {
     "numero": "351",
-    "nome": "Cromo 351",
+    "nome": "Kelechi Iheanacho",
     "tenho": true,
     "especial": false,
+    "clube": "Nigeria",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/351.jpg"
   },
   {
     "numero": "352",
-    "nome": "Cromo 352",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/352.jpg"
   },
   {
     "numero": "353",
-    "nome": "Cromo 353",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/353.jpg"
   },
   {
     "numero": "354",
-    "nome": "Cromo 354",
+    "nome": "Alisson",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/354.jpg"
   },
   {
     "numero": "355",
-    "nome": "Cromo 355",
+    "nome": "Dani Alves",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/355.jpg"
   },
   {
     "numero": "355x",
-    "nome": "Cromo 355x",
+    "nome": "Fagner",
     "tenho": true,
     "especial": true,
+    "clube": "Brazil",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/355x.jpg"
   },
   {
     "numero": "356",
-    "nome": "Cromo 356",
+    "nome": "Thiago Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/356.jpg"
   },
   {
     "numero": "357",
-    "nome": "Cromo 357",
+    "nome": "Miranda",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/357.jpg"
   },
   {
     "numero": "358",
-    "nome": "Cromo 358",
+    "nome": "Filipe Luís",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/358.jpg"
   },
   {
     "numero": "359",
-    "nome": "Cromo 359",
+    "nome": "Marquinhos",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/359.jpg"
   },
   {
     "numero": "360",
-    "nome": "Cromo 360",
+    "nome": "Marcelo",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/360.jpg"
   },
   {
     "numero": "361",
-    "nome": "Cromo 361",
+    "nome": "Willian",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/361.jpg"
   },
   {
     "numero": "362",
-    "nome": "Cromo 362",
+    "nome": "Paulinho",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/362.jpg"
   },
   {
     "numero": "363",
-    "nome": "Cromo 363",
+    "nome": "Fernandinho",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/363.jpg"
   },
   {
     "numero": "364",
-    "nome": "Cromo 364",
+    "nome": "Casemiro",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/364.jpg"
   },
   {
     "numero": "365",
-    "nome": "Cromo 365",
+    "nome": "Renato Augusto",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/365.jpg"
   },
   {
     "numero": "366",
-    "nome": "Cromo 366",
+    "nome": "Giuliano",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/366.jpg"
   },
   {
     "numero": "366x",
-    "nome": "Cromo 366x",
+    "nome": "Taison",
     "tenho": true,
     "especial": true,
+    "clube": "Brazil",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/366x.jpg"
   },
   {
     "numero": "367",
-    "nome": "Cromo 367",
+    "nome": "Philippe Coutinho",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/367.jpg"
   },
   {
     "numero": "368",
-    "nome": "Cromo 368",
+    "nome": "Douglas Costa",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/368.jpg"
   },
   {
     "numero": "369",
-    "nome": "Cromo 369",
+    "nome": "Roberto Firmino",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/369.jpg"
   },
   {
     "numero": "370",
-    "nome": "Cromo 370",
+    "nome": "Gabriel Jesus",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/370.jpg"
   },
   {
     "numero": "371",
-    "nome": "Cromo 371",
+    "nome": "Neymar Jr",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/371.jpg"
   },
   {
     "numero": "372",
-    "nome": "Cromo 372",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/372.jpg"
   },
   {
     "numero": "373",
-    "nome": "Cromo 373",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/373.jpg"
   },
   {
     "numero": "374",
-    "nome": "Cromo 374",
+    "nome": "Yann Sommer",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/374.jpg"
   },
   {
     "numero": "375",
-    "nome": "Cromo 375",
+    "nome": "Stephan Lichtsteiner",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/375.jpg"
   },
   {
     "numero": "376",
-    "nome": "Cromo 376",
+    "nome": "Manuel Akanji",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/376.jpg"
   },
   {
     "numero": "377",
-    "nome": "Cromo 377",
+    "nome": "Michael Lang",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/377.jpg"
   },
   {
     "numero": "378",
-    "nome": "Cromo 378",
+    "nome": "Ricardo Rodríguez",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/378.jpg"
   },
   {
     "numero": "379",
-    "nome": "Cromo 379",
+    "nome": "Johan Djourou",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/379.jpg"
   },
   {
     "numero": "380",
-    "nome": "Cromo 380",
+    "nome": "Fabian Schär",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/380.jpg"
   },
   {
     "numero": "381",
-    "nome": "Cromo 381",
+    "nome": "Granit Xhaka",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/381.jpg"
   },
   {
     "numero": "382",
-    "nome": "Cromo 382",
+    "nome": "Steven Zuber",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/382.jpg"
   },
   {
     "numero": "383",
-    "nome": "Cromo 383",
+    "nome": "Blerim Džemaili",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/383.jpg"
   },
   {
     "numero": "384",
-    "nome": "Cromo 384",
+    "nome": "Denis Zakaria",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/384.jpg"
   },
   {
     "numero": "385",
-    "nome": "Cromo 385",
+    "nome": "Xherdan Shaqiri",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/385.jpg"
   },
   {
     "numero": "386",
-    "nome": "Cromo 386",
+    "nome": "Valon Behrami",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/386.jpg"
   },
   {
     "numero": "387",
-    "nome": "Cromo 387",
+    "nome": "Gélson Fernandes",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/387.jpg"
   },
   {
     "numero": "388",
-    "nome": "Cromo 388",
+    "nome": "Breel Embolo",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/388.jpg"
   },
   {
     "numero": "389",
-    "nome": "Cromo 389",
+    "nome": "Haris Seferović",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/389.jpg"
   },
   {
     "numero": "390",
-    "nome": "Cromo 390",
+    "nome": "Admir Mehmedi",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/390.jpg"
   },
   {
     "numero": "390x",
-    "nome": "Cromo 390x",
+    "nome": "Mario Gavranović",
     "tenho": true,
     "especial": true,
+    "clube": "Switzerland",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/390x.jpg"
   },
   {
     "numero": "391",
-    "nome": "Cromo 391",
+    "nome": "Eren Derdiyok",
     "tenho": true,
     "especial": false,
+    "clube": "Switzerland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/391.jpg"
   },
   {
     "numero": "391x",
-    "nome": "Cromo 391x",
+    "nome": "Josip Drmić",
     "tenho": true,
     "especial": true,
+    "clube": "Switzerland",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/391x.jpg"
   },
   {
     "numero": "392",
-    "nome": "Cromo 392",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/392.jpg"
   },
   {
     "numero": "393",
-    "nome": "Cromo 393",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/393.jpg"
   },
   {
     "numero": "394",
-    "nome": "Cromo 394",
+    "nome": "Keylor Navas",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/394.jpg"
   },
   {
     "numero": "395",
-    "nome": "Cromo 395",
+    "nome": "Giancarlo González",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/395.jpg"
   },
   {
     "numero": "396",
-    "nome": "Cromo 396",
+    "nome": "Cristian Gamboa",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/396.jpg"
   },
   {
     "numero": "397",
-    "nome": "Cromo 397",
+    "nome": "Bryan Oviedo",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/397.jpg"
   },
   {
     "numero": "398",
-    "nome": "Cromo 398",
+    "nome": "Francisco Calvo",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/398.jpg"
   },
   {
     "numero": "399",
-    "nome": "Cromo 399",
+    "nome": "Kendall Waston",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/399.jpg"
   },
   {
     "numero": "400",
-    "nome": "Cromo 400",
+    "nome": "Rónald Matarrita",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/400.jpg"
   },
   {
     "numero": "401",
-    "nome": "Cromo 401",
+    "nome": "Michael Umaña",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/401.jpg"
   },
   {
     "numero": "401x",
-    "nome": "Cromo 401x",
+    "nome": "Óscar Duarte",
     "tenho": true,
     "especial": true,
+    "clube": "Costa Rica",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/401x.jpg"
   },
   {
     "numero": "402",
-    "nome": "Cromo 402",
+    "nome": "Johnny Acosta",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/402.jpg"
   },
   {
     "numero": "403",
-    "nome": "Cromo 403",
+    "nome": "Bryan Ruiz",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/403.jpg"
   },
   {
     "numero": "404",
-    "nome": "Cromo 404",
+    "nome": "Celso Borges",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/404.jpg"
   },
   {
     "numero": "405",
-    "nome": "Cromo 405",
+    "nome": "Christian Bolaños",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/405.jpg"
   },
   {
     "numero": "406",
-    "nome": "Cromo 406",
+    "nome": "Randall Azofeifa",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/406.jpg"
   },
   {
     "numero": "407",
-    "nome": "Cromo 407",
+    "nome": "David Guzmán",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/407.jpg"
   },
   {
     "numero": "408",
-    "nome": "Cromo 408",
+    "nome": "Rodney Wallace",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/408.jpg"
   },
   {
     "numero": "409",
-    "nome": "Cromo 409",
+    "nome": "Joel Campbell",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/409.jpg"
   },
   {
     "numero": "410",
-    "nome": "Cromo 410",
+    "nome": "Marco Ureña",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/410.jpg"
   },
   {
     "numero": "411",
-    "nome": "Cromo 411",
+    "nome": "Johan Venegas",
     "tenho": true,
     "especial": false,
+    "clube": "Costa Rica",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/411.jpg"
   },
   {
     "numero": "412",
-    "nome": "Cromo 412",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/412.jpg"
   },
   {
     "numero": "413",
-    "nome": "Cromo 413",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/413.jpg"
   },
   {
     "numero": "414",
-    "nome": "Cromo 414",
+    "nome": "Vladimir Stojković",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/414.jpg"
   },
   {
     "numero": "415",
-    "nome": "Cromo 415",
+    "nome": "Branislav Ivanović",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/415.jpg"
   },
   {
     "numero": "416",
-    "nome": "Cromo 416",
+    "nome": "Aleksandar Kolarov",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/416.jpg"
   },
   {
     "numero": "417",
-    "nome": "Cromo 417",
+    "nome": "Antonio Rukavina",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/417.jpg"
   },
   {
     "numero": "418",
-    "nome": "Cromo 418",
+    "nome": "Matija Nastasić",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/418.jpg"
   },
   {
     "numero": "418x",
-    "nome": "Cromo 418x",
+    "nome": "Miloš Veljković",
     "tenho": true,
     "especial": true,
+    "clube": "Serbia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/418x.jpg"
   },
   {
     "numero": "419",
-    "nome": "Cromo 419",
+    "nome": "Duško Tošić",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/419.jpg"
   },
   {
     "numero": "420",
-    "nome": "Cromo 420",
+    "nome": "Nikola Maksimović",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/420.jpg"
   },
   {
     "numero": "420x",
-    "nome": "Cromo 420x",
+    "nome": "Uroš Spajić",
     "tenho": true,
     "especial": true,
+    "clube": "Serbia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/420x.jpg"
   },
   {
     "numero": "421",
-    "nome": "Cromo 421",
+    "nome": "Jagoš Vuković",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/421.jpg"
   },
   {
     "numero": "421x",
-    "nome": "Cromo 421x",
+    "nome": "Nikola Milenković",
     "tenho": true,
     "especial": true,
+    "clube": "Serbia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/421x.jpg"
   },
   {
     "numero": "422",
-    "nome": "Cromo 422",
+    "nome": "Dušan Tadić",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/422.jpg"
   },
   {
     "numero": "423",
-    "nome": "Cromo 423",
+    "nome": "Sergej Milinković-Savić",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/423.jpg"
   },
   {
     "numero": "424",
-    "nome": "Cromo 424",
+    "nome": "Nemanja Matić",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/424.jpg"
   },
   {
     "numero": "425",
-    "nome": "Cromo 425",
+    "nome": "Luka Milivojević",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/425.jpg"
   },
   {
     "numero": "426",
-    "nome": "Cromo 426",
+    "nome": "Adem Ljajić",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/426.jpg"
   },
   {
     "numero": "427",
-    "nome": "Cromo 427",
+    "nome": "Nemanja Gudelj",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/427.jpg"
   },
   {
     "numero": "427x",
-    "nome": "Cromo 427x",
+    "nome": "Andrija Živković",
     "tenho": true,
     "especial": true,
+    "clube": "Serbia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/427x.jpg"
   },
   {
     "numero": "428",
-    "nome": "Cromo 428",
+    "nome": "Mijat Gaćinović",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/428.jpg"
   },
   {
     "numero": "428x",
-    "nome": "Cromo 428x",
+    "nome": "Marko Grujić",
     "tenho": true,
     "especial": true,
+    "clube": "Serbia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/428x.jpg"
   },
   {
     "numero": "429",
-    "nome": "Cromo 429",
+    "nome": "Filip Kostić",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/429.jpg"
   },
   {
     "numero": "430",
-    "nome": "Cromo 430",
+    "nome": "Aleksandar Mitrović",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/430.jpg"
   },
   {
     "numero": "431",
-    "nome": "Cromo 431",
+    "nome": "Aleksandar Prijović",
     "tenho": true,
     "especial": false,
+    "clube": "Serbia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/431.jpg"
   },
   {
     "numero": "432",
-    "nome": "Cromo 432",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/432.jpg"
   },
   {
     "numero": "433",
-    "nome": "Cromo 433",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/433.jpg"
   },
   {
     "numero": "434",
-    "nome": "Cromo 434",
+    "nome": "Manuel Neuer",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/434.jpg"
   },
   {
     "numero": "435",
-    "nome": "Cromo 435",
+    "nome": "Mats Hummels",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/435.jpg"
   },
   {
     "numero": "436",
-    "nome": "Cromo 436",
+    "nome": "Antonio Rüdiger",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/436.jpg"
   },
   {
     "numero": "437",
-    "nome": "Cromo 437",
+    "nome": "Jérôme Boateng",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/437.jpg"
   },
   {
     "numero": "438",
-    "nome": "Cromo 438",
+    "nome": "Joshua Kimmich",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/438.jpg"
   },
   {
     "numero": "439",
-    "nome": "Cromo 439",
+    "nome": "Jonas Hector",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/439.jpg"
   },
   {
     "numero": "440",
-    "nome": "Cromo 440",
+    "nome": "Julian Draxler",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/440.jpg"
   },
   {
     "numero": "441",
-    "nome": "Cromo 441",
+    "nome": "Toni Kroos",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/441.jpg"
   },
   {
     "numero": "442",
-    "nome": "Cromo 442",
+    "nome": "Emré Can",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/442.jpg"
   },
   {
     "numero": "442x",
-    "nome": "Cromo 442x",
+    "nome": "Marco Reus",
     "tenho": true,
     "especial": true,
+    "clube": "Germany",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/442x.jpg"
   },
   {
     "numero": "443",
-    "nome": "Cromo 443",
+    "nome": "Leon Goretzka",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/443.jpg"
   },
   {
     "numero": "444",
-    "nome": "Cromo 444",
+    "nome": "Julian Brandt",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/444.jpg"
   },
   {
     "numero": "445",
-    "nome": "Cromo 445",
+    "nome": "Sebastian Rudy",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/445.jpg"
   },
   {
     "numero": "446",
-    "nome": "Cromo 446",
+    "nome": "Leroy Sané",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/446.jpg"
   },
   {
     "numero": "446x",
-    "nome": "Cromo 446x",
+    "nome": "İlkay Gündoğan",
     "tenho": true,
     "especial": true,
+    "clube": "Germany",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/446x.jpg"
   },
   {
     "numero": "447",
-    "nome": "Cromo 447",
+    "nome": "Mesut Özil",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/447.jpg"
   },
   {
     "numero": "448",
-    "nome": "Cromo 448",
+    "nome": "Sami Khedira",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/448.jpg"
   },
   {
     "numero": "449",
-    "nome": "Cromo 449",
+    "nome": "Mario Götze",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/449.jpg"
   },
   {
     "numero": "449x",
-    "nome": "Cromo 449x",
+    "nome": "Mario Gomez",
     "tenho": true,
     "especial": true,
+    "clube": "Germany",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/449x.jpg"
   },
   {
     "numero": "450",
-    "nome": "Cromo 450",
+    "nome": "Thomas Müller",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/450.jpg"
   },
   {
     "numero": "451",
-    "nome": "Cromo 451",
+    "nome": "Timo Werner",
     "tenho": true,
     "especial": false,
+    "clube": "Germany",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/451.jpg"
   },
   {
     "numero": "452",
-    "nome": "Cromo 452",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/452.jpg"
   },
   {
     "numero": "453",
-    "nome": "Cromo 453",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/453.jpg"
   },
   {
     "numero": "454",
-    "nome": "Cromo 454",
+    "nome": "Guillermo Ochoa",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/454.jpg"
   },
   {
     "numero": "455",
-    "nome": "Cromo 455",
+    "nome": "Hugo Ayala",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/455.jpg"
   },
   {
     "numero": "456",
-    "nome": "Cromo 456",
+    "nome": "Diego Reyes",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/456.jpg"
   },
   {
     "numero": "457",
-    "nome": "Cromo 457",
+    "nome": "Héctor Moreno",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/457.jpg"
   },
   {
     "numero": "458",
-    "nome": "Cromo 458",
+    "nome": "Jesús Gallardo",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/458.jpg"
   },
   {
     "numero": "459",
-    "nome": "Cromo 459",
+    "nome": "Miguel Layún",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/459.jpg"
   },
   {
     "numero": "460",
-    "nome": "Cromo 460",
+    "nome": "Carlos Salcedo",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/460.jpg"
   },
   {
     "numero": "461",
-    "nome": "Cromo 461",
+    "nome": "Jonathan dos Santos",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/461.jpg"
   },
   {
     "numero": "462",
-    "nome": "Cromo 462",
+    "nome": "Giovani dos Santos",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/462.jpg"
   },
   {
     "numero": "463",
-    "nome": "Cromo 463",
+    "nome": "Andrés Guardado",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/463.jpg"
   },
   {
     "numero": "464",
-    "nome": "Cromo 464",
+    "nome": "Héctor Herrera",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/464.jpg"
   },
   {
     "numero": "465",
-    "nome": "Cromo 465",
+    "nome": "Javier Aquino",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/465.jpg"
   },
   {
     "numero": "466",
-    "nome": "Cromo 466",
+    "nome": "Jesús Corona",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/466.jpg"
   },
   {
     "numero": "467",
-    "nome": "Cromo 467",
+    "nome": "Hirving Lozano",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/467.jpg"
   },
   {
     "numero": "468",
-    "nome": "Cromo 468",
+    "nome": "Raúl Jiménez",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/468.jpg"
   },
   {
     "numero": "469",
-    "nome": "Cromo 469",
+    "nome": "Carlos Vela",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/469.jpg"
   },
   {
     "numero": "470",
-    "nome": "Cromo 470",
+    "nome": "Javier Hernández",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/470.jpg"
   },
   {
     "numero": "471",
-    "nome": "Cromo 471",
+    "nome": "Oribe Peralta",
     "tenho": true,
     "especial": false,
+    "clube": "Mexico",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/471.jpg"
   },
   {
     "numero": "472",
-    "nome": "Cromo 472",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Sweden",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/472.jpg"
   },
   {
     "numero": "473",
-    "nome": "Cromo 473",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Sweden",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/473.jpg"
   },
   {
     "numero": "474",
-    "nome": "Cromo 474",
+    "nome": "Robin Olsen",
     "tenho": true,
     "especial": false,
+    "clube": "Sweden",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/474.jpg"
   },
   {
     "numero": "475",
-    "nome": "Cromo 475",
+    "nome": "Mikael Lustig",
     "tenho": true,
     "especial": false,
+    "clube": "Sweden",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/475.jpg"
   },
   {
     "numero": "476",
-    "nome": "Cromo 476",
+    "nome": "Victor Nilsson Lindelöf",
     "tenho": true,
     "especial": false,
+    "clube": "Sweden",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/476.jpg"
   },
   {
     "numero": "477",
-    "nome": "Cromo 477",
+    "nome": "Andreas Granqvist",
     "tenho": true,
     "especial": false,
+    "clube": "Sweden",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/477.jpg"
   },
   {
     "numero": "478",
-    "nome": "Cromo 478",
+    "nome": "Martin Olsson",
     "tenho": true,
     "especial": false,
+    "clube": "Sweden",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/478.jpg"
   },
   {
     "numero": "479",
-    "nome": "Cromo 479",
+    "nome": "Ludwig Augustinsson",
     "tenho": true,
     "especial": false,
+    "clube": "Sweden",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/479.jpg"
   },
   {
     "numero": "480",
-    "nome": "Cromo 480",
+    "nome": "Emil Krafth",
     "tenho": true,
     "especial": false,
+    "clube": "Sweden",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/480.jpg"
   },
   {
     "numero": "481",
-    "nome": "Cromo 481",
+    "nome": "Pontus Jansson",
     "tenho": true,
     "especial": false,
+    "clube": "Sweden",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/481.jpg"
   },
   {
     "numero": "482",
-    "nome": "Cromo 482",
+    "nome": "Sebastian Larsson",
     "tenho": true,
     "especial": false,
+    "clube": "Sweden",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/482.jpg"
   },
   {
     "numero": "483",
-    "nome": "Cromo 483",
+    "nome": "Emil Forsberg",
     "tenho": true,
     "especial": false,
+    "clube": "Sweden",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/483.jpg"
   },
   {
     "numero": "484",
-    "nome": "Cromo 484",
+    "nome": "Gustav Svensson",
     "tenho": true,
     "especial": false,
+    "clube": "Sweden",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/484.jpg"
   },
   {
     "numero": "485",
-    "nome": "Cromo 485",
+    "nome": "Viktor Claesson",
     "tenho": true,
     "especial": false,
+    "clube": "Sweden",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/485.jpg"
   },
   {
     "numero": "486",
-    "nome": "Cromo 486",
+    "nome": "Jimmy Durmaz",
     "tenho": true,
     "especial": false,
+    "clube": "Sweden",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/486.jpg"
   },
   {
     "numero": "487",
-    "nome": "Cromo 487",
+    "nome": "Albin Ekdal",
     "tenho": true,
     "especial": false,
+    "clube": "Sweden",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/487.jpg"
   },
   {
     "numero": "488",
-    "nome": "Cromo 488",
+    "nome": "Isaac Kiese Thelin",
     "tenho": true,
     "especial": false,
+    "clube": "Sweden",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/488.jpg"
   },
   {
     "numero": "489",
-    "nome": "Cromo 489",
+    "nome": "Marcus Berg",
     "tenho": true,
     "especial": false,
+    "clube": "Sweden",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/489.jpg"
   },
   {
     "numero": "490",
-    "nome": "Cromo 490",
+    "nome": "John Guidetti",
     "tenho": true,
     "especial": false,
+    "clube": "Sweden",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/490.jpg"
   },
   {
     "numero": "491",
-    "nome": "Cromo 491",
+    "nome": "Ola Toivonen",
     "tenho": true,
     "especial": false,
+    "clube": "Sweden",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/491.jpg"
   },
   {
     "numero": "492",
-    "nome": "Cromo 492",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/492.jpg"
   },
   {
     "numero": "493",
-    "nome": "Cromo 493",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/493.jpg"
   },
   {
     "numero": "494",
-    "nome": "Cromo 494",
+    "nome": "Kim Seunggyu",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/494.jpg"
   },
   {
     "numero": "495",
-    "nome": "Cromo 495",
+    "nome": "Kim Younggwon",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/495.jpg"
   },
   {
     "numero": "496",
-    "nome": "Cromo 496",
+    "nome": "Kim Jinsu",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/496.jpg"
   },
   {
     "numero": "496x",
-    "nome": "Cromo 496x",
+    "nome": "Yun Youngsun",
     "tenho": true,
     "especial": true,
+    "clube": "Korea Republic",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/496x.jpg"
   },
   {
     "numero": "497",
-    "nome": "Cromo 497",
+    "nome": "Kwak Taehwi",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/497.jpg"
   },
   {
     "numero": "497x",
-    "nome": "Cromo 497x",
+    "nome": "Lee Yong",
     "tenho": true,
     "especial": true,
+    "clube": "Korea Republic",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/497x.jpg"
   },
   {
     "numero": "498",
-    "nome": "Cromo 498",
+    "nome": "Hong Jeongho",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/498.jpg"
   },
   {
     "numero": "498x",
-    "nome": "Cromo 498x",
+    "nome": "Go Yohan",
     "tenho": true,
     "especial": true,
+    "clube": "Korea Republic",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/498x.jpg"
   },
   {
     "numero": "499",
-    "nome": "Cromo 499",
+    "nome": "Jang Hyunsoo",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/499.jpg"
   },
   {
     "numero": "500",
-    "nome": "Cromo 500",
+    "nome": "Koo Jacheol",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/500.jpg"
   },
   {
     "numero": "501",
-    "nome": "Cromo 501",
+    "nome": "Kwon Changhoon",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/501.jpg"
   },
   {
     "numero": "501x",
-    "nome": "Cromo 501x",
+    "nome": "Lee Seungwoo",
     "tenho": true,
     "especial": true,
+    "clube": "Korea Republic",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/501x.jpg"
   },
   {
     "numero": "502",
-    "nome": "Cromo 502",
+    "nome": "Ki Sung-yueng",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/502.jpg"
   },
   {
     "numero": "503",
-    "nome": "Cromo 503",
+    "nome": "Nam Taehee",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/503.jpg"
   },
   {
     "numero": "503x",
-    "nome": "Cromo 503x",
+    "nome": "Kim Minwoo",
     "tenho": true,
     "especial": true,
+    "clube": "Korea Republic",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/503x.jpg"
   },
   {
     "numero": "504",
-    "nome": "Cromo 504",
+    "nome": "Han Kookyoung",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/504.jpg"
   },
   {
     "numero": "504x",
-    "nome": "Cromo 504x",
+    "nome": "Park Jooho",
     "tenho": true,
     "especial": true,
+    "clube": "Korea Republic",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/504x.jpg"
   },
   {
     "numero": "505",
-    "nome": "Cromo 505",
+    "nome": "Lee Chungyong",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/505.jpg"
   },
   {
     "numero": "505x",
-    "nome": "Cromo 505x",
+    "nome": "Moon Seonmin",
     "tenho": true,
     "especial": true,
+    "clube": "Korea Republic",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/505x.jpg"
   },
   {
     "numero": "506",
-    "nome": "Cromo 506",
+    "nome": "Jung Wooyoung",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/506.jpg"
   },
   {
     "numero": "507",
-    "nome": "Cromo 507",
+    "nome": "Lee Jaesung",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/507.jpg"
   },
   {
     "numero": "508",
-    "nome": "Cromo 508",
+    "nome": "Son Heungmin",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/508.jpg"
   },
   {
     "numero": "509",
-    "nome": "Cromo 509",
+    "nome": "Ji Dongwon",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/509.jpg"
   },
   {
     "numero": "509x",
-    "nome": "Cromo 509x",
+    "nome": "Ju Sejong",
     "tenho": true,
     "especial": true,
+    "clube": "Korea Republic",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/509x.jpg"
   },
   {
     "numero": "510",
-    "nome": "Cromo 510",
+    "nome": "Kim Shinwook",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/510.jpg"
   },
   {
     "numero": "511",
-    "nome": "Cromo 511",
+    "nome": "Hwang Heechan",
     "tenho": true,
     "especial": false,
+    "clube": "Korea Republic",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/511.jpg"
   },
   {
     "numero": "512",
-    "nome": "Cromo 512",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/512.jpg"
   },
   {
     "numero": "513",
-    "nome": "Cromo 513",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/513.jpg"
   },
   {
     "numero": "514",
-    "nome": "Cromo 514",
+    "nome": "Thibaut Courtois",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/514.jpg"
   },
   {
     "numero": "515",
-    "nome": "Cromo 515",
+    "nome": "Toby Alderweireld",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/515.jpg"
   },
   {
     "numero": "516",
-    "nome": "Cromo 516",
+    "nome": "Thomas Vermaelen",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/516.jpg"
   },
   {
     "numero": "517",
-    "nome": "Cromo 517",
+    "nome": "Jan Vertonghen",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/517.jpg"
   },
   {
     "numero": "518",
-    "nome": "Cromo 518",
+    "nome": "Vincent Kompany",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/518.jpg"
   },
   {
     "numero": "519",
-    "nome": "Cromo 519",
+    "nome": "Thomas Meunier",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/519.jpg"
   },
   {
     "numero": "520",
-    "nome": "Cromo 520",
+    "nome": "Axel Witsel",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/520.jpg"
   },
   {
     "numero": "521",
-    "nome": "Cromo 521",
+    "nome": "Radja Nainggolan",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/521.jpg"
   },
   {
     "numero": "521x",
-    "nome": "Cromo 521x",
+    "nome": "Thorgan Hazard",
     "tenho": true,
     "especial": true,
+    "clube": "Belgium",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/521x.jpg"
   },
   {
     "numero": "522",
-    "nome": "Cromo 522",
+    "nome": "Kevin De Bruyne",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/522.jpg"
   },
   {
     "numero": "523",
-    "nome": "Cromo 523",
+    "nome": "Marouane Fellaini",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/523.jpg"
   },
   {
     "numero": "524",
-    "nome": "Cromo 524",
+    "nome": "Youri Tielemans",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/524.jpg"
   },
   {
     "numero": "525",
-    "nome": "Cromo 525",
+    "nome": "Mousa Dembélé",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/525.jpg"
   },
   {
     "numero": "526",
-    "nome": "Cromo 526",
+    "nome": "Nacer Chadli",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/526.jpg"
   },
   {
     "numero": "527",
-    "nome": "Cromo 527",
+    "nome": "Eden Hazard",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/527.jpg"
   },
   {
     "numero": "528",
-    "nome": "Cromo 528",
+    "nome": "Yannick Carrasco",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/528.jpg"
   },
   {
     "numero": "529",
-    "nome": "Cromo 529",
+    "nome": "Dries Mertens",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/529.jpg"
   },
   {
     "numero": "530",
-    "nome": "Cromo 530",
+    "nome": "Michy Batshuayi",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/530.jpg"
   },
   {
     "numero": "531",
-    "nome": "Cromo 531",
+    "nome": "Romelu Lukaku",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/531.jpg"
   },
   {
     "numero": "532",
-    "nome": "Cromo 532",
-    "tenho": true,
+    "nome": "Emblem",
+    "tenho": false,
     "especial": false,
+    "clube": "Panama",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/532.jpg"
   },
   {
     "numero": "533",
-    "nome": "Cromo 533",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Panama",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/533.jpg"
   },
   {
     "numero": "534",
-    "nome": "Cromo 534",
+    "nome": "Jaime Penedo",
     "tenho": true,
     "especial": false,
+    "clube": "Panama",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/534.jpg"
   },
   {
     "numero": "535",
-    "nome": "Cromo 535",
+    "nome": "José Calderón",
     "tenho": true,
     "especial": false,
+    "clube": "Panama",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/535.jpg"
   },
   {
     "numero": "536",
-    "nome": "Cromo 536",
+    "nome": "Michael Murillo",
     "tenho": true,
     "especial": false,
+    "clube": "Panama",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/536.jpg"
   },
   {
     "numero": "537",
-    "nome": "Cromo 537",
+    "nome": "Fidel Escobar",
     "tenho": true,
     "especial": false,
+    "clube": "Panama",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/537.jpg"
   },
   {
     "numero": "538",
-    "nome": "Cromo 538",
+    "nome": "Román Torres",
     "tenho": true,
     "especial": false,
+    "clube": "Panama",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/538.jpg"
   },
   {
     "numero": "539",
-    "nome": "Cromo 539",
+    "nome": "Adolfo Machado",
     "tenho": true,
     "especial": false,
+    "clube": "Panama",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/539.jpg"
   },
   {
     "numero": "540",
-    "nome": "Cromo 540",
+    "nome": "Eric Davis",
     "tenho": true,
     "especial": false,
+    "clube": "Panama",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/540.jpg"
   },
   {
     "numero": "541",
-    "nome": "Cromo 541",
+    "nome": "Luis Ovalle",
     "tenho": true,
     "especial": false,
+    "clube": "Panama",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/541.jpg"
   },
   {
     "numero": "542",
-    "nome": "Cromo 542",
+    "nome": "Felipe Baloy",
     "tenho": true,
     "especial": false,
+    "clube": "Panama",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/542.jpg"
   },
   {
     "numero": "543",
-    "nome": "Cromo 543",
+    "nome": "Gabriel Gómez",
     "tenho": true,
     "especial": false,
+    "clube": "Panama",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/543.jpg"
   },
   {
     "numero": "544",
-    "nome": "Cromo 544",
+    "nome": "Édgar Bárcenas",
     "tenho": true,
     "especial": false,
+    "clube": "Panama",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/544.jpg"
   },
   {
     "numero": "545",
-    "nome": "Cromo 545",
+    "nome": "Armando Cooper",
     "tenho": true,
     "especial": false,
+    "clube": "Panama",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/545.jpg"
   },
   {
     "numero": "546",
-    "nome": "Cromo 546",
+    "nome": "Alberto Quintero",
     "tenho": true,
     "especial": false,
+    "clube": "Panama",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/546.jpg"
   },
   {
     "numero": "547",
-    "nome": "Cromo 547",
+    "nome": "Aníbal Godoy",
     "tenho": true,
     "especial": false,
+    "clube": "Panama",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/547.jpg"
   },
   {
     "numero": "548",
-    "nome": "Cromo 548",
+    "nome": "Blas Pérez",
     "tenho": true,
     "especial": false,
+    "clube": "Panama",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/548.jpg"
   },
   {
     "numero": "549",
-    "nome": "Cromo 549",
+    "nome": "Gabriel Torres",
     "tenho": true,
     "especial": false,
+    "clube": "Panama",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/549.jpg"
   },
   {
     "numero": "550",
-    "nome": "Cromo 550",
+    "nome": "Luis Tejada",
     "tenho": true,
     "especial": false,
+    "clube": "Panama",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/550.jpg"
   },
   {
     "numero": "551",
-    "nome": "Cromo 551",
+    "nome": "Abdiel Arroyo",
     "tenho": true,
     "especial": false,
+    "clube": "Panama",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/551.jpg"
   },
   {
     "numero": "552",
-    "nome": "Cromo 552",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/552.jpg"
   },
   {
     "numero": "553",
-    "nome": "Cromo 553",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/553.jpg"
   },
   {
     "numero": "554",
-    "nome": "Cromo 554",
+    "nome": "Aymen Mathlouthi",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/554.jpg"
   },
   {
     "numero": "555",
-    "nome": "Cromo 555",
+    "nome": "Ali Maâloul",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/555.jpg"
   },
   {
     "numero": "556",
-    "nome": "Cromo 556",
+    "nome": "Syam Ben Youssef",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/556.jpg"
   },
   {
     "numero": "557",
-    "nome": "Cromo 557",
+    "nome": "Aymen Abdennour",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/557.jpg"
   },
   {
     "numero": "557x",
-    "nome": "Cromo 557x",
+    "nome": "Yohan Benalouane",
     "tenho": true,
     "especial": true,
+    "clube": "Tunisia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/557x.jpg"
   },
   {
     "numero": "558",
-    "nome": "Cromo 558",
+    "nome": "Hamdi Nagguez",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/558.jpg"
   },
   {
     "numero": "559",
-    "nome": "Cromo 559",
+    "nome": "Yassine Meriah",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/559.jpg"
   },
   {
     "numero": "560",
-    "nome": "Cromo 560",
+    "nome": "Oussama Haddadi",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/560.jpg"
   },
   {
     "numero": "561",
-    "nome": "Cromo 561",
+    "nome": "Ferjani Sassi",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/561.jpg"
   },
   {
     "numero": "562",
-    "nome": "Cromo 562",
+    "nome": "Wahbi Khazri",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/562.jpg"
   },
   {
     "numero": "563",
-    "nome": "Cromo 563",
+    "nome": "Mohamed Amine Ben Amor",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/563.jpg"
   },
   {
     "numero": "564",
-    "nome": "Cromo 564",
+    "nome": "Ghailene Chaalali",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/564.jpg"
   },
   {
     "numero": "565",
-    "nome": "Cromo 565",
+    "nome": "Naïm Sliti",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/565.jpg"
   },
   {
     "numero": "566",
-    "nome": "Cromo 566",
+    "nome": "Youssef Msakni",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/566.jpg"
   },
   {
     "numero": "566x",
-    "nome": "Cromo 566x",
+    "nome": "Ellyes Skhiri",
     "tenho": true,
     "especial": true,
+    "clube": "Tunisia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/566x.jpg"
   },
   {
     "numero": "567",
-    "nome": "Cromo 567",
+    "nome": "Fakhreddine Ben Youssef",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/567.jpg"
   },
   {
     "numero": "568",
-    "nome": "Cromo 568",
+    "nome": "Taha Yassine Khenissi",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/568.jpg"
   },
   {
     "numero": "568x",
-    "nome": "Cromo 568x",
+    "nome": "Bassem Srarfi",
     "tenho": true,
     "especial": true,
+    "clube": "Tunisia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/568x.jpg"
   },
   {
     "numero": "569",
-    "nome": "Cromo 569",
+    "nome": "Yoann Touzghar",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/569.jpg"
   },
   {
     "numero": "569x",
-    "nome": "Cromo 569x",
+    "nome": "Saber Khalifa",
     "tenho": true,
     "especial": true,
+    "clube": "Tunisia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/569x.jpg"
   },
   {
     "numero": "570",
-    "nome": "Cromo 570",
+    "nome": "Anice Badri",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/570.jpg"
   },
   {
     "numero": "571",
-    "nome": "Cromo 571",
+    "nome": "Ahmed Akaïchi",
     "tenho": true,
     "especial": false,
+    "clube": "Tunisia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/571.jpg"
   },
   {
     "numero": "571x",
-    "nome": "Cromo 571x",
+    "nome": "Dylan Bronn",
     "tenho": true,
     "especial": true,
+    "clube": "Tunisia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/571x.jpg"
   },
   {
     "numero": "572",
-    "nome": "Cromo 572",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/572.jpg"
   },
   {
     "numero": "573",
-    "nome": "Cromo 573",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/573.jpg"
   },
   {
     "numero": "574",
-    "nome": "Cromo 574",
+    "nome": "Joe Hart",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/574.jpg"
   },
   {
     "numero": "574x",
-    "nome": "Cromo 574x",
+    "nome": "Jack Butland",
     "tenho": true,
     "especial": true,
+    "clube": "England",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/574x.jpg"
   },
   {
     "numero": "575",
-    "nome": "Cromo 575",
+    "nome": "Jordan Pickford",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/575.jpg"
   },
   {
     "numero": "576",
-    "nome": "Cromo 576",
+    "nome": "Gary Cahill",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/576.jpg"
   },
   {
     "numero": "577",
-    "nome": "Cromo 577",
+    "nome": "Kyle Walker",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/577.jpg"
   },
   {
     "numero": "578",
-    "nome": "Cromo 578",
+    "nome": "John Stones",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/578.jpg"
   },
   {
     "numero": "579",
-    "nome": "Cromo 579",
+    "nome": "Ryan Bertrand",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/579.jpg"
   },
   {
     "numero": "579x",
-    "nome": "Cromo 579x",
+    "nome": "Ashley Young",
     "tenho": true,
     "especial": true,
+    "clube": "England",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/579x.jpg"
   },
   {
     "numero": "580",
-    "nome": "Cromo 580",
+    "nome": "Danny Rose",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/580.jpg"
   },
   {
     "numero": "581",
-    "nome": "Cromo 581",
+    "nome": "Phil Jones",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/581.jpg"
   },
   {
     "numero": "582",
-    "nome": "Cromo 582",
+    "nome": "Jordan Henderson",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/582.jpg"
   },
   {
     "numero": "583",
-    "nome": "Cromo 583",
+    "nome": "Alex Oxlade-Chamberlain",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/583.jpg"
   },
   {
     "numero": "583x",
-    "nome": "Cromo 583x",
+    "nome": "Ruben Loftus-Cheek",
     "tenho": true,
     "especial": true,
+    "clube": "England",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/583x.jpg"
   },
   {
     "numero": "584",
-    "nome": "Cromo 584",
+    "nome": "Dele Alli",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/584.jpg"
   },
   {
     "numero": "585",
-    "nome": "Cromo 585",
+    "nome": "Eric Dier",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/585.jpg"
   },
   {
     "numero": "586",
-    "nome": "Cromo 586",
+    "nome": "Adam Lallana",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/586.jpg"
   },
   {
     "numero": "586x",
-    "nome": "Cromo 586x",
+    "nome": "Danny Welbeck",
     "tenho": true,
     "especial": true,
+    "clube": "England",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/586x.jpg"
   },
   {
     "numero": "587",
-    "nome": "Cromo 587",
+    "nome": "Jesse Lingard",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/587.jpg"
   },
   {
     "numero": "588",
-    "nome": "Cromo 588",
+    "nome": "Raheem Sterling",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/588.jpg"
   },
   {
     "numero": "589",
-    "nome": "Cromo 589",
+    "nome": "Harry Kane",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/589.jpg"
   },
   {
     "numero": "590",
-    "nome": "Cromo 590",
+    "nome": "Marcus Rashford",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/590.jpg"
   },
   {
     "numero": "591",
-    "nome": "Cromo 591",
+    "nome": "Jamie Vardy",
     "tenho": true,
     "especial": false,
+    "clube": "England",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/591.jpg"
   },
   {
     "numero": "592",
-    "nome": "Cromo 592",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/592.jpg"
   },
   {
     "numero": "593",
-    "nome": "Cromo 593",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/593.jpg"
   },
   {
     "numero": "594",
-    "nome": "Cromo 594",
+    "nome": "Lukasz Fabiański",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/594.jpg"
   },
   {
     "numero": "595",
-    "nome": "Cromo 595",
+    "nome": "Wojciech Szczęsny",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/595.jpg"
   },
   {
     "numero": "596",
-    "nome": "Cromo 596",
+    "nome": "Łukasz Piszczek",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/596.jpg"
   },
   {
     "numero": "597",
-    "nome": "Cromo 597",
+    "nome": "Kamil Glik",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/597.jpg"
   },
   {
     "numero": "598",
-    "nome": "Cromo 598",
+    "nome": "Michał Pazdan",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/598.jpg"
   },
   {
     "numero": "599",
-    "nome": "Cromo 599",
+    "nome": "Thiago Cionek",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/599.jpg"
   },
   {
     "numero": "600",
-    "nome": "Cromo 600",
+    "nome": "Bartosz Bereszyński",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/600.jpg"
   },
   {
     "numero": "601",
-    "nome": "Cromo 601",
+    "nome": "Artur Jędrzejczyk",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/601.jpg"
   },
   {
     "numero": "602",
-    "nome": "Cromo 602",
+    "nome": "Maciej Rybus",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/602.jpg"
   },
   {
     "numero": "603",
-    "nome": "Cromo 603",
+    "nome": "Jakub Błaszczykowski",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/603.jpg"
   },
   {
     "numero": "604",
-    "nome": "Cromo 604",
+    "nome": "Kamil Grosicki",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/604.jpg"
   },
   {
     "numero": "605",
-    "nome": "Cromo 605",
+    "nome": "Grzegorz Krychowiak",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/605.jpg"
   },
   {
     "numero": "606",
-    "nome": "Cromo 606",
+    "nome": "Krzysztof Mączyński",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/606.jpg"
   },
   {
     "numero": "606x",
-    "nome": "Cromo 606x",
+    "nome": "Sławomir Peszko",
     "tenho": true,
     "especial": true,
+    "clube": "Poland",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/606x.jpg"
   },
   {
     "numero": "607",
-    "nome": "Cromo 607",
+    "nome": "Piotr Zieliński",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/607.jpg"
   },
   {
     "numero": "608",
-    "nome": "Cromo 608",
+    "nome": "Karol Linetty",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/608.jpg"
   },
   {
     "numero": "609",
-    "nome": "Cromo 609",
+    "nome": "Robert Lewandowski",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/609.jpg"
   },
   {
     "numero": "610",
-    "nome": "Cromo 610",
+    "nome": "Łukasz Teodorczyk",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/610.jpg"
   },
   {
     "numero": "611",
-    "nome": "Cromo 611",
+    "nome": "Arkadiusz Milik",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/611.jpg"
   },
   {
     "numero": "612",
-    "nome": "Cromo 612",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/612.jpg"
   },
   {
     "numero": "613",
-    "nome": "Cromo 613",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/613.jpg"
   },
   {
     "numero": "614",
-    "nome": "Cromo 614",
+    "nome": "Khadim N'Diaye",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/614.jpg"
   },
   {
     "numero": "615",
-    "nome": "Cromo 615",
+    "nome": "Kara Mbodji",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/615.jpg"
   },
   {
     "numero": "616",
-    "nome": "Cromo 616",
+    "nome": "Lamine Gassama",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/616.jpg"
   },
   {
     "numero": "617",
-    "nome": "Cromo 617",
+    "nome": "Kalidou Koulibaly",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/617.jpg"
   },
   {
     "numero": "618",
-    "nome": "Cromo 618",
+    "nome": "Salif Sané",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/618.jpg"
   },
   {
     "numero": "619",
-    "nome": "Cromo 619",
+    "nome": "Saliou Ciss",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/619.jpg"
   },
   {
     "numero": "620",
-    "nome": "Cromo 620",
+    "nome": "Moussa Wagué",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/620.jpg"
   },
   {
     "numero": "621",
-    "nome": "Cromo 621",
+    "nome": "Idrissa Gueye",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/621.jpg"
   },
   {
     "numero": "622",
-    "nome": "Cromo 622",
+    "nome": "Cheikhou Kouyaté",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/622.jpg"
   },
   {
     "numero": "623",
-    "nome": "Cromo 623",
+    "nome": "Cheikh Ndoye",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/623.jpg"
   },
   {
     "numero": "624",
-    "nome": "Cromo 624",
+    "nome": "Pape Alioune N'Diaye",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/624.jpg"
   },
   {
     "numero": "625",
-    "nome": "Cromo 625",
+    "nome": "Sadio Mané",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/625.jpg"
   },
   {
     "numero": "626",
-    "nome": "Cromo 626",
+    "nome": "Moussa Sow",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/626.jpg"
   },
   {
     "numero": "627",
-    "nome": "Cromo 627",
+    "nome": "Moussa Konaté",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/627.jpg"
   },
   {
     "numero": "628",
-    "nome": "Cromo 628",
+    "nome": "Keita Baldé",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/628.jpg"
   },
   {
     "numero": "629",
-    "nome": "Cromo 629",
+    "nome": "M'Baye Niang",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/629.jpg"
   },
   {
     "numero": "630",
-    "nome": "Cromo 630",
+    "nome": "Ismaïla Sarr",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/630.jpg"
   },
   {
     "numero": "631",
-    "nome": "Cromo 631",
+    "nome": "Mame Diouf",
     "tenho": true,
     "especial": false,
+    "clube": "Senegal",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/631.jpg"
   },
   {
     "numero": "632",
-    "nome": "Cromo 632",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Colombia",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/632.jpg"
   },
   {
     "numero": "633",
-    "nome": "Cromo 633",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Colombia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/633.jpg"
   },
   {
     "numero": "634",
-    "nome": "Cromo 634",
+    "nome": "David Ospina",
     "tenho": true,
     "especial": false,
+    "clube": "Colombia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/634.jpg"
   },
   {
     "numero": "635",
-    "nome": "Cromo 635",
+    "nome": "Cristián Zapata",
     "tenho": true,
     "especial": false,
+    "clube": "Colombia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/635.jpg"
   },
   {
     "numero": "636",
-    "nome": "Cromo 636",
+    "nome": "Santiago Arias",
     "tenho": true,
     "especial": false,
+    "clube": "Colombia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/636.jpg"
   },
   {
     "numero": "637",
-    "nome": "Cromo 637",
+    "nome": "Frank Fabra",
     "tenho": true,
     "especial": false,
+    "clube": "Colombia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/637.jpg"
   },
   {
     "numero": "638",
-    "nome": "Cromo 638",
+    "nome": "Davinson Sánchez",
     "tenho": true,
     "especial": false,
+    "clube": "Colombia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/638.jpg"
   },
   {
     "numero": "639",
-    "nome": "Cromo 639",
+    "nome": "Yerry Mina",
     "tenho": true,
     "especial": false,
+    "clube": "Colombia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/639.jpg"
   },
   {
     "numero": "640",
-    "nome": "Cromo 640",
+    "nome": "Carlos Sánchez",
     "tenho": true,
     "especial": false,
+    "clube": "Colombia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/640.jpg"
   },
   {
     "numero": "641",
-    "nome": "Cromo 641",
+    "nome": "Juan Guillermo Cuadrado",
     "tenho": true,
     "especial": false,
+    "clube": "Colombia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/641.jpg"
   },
   {
     "numero": "642",
-    "nome": "Cromo 642",
+    "nome": "Abel Aguilar",
     "tenho": true,
     "especial": false,
+    "clube": "Colombia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/642.jpg"
   },
   {
     "numero": "643",
-    "nome": "Cromo 643",
+    "nome": "James Rodríguez",
     "tenho": true,
     "especial": false,
+    "clube": "Colombia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/643.jpg"
   },
   {
     "numero": "644",
-    "nome": "Cromo 644",
+    "nome": "Giovanni Moreno",
     "tenho": true,
     "especial": false,
+    "clube": "Colombia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/644.jpg"
   },
   {
     "numero": "644x",
-    "nome": "Cromo 644x",
+    "nome": "Mateus Uribe",
     "tenho": true,
     "especial": true,
+    "clube": "Colombia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/644x.jpg"
   },
   {
     "numero": "645",
-    "nome": "Cromo 645",
+    "nome": "Wílmar Barrios",
     "tenho": true,
     "especial": false,
+    "clube": "Colombia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/645.jpg"
   },
   {
     "numero": "646",
-    "nome": "Cromo 646",
+    "nome": "Radamel Falcao Garcia",
     "tenho": true,
     "especial": false,
+    "clube": "Colombia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/646.jpg"
   },
   {
     "numero": "647",
-    "nome": "Cromo 647",
+    "nome": "Teófilo Gutiérrez",
     "tenho": true,
     "especial": false,
+    "clube": "Colombia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/647.jpg"
   },
   {
     "numero": "647x",
-    "nome": "Cromo 647x",
+    "nome": "Jefferson Lerma",
     "tenho": true,
     "especial": true,
+    "clube": "Colombia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/647x.jpg"
   },
   {
     "numero": "648",
-    "nome": "Cromo 648",
+    "nome": "Carlos Bacca",
     "tenho": true,
     "especial": false,
+    "clube": "Colombia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/648.jpg"
   },
   {
     "numero": "649",
-    "nome": "Cromo 649",
+    "nome": "Edwin Cardona",
     "tenho": true,
     "especial": false,
+    "clube": "Colombia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/649.jpg"
   },
   {
     "numero": "649x",
-    "nome": "Cromo 649x",
+    "nome": "Juan Quintero",
     "tenho": true,
     "especial": true,
+    "clube": "Colombia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/649x.jpg"
   },
   {
     "numero": "650",
-    "nome": "Cromo 650",
+    "nome": "Yimmi Chará",
     "tenho": true,
     "especial": false,
+    "clube": "Colombia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/650.jpg"
   },
   {
     "numero": "650x",
-    "nome": "Cromo 650x",
+    "nome": "Luis Muriel",
     "tenho": true,
     "especial": true,
+    "clube": "Colombia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/650x.jpg"
   },
   {
     "numero": "651",
-    "nome": "Cromo 651",
+    "nome": "Duván Zapata",
     "tenho": true,
     "especial": false,
+    "clube": "Colombia",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/651.jpg"
   },
   {
     "numero": "651x",
-    "nome": "Cromo 651x",
+    "nome": "Miguel Borja",
     "tenho": true,
     "especial": true,
+    "clube": "Colombia",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/651x.jpg"
   },
   {
     "numero": "652",
-    "nome": "Cromo 652",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/652.jpg"
   },
   {
     "numero": "653",
-    "nome": "Cromo 653",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/653.jpg"
   },
   {
     "numero": "654",
-    "nome": "Cromo 654",
+    "nome": "Eiji Kawashima",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/654.jpg"
   },
   {
     "numero": "655",
-    "nome": "Cromo 655",
+    "nome": "Shūsaku Nishikawa",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/655.jpg"
   },
   {
     "numero": "655x",
-    "nome": "Cromo 655x",
+    "nome": "Kosuke Nakamura",
     "tenho": true,
     "especial": true,
+    "clube": "Japan",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/655x.jpg"
   },
   {
     "numero": "656",
-    "nome": "Cromo 656",
+    "nome": "Masato Morishige",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/656.jpg"
   },
   {
     "numero": "656x",
-    "nome": "Cromo 656x",
+    "nome": "Gen Shoji",
     "tenho": true,
     "especial": true,
+    "clube": "Japan",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/656x.jpg"
   },
   {
     "numero": "657",
-    "nome": "Cromo 657",
+    "nome": "Yūto Nagatomo",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/657.jpg"
   },
   {
     "numero": "658",
-    "nome": "Cromo 658",
+    "nome": "Hiroki Sakai",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/658.jpg"
   },
   {
     "numero": "659",
-    "nome": "Cromo 659",
+    "nome": "Tomoaki Makino",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/659.jpg"
   },
   {
     "numero": "660",
-    "nome": "Cromo 660",
+    "nome": "Gotoku Sakai",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/660.jpg"
   },
   {
     "numero": "661",
-    "nome": "Cromo 661",
+    "nome": "Maya Yoshida",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/661.jpg"
   },
   {
     "numero": "662",
-    "nome": "Cromo 662",
+    "nome": "Hotaru Yamaguchi",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/662.jpg"
   },
   {
     "numero": "663",
-    "nome": "Cromo 663",
+    "nome": "Shinji Kagawa",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/663.jpg"
   },
   {
     "numero": "664",
-    "nome": "Cromo 664",
+    "nome": "Makoto Hasebe",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/664.jpg"
   },
   {
     "numero": "665",
-    "nome": "Cromo 665",
+    "nome": "Hiroshi Kiyotake",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/665.jpg"
   },
   {
     "numero": "665x",
-    "nome": "Cromo 665x",
+    "nome": "Naomichi Ueda",
     "tenho": true,
     "especial": true,
+    "clube": "Japan",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/665x.jpg"
   },
   {
     "numero": "666",
-    "nome": "Cromo 666",
+    "nome": "Keisuke Honda",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/666.jpg"
   },
   {
     "numero": "667",
-    "nome": "Cromo 667",
+    "nome": "Takashi Usami",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/667.jpg"
   },
   {
     "numero": "668",
-    "nome": "Cromo 668",
+    "nome": "Genki Haraguchi",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/668.jpg"
   },
   {
     "numero": "669",
-    "nome": "Cromo 669",
+    "nome": "Shinji Okazaki",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/669.jpg"
   },
   {
     "numero": "670",
-    "nome": "Cromo 670",
+    "nome": "Yūya Kubo",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/670.jpg"
   },
   {
     "numero": "670x",
-    "nome": "Cromo 670x",
+    "nome": "Ryota Oshima",
     "tenho": true,
     "especial": true,
+    "clube": "Japan",
+    "tipo": "International update",
     "imagem": "images/capas/RUSSIA 2018/670x.jpg"
   },
   {
     "numero": "671",
-    "nome": "Cromo 671",
+    "nome": "Yūya Ōsako",
     "tenho": true,
     "especial": false,
+    "clube": "Japan",
+    "tipo": "-",
     "imagem": "images/capas/RUSSIA 2018/671.jpg"
   },
   {
     "numero": "672",
-    "nome": "Cromo 672",
+    "nome": "Brazil",
     "tenho": true,
     "especial": false,
+    "clube": "FIFA World Cup Legends",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/672.jpg"
   },
   {
     "numero": "673",
-    "nome": "Cromo 673",
+    "nome": "Germany",
     "tenho": true,
     "especial": false,
+    "clube": "FIFA World Cup Legends",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/673.jpg"
   },
   {
     "numero": "674",
-    "nome": "Cromo 674",
-    "tenho": true,
+    "nome": "Italy",
+    "tenho": false,
     "especial": false,
+    "clube": "FIFA World Cup Legends",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/674.jpg"
   },
   {
     "numero": "675",
-    "nome": "Cromo 675",
-    "tenho": true,
+    "nome": "Uruguay",
+    "tenho": false,
     "especial": false,
+    "clube": "FIFA World Cup Legends",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/675.jpg"
   },
   {
     "numero": "676",
-    "nome": "Cromo 676",
-    "tenho": true,
+    "nome": "Argentina",
+    "tenho": false,
     "especial": false,
+    "clube": "FIFA World Cup Legends",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/676.jpg"
   },
   {
     "numero": "677",
-    "nome": "Cromo 677",
+    "nome": "England",
     "tenho": true,
     "especial": false,
+    "clube": "FIFA World Cup Legends",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/677.jpg"
   },
   {
     "numero": "678",
-    "nome": "Cromo 678",
-    "tenho": true,
+    "nome": "France",
+    "tenho": false,
     "especial": false,
+    "clube": "FIFA World Cup Legends",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/678.jpg"
   },
   {
     "numero": "679",
-    "nome": "Cromo 679",
+    "nome": "Spain",
     "tenho": true,
     "especial": false,
+    "clube": "FIFA World Cup Legends",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/679.jpg"
   },
   {
     "numero": "680",
-    "nome": "Cromo 680",
+    "nome": "Pelé",
     "tenho": true,
     "especial": false,
+    "clube": "FIFA World Cup Legends",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/680.jpg"
   },
   {
     "numero": "681",
-    "nome": "Cromo 681",
-    "tenho": true,
+    "nome": "Miroslav Klose",
+    "tenho": false,
     "especial": false,
+    "clube": "FIFA World Cup Legends",
+    "tipo": "foil",
     "imagem": "images/capas/RUSSIA 2018/681.jpg"
+  },
+  {
+    "numero": "MP1",
+    "nome": "Rui Patrício",
+    "tenho": true,
+    "especial": true,
+    "clube": "McDonald's (Portugal)",
+    "tipo": "extra",
+    "imagem": "images/capas/RUSSIA 2018/MP1.jpg"
+  },
+  {
+    "numero": "MP2",
+    "nome": "João Mário",
+    "tenho": true,
+    "especial": true,
+    "clube": "McDonald's (Portugal)",
+    "tipo": "extra",
+    "imagem": "images/capas/RUSSIA 2018/MP2.jpg"
+  },
+  {
+    "numero": "MP3",
+    "nome": "João Moutinho",
+    "tenho": true,
+    "especial": true,
+    "clube": "McDonald's (Portugal)",
+    "tipo": "extra",
+    "imagem": "images/capas/RUSSIA 2018/MP3.jpg"
+  },
+  {
+    "numero": "MP4",
+    "nome": "William Carvalho",
+    "tenho": true,
+    "especial": true,
+    "clube": "McDonald's (Portugal)",
+    "tipo": "extra",
+    "imagem": "images/capas/RUSSIA 2018/MP4.jpg"
+  },
+  {
+    "numero": "MP5",
+    "nome": "André Gomes",
+    "tenho": true,
+    "especial": true,
+    "clube": "McDonald's (Portugal)",
+    "tipo": "extra",
+    "imagem": "images/capas/RUSSIA 2018/MP5.jpg"
+  },
+  {
+    "numero": "MP6",
+    "nome": "Cristiano Ronaldo",
+    "tenho": true,
+    "especial": true,
+    "clube": "McDonald's (Portugal)",
+    "tipo": "extra",
+    "imagem": "images/capas/RUSSIA 2018/MP6.jpg"
+  },
+  {
+    "numero": "MP7",
+    "nome": "Bernardo Silva",
+    "tenho": true,
+    "especial": true,
+    "clube": "McDonald's (Portugal)",
+    "tipo": "extra",
+    "imagem": "images/capas/RUSSIA 2018/MP7.jpg"
+  },
+  {
+    "numero": "MP8",
+    "nome": "André Silva",
+    "tenho": true,
+    "especial": true,
+    "clube": "McDonald's (Portugal)",
+    "tipo": "extra",
+    "imagem": "images/capas/RUSSIA 2018/MP8.jpg"
+  },
+  {
+    "numero": "u1",
+    "nome": "Mascot 1",
+    "tenho": true,
+    "especial": true,
+    "clube": "-",
+    "tipo": "International update",
+    "imagem": "images/capas/RUSSIA 2018/u1.jpg"
+  },
+  {
+    "numero": "u2",
+    "nome": "Mascot 2",
+    "tenho": true,
+    "especial": true,
+    "clube": "-",
+    "tipo": "International update",
+    "imagem": "images/capas/RUSSIA 2018/u2.jpg"
+  },
+  {
+    "numero": "u3",
+    "nome": "FIFA World Cup Russia 2018 Logo",
+    "tenho": true,
+    "especial": true,
+    "clube": "-",
+    "tipo": "International update",
+    "imagem": "images/capas/RUSSIA 2018/u3.jpg"
+  },
+  {
+    "numero": "u4",
+    "nome": "Poster",
+    "tenho": true,
+    "especial": true,
+    "clube": "-",
+    "tipo": "International update",
+    "imagem": "images/capas/RUSSIA 2018/u4.jpg"
   }
 ]
