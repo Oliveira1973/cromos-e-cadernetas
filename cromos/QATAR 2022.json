@@ -6739,5 +6739,14 @@
     "clube": "Korea Republic",
     "tipo": "International Update set",
     "imagem": "images/capas/QATAR 2022/KOR10x.jpg"
+  },
+  {
+    "numero": "Panini",
+    "nome": "Panini",
+    "tenho": true,
+    "especial": true,
+    "clube": "",
+    "tipo": "International Update set",
+    "imagem": "images/capas/QATAR 2022/80.jpg"
   }
 ]
