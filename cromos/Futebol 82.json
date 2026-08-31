@@ -1,2137 +1,2363 @@
 [
   {
     "numero": "1",
-    "nome": "Cromo 1",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Federação Portuguesa de Futebol",
+    "tipo": "Foil",
     "imagem": "images/capas/Futebol 82/1.jpg"
   },
   {
     "numero": "2",
-    "nome": "Cromo 2",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Futebol 82/2.jpg"
   },
   {
     "numero": "3",
-    "nome": "Cromo 3",
+    "nome": "Equipa - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Futebol 82/3.jpg"
   },
   {
     "numero": "4",
-    "nome": "Cromo 4",
+    "nome": "Equipa - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Futebol 82/4.jpg"
   },
   {
     "numero": "5",
-    "nome": "Cromo 5",
+    "nome": "Bento",
     "tenho": true,
     "especial": false,
+    "clube": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Futebol 82/5.jpg"
   },
   {
     "numero": "6",
-    "nome": "Cromo 6",
+    "nome": "Botelho",
     "tenho": true,
     "especial": false,
+    "clube": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Futebol 82/6.jpg"
   },
   {
     "numero": "7",
-    "nome": "Cromo 7",
+    "nome": "Humberto",
     "tenho": true,
     "especial": false,
+    "clube": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Futebol 82/7.jpg"
   },
   {
     "numero": "8",
-    "nome": "Cromo 8",
+    "nome": "Veloso",
     "tenho": true,
     "especial": false,
+    "clube": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Futebol 82/8.jpg"
   },
   {
     "numero": "9",
-    "nome": "Cromo 9",
+    "nome": "Pietra",
     "tenho": true,
     "especial": false,
+    "clube": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Futebol 82/9.jpg"
   },
   {
     "numero": "10",
-    "nome": "Cromo 10",
+    "nome": "Laranjeira",
     "tenho": true,
     "especial": false,
+    "clube": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Futebol 82/10.jpg"
   },
   {
     "numero": "11",
-    "nome": "Cromo 11",
+    "nome": "Frederico",
     "tenho": true,
     "especial": false,
+    "clube": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Futebol 82/11.jpg"
   },
   {
     "numero": "12",
-    "nome": "Cromo 12",
+    "nome": "Sheu",
     "tenho": true,
     "especial": false,
+    "clube": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Futebol 82/12.jpg"
   },
   {
     "numero": "13",
-    "nome": "Cromo 13",
+    "nome": "C. Manuel",
     "tenho": true,
     "especial": false,
+    "clube": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Futebol 82/13.jpg"
   },
   {
     "numero": "14",
-    "nome": "Cromo 14",
+    "nome": "Alves",
     "tenho": true,
     "especial": false,
+    "clube": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Futebol 82/14.jpg"
   },
   {
     "numero": "15",
-    "nome": "Cromo 15",
+    "nome": "Chalana",
     "tenho": true,
     "especial": false,
+    "clube": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Futebol 82/15.jpg"
   },
   {
     "numero": "16",
-    "nome": "Cromo 16",
+    "nome": "Nene'",
     "tenho": true,
     "especial": false,
+    "clube": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Futebol 82/16.jpg"
   },
   {
     "numero": "17",
-    "nome": "Cromo 17",
+    "nome": "Filipovic",
     "tenho": true,
     "especial": false,
+    "clube": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Futebol 82/17.jpg"
   },
   {
     "numero": "18",
-    "nome": "Cromo 18",
+    "nome": "Cesar",
     "tenho": true,
     "especial": false,
+    "clube": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Futebol 82/18.jpg"
   },
   {
     "numero": "19",
-    "nome": "Cromo 19",
+    "nome": "Folha",
     "tenho": true,
     "especial": false,
+    "clube": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Futebol 82/19.jpg"
   },
   {
     "numero": "20",
-    "nome": "Cromo 20",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Futebol Clube do Porto",
     "imagem": "images/capas/Futebol 82/20.jpg"
   },
   {
     "numero": "21",
-    "nome": "Cromo 21",
+    "nome": "Equipa - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Futebol Clube do Porto",
     "imagem": "images/capas/Futebol 82/21.jpg"
   },
   {
     "numero": "22",
-    "nome": "Cromo 22",
+    "nome": "Equipa - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Futebol Clube do Porto",
     "imagem": "images/capas/Futebol 82/22.jpg"
   },
   {
     "numero": "23",
-    "nome": "Cromo 23",
+    "nome": "Fonseca",
     "tenho": true,
     "especial": false,
+    "clube": "Futebol Clube do Porto",
     "imagem": "images/capas/Futebol 82/23.jpg"
   },
   {
     "numero": "24",
-    "nome": "Cromo 24",
+    "nome": "Tibi",
     "tenho": true,
     "especial": false,
+    "clube": "Futebol Clube do Porto",
     "imagem": "images/capas/Futebol 82/24.jpg"
   },
   {
     "numero": "25",
-    "nome": "Cromo 25",
+    "nome": "Simoes",
     "tenho": true,
     "especial": false,
+    "clube": "Futebol Clube do Porto",
     "imagem": "images/capas/Futebol 82/25.jpg"
   },
   {
     "numero": "26",
-    "nome": "Cromo 26",
+    "nome": "Gabriel",
     "tenho": true,
     "especial": false,
+    "clube": "Futebol Clube do Porto",
     "imagem": "images/capas/Futebol 82/26.jpg"
   },
   {
     "numero": "27",
-    "nome": "Cromo 27",
+    "nome": "Lima Pereira",
     "tenho": true,
     "especial": false,
+    "clube": "Futebol Clube do Porto",
     "imagem": "images/capas/Futebol 82/27.jpg"
   },
   {
     "numero": "28",
-    "nome": "Cromo 28",
+    "nome": "Freitas",
     "tenho": true,
     "especial": false,
+    "clube": "Futebol Clube do Porto",
     "imagem": "images/capas/Futebol 82/28.jpg"
   },
   {
     "numero": "29",
-    "nome": "Cromo 29",
+    "nome": "Teixeira",
     "tenho": true,
     "especial": false,
+    "clube": "Futebol Clube do Porto",
     "imagem": "images/capas/Futebol 82/29.jpg"
   },
   {
     "numero": "30",
-    "nome": "Cromo 30",
+    "nome": "Jaime",
     "tenho": true,
     "especial": false,
+    "clube": "Futebol Clube do Porto",
     "imagem": "images/capas/Futebol 82/30.jpg"
   },
   {
     "numero": "31",
-    "nome": "Cromo 31",
+    "nome": "Frasco",
     "tenho": true,
     "especial": false,
+    "clube": "Futebol Clube do Porto",
     "imagem": "images/capas/Futebol 82/31.jpg"
   },
   {
     "numero": "32",
-    "nome": "Cromo 32",
+    "nome": "Rodlofo",
     "tenho": true,
     "especial": false,
+    "clube": "Futebol Clube do Porto",
     "imagem": "images/capas/Futebol 82/32.jpg"
   },
   {
     "numero": "33",
-    "nome": "Cromo 33",
+    "nome": "Romeu",
     "tenho": true,
     "especial": false,
+    "clube": "Futebol Clube do Porto",
     "imagem": "images/capas/Futebol 82/33.jpg"
   },
   {
     "numero": "34",
-    "nome": "Cromo 34",
+    "nome": "Sousa",
     "tenho": true,
     "especial": false,
+    "clube": "Futebol Clube do Porto",
     "imagem": "images/capas/Futebol 82/34.jpg"
   },
   {
     "numero": "35",
-    "nome": "Cromo 35",
+    "nome": "Walsh",
     "tenho": true,
     "especial": false,
+    "clube": "Futebol Clube do Porto",
     "imagem": "images/capas/Futebol 82/35.jpg"
   },
   {
     "numero": "36",
-    "nome": "Cromo 36",
+    "nome": "Jacques",
     "tenho": true,
     "especial": false,
+    "clube": "Futebol Clube do Porto",
     "imagem": "images/capas/Futebol 82/36.jpg"
   },
   {
     "numero": "37",
-    "nome": "Cromo 37",
+    "nome": "Costa",
     "tenho": true,
     "especial": false,
+    "clube": "Futebol Clube do Porto",
     "imagem": "images/capas/Futebol 82/37.jpg"
   },
   {
     "numero": "38",
-    "nome": "Cromo 38",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Portugal",
     "imagem": "images/capas/Futebol 82/38.jpg"
   },
   {
     "numero": "39",
-    "nome": "Cromo 39",
+    "nome": "Equipa - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Portugal",
     "imagem": "images/capas/Futebol 82/39.jpg"
   },
   {
     "numero": "40",
-    "nome": "Cromo 40",
+    "nome": "Equipa - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Portugal",
     "imagem": "images/capas/Futebol 82/40.jpg"
   },
   {
     "numero": "41",
-    "nome": "Cromo 41",
+    "nome": "Maszaros",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Portugal",
     "imagem": "images/capas/Futebol 82/41.jpg"
   },
   {
     "numero": "42",
-    "nome": "Cromo 42",
+    "nome": "Melo",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Portugal",
     "imagem": "images/capas/Futebol 82/42.jpg"
   },
   {
     "numero": "43",
-    "nome": "Cromo 43",
+    "nome": "Eurico",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Portugal",
     "imagem": "images/capas/Futebol 82/43.jpg"
   },
   {
     "numero": "44",
-    "nome": "Cromo 44",
+    "nome": "Barao",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Portugal",
     "imagem": "images/capas/Futebol 82/44.jpg"
   },
   {
     "numero": "45",
-    "nome": "Cromo 45",
+    "nome": "Inacio",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Portugal",
     "imagem": "images/capas/Futebol 82/45.jpg"
   },
   {
     "numero": "46",
-    "nome": "Cromo 46",
+    "nome": "Carlos Xavier",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Portugal",
     "imagem": "images/capas/Futebol 82/46.jpg"
   },
   {
     "numero": "47",
-    "nome": "Cromo 47",
+    "nome": "Ademar",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Portugal",
     "imagem": "images/capas/Futebol 82/47.jpg"
   },
   {
     "numero": "48",
-    "nome": "Cromo 48",
+    "nome": "Marinho",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Portugal",
     "imagem": "images/capas/Futebol 82/48.jpg"
   },
   {
     "numero": "49",
-    "nome": "Cromo 49",
+    "nome": "Meneses",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Portugal",
     "imagem": "images/capas/Futebol 82/49.jpg"
   },
   {
     "numero": "50",
-    "nome": "Cromo 50",
+    "nome": "Nogueira",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Portugal",
     "imagem": "images/capas/Futebol 82/50.jpg"
   },
   {
     "numero": "51",
-    "nome": "Cromo 51",
+    "nome": "Oliveira",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Portugal",
     "imagem": "images/capas/Futebol 82/51.jpg"
   },
   {
     "numero": "52",
-    "nome": "Cromo 52",
+    "nome": "Lito",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Portugal",
     "imagem": "images/capas/Futebol 82/52.jpg"
   },
   {
     "numero": "53",
-    "nome": "Cromo 53",
+    "nome": "Jordao",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Portugal",
     "imagem": "images/capas/Futebol 82/53.jpg"
   },
   {
     "numero": "54",
-    "nome": "Cromo 54",
+    "nome": "M. Fernandes",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Portugal",
     "imagem": "images/capas/Futebol 82/54.jpg"
   },
   {
     "numero": "55",
-    "nome": "Cromo 55",
+    "nome": "Freire",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Portugal",
     "imagem": "images/capas/Futebol 82/55.jpg"
   },
   {
     "numero": "56",
-    "nome": "Cromo 56",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista Futebol Clube",
     "imagem": "images/capas/Futebol 82/56.jpg"
   },
   {
     "numero": "57",
-    "nome": "Cromo 57",
+    "nome": "Equipa - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista Futebol Clube",
     "imagem": "images/capas/Futebol 82/57.jpg"
   },
   {
     "numero": "58",
-    "nome": "Cromo 58",
+    "nome": "Equipa - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista Futebol Clube",
     "imagem": "images/capas/Futebol 82/58.jpg"
   },
   {
     "numero": "59",
-    "nome": "Cromo 59",
+    "nome": "Matos",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista Futebol Clube",
     "imagem": "images/capas/Futebol 82/59.jpg"
   },
   {
     "numero": "60",
-    "nome": "Cromo 60",
+    "nome": "Madureira",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista Futebol Clube",
     "imagem": "images/capas/Futebol 82/60.jpg"
   },
   {
     "numero": "61",
-    "nome": "Cromo 61",
+    "nome": "Artur",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista Futebol Clube",
     "imagem": "images/capas/Futebol 82/61.jpg"
   },
   {
     "numero": "62",
-    "nome": "Cromo 62",
+    "nome": "Queiro",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista Futebol Clube",
     "imagem": "images/capas/Futebol 82/62.jpg"
   },
   {
     "numero": "63",
-    "nome": "Cromo 63",
+    "nome": "Cacheira",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista Futebol Clube",
     "imagem": "images/capas/Futebol 82/63.jpg"
   },
   {
     "numero": "64",
-    "nome": "Cromo 64",
+    "nome": "Paulo Cesar",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista Futebol Clube",
     "imagem": "images/capas/Futebol 82/64.jpg"
   },
   {
     "numero": "65",
-    "nome": "Cromo 65",
+    "nome": "Adao",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista Futebol Clube",
     "imagem": "images/capas/Futebol 82/65.jpg"
   },
   {
     "numero": "66",
-    "nome": "Cromo 66",
+    "nome": "M. Barbosa",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista Futebol Clube",
     "imagem": "images/capas/Futebol 82/66.jpg"
   },
   {
     "numero": "67",
-    "nome": "Cromo 67",
+    "nome": "Bravo",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista Futebol Clube",
     "imagem": "images/capas/Futebol 82/67.jpg"
   },
   {
     "numero": "68",
-    "nome": "Cromo 68",
+    "nome": "Eliseu",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista Futebol Clube",
     "imagem": "images/capas/Futebol 82/68.jpg"
   },
   {
     "numero": "69",
-    "nome": "Cromo 69",
+    "nome": "Ailton",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista Futebol Clube",
     "imagem": "images/capas/Futebol 82/69.jpg"
   },
   {
     "numero": "70",
-    "nome": "Cromo 70",
+    "nome": "Diamantino",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista Futebol Clube",
     "imagem": "images/capas/Futebol 82/70.jpg"
   },
   {
     "numero": "71",
-    "nome": "Cromo 71",
+    "nome": "Palhares",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista Futebol Clube",
     "imagem": "images/capas/Futebol 82/71.jpg"
   },
   {
     "numero": "72",
-    "nome": "Cromo 72",
+    "nome": "Vital",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista Futebol Clube",
     "imagem": "images/capas/Futebol 82/72.jpg"
   },
   {
     "numero": "73",
-    "nome": "Cromo 73",
+    "nome": "Jorge Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista Futebol Clube",
     "imagem": "images/capas/Futebol 82/73.jpg"
   },
   {
     "numero": "74",
-    "nome": "Cromo 74",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Sport Clube de Guimaraes",
     "imagem": "images/capas/Futebol 82/74.jpg"
   },
   {
     "numero": "75",
-    "nome": "Cromo 75",
+    "nome": "Equipa - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Sport Clube de Guimaraes",
     "imagem": "images/capas/Futebol 82/75.jpg"
   },
   {
     "numero": "76",
-    "nome": "Cromo 76",
+    "nome": "Equipa - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Sport Clube de Guimaraes",
     "imagem": "images/capas/Futebol 82/76.jpg"
   },
   {
     "numero": "77",
-    "nome": "Cromo 77",
+    "nome": "Damas",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Sport Clube de Guimaraes",
     "imagem": "images/capas/Futebol 82/77.jpg"
   },
   {
     "numero": "78",
-    "nome": "Cromo 78",
+    "nome": "Jesus",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Sport Clube de Guimaraes",
     "imagem": "images/capas/Futebol 82/78.jpg"
   },
   {
     "numero": "79",
-    "nome": "Cromo 79",
+    "nome": "To-Ze'",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Sport Clube de Guimaraes",
     "imagem": "images/capas/Futebol 82/79.jpg"
   },
   {
     "numero": "80",
-    "nome": "Cromo 80",
+    "nome": "Ramalho",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Sport Clube de Guimaraes",
     "imagem": "images/capas/Futebol 82/80.jpg"
   },
   {
     "numero": "81",
-    "nome": "Cromo 81",
+    "nome": "Gregorio",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Sport Clube de Guimaraes",
     "imagem": "images/capas/Futebol 82/81.jpg"
   },
   {
     "numero": "82",
-    "nome": "Cromo 82",
+    "nome": "Santos",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Sport Clube de Guimaraes",
     "imagem": "images/capas/Futebol 82/82.jpg"
   },
   {
     "numero": "83",
-    "nome": "Cromo 83",
+    "nome": "Barrinha",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Sport Clube de Guimaraes",
     "imagem": "images/capas/Futebol 82/83.jpg"
   },
   {
     "numero": "84",
-    "nome": "Cromo 84",
+    "nome": "Festas",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Sport Clube de Guimaraes",
     "imagem": "images/capas/Futebol 82/84.jpg"
   },
   {
     "numero": "85",
-    "nome": "Cromo 85",
+    "nome": "Niyaldo",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Sport Clube de Guimaraes",
     "imagem": "images/capas/Futebol 82/85.jpg"
   },
   {
     "numero": "86",
-    "nome": "Cromo 86",
+    "nome": "Abreu",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Sport Clube de Guimaraes",
     "imagem": "images/capas/Futebol 82/86.jpg"
   },
   {
     "numero": "87",
-    "nome": "Cromo 87",
+    "nome": "Pedroto",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Sport Clube de Guimaraes",
     "imagem": "images/capas/Futebol 82/87.jpg"
   },
   {
     "numero": "88",
-    "nome": "Cromo 88",
+    "nome": "Fonseca",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Sport Clube de Guimaraes",
     "imagem": "images/capas/Futebol 82/88.jpg"
   },
   {
     "numero": "89",
-    "nome": "Cromo 89",
+    "nome": "Narciso",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Sport Clube de Guimaraes",
     "imagem": "images/capas/Futebol 82/89.jpg"
   },
   {
     "numero": "90",
-    "nome": "Cromo 90",
+    "nome": "Lucio",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Sport Clube de Guimaraes",
     "imagem": "images/capas/Futebol 82/90.jpg"
   },
   {
     "numero": "91",
-    "nome": "Cromo 91",
+    "nome": "J. Rocha",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Sport Clube de Guimaraes",
     "imagem": "images/capas/Futebol 82/91.jpg"
   },
   {
     "numero": "92",
-    "nome": "Cromo 92",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Braga",
     "imagem": "images/capas/Futebol 82/92.jpg"
   },
   {
     "numero": "93",
-    "nome": "Cromo 93",
+    "nome": "Equipa - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Braga",
     "imagem": "images/capas/Futebol 82/93.jpg"
   },
   {
     "numero": "94",
-    "nome": "Cromo 94",
+    "nome": "Equipa - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Braga",
     "imagem": "images/capas/Futebol 82/94.jpg"
   },
   {
     "numero": "95",
-    "nome": "Cromo 95",
+    "nome": "Valter",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Braga",
     "imagem": "images/capas/Futebol 82/95.jpg"
   },
   {
     "numero": "96",
-    "nome": "Cromo 96",
+    "nome": "Joao",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Braga",
     "imagem": "images/capas/Futebol 82/96.jpg"
   },
   {
     "numero": "97",
-    "nome": "Cromo 97",
+    "nome": "Dito",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Braga",
     "imagem": "images/capas/Futebol 82/97.jpg"
   },
   {
     "numero": "98",
-    "nome": "Cromo 98",
+    "nome": "Artur",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Braga",
     "imagem": "images/capas/Futebol 82/98.jpg"
   },
   {
     "numero": "99",
-    "nome": "Cromo 99",
+    "nome": "Joao Cardoso",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Braga",
     "imagem": "images/capas/Futebol 82/99.jpg"
   },
   {
     "numero": "100",
-    "nome": "Cromo 100",
+    "nome": "Nelito",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Braga",
     "imagem": "images/capas/Futebol 82/100.jpg"
   },
   {
     "numero": "101",
-    "nome": "Cromo 101",
+    "nome": "Jose Artur",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Braga",
     "imagem": "images/capas/Futebol 82/101.jpg"
   },
   {
     "numero": "102",
-    "nome": "Cromo 102",
+    "nome": "Guedes",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Braga",
     "imagem": "images/capas/Futebol 82/102.jpg"
   },
   {
     "numero": "103",
-    "nome": "Cromo 103",
+    "nome": "Germano",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Braga",
     "imagem": "images/capas/Futebol 82/103.jpg"
   },
   {
     "numero": "104",
-    "nome": "Cromo 104",
+    "nome": "Vitor Oliveira",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Braga",
     "imagem": "images/capas/Futebol 82/104.jpg"
   },
   {
     "numero": "105",
-    "nome": "Cromo 105",
+    "nome": "Spencer",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Braga",
     "imagem": "images/capas/Futebol 82/105.jpg"
   },
   {
     "numero": "106",
-    "nome": "Cromo 106",
+    "nome": "Chico Faria",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Braga",
     "imagem": "images/capas/Futebol 82/106.jpg"
   },
   {
     "numero": "107",
-    "nome": "Cromo 107",
+    "nome": "Malheiro",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Braga",
     "imagem": "images/capas/Futebol 82/107.jpg"
   },
   {
     "numero": "108",
-    "nome": "Cromo 108",
+    "nome": "Mundinho",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Braga",
     "imagem": "images/capas/Futebol 82/108.jpg"
   },
   {
     "numero": "109",
-    "nome": "Cromo 109",
+    "nome": "Fontes",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Clube de Braga",
     "imagem": "images/capas/Futebol 82/109.jpg"
   },
   {
     "numero": "110",
-    "nome": "Cromo 110",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Futebol Clube de Setubal",
     "imagem": "images/capas/Futebol 82/110.jpg"
   },
   {
     "numero": "111",
-    "nome": "Cromo 111",
+    "nome": "Equipa - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Futebol Clube de Setubal",
     "imagem": "images/capas/Futebol 82/111.jpg"
   },
   {
     "numero": "112",
-    "nome": "Cromo 112",
+    "nome": "Equipa - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Futebol Clube de Setubal",
     "imagem": "images/capas/Futebol 82/112.jpg"
   },
   {
     "numero": "113",
-    "nome": "Cromo 113",
+    "nome": "Amaral",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Futebol Clube de Setubal",
     "imagem": "images/capas/Futebol 82/113.jpg"
   },
   {
     "numero": "114",
-    "nome": "Cromo 114",
+    "nome": "Silvino",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Futebol Clube de Setubal",
     "imagem": "images/capas/Futebol 82/114.jpg"
   },
   {
     "numero": "115",
-    "nome": "Cromo 115",
+    "nome": "F.Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Futebol Clube de Setubal",
     "imagem": "images/capas/Futebol 82/115.jpg"
   },
   {
     "numero": "116",
-    "nome": "Cromo 116",
+    "nome": "Sobrinho",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Futebol Clube de Setubal",
     "imagem": "images/capas/Futebol 82/116.jpg"
   },
   {
     "numero": "117",
-    "nome": "Cromo 117",
+    "nome": "Cicero",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Futebol Clube de Setubal",
     "imagem": "images/capas/Futebol 82/117.jpg"
   },
   {
     "numero": "118",
-    "nome": "Cromo 118",
+    "nome": "Mota",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Futebol Clube de Setubal",
     "imagem": "images/capas/Futebol 82/118.jpg"
   },
   {
     "numero": "119",
-    "nome": "Cromo 119",
+    "nome": "Cerdeira",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Futebol Clube de Setubal",
     "imagem": "images/capas/Futebol 82/119.jpg"
   },
   {
     "numero": "120",
-    "nome": "Cromo 120",
+    "nome": "Garces",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Futebol Clube de Setubal",
     "imagem": "images/capas/Futebol 82/120.jpg"
   },
   {
     "numero": "121",
-    "nome": "Cromo 121",
+    "nome": "Duda",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Futebol Clube de Setubal",
     "imagem": "images/capas/Futebol 82/121.jpg"
   },
   {
     "numero": "122",
-    "nome": "Cromo 122",
+    "nome": "Octavio",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Futebol Clube de Setubal",
     "imagem": "images/capas/Futebol 82/122.jpg"
   },
   {
     "numero": "123",
-    "nome": "Cromo 123",
+    "nome": "Peter",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Futebol Clube de Setubal",
     "imagem": "images/capas/Futebol 82/123.jpg"
   },
   {
     "numero": "124",
-    "nome": "Cromo 124",
+    "nome": "Vitor Madeira",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Futebol Clube de Setubal",
     "imagem": "images/capas/Futebol 82/124.jpg"
   },
   {
     "numero": "125",
-    "nome": "Cromo 125",
+    "nome": "Dario",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Futebol Clube de Setubal",
     "imagem": "images/capas/Futebol 82/125.jpg"
   },
   {
     "numero": "126",
-    "nome": "Cromo 126",
+    "nome": "Chico Gordo",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Futebol Clube de Setubal",
     "imagem": "images/capas/Futebol 82/126.jpg"
   },
   {
     "numero": "127",
-    "nome": "Cromo 127",
+    "nome": "F.Cruz",
     "tenho": true,
     "especial": false,
+    "clube": "Vitória Futebol Clube de Setubal",
     "imagem": "images/capas/Futebol 82/127.jpg"
   },
   {
     "numero": "128",
-    "nome": "Cromo 128",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense Sporting Clube",
     "imagem": "images/capas/Futebol 82/128.jpg"
   },
   {
     "numero": "129",
-    "nome": "Cromo 129",
+    "nome": "Equipa - 1",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense Sporting Clube",
     "imagem": "images/capas/Futebol 82/129.jpg"
   },
   {
     "numero": "130",
-    "nome": "Cromo 130",
+    "nome": "Equipa - 2",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense Sporting Clube",
     "imagem": "images/capas/Futebol 82/130.jpg"
   },
   {
     "numero": "131",
-    "nome": "Cromo 131",
+    "nome": "Delgado",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense Sporting Clube",
     "imagem": "images/capas/Futebol 82/131.jpg"
   },
   {
     "numero": "132",
-    "nome": "Cromo 132",
+    "nome": "Conhe",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense Sporting Clube",
     "imagem": "images/capas/Futebol 82/132.jpg"
   },
   {
     "numero": "133",
-    "nome": "Cromo 133",
+    "nome": "Amilcar",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense Sporting Clube",
     "imagem": "images/capas/Futebol 82/133.jpg"
   },
   {
     "numero": "134",
-    "nome": "Cromo 134",
+    "nome": "Quaresma",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense Sporting Clube",
     "imagem": "images/capas/Futebol 82/134.jpg"
   },
   {
     "numero": "135",
-    "nome": "Cromo 135",
+    "nome": "R.Dias",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense Sporting Clube",
     "imagem": "images/capas/Futebol 82/135.jpg"
   },
   {
     "numero": "136",
-    "nome": "Cromo 136",
+    "nome": "Coleho",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense Sporting Clube",
     "imagem": "images/capas/Futebol 82/136.jpg"
   },
   {
     "numero": "137",
-    "nome": "Cromo 137",
+    "nome": "Patan",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense Sporting Clube",
     "imagem": "images/capas/Futebol 82/137.jpg"
   },
   {
     "numero": "138",
-    "nome": "Cromo 138",
+    "nome": "Murca",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense Sporting Clube",
     "imagem": "images/capas/Futebol 82/138.jpg"
   },
   {
     "numero": "139",
-    "nome": "Cromo 139",
+    "nome": "C.Alberto",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense Sporting Clube",
     "imagem": "images/capas/Futebol 82/139.jpg"
   },
   {
     "numero": "140",
-    "nome": "Cromo 140",
+    "nome": "Tiao",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense Sporting Clube",
     "imagem": "images/capas/Futebol 82/140.jpg"
   },
   {
     "numero": "141",
-    "nome": "Cromo 141",
+    "nome": "Valter",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense Sporting Clube",
     "imagem": "images/capas/Futebol 82/141.jpg"
   },
   {
     "numero": "142",
-    "nome": "Cromo 142",
+    "nome": "F.Martins",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense Sporting Clube",
     "imagem": "images/capas/Futebol 82/142.jpg"
   },
   {
     "numero": "143",
-    "nome": "Cromo 143",
+    "nome": "N.De Matos",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense Sporting Clube",
     "imagem": "images/capas/Futebol 82/143.jpg"
   },
   {
     "numero": "144",
-    "nome": "Cromo 144",
+    "nome": "Rocadas",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense Sporting Clube",
     "imagem": "images/capas/Futebol 82/144.jpg"
   },
   {
     "numero": "145",
-    "nome": "Cromo 145",
+    "nome": "Jailson",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense Sporting Clube",
     "imagem": "images/capas/Futebol 82/145.jpg"
   },
   {
     "numero": "146",
-    "nome": "Cromo 146",
+    "nome": "Manuel Bento",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal! Portugal! Portugal!",
+    "tipo": "Foil, figured",
     "imagem": "images/capas/Futebol 82/146.jpg"
   },
   {
     "numero": "147",
-    "nome": "Cromo 147",
+    "nome": "Gabriel Mendes",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal! Portugal! Portugal!",
+    "tipo": "Foil, figured",
     "imagem": "images/capas/Futebol 82/147.jpg"
   },
   {
     "numero": "148",
-    "nome": "Cromo 148",
+    "nome": "Humberto Coelho",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal! Portugal! Portugal!",
+    "tipo": "Foil, figured",
     "imagem": "images/capas/Futebol 82/148.jpg"
   },
   {
     "numero": "149",
-    "nome": "Cromo 149",
+    "nome": "Carlos Simoes",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal! Portugal! Portugal!",
+    "tipo": "Foil, figured",
     "imagem": "images/capas/Futebol 82/149.jpg"
   },
   {
     "numero": "150",
-    "nome": "Cromo 150",
+    "nome": "Carlos Manuel",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal! Portugal! Portugal!",
+    "tipo": "Foil, figured",
     "imagem": "images/capas/Futebol 82/150.jpg"
   },
   {
     "numero": "151",
-    "nome": "Cromo 151",
+    "nome": "Fernando Chalana",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal! Portugal! Portugal!",
+    "tipo": "Foil, figured",
     "imagem": "images/capas/Futebol 82/151.jpg"
   },
   {
     "numero": "152",
-    "nome": "Cromo 152",
+    "nome": "Tamagnini Nene",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal! Portugal! Portugal!",
+    "tipo": "Foil, figured",
     "imagem": "images/capas/Futebol 82/152.jpg"
   },
   {
     "numero": "153",
-    "nome": "Cromo 153",
+    "nome": "Rui Jordao",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal! Portugal! Portugal!",
+    "tipo": "Foil, figured",
     "imagem": "images/capas/Futebol 82/153.jpg"
   },
   {
     "numero": "154",
-    "nome": "Cromo 154",
+    "nome": "Eurico Gomes",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal! Portugal! Portugal!",
+    "tipo": "Foil, figured",
     "imagem": "images/capas/Futebol 82/154.jpg"
   },
   {
     "numero": "155",
-    "nome": "Cromo 155",
+    "nome": "Minervino Pietra",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal! Portugal! Portugal!",
+    "tipo": "Foil, figured",
     "imagem": "images/capas/Futebol 82/155.jpg"
   },
   {
     "numero": "156",
-    "nome": "Cromo 156",
+    "nome": "Sheu Han",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal! Portugal! Portugal!",
+    "tipo": "Foil, figured",
     "imagem": "images/capas/Futebol 82/156.jpg"
   },
   {
     "numero": "157",
-    "nome": "Cromo 157",
+    "nome": "Joao Alves",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal! Portugal! Portugal!",
+    "tipo": "Foil, figured",
     "imagem": "images/capas/Futebol 82/157.jpg"
   },
   {
     "numero": "158",
-    "nome": "Cromo 158",
+    "nome": "Antonio Oliveira",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal! Portugal! Portugal!",
+    "tipo": "Foil, figured",
     "imagem": "images/capas/Futebol 82/158.jpg"
   },
   {
     "numero": "159",
-    "nome": "Cromo 159",
+    "nome": "Jose Costa",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal! Portugal! Portugal!",
+    "tipo": "Foil, figured",
     "imagem": "images/capas/Futebol 82/159.jpg"
   },
   {
     "numero": "160",
-    "nome": "Cromo 160",
+    "nome": "Antonio De Sousa",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal! Portugal! Portugal!",
+    "tipo": "Foil, figured",
     "imagem": "images/capas/Futebol 82/160.jpg"
   },
   {
     "numero": "161",
-    "nome": "Cromo 161",
+    "nome": "Antonio 'Tibi'",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal! Portugal! Portugal!",
+    "tipo": "Foil, figured",
     "imagem": "images/capas/Futebol 82/161.jpg"
   },
   {
     "numero": "162",
-    "nome": "Cromo 162",
-    "tenho": true,
+    "nome": "Emblema",
+    "tenho": false,
     "especial": false,
+    "clube": "Sporting Clube de Espinho",
     "imagem": "images/capas/Futebol 82/162.jpg"
   },
   {
     "numero": "163",
-    "nome": "Cromo 163",
+    "nome": "Equipa - 1",
     "tenho": false,
     "especial": false,
+    "clube": "Sporting Clube de Espinho",
     "imagem": "images/capas/Futebol 82/163.jpg"
   },
   {
     "numero": "164",
-    "nome": "Cromo 164",
+    "nome": "Equipa",
     "tenho": false,
     "especial": false,
+    "clube": "Sporting Clube de Espinho",
     "imagem": "images/capas/Futebol 82/164.jpg"
   },
   {
     "numero": "165",
-    "nome": "Cromo 165",
+    "nome": "Mendes",
     "tenho": false,
     "especial": false,
+    "clube": "Sporting Clube de Espinho",
     "imagem": "images/capas/Futebol 82/165.jpg"
   },
   {
     "numero": "166",
-    "nome": "Cromo 166",
+    "nome": "Ricardo",
     "tenho": false,
     "especial": false,
+    "clube": "Sporting Clube de Espinho",
     "imagem": "images/capas/Futebol 82/166.jpg"
   },
   {
     "numero": "167",
-    "nome": "Cromo 167",
+    "nome": "Salaco",
     "tenho": false,
     "especial": false,
+    "clube": "Sporting Clube de Espinho",
     "imagem": "images/capas/Futebol 82/167.jpg"
   },
   {
     "numero": "168",
-    "nome": "Cromo 168",
+    "nome": "Serra",
     "tenho": false,
     "especial": false,
+    "clube": "Sporting Clube de Espinho",
     "imagem": "images/capas/Futebol 82/168.jpg"
   },
   {
     "numero": "169",
-    "nome": "Cromo 169",
+    "nome": "Raul",
     "tenho": false,
     "especial": false,
+    "clube": "Sporting Clube de Espinho",
     "imagem": "images/capas/Futebol 82/169.jpg"
   },
   {
     "numero": "170",
-    "nome": "Cromo 170",
+    "nome": "Jose Augusto",
     "tenho": false,
     "especial": false,
+    "clube": "Sporting Clube de Espinho",
     "imagem": "images/capas/Futebol 82/170.jpg"
   },
   {
     "numero": "171",
-    "nome": "Cromo 171",
+    "nome": "Vitor Manuel",
     "tenho": false,
     "especial": false,
+    "clube": "Sporting Clube de Espinho",
     "imagem": "images/capas/Futebol 82/171.jpg"
   },
   {
     "numero": "172",
-    "nome": "Cromo 172",
+    "nome": "Joao Carlos",
     "tenho": false,
     "especial": false,
+    "clube": "Sporting Clube de Espinho",
     "imagem": "images/capas/Futebol 82/172.jpg"
   },
   {
     "numero": "173",
-    "nome": "Cromo 173",
+    "nome": "Carvalho",
     "tenho": false,
     "especial": false,
+    "clube": "Sporting Clube de Espinho",
     "imagem": "images/capas/Futebol 82/173.jpg"
   },
   {
     "numero": "174",
-    "nome": "Cromo 174",
+    "nome": "Jacinto",
     "tenho": false,
     "especial": false,
+    "clube": "Sporting Clube de Espinho",
     "imagem": "images/capas/Futebol 82/174.jpg"
   },
   {
     "numero": "175",
-    "nome": "Cromo 175",
+    "nome": "Nicolau",
     "tenho": false,
     "especial": false,
+    "clube": "Sporting Clube de Espinho",
     "imagem": "images/capas/Futebol 82/175.jpg"
   },
   {
     "numero": "176",
-    "nome": "Cromo 176",
+    "nome": "Ruben",
     "tenho": false,
     "especial": false,
+    "clube": "Sporting Clube de Espinho",
     "imagem": "images/capas/Futebol 82/176.jpg"
   },
   {
     "numero": "177",
-    "nome": "Cromo 177",
+    "nome": "Herminio",
     "tenho": false,
     "especial": false,
+    "clube": "Sporting Clube de Espinho",
     "imagem": "images/capas/Futebol 82/177.jpg"
   },
   {
     "numero": "178",
-    "nome": "Cromo 178",
+    "nome": "Moinhos",
     "tenho": false,
     "especial": false,
+    "clube": "Sporting Clube de Espinho",
     "imagem": "images/capas/Futebol 82/178.jpg"
   },
   {
     "numero": "179",
-    "nome": "Cromo 179",
+    "nome": "Vitorino",
     "tenho": false,
     "especial": false,
+    "clube": "Sporting Clube de Espinho",
     "imagem": "images/capas/Futebol 82/179.jpg"
   },
   {
     "numero": "180",
-    "nome": "Cromo 180",
+    "nome": "Emblema",
     "tenho": false,
     "especial": false,
+    "clube": "Clube de Futebol Os Belenenses",
     "imagem": "images/capas/Futebol 82/180.jpg"
   },
   {
     "numero": "181",
-    "nome": "Cromo 181",
+    "nome": "Equipa - 1",
     "tenho": false,
     "especial": false,
+    "clube": "Clube de Futebol Os Belenenses",
     "imagem": "images/capas/Futebol 82/181.jpg"
   },
   {
     "numero": "182",
-    "nome": "Cromo 182",
+    "nome": "Equipa - 2",
     "tenho": false,
     "especial": false,
+    "clube": "Clube de Futebol Os Belenenses",
     "imagem": "images/capas/Futebol 82/182.jpg"
   },
   {
     "numero": "183",
-    "nome": "Cromo 183",
+    "nome": "Padrao",
     "tenho": false,
     "especial": false,
+    "clube": "Clube de Futebol Os Belenenses",
     "imagem": "images/capas/Futebol 82/183.jpg"
   },
   {
     "numero": "184",
-    "nome": "Cromo 184",
+    "nome": "Jacinto Joao",
     "tenho": false,
     "especial": false,
+    "clube": "Clube de Futebol Os Belenenses",
     "imagem": "images/capas/Futebol 82/184.jpg"
   },
   {
     "numero": "185",
-    "nome": "Cromo 185",
+    "nome": "Alhinho",
     "tenho": false,
     "especial": false,
+    "clube": "Clube de Futebol Os Belenenses",
     "imagem": "images/capas/Futebol 82/185.jpg"
   },
   {
     "numero": "186",
-    "nome": "Cromo 186",
+    "nome": "Sambinha",
     "tenho": false,
     "especial": false,
+    "clube": "Clube de Futebol Os Belenenses",
     "imagem": "images/capas/Futebol 82/186.jpg"
   },
   {
     "numero": "187",
-    "nome": "Cromo 187",
+    "nome": "C.Pereira",
     "tenho": false,
     "especial": false,
+    "clube": "Clube de Futebol Os Belenenses",
     "imagem": "images/capas/Futebol 82/187.jpg"
   },
   {
     "numero": "188",
-    "nome": "Cromo 188",
+    "nome": "Luis Horta",
     "tenho": false,
     "especial": false,
+    "clube": "Clube de Futebol Os Belenenses",
     "imagem": "images/capas/Futebol 82/188.jpg"
   },
   {
     "numero": "189",
-    "nome": "Cromo 189",
+    "nome": "Baltasar",
     "tenho": false,
     "especial": false,
+    "clube": "Clube de Futebol Os Belenenses",
     "imagem": "images/capas/Futebol 82/189.jpg"
   },
   {
     "numero": "190",
-    "nome": "Cromo 190",
+    "nome": "Lima",
     "tenho": false,
     "especial": false,
+    "clube": "Clube de Futebol Os Belenenses",
     "imagem": "images/capas/Futebol 82/190.jpg"
   },
   {
     "numero": "191",
-    "nome": "Cromo 191",
+    "nome": "Osvaldo",
     "tenho": false,
     "especial": false,
+    "clube": "Clube de Futebol Os Belenenses",
     "imagem": "images/capas/Futebol 82/191.jpg"
   },
   {
     "numero": "192",
-    "nome": "Cromo 192",
+    "nome": "Carlinhos",
     "tenho": false,
     "especial": false,
+    "clube": "Clube de Futebol Os Belenenses",
     "imagem": "images/capas/Futebol 82/192.jpg"
   },
   {
     "numero": "193",
-    "nome": "Cromo 193",
+    "nome": "Vitor Gomes",
     "tenho": false,
     "especial": false,
+    "clube": "Clube de Futebol Os Belenenses",
     "imagem": "images/capas/Futebol 82/193.jpg"
   },
   {
     "numero": "194",
-    "nome": "Cromo 194",
+    "nome": "Cepeda",
     "tenho": false,
     "especial": false,
+    "clube": "Clube de Futebol Os Belenenses",
     "imagem": "images/capas/Futebol 82/194.jpg"
   },
   {
     "numero": "195",
-    "nome": "Cromo 195",
+    "nome": "Avelar",
     "tenho": false,
     "especial": false,
+    "clube": "Clube de Futebol Os Belenenses",
     "imagem": "images/capas/Futebol 82/195.jpg"
   },
   {
     "numero": "196",
-    "nome": "Cromo 196",
+    "nome": "Biffe",
     "tenho": false,
     "especial": false,
+    "clube": "Clube de Futebol Os Belenenses",
     "imagem": "images/capas/Futebol 82/196.jpg"
   },
   {
     "numero": "197",
-    "nome": "Cromo 197",
+    "nome": "Djao",
     "tenho": false,
     "especial": false,
+    "clube": "Clube de Futebol Os Belenenses",
     "imagem": "images/capas/Futebol 82/197.jpg"
   },
   {
     "numero": "198",
-    "nome": "Cromo 198",
+    "nome": "Emblema",
     "tenho": false,
     "especial": false,
+    "clube": "Futebol Clube de Panafiel",
     "imagem": "images/capas/Futebol 82/198.jpg"
   },
   {
     "numero": "199",
-    "nome": "Cromo 199",
+    "nome": "Equipa - 1",
     "tenho": false,
     "especial": false,
+    "clube": "Futebol Clube de Panafiel",
     "imagem": "images/capas/Futebol 82/199.jpg"
   },
   {
-    "numero": "200",
-    "nome": "Cromo 200",
-    "tenho": false,
-    "especial": false,
-    "imagem": "images/capas/Futebol 82/200.jpg"
-  },
-  {
-    "numero": "201",
-    "nome": "Cromo 201",
-    "tenho": false,
-    "especial": false,
-    "imagem": "images/capas/Futebol 82/201.jpg"
-  },
-  {
-    "numero": "202",
-    "nome": "Cromo 202",
-    "tenho": false,
-    "especial": false,
-    "imagem": "images/capas/Futebol 82/202.jpg"
-  },
-  {
     "numero": "203",
-    "nome": "Cromo 203",
+    "nome": "Kikas",
     "tenho": false,
     "especial": false,
+    "clube": "Futebol Clube de Panafiel",
     "imagem": "images/capas/Futebol 82/203.jpg"
   },
   {
-    "numero": "204",
-    "nome": "Cromo 204",
-    "tenho": false,
-    "especial": false,
-    "imagem": "images/capas/Futebol 82/204.jpg"
-  },
-  {
     "numero": "205",
-    "nome": "Cromo 205",
+    "nome": "Castro",
     "tenho": false,
     "especial": false,
+    "clube": "Futebol Clube de Panafiel",
     "imagem": "images/capas/Futebol 82/205.jpg"
   },
   {
     "numero": "206",
-    "nome": "Cromo 206",
+    "nome": "Pires",
     "tenho": false,
     "especial": false,
+    "clube": "Futebol Clube de Panafiel",
     "imagem": "images/capas/Futebol 82/206.jpg"
   },
   {
     "numero": "207",
-    "nome": "Cromo 207",
+    "nome": "Carrico",
     "tenho": false,
     "especial": false,
+    "clube": "Futebol Clube de Panafiel",
     "imagem": "images/capas/Futebol 82/207.jpg"
   },
   {
     "numero": "208",
-    "nome": "Cromo 208",
+    "nome": "Branco",
     "tenho": false,
     "especial": false,
+    "clube": "Futebol Clube de Panafiel",
     "imagem": "images/capas/Futebol 82/208.jpg"
   },
   {
     "numero": "209",
-    "nome": "Cromo 209",
+    "nome": "J. Domingues",
     "tenho": false,
     "especial": false,
+    "clube": "Futebol Clube de Panafiel",
     "imagem": "images/capas/Futebol 82/209.jpg"
   },
   {
     "numero": "210",
-    "nome": "Cromo 210",
+    "nome": "Costa",
     "tenho": false,
     "especial": false,
+    "clube": "Futebol Clube de Panafiel",
     "imagem": "images/capas/Futebol 82/210.jpg"
   },
   {
     "numero": "211",
-    "nome": "Cromo 211",
+    "nome": "Garcia",
     "tenho": false,
     "especial": false,
+    "clube": "Futebol Clube de Panafiel",
     "imagem": "images/capas/Futebol 82/211.jpg"
   },
   {
     "numero": "212",
-    "nome": "Cromo 212",
+    "nome": "Rui Lopes",
     "tenho": false,
     "especial": false,
+    "clube": "Futebol Clube de Panafiel",
     "imagem": "images/capas/Futebol 82/212.jpg"
   },
   {
     "numero": "213",
-    "nome": "Cromo 213",
+    "nome": "Baba",
     "tenho": false,
     "especial": false,
+    "clube": "Futebol Clube de Panafiel",
     "imagem": "images/capas/Futebol 82/213.jpg"
   },
   {
     "numero": "214",
-    "nome": "Cromo 214",
+    "nome": "Jarbas",
     "tenho": false,
     "especial": false,
+    "clube": "Futebol Clube de Panafiel",
     "imagem": "images/capas/Futebol 82/214.jpg"
   },
   {
     "numero": "215",
-    "nome": "Cromo 215",
+    "nome": "Faia",
     "tenho": false,
     "especial": false,
+    "clube": "Futebol Clube de Panafiel",
     "imagem": "images/capas/Futebol 82/215.jpg"
   },
   {
     "numero": "216",
-    "nome": "Cromo 216",
+    "nome": "Emblema",
     "tenho": false,
     "especial": false,
+    "clube": "Amora Futebol Clube",
     "imagem": "images/capas/Futebol 82/216.jpg"
   },
   {
     "numero": "217",
-    "nome": "Cromo 217",
+    "nome": "Equipa - 1",
     "tenho": false,
     "especial": false,
+    "clube": "Amora Futebol Clube",
     "imagem": "images/capas/Futebol 82/217.jpg"
   },
   {
     "numero": "218",
-    "nome": "Cromo 218",
+    "nome": "Equipa - 2",
     "tenho": false,
     "especial": false,
+    "clube": "Amora Futebol Clube",
     "imagem": "images/capas/Futebol 82/218.jpg"
   },
   {
     "numero": "219",
-    "nome": "Cromo 219",
+    "nome": "Jorge Silva",
     "tenho": false,
     "especial": false,
+    "clube": "Amora Futebol Clube",
     "imagem": "images/capas/Futebol 82/219.jpg"
   },
   {
-    "numero": "220",
-    "nome": "Cromo 220",
-    "tenho": false,
-    "especial": false,
-    "imagem": "images/capas/Futebol 82/220.jpg"
-  },
-  {
     "numero": "221",
-    "nome": "Cromo 221",
+    "nome": "Pedroso",
     "tenho": false,
     "especial": false,
+    "clube": "Amora Futebol Clube",
     "imagem": "images/capas/Futebol 82/221.jpg"
   },
   {
-    "numero": "222",
-    "nome": "Cromo 222",
-    "tenho": false,
-    "especial": false,
-    "imagem": "images/capas/Futebol 82/222.jpg"
-  },
-  {
     "numero": "223",
-    "nome": "Cromo 223",
+    "nome": "Helder",
     "tenho": false,
     "especial": false,
+    "clube": "Amora Futebol Clube",
     "imagem": "images/capas/Futebol 82/223.jpg"
   },
   {
-    "numero": "224",
-    "nome": "Cromo 224",
-    "tenho": false,
-    "especial": false,
-    "imagem": "images/capas/Futebol 82/224.jpg"
-  },
-  {
     "numero": "225",
-    "nome": "Cromo 225",
+    "nome": "Camoes",
     "tenho": false,
     "especial": false,
+    "clube": "Amora Futebol Clube",
     "imagem": "images/capas/Futebol 82/225.jpg"
   },
   {
-    "numero": "226",
-    "nome": "Cromo 226",
-    "tenho": false,
-    "especial": false,
-    "imagem": "images/capas/Futebol 82/226.jpg"
-  },
-  {
     "numero": "227",
-    "nome": "Cromo 227",
+    "nome": "Jaime",
     "tenho": false,
     "especial": false,
+    "clube": "Amora Futebol Clube",
     "imagem": "images/capas/Futebol 82/227.jpg"
   },
   {
     "numero": "228",
-    "nome": "Cromo 228",
+    "nome": "Pereirinha",
     "tenho": false,
     "especial": false,
+    "clube": "Amora Futebol Clube",
     "imagem": "images/capas/Futebol 82/228.jpg"
   },
   {
     "numero": "229",
-    "nome": "Cromo 229",
+    "nome": "M. Fernandes",
     "tenho": false,
     "especial": false,
+    "clube": "Amora Futebol Clube",
     "imagem": "images/capas/Futebol 82/229.jpg"
   },
   {
     "numero": "230",
-    "nome": "Cromo 230",
+    "nome": "Formosinho",
     "tenho": false,
     "especial": false,
+    "clube": "Amora Futebol Clube",
     "imagem": "images/capas/Futebol 82/230.jpg"
   },
   {
     "numero": "231",
-    "nome": "Cromo 231",
+    "nome": "Marlon",
     "tenho": false,
     "especial": false,
+    "clube": "Amora Futebol Clube",
     "imagem": "images/capas/Futebol 82/231.jpg"
   },
   {
     "numero": "232",
-    "nome": "Cromo 232",
+    "nome": "Fortes",
     "tenho": false,
     "especial": false,
+    "clube": "Amora Futebol Clube",
     "imagem": "images/capas/Futebol 82/232.jpg"
   },
   {
     "numero": "233",
-    "nome": "Cromo 233",
+    "nome": "J. Domingos",
     "tenho": false,
     "especial": false,
+    "clube": "Amora Futebol Clube",
     "imagem": "images/capas/Futebol 82/233.jpg"
   },
   {
     "numero": "234",
-    "nome": "Cromo 234",
+    "nome": "Emblema",
     "tenho": false,
     "especial": false,
+    "clube": "União Desportiva de Leiria",
     "imagem": "images/capas/Futebol 82/234.jpg"
   },
   {
     "numero": "235",
-    "nome": "Cromo 235",
+    "nome": "Equipa - 1",
     "tenho": false,
     "especial": false,
+    "clube": "União Desportiva de Leiria",
     "imagem": "images/capas/Futebol 82/235.jpg"
   },
   {
     "numero": "236",
-    "nome": "Cromo 236",
+    "nome": "Equipa - 2",
     "tenho": false,
     "especial": false,
+    "clube": "União Desportiva de Leiria",
     "imagem": "images/capas/Futebol 82/236.jpg"
   },
   {
     "numero": "237",
-    "nome": "Cromo 237",
+    "nome": "Alvaro",
     "tenho": false,
     "especial": false,
+    "clube": "União Desportiva de Leiria",
     "imagem": "images/capas/Futebol 82/237.jpg"
   },
   {
     "numero": "238",
-    "nome": "Cromo 238",
+    "nome": "Justino",
     "tenho": false,
     "especial": false,
+    "clube": "União Desportiva de Leiria",
     "imagem": "images/capas/Futebol 82/238.jpg"
   },
   {
     "numero": "239",
-    "nome": "Cromo 239",
+    "nome": "Germano",
     "tenho": false,
     "especial": false,
+    "clube": "União Desportiva de Leiria",
     "imagem": "images/capas/Futebol 82/239.jpg"
   },
   {
-    "numero": "240",
-    "nome": "Cromo 240",
-    "tenho": false,
-    "especial": false,
-    "imagem": "images/capas/Futebol 82/240.jpg"
-  },
-  {
     "numero": "241",
-    "nome": "Cromo 241",
+    "nome": "Martinho",
     "tenho": false,
     "especial": false,
+    "clube": "União Desportiva de Leiria",
     "imagem": "images/capas/Futebol 82/241.jpg"
   },
   {
-    "numero": "242",
-    "nome": "Cromo 242",
-    "tenho": false,
-    "especial": false,
-    "imagem": "images/capas/Futebol 82/242.jpg"
-  },
-  {
     "numero": "243",
-    "nome": "Cromo 243",
+    "nome": "Amandio",
     "tenho": false,
     "especial": false,
+    "clube": "União Desportiva de Leiria",
     "imagem": "images/capas/Futebol 82/243.jpg"
   },
   {
     "numero": "244",
-    "nome": "Cromo 244",
+    "nome": "Cardoso",
     "tenho": false,
     "especial": false,
+    "clube": "União Desportiva de Leiria",
     "imagem": "images/capas/Futebol 82/244.jpg"
   },
   {
     "numero": "245",
-    "nome": "Cromo 245",
+    "nome": "Freitas",
     "tenho": false,
     "especial": false,
+    "clube": "União Desportiva de Leiria",
     "imagem": "images/capas/Futebol 82/245.jpg"
   },
   {
     "numero": "246",
-    "nome": "Cromo 246",
+    "nome": "Cremildo",
     "tenho": false,
     "especial": false,
+    "clube": "União Desportiva de Leiria",
     "imagem": "images/capas/Futebol 82/246.jpg"
   },
   {
     "numero": "247",
-    "nome": "Cromo 247",
+    "nome": "Aguas",
     "tenho": false,
     "especial": false,
+    "clube": "União Desportiva de Leiria",
     "imagem": "images/capas/Futebol 82/247.jpg"
   },
   {
     "numero": "248",
-    "nome": "Cromo 248",
+    "nome": "Rogerio",
     "tenho": false,
     "especial": false,
+    "clube": "União Desportiva de Leiria",
     "imagem": "images/capas/Futebol 82/248.jpg"
   },
   {
     "numero": "249",
-    "nome": "Cromo 249",
+    "nome": "F. Cruz",
     "tenho": false,
     "especial": false,
+    "clube": "União Desportiva de Leiria",
     "imagem": "images/capas/Futebol 82/249.jpg"
   },
   {
     "numero": "250",
-    "nome": "Cromo 250",
+    "nome": "N'Habola",
     "tenho": false,
     "especial": false,
+    "clube": "União Desportiva de Leiria",
     "imagem": "images/capas/Futebol 82/250.jpg"
   },
   {
     "numero": "251",
-    "nome": "Cromo 251",
+    "nome": "Vitor Manuel",
     "tenho": false,
     "especial": false,
+    "clube": "União Desportiva de Leiria",
     "imagem": "images/capas/Futebol 82/251.jpg"
   },
   {
     "numero": "252",
-    "nome": "Cromo 252",
+    "nome": "Emblema",
     "tenho": false,
     "especial": false,
+    "clube": "Rio Ave Futebol Clube",
     "imagem": "images/capas/Futebol 82/252.jpg"
   },
   {
     "numero": "253",
-    "nome": "Cromo 253",
+    "nome": "Equipa - 1",
     "tenho": false,
     "especial": false,
+    "clube": "Rio Ave Futebol Clube",
     "imagem": "images/capas/Futebol 82/253.jpg"
   },
   {
     "numero": "254",
-    "nome": "Cromo 254",
+    "nome": "Equipa - 2",
     "tenho": false,
     "especial": false,
+    "clube": "Rio Ave Futebol Clube",
     "imagem": "images/capas/Futebol 82/254.jpg"
   },
   {
     "numero": "255",
-    "nome": "Cromo 255",
+    "nome": "Trindade",
     "tenho": false,
     "especial": false,
+    "clube": "Rio Ave Futebol Clube",
     "imagem": "images/capas/Futebol 82/255.jpg"
   },
   {
     "numero": "256",
-    "nome": "Cromo 256",
+    "nome": "Castro",
     "tenho": false,
     "especial": false,
+    "clube": "Rio Ave Futebol Clube",
     "imagem": "images/capas/Futebol 82/256.jpg"
   },
   {
     "numero": "257",
-    "nome": "Cromo 257",
+    "nome": "Figueiredo",
     "tenho": false,
     "especial": false,
+    "clube": "Rio Ave Futebol Clube",
     "imagem": "images/capas/Futebol 82/257.jpg"
   },
   {
     "numero": "258",
-    "nome": "Cromo 258",
+    "nome": "Caica",
     "tenho": false,
     "especial": false,
+    "clube": "Rio Ave Futebol Clube",
     "imagem": "images/capas/Futebol 82/258.jpg"
   },
   {
     "numero": "259",
-    "nome": "Cromo 259",
+    "nome": "Duarte",
     "tenho": false,
     "especial": false,
+    "clube": "Rio Ave Futebol Clube",
     "imagem": "images/capas/Futebol 82/259.jpg"
   },
   {
-    "numero": "260",
-    "nome": "Cromo 260",
-    "tenho": false,
-    "especial": false,
-    "imagem": "images/capas/Futebol 82/260.jpg"
-  },
-  {
     "numero": "261",
-    "nome": "Cromo 261",
+    "nome": "Dias",
     "tenho": false,
     "especial": false,
+    "clube": "Rio Ave Futebol Clube",
     "imagem": "images/capas/Futebol 82/261.jpg"
   },
   {
-    "numero": "262",
-    "nome": "Cromo 262",
-    "tenho": false,
-    "especial": false,
-    "imagem": "images/capas/Futebol 82/262.jpg"
-  },
-  {
     "numero": "263",
-    "nome": "Cromo 263",
+    "nome": "Soares",
     "tenho": false,
     "especial": false,
+    "clube": "Rio Ave Futebol Clube",
     "imagem": "images/capas/Futebol 82/263.jpg"
   },
   {
     "numero": "264",
-    "nome": "Cromo 264",
+    "nome": "Paquito",
     "tenho": false,
     "especial": false,
+    "clube": "Rio Ave Futebol Clube",
     "imagem": "images/capas/Futebol 82/264.jpg"
   },
   {
     "numero": "265",
-    "nome": "Cromo 265",
+    "nome": "Valter",
     "tenho": false,
     "especial": false,
+    "clube": "Rio Ave Futebol Clube",
     "imagem": "images/capas/Futebol 82/265.jpg"
   },
   {
     "numero": "266",
-    "nome": "Cromo 266",
+    "nome": "Quim",
     "tenho": false,
     "especial": false,
+    "clube": "Rio Ave Futebol Clube",
     "imagem": "images/capas/Futebol 82/266.jpg"
   },
   {
     "numero": "267",
-    "nome": "Cromo 267",
+    "nome": "Aderito",
     "tenho": false,
     "especial": false,
+    "clube": "Rio Ave Futebol Clube",
     "imagem": "images/capas/Futebol 82/267.jpg"
   },
   {
     "numero": "268",
-    "nome": "Cromo 268",
+    "nome": "Pires",
     "tenho": false,
     "especial": false,
+    "clube": "Rio Ave Futebol Clube",
     "imagem": "images/capas/Futebol 82/268.jpg"
   },
   {
     "numero": "269",
-    "nome": "Cromo 269",
+    "nome": "Samuel",
     "tenho": false,
     "especial": false,
+    "clube": "Rio Ave Futebol Clube",
     "imagem": "images/capas/Futebol 82/269.jpg"
   },
   {
     "numero": "270",
-    "nome": "Cromo 270",
+    "nome": "Emblema",
     "tenho": false,
     "especial": false,
+    "clube": "Grupo Desportivo Estoril Praia",
     "imagem": "images/capas/Futebol 82/270.jpg"
   },
   {
     "numero": "271",
-    "nome": "Cromo 271",
+    "nome": "Equipa - 1",
     "tenho": false,
     "especial": false,
+    "clube": "Grupo Desportivo Estoril Praia",
     "imagem": "images/capas/Futebol 82/271.jpg"
   },
   {
     "numero": "272",
-    "nome": "Cromo 272",
+    "nome": "Equipa - 2",
     "tenho": false,
     "especial": false,
+    "clube": "Grupo Desportivo Estoril Praia",
     "imagem": "images/capas/Futebol 82/272.jpg"
   },
   {
     "numero": "273",
-    "nome": "Cromo 273",
+    "nome": "Abrantes",
     "tenho": false,
     "especial": false,
+    "clube": "Grupo Desportivo Estoril Praia",
     "imagem": "images/capas/Futebol 82/273.jpg"
   },
   {
     "numero": "274",
-    "nome": "Cromo 274",
+    "nome": "C.Ferreira",
     "tenho": false,
     "especial": false,
+    "clube": "Grupo Desportivo Estoril Praia",
     "imagem": "images/capas/Futebol 82/274.jpg"
   },
   {
     "numero": "275",
-    "nome": "Cromo 275",
+    "nome": "Manaca",
     "tenho": false,
     "especial": false,
+    "clube": "Grupo Desportivo Estoril Praia",
     "imagem": "images/capas/Futebol 82/275.jpg"
   },
   {
     "numero": "276",
-    "nome": "Cromo 276",
+    "nome": "Jose Antonio",
     "tenho": false,
     "especial": false,
+    "clube": "Grupo Desportivo Estoril Praia",
     "imagem": "images/capas/Futebol 82/276.jpg"
   },
   {
     "numero": "277",
-    "nome": "Cromo 277",
+    "nome": "Leo",
     "tenho": false,
     "especial": false,
+    "clube": "Grupo Desportivo Estoril Praia",
     "imagem": "images/capas/Futebol 82/277.jpg"
   },
   {
     "numero": "278",
-    "nome": "Cromo 278",
+    "nome": "Paris",
     "tenho": false,
     "especial": false,
+    "clube": "Grupo Desportivo Estoril Praia",
     "imagem": "images/capas/Futebol 82/278.jpg"
   },
   {
     "numero": "279",
-    "nome": "Cromo 279",
+    "nome": "Santos",
     "tenho": false,
     "especial": false,
+    "clube": "Grupo Desportivo Estoril Praia",
     "imagem": "images/capas/Futebol 82/279.jpg"
   },
   {
     "numero": "280",
-    "nome": "Cromo 280",
+    "nome": "Teixeira",
     "tenho": false,
     "especial": false,
+    "clube": "Grupo Desportivo Estoril Praia",
     "imagem": "images/capas/Futebol 82/280.jpg"
   },
   {
     "numero": "281",
-    "nome": "Cromo 281",
+    "nome": "Vieira",
     "tenho": false,
     "especial": false,
+    "clube": "Grupo Desportivo Estoril Praia",
     "imagem": "images/capas/Futebol 82/281.jpg"
   },
   {
     "numero": "282",
-    "nome": "Cromo 282",
+    "nome": "Salvado",
     "tenho": false,
     "especial": false,
+    "clube": "Grupo Desportivo Estoril Praia",
     "imagem": "images/capas/Futebol 82/282.jpg"
   },
   {
     "numero": "283",
-    "nome": "Cromo 283",
+    "nome": "Soeiro",
     "tenho": false,
     "especial": false,
+    "clube": "Grupo Desportivo Estoril Praia",
     "imagem": "images/capas/Futebol 82/283.jpg"
   },
   {
     "numero": "284",
-    "nome": "Cromo 284",
+    "nome": "Abrantes II",
     "tenho": false,
     "especial": false,
+    "clube": "Grupo Desportivo Estoril Praia",
     "imagem": "images/capas/Futebol 82/284.jpg"
   },
   {
     "numero": "285",
-    "nome": "Cromo 285",
+    "nome": "Jeronimo",
     "tenho": false,
     "especial": false,
+    "clube": "Grupo Desportivo Estoril Praia",
     "imagem": "images/capas/Futebol 82/285.jpg"
   },
   {
     "numero": "286",
-    "nome": "Cromo 286",
+    "nome": "Coentrao Faria",
     "tenho": false,
     "especial": false,
+    "clube": "Grupo Desportivo Estoril Praia",
     "imagem": "images/capas/Futebol 82/286.jpg"
   },
   {
     "numero": "287",
-    "nome": "Cromo 287",
+    "nome": "Diamantino",
     "tenho": false,
     "especial": false,
+    "clube": "Grupo Desportivo Estoril Praia",
     "imagem": "images/capas/Futebol 82/287.jpg"
   },
   {
     "numero": "288",
-    "nome": "Cromo 288",
+    "nome": "Emblema",
     "tenho": false,
     "especial": false,
+    "clube": "Clube Académico de Futebol de Viseu",
     "imagem": "images/capas/Futebol 82/288.jpg"
   },
   {
     "numero": "289",
-    "nome": "Cromo 289",
+    "nome": "Equipa - 1",
     "tenho": false,
     "especial": false,
+    "clube": "Clube Académico de Futebol de Viseu",
     "imagem": "images/capas/Futebol 82/289.jpg"
   },
   {
     "numero": "290",
-    "nome": "Cromo 290",
+    "nome": "Equipa - 2",
     "tenho": false,
     "especial": false,
+    "clube": "Clube Académico de Futebol de Viseu",
     "imagem": "images/capas/Futebol 82/290.jpg"
   },
   {
     "numero": "291",
-    "nome": "Cromo 291",
+    "nome": "Helder",
     "tenho": false,
     "especial": false,
+    "clube": "Clube Académico de Futebol de Viseu",
     "imagem": "images/capas/Futebol 82/291.jpg"
   },
   {
     "numero": "292",
-    "nome": "Cromo 292",
+    "nome": "Almeida",
     "tenho": false,
     "especial": false,
+    "clube": "Clube Académico de Futebol de Viseu",
     "imagem": "images/capas/Futebol 82/292.jpg"
   },
   {
     "numero": "293",
-    "nome": "Cromo 293",
+    "nome": "Emanuel",
     "tenho": false,
     "especial": false,
+    "clube": "Clube Académico de Futebol de Viseu",
     "imagem": "images/capas/Futebol 82/293.jpg"
   },
   {
     "numero": "294",
-    "nome": "Cromo 294",
+    "nome": "Paulo Cesar",
     "tenho": false,
     "especial": false,
+    "clube": "Clube Académico de Futebol de Viseu",
     "imagem": "images/capas/Futebol 82/294.jpg"
   },
   {
     "numero": "295",
-    "nome": "Cromo 295",
+    "nome": "Sobreiro",
     "tenho": false,
     "especial": false,
+    "clube": "Clube Académico de Futebol de Viseu",
     "imagem": "images/capas/Futebol 82/295.jpg"
   },
   {
     "numero": "296",
-    "nome": "Cromo 296",
+    "nome": "Vinagre",
     "tenho": false,
     "especial": false,
+    "clube": "Clube Académico de Futebol de Viseu",
     "imagem": "images/capas/Futebol 82/296.jpg"
   },
   {
     "numero": "297",
-    "nome": "Cromo 297",
+    "nome": "Borga",
     "tenho": false,
     "especial": false,
+    "clube": "Clube Académico de Futebol de Viseu",
     "imagem": "images/capas/Futebol 82/297.jpg"
   },
   {
     "numero": "298",
-    "nome": "Cromo 298",
+    "nome": "Flavio",
     "tenho": false,
     "especial": false,
+    "clube": "Clube Académico de Futebol de Viseu",
     "imagem": "images/capas/Futebol 82/298.jpg"
   },
   {
     "numero": "299",
-    "nome": "Cromo 299",
+    "nome": "Fernando",
     "tenho": false,
     "especial": false,
+    "clube": "Clube Académico de Futebol de Viseu",
     "imagem": "images/capas/Futebol 82/299.jpg"
   },
   {
     "numero": "300",
-    "nome": "Cromo 300",
+    "nome": "Heredia",
     "tenho": false,
     "especial": false,
+    "clube": "Clube Académico de Futebol de Viseu",
     "imagem": "images/capas/Futebol 82/300.jpg"
   },
   {
     "numero": "301",
-    "nome": "Cromo 301",
+    "nome": "Babalito",
     "tenho": false,
     "especial": false,
+    "clube": "Clube Académico de Futebol de Viseu",
     "imagem": "images/capas/Futebol 82/301.jpg"
   },
   {
     "numero": "302",
-    "nome": "Cromo 302",
+    "nome": "Cunha",
     "tenho": false,
     "especial": false,
+    "clube": "Clube Académico de Futebol de Viseu",
     "imagem": "images/capas/Futebol 82/302.jpg"
   },
   {
     "numero": "303",
-    "nome": "Cromo 303",
+    "nome": "Inaldo",
     "tenho": false,
     "especial": false,
+    "clube": "Clube Académico de Futebol de Viseu",
     "imagem": "images/capas/Futebol 82/303.jpg"
   },
   {
     "numero": "304",
-    "nome": "Cromo 304",
+    "nome": "Joel",
     "tenho": false,
     "especial": false,
+    "clube": "Clube Académico de Futebol de Viseu",
     "imagem": "images/capas/Futebol 82/304.jpg"
   },
   {
     "numero": "305",
-    "nome": "Cromo 305",
+    "nome": "Rosario",
     "tenho": false,
     "especial": false,
+    "clube": "Clube Académico de Futebol de Viseu",
     "imagem": "images/capas/Futebol 82/305.jpg"
   }
 ]
