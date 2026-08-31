@@ -13,6 +13,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Space+Mono:wght@400;700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-auth-compat.js"></script>
 <style>
   :root{
     --paper: #e7dab8;
@@ -82,6 +83,60 @@
   .global-stats .stat{ text-align:right; }
   .global-stats .stat .num{ font-size:1.6rem; font-weight:700; color:var(--stamp-red); display:block; line-height:1; }
   .global-stats .stat .lbl{ font-size:0.62rem; text-transform:uppercase; letter-spacing:0.08em; color:var(--ink-soft); }
+
+  .header-direita{ display:flex; flex-direction:column; align-items:flex-end; gap:8px; }
+  .login-area{
+    display:flex; align-items:center; gap:8px;
+    font-family:'Space Mono', monospace;
+    font-size:0.72rem;
+    color:var(--ink-soft);
+  }
+  .botao-login{
+    font-family:'Space Mono', monospace;
+    font-size:0.72rem;
+    background:none;
+    border:1.5px solid var(--ink-soft);
+    color:var(--ink-soft);
+    border-radius:2px;
+    padding:4px 9px;
+    cursor:pointer;
+  }
+  .botao-login:hover{ border-color:var(--ink); color:var(--ink); }
+
+  .login-caixa{
+    background:var(--card-bg);
+    border:2px solid var(--paper);
+    border-radius:3px;
+    padding:22px;
+    width:min(90vw, 300px);
+    box-shadow:0 12px 32px rgba(0,0,0,0.5);
+  }
+  .login-caixa h3{
+    font-family:'Anton', sans-serif; font-weight:400;
+    margin:0 0 14px; font-size:1.3rem; color:var(--ink);
+  }
+  .login-caixa input{
+    display:block; width:100%;
+    font-family:'Work Sans', sans-serif;
+    padding:9px 10px; margin-bottom:10px;
+    border:2px solid var(--ink); border-radius:2px;
+    background:#fdf9ee;
+  }
+  .login-erro{
+    color:var(--stamp-red);
+    font-family:'Space Mono', monospace;
+    font-size:0.75rem;
+    min-height:1.1em;
+    margin-bottom:8px;
+  }
+  .login-botoes{ display:flex; gap:8px; }
+  .login-botoes button{
+    font-family:'Space Mono', monospace;
+    font-weight:700; font-size:0.8rem;
+    padding:9px 14px; border:2px solid var(--ink); border-radius:2px;
+    background:var(--ink); color:var(--paper); cursor:pointer;
+  }
+  .login-botoes button.secondary{ background:var(--card-bg); color:var(--ink); }
 
   .toolbar{
     display:flex; gap:10px; flex-wrap:wrap; align-items:center;
@@ -541,8 +596,28 @@
       <h1>As Minhas Cadernetas</h1>
       <div class="sub">coleção de cromos &middot; faltas &amp; repetidos</div>
     </div>
-    <div class="global-stats" id="globalStats"></div>
+    <div class="header-direita">
+      <div class="login-area">
+        <span id="loginStatus"></span>
+        <button id="btnLogin" class="botao-login">🔒 Entrar</button>
+        <button id="btnLogout" class="botao-login" style="display:none;">Sair</button>
+      </div>
+      <div class="global-stats" id="globalStats"></div>
+    </div>
   </header>
+
+  <div id="loginModal" class="lightbox">
+    <div class="login-caixa" onclick="event.stopPropagation()">
+      <h3>Entrar</h3>
+      <input type="email" id="loginEmail" placeholder="email">
+      <input type="password" id="loginPassword" placeholder="password">
+      <div class="login-erro" id="loginErro"></div>
+      <div class="login-botoes">
+        <button id="btnLoginSubmit">Entrar</button>
+        <button id="btnLoginCancelar" class="secondary">Cancelar</button>
+      </div>
+    </div>
+  </div>
 
   <div id="listView">
     <div class="acoes-topo" id="acoesTopo" style="display:none;">
@@ -647,6 +722,9 @@ function resolvePath(relPath){
   return `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/${GITHUB_BRANCH}/${relPath}`;
 }
 
+let cadernetas = [];
+let cromosCache = {};
+
 /* ====== FIREBASE (repetidos) ======
    Cola aqui a configuração que copiaste da consola do Firebase
    (Definições do projeto → Os teus apps → configuração SDK).
@@ -664,16 +742,101 @@ const FIREBASE_CONFIG = {
 };
 
 let db = null;
-let repetidosDisponivel = false;
+let auth = null;
+let repetidosDisponivel = false; // Firebase está configurado
+let autenticado = false;         // o utilizador está mesmo com sessão iniciada
 try{
   if(FIREBASE_CONFIG.apiKey){
     firebase.initializeApp(FIREBASE_CONFIG);
     db = firebase.firestore();
+    auth = firebase.auth();
     repetidosDisponivel = true;
   }
 }catch(err){
   console.warn('Firebase não inicializado:', err);
 }
+
+// só quando o Firebase está configurado E a pessoa tem sessão iniciada é
+// que a funcionalidade de repetidos fica realmente ativa e visível
+function repetidosAtivo(){
+  return repetidosDisponivel && autenticado;
+}
+
+if(auth){
+  auth.onAuthStateChanged((user)=>{
+    autenticado = !!user;
+    atualizarUIAutenticacao();
+  });
+}
+
+function atualizarUIAutenticacao(){
+  const ativo = repetidosAtivo();
+  document.getElementById('acoesTopo').style.display = ativo ? 'block' : 'none';
+  document.getElementById('loginStatus').textContent = autenticado
+    ? `🔓 ${auth.currentUser.email} · `
+    : '';
+  document.getElementById('btnLogin').style.display = autenticado ? 'none' : 'inline';
+  document.getElementById('btnLogout').style.display = autenticado ? 'inline' : 'none';
+
+  // se estivermos numa caderneta aberta, atualiza também os controlos dela
+  const idAtual = currentId();
+  if(idAtual){
+    document.getElementById('cromoRepetidoOnlyWrap').style.display = ativo ? '' : 'none';
+    if(!ativo){
+      document.getElementById('cromoRepetidoOnly').checked = false;
+    }
+    if(cromosCache[idAtual]){
+      carregarRepetidosDaCaderneta(idAtual).then(()=> renderCromosGrid(cromosCache[idAtual]));
+    }
+  }
+}
+
+function abrirLoginModal(){
+  document.getElementById('loginEmail').value = '';
+  document.getElementById('loginPassword').value = '';
+  document.getElementById('loginErro').textContent = '';
+  document.getElementById('loginModal').classList.add('aberto');
+  document.getElementById('loginEmail').focus();
+}
+
+function fecharLoginModal(){
+  document.getElementById('loginModal').classList.remove('aberto');
+}
+
+document.getElementById('btnLogin').addEventListener('click', abrirLoginModal);
+document.getElementById('btnLoginCancelar').addEventListener('click', fecharLoginModal);
+document.getElementById('loginModal').addEventListener('click', fecharLoginModal);
+
+document.getElementById('btnLoginSubmit').addEventListener('click', fazerLogin);
+document.getElementById('loginPassword').addEventListener('keypress', (e)=>{
+  if(e.key === 'Enter') fazerLogin();
+});
+
+async function fazerLogin(){
+  const email = document.getElementById('loginEmail').value.trim();
+  const password = document.getElementById('loginPassword').value;
+  const erroEl = document.getElementById('loginErro');
+  erroEl.textContent = '';
+
+  if(!auth){
+    erroEl.textContent = 'Firebase não está configurado.';
+    return;
+  }
+  if(!email || !password){
+    erroEl.textContent = 'Preenche o email e a password.';
+    return;
+  }
+  try{
+    await auth.signInWithEmailAndPassword(email, password);
+    fecharLoginModal();
+  }catch(err){
+    erroEl.textContent = 'Email ou password incorretos.';
+  }
+}
+
+document.getElementById('btnLogout').addEventListener('click', ()=>{
+  if(auth) auth.signOut();
+});
 
 function idRepetido(cadernetaId, numero){
   return `${cadernetaId}__${numero}`.replace(/[/\s]/g, '_');
@@ -684,7 +847,7 @@ let repetidosAtual = new Map();
 
 async function carregarRepetidosDaCaderneta(cadernetaId){
   repetidosAtual = new Map();
-  if(!repetidosDisponivel) return;
+  if(!repetidosAtivo()) return;
   try{
     const snap = await db.collection('repetidos').where('cadernetaId','==',cadernetaId).get();
     snap.forEach(doc=>{
@@ -697,7 +860,7 @@ async function carregarRepetidosDaCaderneta(cadernetaId){
 }
 
 async function gravarRepetido(cadernetaId, cadernetaNome, numero, nomeCromo, quantidade){
-  if(!repetidosDisponivel) return;
+  if(!repetidosAtivo()) return;
   const ref = db.collection('repetidos').doc(idRepetido(cadernetaId, numero));
   try{
     // gravamos sempre (mesmo quantidade=0) em vez de apagar -- assim só
@@ -717,7 +880,7 @@ async function gravarRepetido(cadernetaId, cadernetaNome, numero, nomeCromo, qua
 }
 
 async function carregarTodosRepetidos(){
-  if(!repetidosDisponivel) return [];
+  if(!repetidosAtivo()) return [];
   try{
     const snap = await db.collection('repetidos').where('quantidade','>',0).get();
     const lista = [];
@@ -729,9 +892,6 @@ async function carregarTodosRepetidos(){
     return [];
   }
 }
-
-let cadernetas = [];
-let cromosCache = {};
 
 async function loadCadernetas(){
   const res = await fetch(resolvePath('data/cadernetas.json'), {cache:"no-store"});
@@ -870,10 +1030,10 @@ async function openDetail(id, pushHistory=true, soRepetidos=false){
   document.getElementById('cromoSearch').value = '';
   document.getElementById('cromoFaltaOnly').checked = false;
   document.getElementById('cromoEspecialOnly').checked = false;
-  document.getElementById('cromoRepetidoOnlyWrap').style.display = repetidosDisponivel ? '' : 'none';
+  document.getElementById('cromoRepetidoOnlyWrap').style.display = repetidosAtivo() ? '' : 'none';
 
   await carregarRepetidosDaCaderneta(id);
-  document.getElementById('cromoRepetidoOnly').checked = soRepetidos && repetidosDisponivel;
+  document.getElementById('cromoRepetidoOnly').checked = soRepetidos && repetidosAtivo();
   renderCromosGrid(cromos);
 
   window.scrollTo({top:0, behavior:'instant'});
@@ -1056,7 +1216,7 @@ function abrirLightbox(cr){
   document.getElementById('lightboxClube').textContent = cr.clube || '';
 
   const repWrap = document.getElementById('lightboxRepetidoWrap');
-  if(repetidosDisponivel){
+  if(repetidosAtivo()){
     repWrap.style.display = 'flex';
     document.getElementById('repQtd').textContent = repetidosAtual.get(cr.numero) || 0;
   } else {
@@ -1096,7 +1256,7 @@ function aplicarQtdNaGrelha(numero, qtd){
 }
 
 async function ajustarRepetido(delta){
-  if(!cromoAtualLightbox || !repetidosDisponivel) return;
+  if(!cromoAtualLightbox || !repetidosAtivo()) return;
   const cr = cromoAtualLightbox;
   const atual = repetidosAtual.get(cr.numero) || 0;
   const nova = Math.max(0, Math.min(99, atual + delta));
@@ -1128,7 +1288,8 @@ function currentId(){
 
 async function init(){
   try{
-    document.getElementById('acoesTopo').style.display = repetidosDisponivel ? 'block' : 'none';
+    document.getElementById('acoesTopo').style.display = 'none'; // só mostra depois de confirmar sessão iniciada
+    document.querySelector('.login-area').style.display = repetidosDisponivel ? 'flex' : 'none';
 
     await loadCadernetas();
     populateEditoraFilter();
