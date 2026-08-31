@@ -706,7 +706,7 @@
         <option value="">Escolhe uma caderneta...</option>
       </select>
       <label for="repBulkNumeros">Números dos cromos</label>
-      <textarea id="repBulkNumeros" placeholder="Cola aqui os números, um por linha ou separados por vírgula. Repete o mesmo número para contar mais que um (ex: 23, 23, 45 = duas cópias do 23 e uma do 45)."></textarea>
+      <textarea id="repBulkNumeros" placeholder="Cola aqui os números, um por linha ou separados por vírgula.&#10;Podes repetir o número (23, 23, 45) ou usar 23(2), 45(1) para indicar a quantidade diretamente."></textarea>
       <div class="repetidos-bulk-botoes">
         <button id="repBulkAdd">➕ Adicionar aos repetidos</button>
         <button id="repBulkRemove" class="secondary">➖ Remover dos repetidos</button>
@@ -1267,13 +1267,23 @@ function popularSelectBulkCadernetas(){
 }
 
 // conta quantas vezes cada número aparece no texto colado (separado por
-// vírgulas, quebras de linha, ponto-e-vírgula ou espaços)
+// vírgulas, quebras de linha, ponto-e-vírgula ou espaços). Também aceita
+// a forma "621(2)" ou "621 (2)" para indicar diretamente a quantidade.
 function contarNumerosColados(texto){
   const contagem = new Map();
   const tokens = texto.split(/[\n,;]+/).map(t=>t.trim()).filter(Boolean);
   tokens.forEach(t=>{
-    const chave = t.toUpperCase();
-    contagem.set(chave, (contagem.get(chave)||0) + 1);
+    const comQuantidade = t.match(/^(.+?)\s*\((\d+)\)$/);
+    let chave, qtd;
+    if(comQuantidade){
+      chave = comQuantidade[1].trim().toUpperCase();
+      qtd = parseInt(comQuantidade[2], 10);
+    } else {
+      chave = t.toUpperCase();
+      qtd = 1;
+    }
+    if(!chave || !qtd || qtd <= 0) return;
+    contagem.set(chave, (contagem.get(chave)||0) + qtd);
   });
   return contagem;
 }
