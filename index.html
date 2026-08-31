@@ -842,7 +842,7 @@ function initials(nome){
   return nome.split(' ').slice(0,2).map(w=>w[0]).join('').toUpperCase();
 }
 
-async function openDetail(id, pushHistory=true){
+async function openDetail(id, pushHistory=true, soRepetidos=false){
   const c = cadernetas.find(x=>x.id===id);
   const cromos = await loadCromos(id);
   const s = stats(cromos);
@@ -870,10 +870,10 @@ async function openDetail(id, pushHistory=true){
   document.getElementById('cromoSearch').value = '';
   document.getElementById('cromoFaltaOnly').checked = false;
   document.getElementById('cromoEspecialOnly').checked = false;
-  document.getElementById('cromoRepetidoOnly').checked = false;
   document.getElementById('cromoRepetidoOnlyWrap').style.display = repetidosDisponivel ? '' : 'none';
 
   await carregarRepetidosDaCaderneta(id);
+  document.getElementById('cromoRepetidoOnly').checked = soRepetidos && repetidosDisponivel;
   renderCromosGrid(cromos);
 
   window.scrollTo({top:0, behavior:'instant'});
@@ -1010,7 +1010,7 @@ async function abrirRepetidosGeral(){
         listaEl.querySelectorAll('.repetido-item').forEach(item=>{
           item.addEventListener('click', ()=>{
             document.getElementById('repetidosGeral').classList.remove('active');
-            openDetail(item.dataset.caderneta);
+            openDetail(item.dataset.caderneta, true, true);
           });
         });
       }
