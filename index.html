@@ -217,24 +217,84 @@
     font-family:'Anton', sans-serif; font-weight:400;
     font-size:1.8rem; margin:0 0 18px;
   }
-  .repetidos-caderneta{ margin-bottom:26px; }
-  .repetidos-caderneta h3{
-    font-family:'Anton', sans-serif; font-weight:400;
-    font-size:1.15rem; margin:0 0 8px;
-    border-bottom:2px solid var(--ink); padding-bottom:6px;
+  .repetidos-grid{
+    display:flex; flex-wrap:wrap; gap:14px;
+    align-items:flex-start;
   }
+  .repetidos-grupo{
+    display:contents;
+  }
+  .mini-capa{
+    width:76px;
+    cursor:pointer;
+    position:relative;
+    flex-shrink:0;
+  }
+  .mini-capa-img{
+    width:76px; height:100px;
+    border:2px solid var(--ink);
+    border-radius:2px;
+    background:linear-gradient(135deg, var(--teal), #1f4e47);
+    display:flex; align-items:center; justify-content:center;
+    overflow:hidden;
+  }
+  .mini-capa-img img{
+    width:100%; height:100%;
+    object-fit:contain;
+    background:var(--paper-darker);
+    display:block;
+  }
+  .mini-capa-placeholder{
+    font-family:'Anton', sans-serif;
+    color:#f2ead4d0;
+    font-size:1.3rem;
+  }
+  .mini-capa-nome{
+    font-family:'Space Mono', monospace;
+    font-size:0.62rem;
+    text-align:center;
+    margin-top:4px;
+    line-height:1.15;
+    overflow:hidden; text-overflow:ellipsis;
+    display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical;
+  }
+  .mini-capa-badge{
+    position:absolute; top:-8px; right:-8px;
+    background:var(--stamp-red); color:var(--paper);
+    border:2px solid var(--ink);
+    border-radius:50%;
+    width:24px; height:24px;
+    display:flex; align-items:center; justify-content:center;
+    font-family:'Space Mono', monospace;
+    font-size:0.7rem; font-weight:700;
+  }
+  .repetidos-grupo.expandido{
+    flex-basis:100%;
+    display:flex;
+    gap:16px;
+    align-items:flex-start;
+    background:var(--card-bg);
+    border:2px dashed var(--line);
+    border-radius:3px;
+    padding:12px;
+  }
+  .repetidos-grupo.expandido .mini-capa{ flex-shrink:0; }
   .repetidos-lista{
-    display:flex; flex-wrap:wrap; gap:8px;
+    display:none;
+    flex-wrap:wrap; gap:8px;
+    flex:1;
   }
+  .repetidos-grupo.expandido .repetidos-lista{ display:flex; }
   .repetido-item{
     display:flex; align-items:center; gap:6px;
-    background:var(--card-bg);
+    background:var(--paper);
     border:2px solid var(--ink);
     border-radius:2px;
     padding:6px 10px;
     font-family:'Space Mono', monospace;
     font-size:0.8rem;
     cursor:pointer;
+    align-self:flex-start;
   }
   .repetido-item:hover{ background:var(--paper-darker); }
   .repetido-item .qtd{
@@ -908,29 +968,56 @@ async function abrirRepetidosGeral(){
     porCaderneta.get(item.cadernetaId).push(item);
   });
 
-  conteudo.innerHTML = '';
+  conteudo.innerHTML = '<div class="repetidos-grid" id="repetidosGrid"></div>';
+  const grid = document.getElementById('repetidosGrid');
+
   porCaderneta.forEach((itens, cadernetaId)=>{
-    const bloco = document.createElement('div');
-    bloco.className = 'repetidos-caderneta';
-    bloco.innerHTML = `
-      <h3>${itens[0].cadernetaNome}</h3>
-      <div class="repetidos-lista">
-        ${itens.map(it => `
+    const c = cadernetas.find(x=>x.id===cadernetaId);
+    const nome = itens[0].cadernetaNome;
+
+    const grupo = document.createElement('div');
+    grupo.className = 'repetidos-grupo';
+    grupo.innerHTML = `
+      <div class="mini-capa" tabindex="0" role="button" aria-label="Ver repetidos de ${nome}">
+        <div class="mini-capa-img">
+          ${c && c.capa ? `<img src="${resolvePath(c.capa)}" alt="Capa ${nome}">` : `<div class="mini-capa-placeholder">${initials(nome)}</div>`}
+        </div>
+        <div class="mini-capa-nome">${nome}</div>
+        <div class="mini-capa-badge">${itens.length}</div>
+      </div>
+      <div class="repetidos-lista"></div>
+    `;
+    grid.appendChild(grupo);
+
+    const capaEl = grupo.querySelector('.mini-capa');
+    const listaEl = grupo.querySelector('.repetidos-lista');
+
+    function alternar(){
+      const abrir = !grupo.classList.contains('expandido');
+      // fecha qualquer outro grupo aberto, para não ficarem várias listas abertas ao mesmo tempo
+      grid.querySelectorAll('.repetidos-grupo.expandido').forEach(g=>{
+        if(g !== grupo) g.classList.remove('expandido');
+      });
+      grupo.classList.toggle('expandido', abrir);
+
+      if(abrir && listaEl.innerHTML === ''){
+        listaEl.innerHTML = itens.map(it => `
           <div class="repetido-item" data-caderneta="${cadernetaId}">
             <span class="qtd">×${it.quantidade}</span>
             <span>${it.numero}${it.nomeCromo ? ' · '+it.nomeCromo : ''}</span>
           </div>
-        `).join('')}
-      </div>
-    `;
-    conteudo.appendChild(bloco);
-  });
+        `).join('');
+        listaEl.querySelectorAll('.repetido-item').forEach(item=>{
+          item.addEventListener('click', ()=>{
+            document.getElementById('repetidosGeral').classList.remove('active');
+            openDetail(item.dataset.caderneta);
+          });
+        });
+      }
+    }
 
-  conteudo.querySelectorAll('.repetido-item').forEach(item=>{
-    item.addEventListener('click', ()=>{
-      document.getElementById('repetidosGeral').classList.remove('active');
-      openDetail(item.dataset.caderneta);
-    });
+    capaEl.addEventListener('click', alternar);
+    capaEl.addEventListener('keypress', (e)=>{ if(e.key==='Enter') alternar(); });
   });
 }
 
