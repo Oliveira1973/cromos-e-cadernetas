@@ -640,17 +640,16 @@ async function gravarRepetido(cadernetaId, cadernetaNome, numero, nomeCromo, qua
   if(!repetidosDisponivel) return;
   const ref = db.collection('repetidos').doc(idRepetido(cadernetaId, numero));
   try{
-    if(quantidade <= 0){
-      await ref.delete();
-      repetidosAtual.delete(numero);
-    } else {
-      await ref.set({
-        cadernetaId, cadernetaNome, numero, nomeCromo,
-        quantidade,
-        atualizadoEm: firebase.firestore.FieldValue.serverTimestamp()
-      });
-      repetidosAtual.set(numero, quantidade);
-    }
+    // gravamos sempre (mesmo quantidade=0) em vez de apagar -- assim só
+    // precisamos de permissão de escrita nas regras do Firestore, nunca
+    // de permissão de apagar. O resto do site já ignora quantidade<=0.
+    await ref.set({
+      cadernetaId, cadernetaNome, numero, nomeCromo,
+      quantidade,
+      atualizadoEm: firebase.firestore.FieldValue.serverTimestamp()
+    });
+    if(quantidade > 0) repetidosAtual.set(numero, quantidade);
+    else repetidosAtual.delete(numero);
   }catch(err){
     console.warn('Não consegui gravar o repetido:', err);
     alert('Não foi possível guardar (sem ligação?). Tenta outra vez.');
