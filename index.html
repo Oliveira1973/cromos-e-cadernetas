@@ -11,6 +11,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Space+Mono:wght@400;700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore-compat.js"></script>
 <style>
   :root{
     --paper: #e7dab8;
@@ -85,6 +87,19 @@
     display:flex; gap:10px; flex-wrap:wrap; align-items:center;
     margin-bottom:22px;
   }
+  .acoes-topo{ margin-bottom:14px; }
+  .botao-secundario{
+    font-family:'Space Mono', monospace;
+    background:var(--teal);
+    color:var(--paper);
+    border:2px solid var(--ink);
+    border-radius:2px;
+    padding:9px 14px;
+    font-size:0.82rem;
+    font-weight:700;
+    cursor:pointer;
+  }
+  .botao-secundario:hover{ background:#1f4e47; }
   .toolbar input[type="search"], .toolbar select{
     font-family:'Work Sans', sans-serif;
     font-size:0.9rem;
@@ -195,6 +210,37 @@
   #detail{ display:none; }
   #detail.active{ display:block; }
   #listView.hidden{ display:none; }
+  #repetidosGeral{ display:none; }
+  #repetidosGeral.active{ display:block; }
+
+  .repetidos-titulo{
+    font-family:'Anton', sans-serif; font-weight:400;
+    font-size:1.8rem; margin:0 0 18px;
+  }
+  .repetidos-caderneta{ margin-bottom:26px; }
+  .repetidos-caderneta h3{
+    font-family:'Anton', sans-serif; font-weight:400;
+    font-size:1.15rem; margin:0 0 8px;
+    border-bottom:2px solid var(--ink); padding-bottom:6px;
+  }
+  .repetidos-lista{
+    display:flex; flex-wrap:wrap; gap:8px;
+  }
+  .repetido-item{
+    display:flex; align-items:center; gap:6px;
+    background:var(--card-bg);
+    border:2px solid var(--ink);
+    border-radius:2px;
+    padding:6px 10px;
+    font-family:'Space Mono', monospace;
+    font-size:0.8rem;
+    cursor:pointer;
+  }
+  .repetido-item:hover{ background:var(--paper-darker); }
+  .repetido-item .qtd{
+    background:var(--teal); color:var(--paper);
+    border-radius:10px; padding:1px 7px; font-weight:700; font-size:0.72rem;
+  }
 
   .back-btn{
     font-family:'Space Mono', monospace;
@@ -315,6 +361,17 @@
     display:flex; align-items:center; justify-content:center;
     font-size:0.6rem;
   }
+  .cromo .repetido-badge{
+    position:absolute; top:-7px; left:-7px;
+    background:var(--teal);
+    color:var(--paper);
+    border:1.5px solid var(--ink);
+    border-radius:10px;
+    padding:1px 6px;
+    font-family:'Space Mono', monospace;
+    font-size:0.58rem;
+    font-weight:700;
+  }
 
   footer{
     text-align:center; margin-top:60px; padding-top:20px;
@@ -383,6 +440,33 @@
   }
   .lightbox-clube:empty{ display:none; }
 
+  .lightbox-repetido{
+    margin-top:14px;
+    display:flex; align-items:center; justify-content:center; gap:10px;
+    font-family:'Space Mono', monospace;
+    color:var(--paper);
+    font-size:0.8rem;
+  }
+  .lightbox-repetido button{
+    width:32px; height:32px;
+    border-radius:50%;
+    border:2px solid var(--paper);
+    background:transparent;
+    color:var(--paper);
+    font-size:1.1rem;
+    font-weight:700;
+    cursor:pointer;
+    display:flex; align-items:center; justify-content:center;
+    line-height:1;
+  }
+  .lightbox-repetido button:hover{ background:rgba(255,255,255,0.15); }
+  .lightbox-repetido button:active{ transform:scale(0.92); }
+  #repQtd{
+    min-width:24px; text-align:center;
+    font-size:1rem; font-weight:700;
+    color:var(--mustard);
+  }
+
   @media (prefers-reduced-motion: reduce){
     .cad-card{ transition:none; }
     .cromo.foil .legenda{ animation:none; background-position:50% 50%; }
@@ -401,6 +485,9 @@
   </header>
 
   <div id="listView">
+    <div class="acoes-topo" id="acoesTopo" style="display:none;">
+      <button id="btnVerRepetidos" class="botao-secundario">🔁 Os meus repetidos</button>
+    </div>
     <div class="toolbar">
       <input type="search" id="searchInput" placeholder="Procurar caderneta ou editora...">
       <select id="editoraFilter">
@@ -416,6 +503,14 @@
     </div>
     <div class="grid" id="cadGrid"></div>
     <div class="empty" id="emptyState" style="display:none;">Nenhuma caderneta encontrada.</div>
+  </div>
+
+  <div id="repetidosGeral">
+    <button class="back-btn" id="backBtnRepetidos">&larr; voltar às cadernetas</button>
+    <h2 class="repetidos-titulo">🔁 Os meus repetidos</h2>
+    <div id="repetidosGeralConteudo">
+      <div class="empty">A carregar...</div>
+    </div>
   </div>
 
   <div id="detail">
@@ -444,6 +539,10 @@
         <input type="checkbox" id="cromoEspecialOnly">
         só especiais
       </label>
+      <label class="switch" id="cromoRepetidoOnlyWrap" style="display:none;">
+        <input type="checkbox" id="cromoRepetidoOnly">
+        só repetidos
+      </label>
     </div>
     <div class="cromos-grid" id="cromosGrid"></div>
   </div>
@@ -460,6 +559,12 @@
         <span id="lightboxNome"></span>
       </div>
       <div class="lightbox-clube" id="lightboxClube"></div>
+      <div class="lightbox-repetido" id="lightboxRepetidoWrap" style="display:none;">
+        <span>Repetidos:</span>
+        <button id="repBtnMenos" type="button">−</button>
+        <span id="repQtd">0</span>
+        <button id="repBtnMais" type="button">+</button>
+      </div>
     </div>
   </div>
 </div>
@@ -480,6 +585,90 @@ const GITHUB_BRANCH = "main";
 function resolvePath(relPath){
   if(!USE_REMOTE) return relPath;
   return `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/${GITHUB_BRANCH}/${relPath}`;
+}
+
+/* ====== FIREBASE (repetidos) ======
+   Cola aqui a configuração que copiaste da consola do Firebase
+   (Definições do projeto → Os teus apps → configuração SDK).
+   Se deixares FIREBASE_CONFIG com apiKey vazio, a funcionalidade de
+   "repetidos" fica automaticamente desativada e o resto do site
+   continua a funcionar normalmente.
+*/
+const FIREBASE_CONFIG = {
+  apiKey: "AIzaSyBnNofBE6qo4kh-P7b99Hh5qiPc7WcytD4",
+  authDomain: "psearch-70d23.firebaseapp.com",
+  projectId: "psearch-70d23",
+  storageBucket: "psearch-70d23.firebasestorage.app",
+  messagingSenderId: "832369414085",
+  appId: "1:832369414085:web:999b408a16981a66b845ac"
+};
+
+let db = null;
+let repetidosDisponivel = false;
+try{
+  if(FIREBASE_CONFIG.apiKey){
+    firebase.initializeApp(FIREBASE_CONFIG);
+    db = firebase.firestore();
+    repetidosDisponivel = true;
+  }
+}catch(err){
+  console.warn('Firebase não inicializado:', err);
+}
+
+function idRepetido(cadernetaId, numero){
+  return `${cadernetaId}__${numero}`.replace(/[/\s]/g, '_');
+}
+
+// mapa numero -> quantidade, para a caderneta atualmente aberta
+let repetidosAtual = new Map();
+
+async function carregarRepetidosDaCaderneta(cadernetaId){
+  repetidosAtual = new Map();
+  if(!repetidosDisponivel) return;
+  try{
+    const snap = await db.collection('repetidos').where('cadernetaId','==',cadernetaId).get();
+    snap.forEach(doc=>{
+      const d = doc.data();
+      if(d.quantidade > 0) repetidosAtual.set(d.numero, d.quantidade);
+    });
+  }catch(err){
+    console.warn('Não consegui carregar repetidos:', err);
+  }
+}
+
+async function gravarRepetido(cadernetaId, cadernetaNome, numero, nomeCromo, quantidade){
+  if(!repetidosDisponivel) return;
+  const ref = db.collection('repetidos').doc(idRepetido(cadernetaId, numero));
+  try{
+    if(quantidade <= 0){
+      await ref.delete();
+      repetidosAtual.delete(numero);
+    } else {
+      await ref.set({
+        cadernetaId, cadernetaNome, numero, nomeCromo,
+        quantidade,
+        atualizadoEm: firebase.firestore.FieldValue.serverTimestamp()
+      });
+      repetidosAtual.set(numero, quantidade);
+    }
+  }catch(err){
+    console.warn('Não consegui gravar o repetido:', err);
+    alert('Não foi possível guardar (sem ligação?). Tenta outra vez.');
+  }
+}
+
+async function carregarTodosRepetidos(){
+  if(!repetidosDisponivel) return [];
+  try{
+    const snap = await db.collection('repetidos').where('quantidade','>',0).get();
+    const lista = [];
+    snap.forEach(doc=>lista.push(doc.data()));
+    lista.sort((a,b)=> a.cadernetaNome.localeCompare(b.cadernetaNome,'pt') || a.numero.localeCompare(b.numero,'pt',{numeric:true}));
+    return lista;
+  }catch(err){
+    console.warn('Não consegui carregar a lista de repetidos:', err);
+    return [];
+  }
 }
 
 let cadernetas = [];
@@ -622,7 +811,10 @@ async function openDetail(id, pushHistory=true){
   document.getElementById('cromoSearch').value = '';
   document.getElementById('cromoFaltaOnly').checked = false;
   document.getElementById('cromoEspecialOnly').checked = false;
+  document.getElementById('cromoRepetidoOnly').checked = false;
+  document.getElementById('cromoRepetidoOnlyWrap').style.display = repetidosDisponivel ? '' : 'none';
 
+  await carregarRepetidosDaCaderneta(id);
   renderCromosGrid(cromos);
 
   window.scrollTo({top:0, behavior:'instant'});
@@ -633,11 +825,14 @@ function renderCromosGrid(cromos){
   const search = document.getElementById('cromoSearch').value.toLowerCase();
   const faltaOnly = document.getElementById('cromoFaltaOnly').checked;
   const especialOnly = document.getElementById('cromoEspecialOnly').checked;
+  const repetidoOnly = document.getElementById('cromoRepetidoOnly').checked;
 
   grid.innerHTML = '';
   cromos.forEach(cr=>{
+    const qtdRepetido = repetidosAtual.get(cr.numero) || 0;
     if(faltaOnly && cr.tenho) return;
     if(especialOnly && !cr.especial) return;
+    if(repetidoOnly && qtdRepetido <= 0) return;
     if(search && !(cr.numero.toLowerCase().includes(search) || (cr.nome||'').toLowerCase().includes(search))) return;
 
     const el = document.createElement('div');
@@ -649,8 +844,10 @@ function renderCromosGrid(cromos){
         ${cr.nome ? `<span class="nome">${cr.nome}</span>` : ''}
       </div>
       ${cr.especial ? '<div class="star">★</div>' : ''}
+      ${qtdRepetido > 0 ? `<div class="repetido-badge">×${qtdRepetido}</div>` : ''}
     `;
     el.className = 'cromo ' + (cr.tenho ? 'tenho' : 'falta') + (temImagem ? ' tem-imagem' : '') + (isFoil ? ' foil' : '');
+    el.dataset.numero = cr.numero;
     if(temImagem){
       el.innerHTML = `
         <div class="conteudo"><img src="${resolvePath(cr.imagem)}" alt="Cromo ${cr.numero}" loading="lazy"></div>
@@ -676,12 +873,68 @@ function renderCromosGrid(cromos){
 
 function showList(){
   document.getElementById('detail').classList.remove('active');
+  document.getElementById('repetidosGeral').classList.remove('active');
   document.getElementById('listView').classList.remove('hidden');
 }
 
 document.getElementById('backBtn').addEventListener('click', ()=>{
   history.back();
 });
+
+document.getElementById('backBtnRepetidos').addEventListener('click', ()=>{
+  document.getElementById('repetidosGeral').classList.remove('active');
+  document.getElementById('listView').classList.remove('hidden');
+});
+
+document.getElementById('btnVerRepetidos').addEventListener('click', abrirRepetidosGeral);
+
+async function abrirRepetidosGeral(){
+  document.getElementById('listView').classList.add('hidden');
+  document.getElementById('detail').classList.remove('active');
+  document.getElementById('repetidosGeral').classList.add('active');
+  window.scrollTo({top:0, behavior:'instant'});
+
+  const conteudo = document.getElementById('repetidosGeralConteudo');
+  conteudo.innerHTML = '<div class="empty">A carregar...</div>';
+
+  const lista = await carregarTodosRepetidos();
+  if(lista.length === 0){
+    conteudo.innerHTML = '<div class="empty">Ainda não marcaste nenhum cromo como repetido.</div>';
+    return;
+  }
+
+  const porCaderneta = new Map();
+  lista.forEach(item=>{
+    if(!porCaderneta.has(item.cadernetaId)) porCaderneta.set(item.cadernetaId, []);
+    porCaderneta.get(item.cadernetaId).push(item);
+  });
+
+  conteudo.innerHTML = '';
+  porCaderneta.forEach((itens, cadernetaId)=>{
+    const bloco = document.createElement('div');
+    bloco.className = 'repetidos-caderneta';
+    bloco.innerHTML = `
+      <h3>${itens[0].cadernetaNome}</h3>
+      <div class="repetidos-lista">
+        ${itens.map(it => `
+          <div class="repetido-item" data-caderneta="${cadernetaId}">
+            <span class="qtd">×${it.quantidade}</span>
+            <span>${it.numero}${it.nomeCromo ? ' · '+it.nomeCromo : ''}</span>
+          </div>
+        `).join('')}
+      </div>
+    `;
+    conteudo.appendChild(bloco);
+  });
+
+  conteudo.querySelectorAll('.repetido-item').forEach(item=>{
+    item.addEventListener('click', ()=>{
+      document.getElementById('repetidosGeral').classList.remove('active');
+      openDetail(item.dataset.caderneta);
+    });
+  });
+}
+
 
 window.addEventListener('popstate', (e)=>{
   const state = e.state;
@@ -699,8 +952,10 @@ document.getElementById('incompleteOnly').addEventListener('change', renderGrid)
 document.getElementById('cromoSearch').addEventListener('input', ()=>renderCromosGrid(cromosCache[currentId()]));
 document.getElementById('cromoFaltaOnly').addEventListener('change', ()=>renderCromosGrid(cromosCache[currentId()]));
 document.getElementById('cromoEspecialOnly').addEventListener('change', ()=>renderCromosGrid(cromosCache[currentId()]));
+document.getElementById('cromoRepetidoOnly').addEventListener('change', ()=>renderCromosGrid(cromosCache[currentId()]));
 
 function abrirLightbox(cr){
+  cromoAtualLightbox = cr;
   const img = document.getElementById('lightboxImg');
   if(cr.imagem){
     img.src = resolvePath(cr.imagem);
@@ -713,6 +968,15 @@ function abrirLightbox(cr){
   document.getElementById('lightboxNum').textContent = cr.numero;
   document.getElementById('lightboxNome').textContent = cr.nome || '';
   document.getElementById('lightboxClube').textContent = cr.clube || '';
+
+  const repWrap = document.getElementById('lightboxRepetidoWrap');
+  if(repetidosDisponivel){
+    repWrap.style.display = 'flex';
+    document.getElementById('repQtd').textContent = repetidosAtual.get(cr.numero) || 0;
+  } else {
+    repWrap.style.display = 'none';
+  }
+
   document.getElementById('lightbox').classList.add('aberto');
 }
 
@@ -721,6 +985,51 @@ function fecharLightbox(){
 }
 
 document.getElementById('lightbox').addEventListener('click', fecharLightbox);
+
+let cromoAtualLightbox = null;
+
+function aplicarQtdNaGrelha(numero, qtd){
+  const el = document.querySelector(`.cromo[data-numero="${CSS.escape(numero)}"]`);
+  if(!el) return;
+  const repetidoOnly = document.getElementById('cromoRepetidoOnly').checked;
+  if(repetidoOnly && qtd <= 0){
+    el.remove();
+    return;
+  }
+  let badge = el.querySelector('.repetido-badge');
+  if(qtd > 0){
+    if(!badge){
+      badge = document.createElement('div');
+      badge.className = 'repetido-badge';
+      el.appendChild(badge);
+    }
+    badge.textContent = `×${qtd}`;
+  } else if(badge){
+    badge.remove();
+  }
+}
+
+async function ajustarRepetido(delta){
+  if(!cromoAtualLightbox || !repetidosDisponivel) return;
+  const cr = cromoAtualLightbox;
+  const atual = repetidosAtual.get(cr.numero) || 0;
+  const nova = Math.max(0, Math.min(99, atual + delta));
+  if(nova === atual) return;
+  document.getElementById('repQtd').textContent = nova;
+  const c = cadernetas.find(x=>x.id===currentId());
+  await gravarRepetido(currentId(), c ? c.nome : '', cr.numero, cr.nome||'', nova);
+  aplicarQtdNaGrelha(cr.numero, nova);
+}
+
+document.getElementById('repBtnMenos').addEventListener('click', (e)=>{
+  e.stopPropagation();
+  ajustarRepetido(-1);
+});
+document.getElementById('repBtnMais').addEventListener('click', (e)=>{
+  e.stopPropagation();
+  ajustarRepetido(1);
+});
+
 document.addEventListener('keydown', (e)=>{
   if(e.key === 'Escape') fecharLightbox();
 });
@@ -733,6 +1042,8 @@ function currentId(){
 
 async function init(){
   try{
+    document.getElementById('acoesTopo').style.display = repetidosDisponivel ? 'block' : 'none';
+
     await loadCadernetas();
     populateEditoraFilter();
     populateTemaFilter();
