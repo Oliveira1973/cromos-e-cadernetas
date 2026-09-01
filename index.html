@@ -909,6 +909,9 @@ let portfolioAtual = new Set();
 let faltasGlobais = new Map();
 // modo escolhido dentro da caderneta aberta: null | 'repetidos' | 'faltas'
 let modoAtual = null;
+// de onde a caderneta aberta foi aberta: 'list' (pagina inicial, so demonstracao)
+// ou 'portfolio' (dentro do Meu Portefolio, com acompanhamento pessoal)
+let detailOrigem = 'list';
 
 /* ====== FIREBASE (repetidos) ======
    Cola aqui a configuração que copiaste da consola do Firebase
@@ -1343,8 +1346,7 @@ async function renderGrid(){
       <div class="info">
         <div class="editora">${c.editora} &middot; ${c.ano}${c.tema ? ` &middot; <span class="tema-tag">${c.tema}</span>` : ''}</div>
         <h3>${c.nome}</h3>
-        <div class="meta">${s.tenho} / ${s.total} cromos</div>
-        <div class="bar-track"><div class="bar-fill ${s.falta===0?'complete':''}" style="width:${s.pct}%"></div></div>
+        <div class="meta">${s.total} cromos</div>
         ${repetidosAtivo() ? `<button type="button" class="portfolio-btn ${noPortfolio?'no-portfolio':''}">${noPortfolio ? '✓ No meu portefólio' : '➕ Adicionar ao portefólio'}</button>` : ''}
       </div>
     `;
@@ -1404,6 +1406,7 @@ async function openDetail(id, pushHistory=true, from='list'){
   document.getElementById('cromoSearch').value = '';
   document.getElementById('cromoEspecialOnly').checked = false;
   modoAtual = null;
+  detailOrigem = from;
 
   await carregarRepetidosDaCaderneta(id);
   await carregarFaltasDaCaderneta(id);
@@ -1416,10 +1419,15 @@ async function openDetail(id, pushHistory=true, from='list'){
 function atualizarPainelPortfolio(cadernetaId){
   const wrap = document.getElementById('portfolioPainel');
   if(!wrap) return;
-  const noPortfolio = repetidosAtivo() && portfolioAtual.has(cadernetaId);
+  // estaNoPortfolio: se a caderneta faz mesmo parte do teu portefolio
+  // modoPessoal: se, ALEM disso, estas a ve-la a partir do "Meu Portefolio"
+  // (vindo da pagina inicial e' sempre so uma demonstracao da caderneta
+  // completa, mesmo que ela ja esteja no teu portefolio)
+  const estaNoPortfolio = repetidosAtivo() && portfolioAtual.has(cadernetaId);
+  const modoPessoal = estaNoPortfolio && detailOrigem === 'portfolio';
 
-  document.getElementById('modoEscolha').style.display = noPortfolio ? 'block' : 'none';
-  if(!noPortfolio){
+  document.getElementById('modoEscolha').style.display = modoPessoal ? 'block' : 'none';
+  if(!modoPessoal){
     modoAtual = null;
     document.getElementById('cromosArea').style.display = 'block';
   } else {
@@ -1427,8 +1435,8 @@ function atualizarPainelPortfolio(cadernetaId){
   }
   atualizarBotoesModo();
 
-  document.getElementById('detailStatsWrap').style.display = noPortfolio ? '' : 'none';
-  document.getElementById('detailProgressWrap').style.display = noPortfolio ? '' : 'none';
+  document.getElementById('detailStatsWrap').style.display = modoPessoal ? '' : 'none';
+  document.getElementById('detailProgressWrap').style.display = modoPessoal ? '' : 'none';
 
   if(!repetidosAtivo()){
     wrap.style.display = 'none';
@@ -1436,10 +1444,19 @@ function atualizarPainelPortfolio(cadernetaId){
   }
   wrap.style.display = 'block';
   const btn = document.getElementById('btnTogglePortfolio');
-  btn.textContent = noPortfolio ? '✓ No meu portefólio (remover)' : '➕ Adicionar ao meu portefólio';
-  btn.className = 'portfolio-btn-detalhe' + (noPortfolio ? ' no-portfolio' : '');
-  document.getElementById('portfolioAviso').style.display = noPortfolio ? 'none' : 'block';
-  document.getElementById('trocasPainel').style.display = noPortfolio ? 'block' : 'none';
+  btn.textContent = estaNoPortfolio ? '✓ No meu portefólio (remover)' : '➕ Adicionar ao meu portefólio';
+  btn.className = 'portfolio-btn-detalhe' + (estaNoPortfolio ? ' no-portfolio' : '');
+  const aviso = document.getElementById('portfolioAviso');
+  if(modoPessoal){
+    aviso.style.display = 'none';
+  } else if(estaNoPortfolio){
+    aviso.style.display = 'block';
+    aviso.textContent = 'Esta caderneta já está no teu portefólio. Abre-a a partir de "Meu Portefólio" para veres e marcares os teus repetidos e faltas.';
+  } else {
+    aviso.style.display = 'block';
+    aviso.textContent = 'Adiciona esta caderneta ao teu portefólio para começares a marcar as tuas próprias faltas e repetidos.';
+  }
+  document.getElementById('trocasPainel').style.display = modoPessoal ? 'block' : 'none';
   document.getElementById('trocasResultado').innerHTML = '';
 }
 
@@ -1530,11 +1547,14 @@ function renderCromosGrid(cromos){
   const search = document.getElementById('cromoSearch').value.toLowerCase();
   const especialOnly = document.getElementById('cromoEspecialOnly').checked;
   const cadernetaId = currentId();
-  const emPortfolio = repetidosAtivo() && portfolioAtual.has(cadernetaId);
+  // so aplicamos o acompanhamento pessoal (tenho/falta/repetidos da conta)
+  // quando se entrou por "Meu Portefolio" -- a partir da pagina inicial e'
+  // sempre so uma demonstracao com os dados do catalogo
+  const emPortfolio = repetidosAtivo() && portfolioAtual.has(cadernetaId) && detailOrigem === 'portfolio';
 
   grid.innerHTML = '';
   cromos.forEach(cr=>{
-    const tem = efetivoTenho(cadernetaId, cr);
+    const tem = emPortfolio ? efetivoTenho(cadernetaId, cr) : cr.tenho;
     const qtdRepetido = emPortfolio ? (repetidosAtual.get(cr.numero) || 0) : 0;
     if(emPortfolio && modoAtual === 'faltas' && tem) return;
     if(emPortfolio && modoAtual === 'repetidos' && qtdRepetido <= 0) return;
@@ -1826,8 +1846,9 @@ function abrirLightbox(cr){
   document.getElementById('lightboxClube').textContent = cr.clube || '';
 
   const cadernetaIdAtual = currentId();
+  const modoPessoalAtivo = repetidosAtivo() && portfolioAtual.has(cadernetaIdAtual) && detailOrigem === 'portfolio';
   const tenhoWrap = document.getElementById('lightboxTenhoWrap');
-  if(repetidosAtivo() && portfolioAtual.has(cadernetaIdAtual)){
+  if(modoPessoalAtivo){
     tenhoWrap.style.display = 'block';
     atualizarBotaoTenho(cr, cadernetaIdAtual);
   } else {
@@ -1835,7 +1856,7 @@ function abrirLightbox(cr){
   }
 
   const repWrap = document.getElementById('lightboxRepetidoWrap');
-  if(repetidosAtivo() && portfolioAtual.has(cadernetaIdAtual)){
+  if(modoPessoalAtivo){
     repWrap.style.display = 'flex';
     document.getElementById('repQtd').textContent = repetidosAtual.get(cr.numero) || 0;
   } else {
