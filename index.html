@@ -1404,17 +1404,25 @@ function initials(nome){
   return nome.split(' ').slice(0,2).map(w=>w[0]).join('').toUpperCase();
 }
 
-async function openDetail(id, pushHistory=true, soRepetidos=false){
+async function openDetail(id, pushHistory=true, soRepetidos=false, from='list'){
   const c = cadernetas.find(x=>x.id===id);
   const cromos = await loadCromos(id);
   const s = stats(cromos, id);
 
   document.getElementById('listView').classList.add('hidden');
+  document.getElementById('meuPortfolioView').classList.remove('active');
+  document.getElementById('repetidosGeral').classList.remove('active');
   document.getElementById('detail').classList.add('active');
 
   if(pushHistory){
-    history.pushState({view:'detail', id}, '', '#' + encodeURIComponent(id));
+    history.pushState({view:'detail', id, from}, '', '#' + encodeURIComponent(id));
   }
+
+  document.getElementById('backBtn').innerHTML = from === 'repetidos'
+    ? '&larr; voltar à listagem das cadernetas com repetidos'
+    : from === 'portfolio'
+      ? '&larr; voltar ao meu portefólio'
+      : '&larr; voltar às cadernetas';
 
   document.getElementById('detailCover').innerHTML = c.capa
     ? `<img src="${resolvePath(c.capa)}" alt="Capa ${c.nome}">`
@@ -1593,23 +1601,26 @@ document.getElementById('backBtn').addEventListener('click', ()=>{
 });
 
 document.getElementById('backBtnRepetidos').addEventListener('click', ()=>{
-  document.getElementById('repetidosGeral').classList.remove('active');
-  document.getElementById('meuPortfolioView').classList.add('active');
+  history.back();
 });
 
 document.getElementById('backBtnPortfolio').addEventListener('click', ()=>{
-  document.getElementById('meuPortfolioView').classList.remove('active');
-  document.getElementById('listView').classList.remove('hidden');
+  history.back();
 });
 
-document.getElementById('btnVerRepetidos').addEventListener('click', abrirRepetidosGeral);
-document.getElementById('btnVerPortfolio').addEventListener('click', abrirMeuPortfolio);
+document.getElementById('btnVerRepetidos').addEventListener('click', ()=>abrirRepetidosGeral());
+document.getElementById('btnVerPortfolio').addEventListener('click', ()=>abrirMeuPortfolio());
 
-async function abrirMeuPortfolio(){
+async function abrirMeuPortfolio(pushHistory=true){
   document.getElementById('listView').classList.add('hidden');
   document.getElementById('detail').classList.remove('active');
+  document.getElementById('repetidosGeral').classList.remove('active');
   document.getElementById('meuPortfolioView').classList.add('active');
   window.scrollTo({top:0, behavior:'instant'});
+
+  if(pushHistory){
+    history.pushState({view:'portfolio'}, '', location.pathname + location.search + '#portfolio');
+  }
 
   const conteudo = document.getElementById('meuPortfolioConteudo');
   conteudo.innerHTML = '<div class="empty">A carregar...</div>';
@@ -1641,20 +1652,23 @@ async function abrirMeuPortfolio(){
       <div class="mini-capa-meta">${s.tenho}/${s.total}</div>
     `;
     item.addEventListener('click', ()=>{
-      document.getElementById('meuPortfolioView').classList.remove('active');
-      openDetail(c.id);
+      openDetail(c.id, true, false, 'portfolio');
     });
     item.addEventListener('keypress', (e)=>{ if(e.key==='Enter') item.click(); });
     grid.appendChild(item);
   }
 }
 
-async function abrirRepetidosGeral(){
+async function abrirRepetidosGeral(pushHistory=true){
   document.getElementById('listView').classList.add('hidden');
   document.getElementById('meuPortfolioView').classList.remove('active');
   document.getElementById('detail').classList.remove('active');
   document.getElementById('repetidosGeral').classList.add('active');
   window.scrollTo({top:0, behavior:'instant'});
+
+  if(pushHistory){
+    history.pushState({view:'repetidos'}, '', location.pathname + location.search + '#repetidos');
+  }
 
   popularSelectBulkCadernetas();
 
@@ -1718,8 +1732,7 @@ async function renderizarListaRepetidos(lista){
         `).join('');
         listaEl.querySelectorAll('.repetido-item').forEach(item=>{
           item.addEventListener('click', ()=>{
-            document.getElementById('repetidosGeral').classList.remove('active');
-            openDetail(item.dataset.caderneta, true, true);
+            openDetail(item.dataset.caderneta, true, true, 'repetidos');
           });
         });
       }
@@ -1918,7 +1931,11 @@ document.getElementById('repBulkToggle').addEventListener('click', ()=>{
 window.addEventListener('popstate', (e)=>{
   const state = e.state;
   if(state && state.view === 'detail' && state.id){
-    openDetail(state.id, false);
+    openDetail(state.id, false, false, state.from || 'list');
+  } else if(state && state.view === 'repetidos'){
+    abrirRepetidosGeral(false);
+  } else if(state && state.view === 'portfolio'){
+    abrirMeuPortfolio(false);
   } else {
     showList();
   }
