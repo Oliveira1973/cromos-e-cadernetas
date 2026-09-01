@@ -1709,6 +1709,13 @@ function showList(){
   document.getElementById('detail').classList.remove('active');
   document.getElementById('meuPortfolioView').classList.remove('active');
   document.getElementById('listView').classList.remove('hidden');
+  // a grelha da página inicial não se atualiza sozinha enquanto está
+  // escondida -- se entretanto uma caderneta foi adicionada/removida do
+  // portefólio (dentro do detalhe ou do Meu Portefólio), o cartão ficava
+  // com o botão errado até se dar refresh. Por isso desenha-se sempre de
+  // novo ao voltar para aqui.
+  renderGrid();
+  renderGlobalStats();
 }
 
 document.getElementById('backBtn').addEventListener('click', ()=>{
