@@ -1442,21 +1442,33 @@ function atualizarPainelPortfolio(cadernetaId){
     wrap.style.display = 'none';
     return;
   }
-  wrap.style.display = 'block';
+
   const btn = document.getElementById('btnTogglePortfolio');
+  const aviso = document.getElementById('portfolioAviso');
+
+  if(detailOrigem !== 'portfolio'){
+    // a partir da pagina inicial isto e' so uma demonstracao -- adicionar
+    // e retirar do portefolio faz-se no botao do proprio cartao, nao aqui
+    btn.style.display = 'none';
+    if(estaNoPortfolio){
+      wrap.style.display = 'block';
+      aviso.style.display = 'block';
+      aviso.textContent = '✓ Esta caderneta já está no teu portefólio.';
+    } else {
+      wrap.style.display = 'none';
+    }
+    document.getElementById('trocasPainel').style.display = 'none';
+    document.getElementById('trocasResultado').innerHTML = '';
+    return;
+  }
+
+  wrap.style.display = 'block';
+  btn.style.display = '';
   btn.textContent = estaNoPortfolio ? '✓ No meu portefólio (remover)' : '➕ Adicionar ao meu portefólio';
   btn.className = 'portfolio-btn-detalhe' + (estaNoPortfolio ? ' no-portfolio' : '');
-  const aviso = document.getElementById('portfolioAviso');
-  if(modoPessoal){
-    aviso.style.display = 'none';
-  } else if(estaNoPortfolio){
-    aviso.style.display = 'block';
-    aviso.textContent = 'Esta caderneta já está no teu portefólio. Abre-a a partir de "Meu Portefólio" para veres e marcares os teus repetidos e faltas.';
-  } else {
-    aviso.style.display = 'block';
-    aviso.textContent = 'Adiciona esta caderneta ao teu portefólio para começares a marcar as tuas próprias faltas e repetidos.';
-  }
-  document.getElementById('trocasPainel').style.display = modoPessoal ? 'block' : 'none';
+  aviso.style.display = estaNoPortfolio ? 'none' : 'block';
+  aviso.textContent = 'Adiciona esta caderneta ao teu portefólio para começares a marcar as tuas próprias faltas e repetidos.';
+  document.getElementById('trocasPainel').style.display = estaNoPortfolio ? 'block' : 'none';
   document.getElementById('trocasResultado').innerHTML = '';
 }
 
@@ -1572,7 +1584,7 @@ function renderCromosGrid(cromos){
       ${cr.especial ? '<div class="star">★</div>' : ''}
       ${qtdRepetido > 0 ? `<div class="repetido-badge">×${qtdRepetido}</div>` : ''}
     `;
-    el.className = 'cromo ' + (tem ? 'tenho' : 'falta') + (temImagem ? ' tem-imagem' : '') + (isFoil ? ' foil' : '') + (emPortfolio ? '' : ' grande');
+    el.className = 'cromo ' + (tem ? 'tenho' : 'falta') + (temImagem ? ' tem-imagem' : '') + (isFoil ? ' foil' : '');
     el.dataset.numero = cr.numero;
     if(temImagem){
       el.innerHTML = `
