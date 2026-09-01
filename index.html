@@ -160,6 +160,8 @@
     cursor:pointer;
   }
   .botao-secundario:hover{ background:#1f4e47; }
+  .modo-botoes{ display:flex; gap:10px; flex-wrap:wrap; margin-bottom:16px; }
+  .botao-secundario.ativo{ background:var(--stamp-red); }
   .toolbar input[type="search"], .toolbar select{
     font-family:'Work Sans', sans-serif;
     font-size:0.9rem;
@@ -315,8 +317,6 @@
   #detail{ display:none; }
   #detail.active{ display:block; }
   #listView.hidden{ display:none; }
-  #repetidosGeral{ display:none; }
-  #repetidosGeral.active{ display:block; }
   #meuPortfolioView{ display:none; }
   #meuPortfolioView.active{ display:block; }
   .meu-portfolio-grid{
@@ -783,46 +783,9 @@
     <div class="empty" id="emptyState" style="display:none;">Nenhuma caderneta encontrada.</div>
   </div>
 
-  <div id="repetidosGeral">
-    <button class="back-btn" id="backBtnRepetidos">&larr; voltar ao portefólio</button>
-    <h2 class="repetidos-titulo">🔁 Os meus repetidos</h2>
-
-    <div class="repetidos-bulk">
-      <button type="button" id="repBulkToggle" class="repetidos-bulk-toggle">
-        <span>➕ Adicionar ou remover em lote</span>
-        <span id="repBulkToggleSeta">▾</span>
-      </button>
-      <div id="repBulkBody" class="repetidos-bulk-body" style="display:none;">
-        <label for="repBulkTipo">O que estás a marcar</label>
-        <select id="repBulkTipo">
-          <option value="falta">Faltas (cromos que não tens)</option>
-          <option value="repetido">Repetidos (cromos a mais)</option>
-        </select>
-        <label for="repBulkCaderneta">Caderneta</label>
-        <select id="repBulkCaderneta">
-          <option value="">Escolhe uma caderneta...</option>
-        </select>
-        <label for="repBulkNumeros">Números dos cromos</label>
-        <textarea id="repBulkNumeros" placeholder="Cola aqui os números, um por linha ou separados por vírgula.&#10;Para repetidos, podes usar 23(2), 45(1) para indicar a quantidade diretamente."></textarea>
-        <div class="repetidos-bulk-botoes">
-          <button id="repBulkAdd">➕ Adicionar</button>
-          <button id="repBulkRemove" class="secondary">➖ Remover</button>
-        </div>
-        <div class="repetidos-bulk-msg" id="repBulkMsg"></div>
-      </div>
-    </div>
-
-    <div id="repetidosGeralConteudo">
-      <div class="empty">A carregar...</div>
-    </div>
-  </div>
-
   <div id="meuPortfolioView">
     <button class="back-btn" id="backBtnPortfolio">&larr; voltar às cadernetas</button>
     <h2 class="repetidos-titulo">📚 Meu Portefólio</h2>
-    <div class="acoes-topo">
-      <button id="btnVerRepetidos" class="botao-secundario">🔁 Os meus repetidos</button>
-    </div>
     <div id="meuPortfolioConteudo">
       <div class="empty">A carregar...</div>
     </div>
@@ -855,22 +818,39 @@
       </div>
     </div>
 
-    <div class="cromos-toolbar">
-      <input type="search" id="cromoSearch" placeholder="Procurar número ou nome...">
-      <label class="switch" id="cromoFaltaOnlyWrap" style="display:none;">
-        <input type="checkbox" id="cromoFaltaOnly">
-        só faltas
-      </label>
-      <label class="switch">
-        <input type="checkbox" id="cromoEspecialOnly">
-        só especiais
-      </label>
-      <label class="switch" id="cromoRepetidoOnlyWrap" style="display:none;">
-        <input type="checkbox" id="cromoRepetidoOnly">
-        só repetidos
-      </label>
+    <div id="modoEscolha" style="display:none;">
+      <div class="modo-botoes">
+        <button type="button" id="btnModoRepetidos" class="botao-secundario">🔁 Os meus repetidos</button>
+        <button type="button" id="btnModoFaltas" class="botao-secundario">❌ As minhas faltas</button>
+      </div>
     </div>
-    <div class="cromos-grid" id="cromosGrid"></div>
+
+    <div id="cromosArea" style="display:none;">
+      <div class="repetidos-bulk">
+        <button type="button" id="modoBulkToggle" class="repetidos-bulk-toggle">
+          <span>➕ Adicionar ou remover em lote</span>
+          <span id="modoBulkToggleSeta">▾</span>
+        </button>
+        <div id="modoBulkBody" class="repetidos-bulk-body" style="display:none;">
+          <label for="modoBulkNumeros">Números dos cromos</label>
+          <textarea id="modoBulkNumeros" placeholder="Cola aqui os números, um por linha ou separados por vírgula.&#10;Podes usar 23(2), 45(1) para indicar a quantidade diretamente."></textarea>
+          <div class="repetidos-bulk-botoes">
+            <button id="modoBulkAdd"></button>
+            <button id="modoBulkRemove" class="secondary"></button>
+          </div>
+          <div class="repetidos-bulk-msg" id="modoBulkMsg"></div>
+        </div>
+      </div>
+
+      <div class="cromos-toolbar">
+        <input type="search" id="cromoSearch" placeholder="Procurar número ou nome...">
+        <label class="switch">
+          <input type="checkbox" id="cromoEspecialOnly">
+          só especiais
+        </label>
+      </div>
+      <div class="cromos-grid" id="cromosGrid"></div>
+    </div>
   </div>
 
   <footer>dados guardados no GitHub &middot; edita os ficheiros JSON para atualizar</footer>
@@ -927,6 +907,8 @@ let faltasAtual = new Map();
 let portfolioAtual = new Set();
 // todas as faltas da pessoa, agrupadas por caderneta: cadernetaId -> Map(numero->true)
 let faltasGlobais = new Map();
+// modo escolhido dentro da caderneta aberta: null | 'repetidos' | 'faltas'
+let modoAtual = null;
 
 /* ====== FIREBASE (repetidos) ======
    Cola aqui a configuração que copiaste da consola do Firebase
@@ -1228,21 +1210,6 @@ async function gravarRepetido(cadernetaId, cadernetaNome, numero, nomeCromo, qua
   }
 }
 
-async function carregarTodosRepetidos(){
-  if(!repetidosAtivo()) return [];
-  try{
-    const uid = auth.currentUser.uid;
-    const snap = await db.collection('repetidos').where('uid','==',uid).where('quantidade','>',0).get();
-    const lista = [];
-    snap.forEach(doc=>lista.push(doc.data()));
-    lista.sort((a,b)=> a.cadernetaNome.localeCompare(b.cadernetaNome,'pt') || a.numero.localeCompare(b.numero,'pt',{numeric:true}));
-    return lista;
-  }catch(err){
-    console.warn('Não consegui carregar a lista de repetidos:', err);
-    return [];
-  }
-}
-
 // procura, entre os repetidos de TODAS as pessoas, os que correspondem às
 // tuas próprias faltas nesta caderneta (as regras do Firestore só deixam
 // ver os que realmente correspondem a uma falta tua)
@@ -1404,25 +1371,22 @@ function initials(nome){
   return nome.split(' ').slice(0,2).map(w=>w[0]).join('').toUpperCase();
 }
 
-async function openDetail(id, pushHistory=true, soRepetidos=false, from='list'){
+async function openDetail(id, pushHistory=true, from='list'){
   const c = cadernetas.find(x=>x.id===id);
   const cromos = await loadCromos(id);
   const s = stats(cromos, id);
 
   document.getElementById('listView').classList.add('hidden');
   document.getElementById('meuPortfolioView').classList.remove('active');
-  document.getElementById('repetidosGeral').classList.remove('active');
   document.getElementById('detail').classList.add('active');
 
   if(pushHistory){
     history.pushState({view:'detail', id, from}, '', '#' + encodeURIComponent(id));
   }
 
-  document.getElementById('backBtn').innerHTML = from === 'repetidos'
-    ? '&larr; voltar à listagem das cadernetas com repetidos'
-    : from === 'portfolio'
-      ? '&larr; voltar ao meu portefólio'
-      : '&larr; voltar às cadernetas';
+  document.getElementById('backBtn').innerHTML = from === 'portfolio'
+    ? '&larr; voltar ao meu portefólio'
+    : '&larr; voltar às cadernetas';
 
   document.getElementById('detailCover').innerHTML = c.capa
     ? `<img src="${resolvePath(c.capa)}" alt="Capa ${c.nome}">`
@@ -1438,13 +1402,12 @@ async function openDetail(id, pushHistory=true, soRepetidos=false, from='list'){
   fill.className = 'fill ' + (s.falta===0 ? 'complete':'');
 
   document.getElementById('cromoSearch').value = '';
-  document.getElementById('cromoFaltaOnly').checked = false;
   document.getElementById('cromoEspecialOnly').checked = false;
+  modoAtual = null;
 
   await carregarRepetidosDaCaderneta(id);
   await carregarFaltasDaCaderneta(id);
   atualizarPainelPortfolio(id);
-  document.getElementById('cromoRepetidoOnly').checked = soRepetidos && repetidosAtivo();
   renderCromosGrid(cromos);
 
   window.scrollTo({top:0, behavior:'instant'});
@@ -1455,18 +1418,15 @@ function atualizarPainelPortfolio(cadernetaId){
   if(!wrap) return;
   const noPortfolio = repetidosAtivo() && portfolioAtual.has(cadernetaId);
 
-  // filtros de faltas/repetidos só fazem sentido depois de a caderneta
-  // estar no portefólio -- antes disso, esta página é só para conheceres
-  // a caderneta (só o filtro de especiais fica disponível)
-  document.getElementById('cromoFaltaOnlyWrap').style.display = noPortfolio ? '' : 'none';
-  document.getElementById('cromoRepetidoOnlyWrap').style.display = noPortfolio ? '' : 'none';
+  document.getElementById('modoEscolha').style.display = noPortfolio ? 'block' : 'none';
   if(!noPortfolio){
-    document.getElementById('cromoFaltaOnly').checked = false;
-    document.getElementById('cromoRepetidoOnly').checked = false;
+    modoAtual = null;
+    document.getElementById('cromosArea').style.display = 'block';
+  } else {
+    document.getElementById('cromosArea').style.display = modoAtual ? 'block' : 'none';
   }
+  atualizarBotoesModo();
 
-  // o "tenho/faltam/completo" só aparece depois de a caderneta estar no
-  // portefólio -- antes disso é só apresentação da caderneta
   document.getElementById('detailStatsWrap').style.display = noPortfolio ? '' : 'none';
   document.getElementById('detailProgressWrap').style.display = noPortfolio ? '' : 'none';
 
@@ -1482,6 +1442,36 @@ function atualizarPainelPortfolio(cadernetaId){
   document.getElementById('trocasPainel').style.display = noPortfolio ? 'block' : 'none';
   document.getElementById('trocasResultado').innerHTML = '';
 }
+
+function atualizarBotoesModo(){
+  const btnRep = document.getElementById('btnModoRepetidos');
+  const btnFal = document.getElementById('btnModoFaltas');
+  if(!btnRep || !btnFal) return;
+  btnRep.classList.toggle('ativo', modoAtual === 'repetidos');
+  btnFal.classList.toggle('ativo', modoAtual === 'faltas');
+
+  const btnAdd = document.getElementById('modoBulkAdd');
+  const btnRem = document.getElementById('modoBulkRemove');
+  if(modoAtual === 'repetidos'){
+    btnAdd.textContent = '➕ Adicionar aos repetidos';
+    btnRem.textContent = '➖ Remover dos repetidos';
+  } else if(modoAtual === 'faltas'){
+    btnAdd.textContent = '➕ Marcar como falta';
+    btnRem.textContent = '➖ Já não falta (tenho)';
+  }
+}
+
+function escolherModo(modo){
+  modoAtual = modo;
+  document.getElementById('cromosArea').style.display = 'block';
+  atualizarBotoesModo();
+  limparMsgBulk();
+  renderCromosGrid(cromosCache[currentId()]);
+  document.getElementById('cromosArea').scrollIntoView({behavior:'smooth', block:'start'});
+}
+
+document.getElementById('btnModoRepetidos').addEventListener('click', ()=>escolherModo('repetidos'));
+document.getElementById('btnModoFaltas').addEventListener('click', ()=>escolherModo('faltas'));
 
 document.getElementById('btnVerTrocas')?.addEventListener('click', async ()=>{
   const cadernetaId = currentId();
@@ -1538,9 +1528,7 @@ document.getElementById('btnTogglePortfolio')?.addEventListener('click', async (
 function renderCromosGrid(cromos){
   const grid = document.getElementById('cromosGrid');
   const search = document.getElementById('cromoSearch').value.toLowerCase();
-  const faltaOnly = document.getElementById('cromoFaltaOnly').checked;
   const especialOnly = document.getElementById('cromoEspecialOnly').checked;
-  const repetidoOnly = document.getElementById('cromoRepetidoOnly').checked;
   const cadernetaId = currentId();
   const emPortfolio = repetidosAtivo() && portfolioAtual.has(cadernetaId);
 
@@ -1548,9 +1536,9 @@ function renderCromosGrid(cromos){
   cromos.forEach(cr=>{
     const tem = efetivoTenho(cadernetaId, cr);
     const qtdRepetido = emPortfolio ? (repetidosAtual.get(cr.numero) || 0) : 0;
-    if(faltaOnly && tem) return;
+    if(emPortfolio && modoAtual === 'faltas' && tem) return;
+    if(emPortfolio && modoAtual === 'repetidos' && qtdRepetido <= 0) return;
     if(especialOnly && !cr.especial) return;
-    if(repetidoOnly && qtdRepetido <= 0) return;
     if(search && !(cr.numero.toLowerCase().includes(search) || (cr.nome||'').toLowerCase().includes(search))) return;
 
     const el = document.createElement('div');
@@ -1591,7 +1579,6 @@ function renderCromosGrid(cromos){
 
 function showList(){
   document.getElementById('detail').classList.remove('active');
-  document.getElementById('repetidosGeral').classList.remove('active');
   document.getElementById('meuPortfolioView').classList.remove('active');
   document.getElementById('listView').classList.remove('hidden');
 }
@@ -1600,21 +1587,15 @@ document.getElementById('backBtn').addEventListener('click', ()=>{
   history.back();
 });
 
-document.getElementById('backBtnRepetidos').addEventListener('click', ()=>{
-  history.back();
-});
-
 document.getElementById('backBtnPortfolio').addEventListener('click', ()=>{
   history.back();
 });
 
-document.getElementById('btnVerRepetidos').addEventListener('click', ()=>abrirRepetidosGeral());
 document.getElementById('btnVerPortfolio').addEventListener('click', ()=>abrirMeuPortfolio());
 
 async function abrirMeuPortfolio(pushHistory=true){
   document.getElementById('listView').classList.add('hidden');
   document.getElementById('detail').classList.remove('active');
-  document.getElementById('repetidosGeral').classList.remove('active');
   document.getElementById('meuPortfolioView').classList.add('active');
   window.scrollTo({top:0, behavior:'instant'});
 
@@ -1652,103 +1633,11 @@ async function abrirMeuPortfolio(pushHistory=true){
       <div class="mini-capa-meta">${s.tenho}/${s.total}</div>
     `;
     item.addEventListener('click', ()=>{
-      openDetail(c.id, true, false, 'portfolio');
+      openDetail(c.id, true, 'portfolio');
     });
     item.addEventListener('keypress', (e)=>{ if(e.key==='Enter') item.click(); });
     grid.appendChild(item);
   }
-}
-
-async function abrirRepetidosGeral(pushHistory=true){
-  document.getElementById('listView').classList.add('hidden');
-  document.getElementById('meuPortfolioView').classList.remove('active');
-  document.getElementById('detail').classList.remove('active');
-  document.getElementById('repetidosGeral').classList.add('active');
-  window.scrollTo({top:0, behavior:'instant'});
-
-  if(pushHistory){
-    history.pushState({view:'repetidos'}, '', location.pathname + location.search + '#repetidos');
-  }
-
-  popularSelectBulkCadernetas();
-
-  const conteudo = document.getElementById('repetidosGeralConteudo');
-  conteudo.innerHTML = '<div class="empty">A carregar...</div>';
-
-  const lista = await carregarTodosRepetidos();
-  if(lista.length === 0){
-    conteudo.innerHTML = '<div class="empty">Ainda não marcaste nenhum cromo como repetido.</div>';
-    return;
-  }
-  await renderizarListaRepetidos(lista);
-}
-
-async function renderizarListaRepetidos(lista){
-  const conteudo = document.getElementById('repetidosGeralConteudo');
-  const porCaderneta = new Map();
-  lista.forEach(item=>{
-    if(!porCaderneta.has(item.cadernetaId)) porCaderneta.set(item.cadernetaId, []);
-    porCaderneta.get(item.cadernetaId).push(item);
-  });
-
-  conteudo.innerHTML = '<div class="repetidos-grid" id="repetidosGrid"></div>';
-  const grid = document.getElementById('repetidosGrid');
-
-  porCaderneta.forEach((itens, cadernetaId)=>{
-    const c = cadernetas.find(x=>x.id===cadernetaId);
-    const nome = itens[0].cadernetaNome;
-
-    const grupo = document.createElement('div');
-    grupo.className = 'repetidos-grupo';
-    grupo.innerHTML = `
-      <div class="mini-capa" tabindex="0" role="button" aria-label="Ver repetidos de ${nome}">
-        <div class="mini-capa-img">
-          ${c && c.capa ? `<img src="${resolvePath(c.capa)}" alt="Capa ${nome}">` : `<div class="mini-capa-placeholder">${initials(nome)}</div>`}
-        </div>
-        <div class="mini-capa-nome">${nome}</div>
-        <div class="mini-capa-badge">${itens.length}</div>
-      </div>
-      <div class="repetidos-lista"></div>
-    `;
-    grid.appendChild(grupo);
-
-    const capaEl = grupo.querySelector('.mini-capa');
-    const listaEl = grupo.querySelector('.repetidos-lista');
-
-    function alternar(){
-      const abrir = !grupo.classList.contains('expandido');
-      // fecha qualquer outro grupo aberto, para não ficarem várias listas abertas ao mesmo tempo
-      grid.querySelectorAll('.repetidos-grupo.expandido').forEach(g=>{
-        if(g !== grupo) g.classList.remove('expandido');
-      });
-      grupo.classList.toggle('expandido', abrir);
-
-      if(abrir && listaEl.innerHTML === ''){
-        listaEl.innerHTML = itens.map(it => `
-          <div class="repetido-item" data-caderneta="${cadernetaId}">
-            <span class="qtd">×${it.quantidade}</span>
-            <span>${it.numero}${it.nomeCromo ? ' · '+it.nomeCromo : ''}</span>
-          </div>
-        `).join('');
-        listaEl.querySelectorAll('.repetido-item').forEach(item=>{
-          item.addEventListener('click', ()=>{
-            openDetail(item.dataset.caderneta, true, true, 'repetidos');
-          });
-        });
-      }
-    }
-
-    capaEl.addEventListener('click', alternar);
-    capaEl.addEventListener('keypress', (e)=>{ if(e.key==='Enter') alternar(); });
-  });
-}
-
-function popularSelectBulkCadernetas(){
-  const sel = document.getElementById('repBulkCaderneta');
-  const valorAtual = sel.value;
-  sel.innerHTML = '<option value="">Escolhe uma caderneta...</option>' +
-    cadernetas.map(c => `<option value="${c.id}">${c.nome} — ${c.editora} ${c.ano}</option>`).join('');
-  if(valorAtual) sel.value = valorAtual;
 }
 
 // conta quantas vezes cada número aparece no texto colado (separado por
@@ -1789,10 +1678,10 @@ async function buscarRepetidosMap(cadernetaId){
 }
 
 async function aplicarBulkPessoal(modo){
-  const msgEl = document.getElementById('repBulkMsg');
-  const tipo = document.getElementById('repBulkTipo').value; // 'falta' ou 'repetido'
-  const cadernetaId = document.getElementById('repBulkCaderneta').value;
-  const texto = document.getElementById('repBulkNumeros').value;
+  const msgEl = document.getElementById('modoBulkMsg');
+  const cadernetaId = currentId();
+  const tipo = modoAtual === 'repetidos' ? 'repetido' : 'falta';
+  const texto = document.getElementById('modoBulkNumeros').value;
 
   msgEl.className = 'repetidos-bulk-msg';
   msgEl.textContent = '';
@@ -1804,7 +1693,7 @@ async function aplicarBulkPessoal(modo){
   }
   if(!cadernetaId){
     msgEl.className = 'repetidos-bulk-msg erro';
-    msgEl.textContent = 'Escolhe primeiro uma caderneta.';
+    msgEl.textContent = 'Abre uma caderneta primeiro.';
     return;
   }
   const contagemColados = contarNumerosColados(texto);
@@ -1814,8 +1703,8 @@ async function aplicarBulkPessoal(modo){
     return;
   }
 
-  const btnAdd = document.getElementById('repBulkAdd');
-  const btnRem = document.getElementById('repBulkRemove');
+  const btnAdd = document.getElementById('modoBulkAdd');
+  const btnRem = document.getElementById('modoBulkRemove');
   btnAdd.disabled = true; btnRem.disabled = true;
   msgEl.textContent = 'A gravar...';
 
@@ -1824,9 +1713,6 @@ async function aplicarBulkPessoal(modo){
   // mapa NUMERO-EM-MAIÚSCULAS -> {numero real, nome} para validar e obter o nome certo
   const infoCromos = new Map();
   cromosDaCaderneta.forEach(cr => infoCromos.set(cr.numero.toUpperCase(), cr));
-
-  // garante que a caderneta fica no portefólio (não faz nada se já lá estiver)
-  await adicionarAoPortfolio(cadernetaId, c.nome);
 
   const naoEncontrados = [];
   const alterados = [];
@@ -1874,47 +1760,27 @@ async function aplicarBulkPessoal(modo){
   msgEl.textContent = resumo.trim();
 
   if(alterados.length){
-    document.getElementById('repBulkNumeros').value = '';
-    if(currentId() === cadernetaId){
-      await carregarRepetidosDaCaderneta(cadernetaId);
-      await carregarFaltasDaCaderneta(cadernetaId);
-      atualizarPainelPortfolio(cadernetaId);
-      renderCromosGrid(cromosCache[cadernetaId]);
-    }
-    if(tipo === 'repetido'){
-      const lista = await carregarTodosRepetidos();
-      const conteudo = document.getElementById('repetidosGeralConteudo');
-      if(lista.length === 0){
-        conteudo.innerHTML = '<div class="empty">Ainda não marcaste nenhum cromo como repetido.</div>';
-      } else {
-        await renderizarListaRepetidos(lista);
-      }
-    }
+    document.getElementById('modoBulkNumeros').value = '';
+    await carregarRepetidosDaCaderneta(cadernetaId);
+    await carregarFaltasDaCaderneta(cadernetaId);
+    atualizarPainelPortfolio(cadernetaId);
+    renderCromosGrid(cromosCache[cadernetaId]);
     renderGlobalStats();
   }
 }
 
-function atualizarLabelsBulk(){
-  const tipo = document.getElementById('repBulkTipo').value;
-  document.getElementById('repBulkAdd').textContent = tipo === 'falta' ? '➕ Marcar como falta' : '➕ Adicionar aos repetidos';
-  document.getElementById('repBulkRemove').textContent = tipo === 'falta' ? '➖ Já não falta (tenho)' : '➖ Remover dos repetidos';
-}
-
-document.getElementById('repBulkAdd').addEventListener('click', ()=>aplicarBulkPessoal('add'));
-document.getElementById('repBulkRemove').addEventListener('click', ()=>aplicarBulkPessoal('remove'));
-document.getElementById('repBulkTipo').addEventListener('change', ()=>{ limparMsgBulk(); atualizarLabelsBulk(); });
+document.getElementById('modoBulkAdd').addEventListener('click', ()=>aplicarBulkPessoal('add'));
+document.getElementById('modoBulkRemove').addEventListener('click', ()=>aplicarBulkPessoal('remove'));
 
 function limparMsgBulk(){
-  const msgEl = document.getElementById('repBulkMsg');
+  const msgEl = document.getElementById('modoBulkMsg');
   msgEl.className = 'repetidos-bulk-msg';
   msgEl.textContent = '';
 }
 
-document.getElementById('repBulkCaderneta').addEventListener('change', limparMsgBulk);
-
-document.getElementById('repBulkToggle').addEventListener('click', ()=>{
-  const body = document.getElementById('repBulkBody');
-  const seta = document.getElementById('repBulkToggleSeta');
+document.getElementById('modoBulkToggle').addEventListener('click', ()=>{
+  const body = document.getElementById('modoBulkBody');
+  const seta = document.getElementById('modoBulkToggleSeta');
   const aberto = body.style.display !== 'none';
   if(aberto){
     body.style.display = 'none';
@@ -1923,7 +1789,6 @@ document.getElementById('repBulkToggle').addEventListener('click', ()=>{
   } else {
     body.style.display = 'block';
     seta.textContent = '▴';
-    atualizarLabelsBulk();
   }
 });
 
@@ -1931,9 +1796,7 @@ document.getElementById('repBulkToggle').addEventListener('click', ()=>{
 window.addEventListener('popstate', (e)=>{
   const state = e.state;
   if(state && state.view === 'detail' && state.id){
-    openDetail(state.id, false, false, state.from || 'list');
-  } else if(state && state.view === 'repetidos'){
-    abrirRepetidosGeral(false);
+    openDetail(state.id, false, state.from || 'list');
   } else if(state && state.view === 'portfolio'){
     abrirMeuPortfolio(false);
   } else {
@@ -1945,9 +1808,7 @@ document.getElementById('searchInput').addEventListener('input', renderGrid);
 document.getElementById('editoraFilter').addEventListener('change', renderGrid);
 document.getElementById('temaFilter').addEventListener('change', renderGrid);
 document.getElementById('cromoSearch').addEventListener('input', ()=>renderCromosGrid(cromosCache[currentId()]));
-document.getElementById('cromoFaltaOnly').addEventListener('change', ()=>renderCromosGrid(cromosCache[currentId()]));
 document.getElementById('cromoEspecialOnly').addEventListener('change', ()=>renderCromosGrid(cromosCache[currentId()]));
-document.getElementById('cromoRepetidoOnly').addEventListener('change', ()=>renderCromosGrid(cromosCache[currentId()]));
 
 function abrirLightbox(cr){
   cromoAtualLightbox = cr;
@@ -2032,8 +1893,7 @@ let cromoAtualLightbox = null;
 function aplicarQtdNaGrelha(numero, qtd){
   const el = document.querySelector(`.cromo[data-numero="${CSS.escape(numero)}"]`);
   if(!el) return;
-  const repetidoOnly = document.getElementById('cromoRepetidoOnly').checked;
-  if(repetidoOnly && qtd <= 0){
+  if(modoAtual === 'repetidos' && qtd <= 0){
     el.remove();
     return;
   }
