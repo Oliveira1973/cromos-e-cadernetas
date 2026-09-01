@@ -1093,13 +1093,8 @@ async function carregarPortfolio(){
   const uid = auth.currentUser.uid;
   try{
     const snap = await db.collection('portfolio').where('uid','==',uid).get();
-    // diagnóstico temporário: confirmar exatamente o que a Firestore devolve
-    // para cada caderneta, para perceber porque é que uma remoção por vezes
-    // não fica persistida depois de um refresh
-    console.log('[portfolio] carregarPortfolio: ' + snap.size + ' documento(s) para uid=' + uid);
     snap.forEach(doc => {
       const d = doc.data();
-      console.log('[portfolio] doc.id=' + doc.id + ' cadernetaId=' + JSON.stringify(d.cadernetaId) + ' ativo=' + d.ativo);
       // ativo===false = foi removido do portefolio (ver nota em removerDoPortfolio
       // sobre porque nunca apagamos o documento); docs antigos sem este campo
       // contam como ativos
@@ -1153,6 +1148,12 @@ async function adicionarAoPortfolio(cadernetaId, cadernetaNome){
   }
 }
 
+// mensagem de confirmação mostrada antes de remover uma caderneta do
+// portefólio, porque isso apaga também as faltas e os repetidos guardados
+function confirmarRemocaoPortfolio(nomeCaderneta){
+  return confirm('Remover "' + nomeCaderneta + '" do teu portefólio?\n\nVais perder as faltas e os repetidos que tinhas marcados nesta caderneta.');
+}
+
 async function removerDoPortfolio(cadernetaId, cadernetaNome){
   if(!repetidosAtivo()) return;
   const uid = auth.currentUser.uid;
@@ -1180,11 +1181,47 @@ async function removerDoPortfolio(cadernetaId, cadernetaNome){
       })
     ));
 
-    // diagnóstico temporário: confirmar que ficaram mesmo todos marcados
-    console.log('[portfolio] removerDoPortfolio: ' + idsAMarcar.size + ' documento(s) marcados como inativos -> ' + [...idsAMarcar].join(', '));
+    // ao sair do portefólio, limpa também as faltas e os repetidos desta
+    // caderneta -- senão, se a caderneta for adicionada de novo mais tarde,
+    // reaparecem as faltas/repetidos de quando esteve lá da primeira vez.
+    // Tal como no resto do código, nunca apagamos os documentos (as regras
+    // do Firestore não permitem), gravamos falta:false / quantidade:0.
+    try{
+      const [faltasSnap, repetidosSnap] = await Promise.all([
+        db.collection('faltas').where('uid','==',uid).where('cadernetaId','==',cadernetaId).get(),
+        db.collection('repetidos').where('uid','==',uid).where('cadernetaId','==',cadernetaId).get()
+      ]);
+      await Promise.all([
+        ...faltasSnap.docs.filter(doc => doc.data().falta === true).map(doc => {
+          const d = doc.data();
+          return db.collection('faltas').doc(doc.id).set({
+            uid, cadernetaId, cadernetaNome: d.cadernetaNome || cadernetaNome || cadernetaId,
+            numero: d.numero, nomeCromo: d.nomeCromo || '', falta: false,
+            atualizadoEm: firebase.firestore.FieldValue.serverTimestamp()
+          });
+        }),
+        ...repetidosSnap.docs.filter(doc => doc.data().quantidade > 0).map(doc => {
+          const d = doc.data();
+          return db.collection('repetidos').doc(doc.id).set({
+            uid, email: auth.currentUser.email,
+            cadernetaId, cadernetaNome: d.cadernetaNome || cadernetaNome || cadernetaId,
+            numero: d.numero, nomeCromo: d.nomeCromo || '', quantidade: 0,
+            atualizadoEm: firebase.firestore.FieldValue.serverTimestamp()
+          });
+        })
+      ]);
+    }catch(errLimpeza){
+      console.warn('Não consegui limpar faltas/repetidos ao remover do portefólio:', errLimpeza);
+    }
 
     portfolioAtual.delete(cadernetaId);
     faltasGlobais.delete(cadernetaId);
+    // se a caderneta removida for a que está aberta neste momento, limpa
+    // também os mapas em memória para os controlos deixarem de a mostrar
+    if(currentId() === cadernetaId){
+      repetidosAtual = new Map();
+      faltasAtual = new Map();
+    }
   }catch(err){
     console.warn('Não consegui remover do portefólio:', err);
     alert('Não foi possível remover (sem ligação?). Tenta outra vez.');
@@ -1392,9 +1429,14 @@ async function renderGrid(){
     if(btnPortfolio){
       btnPortfolio.addEventListener('click', async (e)=>{
         e.stopPropagation();
-        btnPortfolio.disabled = true;
-        if(portfolioAtual.has(c.id)) await removerDoPortfolio(c.id, c.nome);
-        else await adicionarAoPortfolio(c.id, c.nome);
+        if(portfolioAtual.has(c.id)){
+          if(!confirmarRemocaoPortfolio(c.nome)) return;
+          btnPortfolio.disabled = true;
+          await removerDoPortfolio(c.id, c.nome);
+        } else {
+          btnPortfolio.disabled = true;
+          await adicionarAoPortfolio(c.id, c.nome);
+        }
         renderGrid();
         renderGlobalStats();
       });
@@ -1573,9 +1615,14 @@ document.getElementById('btnTogglePortfolio')?.addEventListener('click', async (
   if(!id) return;
   const c = cadernetas.find(x=>x.id===id);
   const btn = document.getElementById('btnTogglePortfolio');
-  btn.disabled = true;
-  if(portfolioAtual.has(id)) await removerDoPortfolio(id, c.nome);
-  else await adicionarAoPortfolio(id, c.nome);
+  if(portfolioAtual.has(id)){
+    if(!confirmarRemocaoPortfolio(c.nome)) return;
+    btn.disabled = true;
+    await removerDoPortfolio(id, c.nome);
+  } else {
+    btn.disabled = true;
+    await adicionarAoPortfolio(id, c.nome);
+  }
   btn.disabled = false;
   await carregarFaltasDaCaderneta(id);
   atualizarPainelPortfolio(id);
