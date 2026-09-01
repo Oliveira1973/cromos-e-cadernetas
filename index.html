@@ -137,6 +137,11 @@
     background:var(--ink); color:var(--paper); cursor:pointer;
   }
   .login-botoes button.secondary{ background:var(--card-bg); color:var(--ink); }
+  .login-alternar{ margin-top:12px; text-align:center; }
+  .login-alternar a{
+    font-family:'Space Mono', monospace; font-size:0.72rem;
+    color:var(--teal); text-decoration:underline; cursor:pointer;
+  }
 
   .toolbar{
     display:flex; gap:10px; flex-wrap:wrap; align-items:center;
@@ -254,6 +259,51 @@
   }
   .cad-card .bar-fill{ height:100%; background:var(--stamp-red); }
   .cad-card .bar-fill.complete{ background:var(--teal); }
+  .portfolio-btn{
+    display:block; width:100%; margin-top:10px;
+    font-family:'Space Mono', monospace; font-size:0.68rem; font-weight:700;
+    padding:7px 8px; border:2px solid var(--ink); border-radius:2px;
+    background:var(--stamp-red); color:var(--paper); cursor:pointer;
+  }
+  .portfolio-btn.no-portfolio{ background:var(--teal); }
+  .portfolio-btn:disabled{ opacity:0.6; cursor:default; }
+
+  #portfolioPainel{ margin-bottom:20px; }
+  .portfolio-btn-detalhe{
+    font-family:'Space Mono', monospace; font-size:0.8rem; font-weight:700;
+    padding:9px 16px; border:2px solid var(--ink); border-radius:2px;
+    background:var(--stamp-red); color:var(--paper); cursor:pointer;
+  }
+  .portfolio-btn-detalhe.no-portfolio{ background:var(--teal); }
+  .portfolio-btn-detalhe:disabled{ opacity:0.6; cursor:default; }
+  .portfolio-aviso{
+    margin-top:8px;
+    font-family:'Space Mono', monospace; font-size:0.72rem;
+    color:var(--ink-soft);
+    max-width:480px;
+  }
+  #trocasPainel{ margin-top:14px; }
+  #trocasPainel .botao-secundario{ margin-bottom:10px; }
+  .trocas-resultado .empty{ padding:14px 0; text-align:left; }
+  .troca-pessoa{
+    background:var(--card-bg);
+    border:2px solid var(--ink);
+    border-radius:3px;
+    padding:10px 14px;
+    margin-bottom:10px;
+    max-width:480px;
+  }
+  .troca-pessoa h4{
+    font-family:'Space Mono', monospace; font-size:0.78rem;
+    color:var(--stamp-red); margin:0 0 8px;
+  }
+  .troca-itens{ display:flex; flex-wrap:wrap; gap:6px; }
+  .troca-item{
+    font-family:'Space Mono', monospace; font-size:0.75rem;
+    background:var(--paper); border:1.5px solid var(--ink);
+    border-radius:2px; padding:4px 8px;
+  }
+  .troca-item .qtd{ color:var(--teal); font-weight:700; }
 
   /* empty state */
   .empty{
@@ -650,6 +700,15 @@
     color:var(--mustard);
   }
 
+  .lightbox-tenho{ margin-top:14px; text-align:center; }
+  #lightboxTenhoBtn{
+    font-family:'Space Mono', monospace; font-weight:700; font-size:0.8rem;
+    padding:8px 16px; border:2px solid var(--paper); border-radius:2px;
+    background:transparent; color:var(--paper); cursor:pointer;
+  }
+  #lightboxTenhoBtn.marcar-tenho{ background:var(--teal); border-color:var(--teal); }
+  #lightboxTenhoBtn.marcar-falta{ background:var(--stamp-red); border-color:var(--stamp-red); }
+
   @media (prefers-reduced-motion: reduce){
     .cad-card{ transition:none; }
     .cromo.foil .legenda{ animation:none; background-position:50% 50%; }
@@ -676,13 +735,16 @@
 
   <div id="loginModal" class="lightbox">
     <div class="login-caixa" onclick="event.stopPropagation()">
-      <h3>Entrar</h3>
+      <h3 id="loginTitulo">Entrar</h3>
       <input type="email" id="loginEmail" placeholder="email">
-      <input type="password" id="loginPassword" placeholder="password">
+      <input type="password" id="loginPassword" placeholder="password (mín. 6 caracteres)">
       <div class="login-erro" id="loginErro"></div>
       <div class="login-botoes">
         <button id="btnLoginSubmit">Entrar</button>
         <button id="btnLoginCancelar" class="secondary">Cancelar</button>
+      </div>
+      <div class="login-alternar">
+        <a href="#" id="linkAlternarModo">Ainda não tens conta? Cria uma aqui.</a>
       </div>
     </div>
   </div>
@@ -718,15 +780,20 @@
         <span id="repBulkToggleSeta">▾</span>
       </button>
       <div id="repBulkBody" class="repetidos-bulk-body" style="display:none;">
+        <label for="repBulkTipo">O que estás a marcar</label>
+        <select id="repBulkTipo">
+          <option value="falta">Faltas (cromos que não tens)</option>
+          <option value="repetido">Repetidos (cromos a mais)</option>
+        </select>
         <label for="repBulkCaderneta">Caderneta</label>
         <select id="repBulkCaderneta">
           <option value="">Escolhe uma caderneta...</option>
         </select>
         <label for="repBulkNumeros">Números dos cromos</label>
-        <textarea id="repBulkNumeros" placeholder="Cola aqui os números, um por linha ou separados por vírgula.&#10;Podes repetir o número (23, 23, 45) ou usar 23(2), 45(1) para indicar a quantidade diretamente."></textarea>
+        <textarea id="repBulkNumeros" placeholder="Cola aqui os números, um por linha ou separados por vírgula.&#10;Para repetidos, podes usar 23(2), 45(1) para indicar a quantidade diretamente."></textarea>
         <div class="repetidos-bulk-botoes">
-          <button id="repBulkAdd">➕ Adicionar aos repetidos</button>
-          <button id="repBulkRemove" class="secondary">➖ Remover dos repetidos</button>
+          <button id="repBulkAdd">➕ Adicionar</button>
+          <button id="repBulkRemove" class="secondary">➖ Remover</button>
         </div>
         <div class="repetidos-bulk-msg" id="repBulkMsg"></div>
       </div>
@@ -750,6 +817,17 @@
           <div class="stat"><span class="num" id="detailPct"></span><span class="lbl">completo</span></div>
         </div>
         <div class="detail-progress"><div class="fill" id="detailFill"></div></div>
+      </div>
+    </div>
+
+    <div id="portfolioPainel" style="display:none;">
+      <button type="button" id="btnTogglePortfolio" class="portfolio-btn-detalhe"></button>
+      <div id="portfolioAviso" class="portfolio-aviso">
+        As estatísticas acima mostram o catálogo geral. Adiciona esta caderneta ao teu portefólio para começares a marcar as tuas próprias faltas e repetidos.
+      </div>
+      <div id="trocasPainel" style="display:none;">
+        <button type="button" id="btnVerTrocas" class="botao-secundario">🔍 Ver trocas possíveis</button>
+        <div id="trocasResultado" class="trocas-resultado"></div>
       </div>
     </div>
 
@@ -783,6 +861,9 @@
         <span id="lightboxNome"></span>
       </div>
       <div class="lightbox-clube" id="lightboxClube"></div>
+      <div class="lightbox-tenho" id="lightboxTenhoWrap" style="display:none;">
+        <button id="lightboxTenhoBtn" type="button"></button>
+      </div>
       <div class="lightbox-repetido" id="lightboxRepetidoWrap" style="display:none;">
         <span>Repetidos:</span>
         <button id="repBtnMenos" type="button">−</button>
@@ -814,6 +895,15 @@ function resolvePath(relPath){
 let cadernetas = [];
 let cromosCache = {};
 
+// mapa numero -> quantidade, para a caderneta atualmente aberta (repetidos)
+let repetidosAtual = new Map();
+// mapa numero -> true, para a caderneta atualmente aberta (faltas pessoais)
+let faltasAtual = new Map();
+// cadernetas que a pessoa está a acompanhar: Set de cadernetaId
+let portfolioAtual = new Set();
+// todas as faltas da pessoa, agrupadas por caderneta: cadernetaId -> Map(numero->true)
+let faltasGlobais = new Map();
+
 /* ====== FIREBASE (repetidos) ======
    Cola aqui a configuração que copiaste da consola do Firebase
    (Definições do projeto → Os teus apps → configuração SDK).
@@ -829,6 +919,11 @@ const FIREBASE_CONFIG = {
   messagingSenderId: "832369414085",
   appId: "1:832369414085:web:999b408a16981a66b845ac"
 };
+
+// email da conta do dono do site -- quando esta conta adiciona uma
+// caderneta ao portefólio pela primeira vez, o "tenho/falta" que já
+// estava gravado no ficheiro JSON é usado como ponto de partida
+const OWNER_EMAIL = "antonio.oliveirinha@gmail.com";
 
 let db = null;
 let auth = null;
@@ -858,7 +953,7 @@ if(auth){
   });
 }
 
-function atualizarUIAutenticacao(){
+async function atualizarUIAutenticacao(){
   const ativo = repetidosAtivo();
   document.getElementById('acoesTopo').style.display = ativo ? 'block' : 'none';
   document.getElementById('loginStatus').textContent = autenticado
@@ -866,6 +961,15 @@ function atualizarUIAutenticacao(){
     : '';
   document.getElementById('btnLogin').style.display = autenticado ? 'none' : 'inline';
   document.getElementById('btnLogout').style.display = autenticado ? 'inline' : 'none';
+
+  await carregarPortfolio();
+  renderGlobalStats();
+
+  // se a lista de cadernetas já estiver carregada, volta a desenhar (para
+  // mostrar o botão de portefólio e as estatísticas pessoais corretas)
+  if(cadernetas.length && !document.getElementById('listView').classList.contains('hidden')){
+    renderGrid();
+  }
 
   // se estivermos numa caderneta aberta, atualiza também os controlos dela
   const idAtual = currentId();
@@ -875,18 +979,42 @@ function atualizarUIAutenticacao(){
       document.getElementById('cromoRepetidoOnly').checked = false;
     }
     if(cromosCache[idAtual]){
-      carregarRepetidosDaCaderneta(idAtual).then(()=> renderCromosGrid(cromosCache[idAtual]));
+      await carregarRepetidosDaCaderneta(idAtual);
+      await carregarFaltasDaCaderneta(idAtual);
+      atualizarPainelPortfolio(idAtual);
+      renderCromosGrid(cromosCache[idAtual]);
     }
   }
 }
 
+
+let modoLoginModal = 'entrar'; // 'entrar' ou 'registar'
+
 function abrirLoginModal(){
+  modoLoginModal = 'entrar';
+  aplicarModoLoginModal();
   document.getElementById('loginEmail').value = '';
   document.getElementById('loginPassword').value = '';
   document.getElementById('loginErro').textContent = '';
   document.getElementById('loginModal').classList.add('aberto');
   document.getElementById('loginEmail').focus();
 }
+
+function aplicarModoLoginModal(){
+  const entrar = modoLoginModal === 'entrar';
+  document.getElementById('loginTitulo').textContent = entrar ? 'Entrar' : 'Criar conta';
+  document.getElementById('btnLoginSubmit').textContent = entrar ? 'Entrar' : 'Criar conta';
+  document.getElementById('linkAlternarModo').textContent = entrar
+    ? 'Ainda não tens conta? Cria uma aqui.'
+    : 'Já tens conta? Entra aqui.';
+  document.getElementById('loginErro').textContent = '';
+}
+
+document.getElementById('linkAlternarModo').addEventListener('click', (e)=>{
+  e.preventDefault();
+  modoLoginModal = modoLoginModal === 'entrar' ? 'registar' : 'entrar';
+  aplicarModoLoginModal();
+});
 
 function fecharLoginModal(){
   document.getElementById('loginModal').classList.remove('aberto');
@@ -915,11 +1043,24 @@ async function fazerLogin(){
     erroEl.textContent = 'Preenche o email e a password.';
     return;
   }
+  if(modoLoginModal === 'registar' && password.length < 6){
+    erroEl.textContent = 'A password precisa de pelo menos 6 caracteres.';
+    return;
+  }
+
   try{
-    await auth.signInWithEmailAndPassword(email, password);
+    if(modoLoginModal === 'entrar'){
+      await auth.signInWithEmailAndPassword(email, password);
+    } else {
+      await auth.createUserWithEmailAndPassword(email, password);
+    }
     fecharLoginModal();
   }catch(err){
-    erroEl.textContent = 'Email ou password incorretos.';
+    if(err.code === 'auth/email-already-in-use') erroEl.textContent = 'Já existe uma conta com este email.';
+    else if(err.code === 'auth/weak-password') erroEl.textContent = 'Password demasiado fraca (mínimo 6 caracteres).';
+    else if(err.code === 'auth/invalid-email') erroEl.textContent = 'Email inválido.';
+    else if(modoLoginModal === 'entrar') erroEl.textContent = 'Email ou password incorretos.';
+    else erroEl.textContent = 'Não foi possível criar a conta. Tenta outra vez.';
   }
 }
 
@@ -927,18 +1068,113 @@ document.getElementById('btnLogout').addEventListener('click', ()=>{
   if(auth) auth.signOut();
 });
 
-function idRepetido(cadernetaId, numero){
-  return `${cadernetaId}__${numero}`.replace(/[/\s]/g, '_');
+function idRepetido(uid, cadernetaId, numero){
+  return `${uid}__${cadernetaId}__${numero}`.replace(/[/\s]/g, '_');
+}
+function idFalta(uid, cadernetaId, numero){
+  return `${uid}__${cadernetaId}__${numero}`.replace(/[/\s]/g, '_');
+}
+function idPortfolio(uid, cadernetaId){
+  return `${uid}__${cadernetaId}`.replace(/[/\s]/g, '_');
 }
 
-// mapa numero -> quantidade, para a caderneta atualmente aberta
-let repetidosAtual = new Map();
+async function carregarPortfolio(){
+  portfolioAtual = new Set();
+  faltasGlobais = new Map();
+  if(!repetidosAtivo()) return;
+  const uid = auth.currentUser.uid;
+  try{
+    const snap = await db.collection('portfolio').where('uid','==',uid).get();
+    snap.forEach(doc => portfolioAtual.add(doc.data().cadernetaId));
+  }catch(err){
+    console.warn('Não consegui carregar o portefólio:', err);
+  }
+  try{
+    const snap = await db.collection('faltas').where('uid','==',uid).where('falta','==',true).get();
+    snap.forEach(doc=>{
+      const d = doc.data();
+      if(!faltasGlobais.has(d.cadernetaId)) faltasGlobais.set(d.cadernetaId, new Map());
+      faltasGlobais.get(d.cadernetaId).set(d.numero, true);
+    });
+  }catch(err){
+    console.warn('Não consegui carregar as faltas:', err);
+  }
+}
+
+// diz se a pessoa TEM este cromo, tendo em conta o portefólio pessoal --
+// se a caderneta não estiver no portefólio, usa o valor de referência do catálogo
+function efetivoTenho(cadernetaId, cromo){
+  if(repetidosAtivo() && portfolioAtual.has(cadernetaId)){
+    const faltasDaCaderneta = faltasGlobais.get(cadernetaId);
+    return !(faltasDaCaderneta && faltasDaCaderneta.has(cromo.numero));
+  }
+  return cromo.tenho;
+}
+
+async function adicionarAoPortfolio(cadernetaId, cadernetaNome){
+  if(!repetidosAtivo() || portfolioAtual.has(cadernetaId)) return;
+  const uid = auth.currentUser.uid;
+  try{
+    await db.collection('portfolio').doc(idPortfolio(uid, cadernetaId)).set({
+      uid, cadernetaId, cadernetaNome,
+      adicionadoEm: firebase.firestore.FieldValue.serverTimestamp()
+    });
+    portfolioAtual.add(cadernetaId);
+
+    // a conta do dono do site começa com o tenho/falta que já estava
+    // gravado no ficheiro JSON, em vez de começar do zero
+    if(auth.currentUser.email === OWNER_EMAIL){
+      const cromos = await loadCromos(cadernetaId);
+      const faltantes = cromos.filter(c => !c.tenho);
+      await Promise.all(faltantes.map(cr => gravarFalta(cadernetaId, cadernetaNome, cr.numero, cr.nome||'', true)));
+    }
+  }catch(err){
+    console.warn('Não consegui adicionar ao portefólio:', err);
+    alert('Não foi possível adicionar ao portefólio. Tenta outra vez.');
+  }
+}
+
+async function removerDoPortfolio(cadernetaId){
+  if(!repetidosAtivo()) return;
+  const uid = auth.currentUser.uid;
+  try{
+    await db.collection('portfolio').doc(idPortfolio(uid, cadernetaId)).delete();
+    portfolioAtual.delete(cadernetaId);
+    faltasGlobais.delete(cadernetaId);
+  }catch(err){
+    console.warn('Não consegui remover do portefólio:', err);
+    alert('Não foi possível remover (sem ligação?). Tenta outra vez.');
+  }
+}
+
+async function carregarFaltasDaCaderneta(cadernetaId){
+  faltasAtual = faltasGlobais.get(cadernetaId) || new Map();
+}
+
+async function gravarFalta(cadernetaId, cadernetaNome, numero, nomeCromo, falta){
+  if(!repetidosAtivo()) return;
+  const uid = auth.currentUser.uid;
+  try{
+    await db.collection('faltas').doc(idFalta(uid, cadernetaId, numero)).set({
+      uid, cadernetaId, cadernetaNome, numero, nomeCromo, falta,
+      atualizadoEm: firebase.firestore.FieldValue.serverTimestamp()
+    });
+    if(!faltasGlobais.has(cadernetaId)) faltasGlobais.set(cadernetaId, new Map());
+    if(falta) faltasGlobais.get(cadernetaId).set(numero, true);
+    else faltasGlobais.get(cadernetaId).delete(numero);
+    if(currentId() === cadernetaId) faltasAtual = faltasGlobais.get(cadernetaId);
+  }catch(err){
+    console.warn('Não consegui gravar a falta:', err);
+    alert('Não foi possível guardar (sem ligação?). Tenta outra vez.');
+  }
+}
 
 async function carregarRepetidosDaCaderneta(cadernetaId){
   repetidosAtual = new Map();
   if(!repetidosAtivo()) return;
   try{
-    const snap = await db.collection('repetidos').where('cadernetaId','==',cadernetaId).get();
+    const uid = auth.currentUser.uid;
+    const snap = await db.collection('repetidos').where('uid','==',uid).where('cadernetaId','==',cadernetaId).get();
     snap.forEach(doc=>{
       const d = doc.data();
       if(d.quantidade > 0) repetidosAtual.set(d.numero, d.quantidade);
@@ -950,12 +1186,13 @@ async function carregarRepetidosDaCaderneta(cadernetaId){
 
 async function gravarRepetido(cadernetaId, cadernetaNome, numero, nomeCromo, quantidade){
   if(!repetidosAtivo()) return;
-  const ref = db.collection('repetidos').doc(idRepetido(cadernetaId, numero));
+  const uid = auth.currentUser.uid;
   try{
     // gravamos sempre (mesmo quantidade=0) em vez de apagar -- assim só
     // precisamos de permissão de escrita nas regras do Firestore, nunca
     // de permissão de apagar. O resto do site já ignora quantidade<=0.
-    await ref.set({
+    await db.collection('repetidos').doc(idRepetido(uid, cadernetaId, numero)).set({
+      uid, email: auth.currentUser.email,
       cadernetaId, cadernetaNome, numero, nomeCromo,
       quantidade,
       atualizadoEm: firebase.firestore.FieldValue.serverTimestamp()
@@ -971,7 +1208,8 @@ async function gravarRepetido(cadernetaId, cadernetaNome, numero, nomeCromo, qua
 async function carregarTodosRepetidos(){
   if(!repetidosAtivo()) return [];
   try{
-    const snap = await db.collection('repetidos').where('quantidade','>',0).get();
+    const uid = auth.currentUser.uid;
+    const snap = await db.collection('repetidos').where('uid','==',uid).where('quantidade','>',0).get();
     const lista = [];
     snap.forEach(doc=>lista.push(doc.data()));
     lista.sort((a,b)=> a.cadernetaNome.localeCompare(b.cadernetaNome,'pt') || a.numero.localeCompare(b.numero,'pt',{numeric:true}));
@@ -980,6 +1218,42 @@ async function carregarTodosRepetidos(){
     console.warn('Não consegui carregar a lista de repetidos:', err);
     return [];
   }
+}
+
+// procura, entre os repetidos de TODAS as pessoas, os que correspondem às
+// tuas próprias faltas nesta caderneta (as regras do Firestore só deixam
+// ver os que realmente correspondem a uma falta tua)
+async function procurarTrocas(cadernetaId){
+  if(!repetidosAtivo()) return [];
+  const faltasMap = faltasGlobais.get(cadernetaId);
+  if(!faltasMap || faltasMap.size === 0) return [];
+  const numeros = [...faltasMap.keys()];
+  const uid = auth.currentUser.uid;
+
+  const grupos = [];
+  for(let i=0; i<numeros.length; i+=10){
+    grupos.push(numeros.slice(i, i+10));
+  }
+
+  const resultados = [];
+  try{
+    const listas = await Promise.all(grupos.map(g =>
+      db.collection('repetidos')
+        .where('cadernetaId','==',cadernetaId)
+        .where('numero','in', g)
+        .get()
+    ));
+    listas.forEach(snap=>{
+      snap.forEach(doc=>{
+        const d = doc.data();
+        if(d.uid !== uid && d.quantidade > 0) resultados.push(d);
+      });
+    });
+  }catch(err){
+    console.warn('Não consegui procurar trocas:', err);
+  }
+  resultados.sort((a,b)=> a.numero.localeCompare(b.numero,'pt',{numeric:true}));
+  return resultados;
 }
 
 async function loadCadernetas(){
@@ -998,24 +1272,29 @@ async function loadCromos(id){
   return data;
 }
 
-function stats(cromos){
+function stats(cromos, cadernetaId){
   const total = cromos.length;
-  const tenho = cromos.filter(c => c.tenho).length;
+  const tenho = cadernetaId
+    ? cromos.filter(c => efetivoTenho(cadernetaId, c)).length
+    : cromos.filter(c => c.tenho).length;
   const falta = total - tenho;
   const pct = total ? Math.round((tenho/total)*100) : 0;
   return {total, tenho, falta, pct};
 }
 
 function renderGlobalStats(){
+  const logado = repetidosAtivo();
+  const listaRelevante = logado ? cadernetas.filter(c => portfolioAtual.has(c.id)) : cadernetas;
+
   let totalCromosTodas = 0, totalTenho = 0;
-  const promises = cadernetas.map(c => loadCromos(c.id).then(list => {
+  const promises = listaRelevante.map(c => loadCromos(c.id).then(list => {
     totalCromosTodas += list.length;
-    totalTenho += list.filter(x=>x.tenho).length;
+    totalTenho += list.filter(x => efetivoTenho(c.id, x)).length;
   }));
   Promise.all(promises).then(()=>{
     const pct = totalCromosTodas ? Math.round((totalTenho/totalCromosTodas)*100) : 0;
     document.getElementById('globalStats').innerHTML = `
-      <div class="stat"><span class="num">${cadernetas.length}</span><span class="lbl">cadernetas</span></div>
+      <div class="stat"><span class="num">${listaRelevante.length}</span><span class="lbl">${logado ? 'no portefólio' : 'cadernetas'}</span></div>
       <div class="stat"><span class="num">${totalTenho}</span><span class="lbl">cromos tenho</span></div>
       <div class="stat"><span class="num">${pct}%</span><span class="lbl">completo</span></div>
     `;
@@ -1058,7 +1337,7 @@ async function renderGrid(){
     if(search && !(c.nome.toLowerCase().includes(search) || c.editora.toLowerCase().includes(search))) continue;
 
     const cromos = await loadCromos(c.id);
-    const s = stats(cromos);
+    const s = stats(cromos, c.id);
     if(incompleteOnly && s.falta === 0) continue;
 
     shown++;
@@ -1066,6 +1345,7 @@ async function renderGrid(){
     card.className = 'cad-card';
     card.tabIndex = 0;
     card.setAttribute('role','button');
+    const noPortfolio = portfolioAtual.has(c.id);
     card.innerHTML = `
       <div class="cover ${c.capa ? 'imagem-auto' : ''}">
         <div class="tape"></div>
@@ -1077,10 +1357,21 @@ async function renderGrid(){
         <h3>${c.nome}</h3>
         <div class="meta">${s.tenho} / ${s.total} cromos</div>
         <div class="bar-track"><div class="bar-fill ${s.falta===0?'complete':''}" style="width:${s.pct}%"></div></div>
+        ${repetidosAtivo() ? `<button type="button" class="portfolio-btn ${noPortfolio?'no-portfolio':''}">${noPortfolio ? '✓ No meu portefólio' : '➕ Adicionar ao portefólio'}</button>` : ''}
       </div>
     `;
     card.addEventListener('click', ()=>openDetail(c.id));
     card.addEventListener('keypress', (e)=>{ if(e.key==='Enter') openDetail(c.id); });
+    const btnPortfolio = card.querySelector('.portfolio-btn');
+    if(btnPortfolio){
+      btnPortfolio.addEventListener('click', async (e)=>{
+        e.stopPropagation();
+        btnPortfolio.disabled = true;
+        if(portfolioAtual.has(c.id)) await removerDoPortfolio(c.id);
+        else await adicionarAoPortfolio(c.id, c.nome);
+        renderGrid();
+      });
+    }
     grid.appendChild(card);
   }
 
@@ -1094,7 +1385,7 @@ function initials(nome){
 async function openDetail(id, pushHistory=true, soRepetidos=false){
   const c = cadernetas.find(x=>x.id===id);
   const cromos = await loadCromos(id);
-  const s = stats(cromos);
+  const s = stats(cromos, id);
 
   document.getElementById('listView').classList.add('hidden');
   document.getElementById('detail').classList.add('active');
@@ -1122,11 +1413,81 @@ async function openDetail(id, pushHistory=true, soRepetidos=false){
   document.getElementById('cromoRepetidoOnlyWrap').style.display = repetidosAtivo() ? '' : 'none';
 
   await carregarRepetidosDaCaderneta(id);
+  await carregarFaltasDaCaderneta(id);
+  atualizarPainelPortfolio(id);
   document.getElementById('cromoRepetidoOnly').checked = soRepetidos && repetidosAtivo();
   renderCromosGrid(cromos);
 
   window.scrollTo({top:0, behavior:'instant'});
 }
+
+function atualizarPainelPortfolio(cadernetaId){
+  const wrap = document.getElementById('portfolioPainel');
+  if(!wrap) return;
+  if(!repetidosAtivo()){
+    wrap.style.display = 'none';
+    return;
+  }
+  wrap.style.display = 'block';
+  const noPortfolio = portfolioAtual.has(cadernetaId);
+  const btn = document.getElementById('btnTogglePortfolio');
+  btn.textContent = noPortfolio ? '✓ No meu portefólio (remover)' : '➕ Adicionar ao meu portefólio';
+  btn.className = 'portfolio-btn-detalhe' + (noPortfolio ? ' no-portfolio' : '');
+  document.getElementById('portfolioAviso').style.display = noPortfolio ? 'none' : 'block';
+  document.getElementById('trocasPainel').style.display = noPortfolio ? 'block' : 'none';
+  document.getElementById('trocasResultado').innerHTML = '';
+}
+
+document.getElementById('btnVerTrocas')?.addEventListener('click', async ()=>{
+  const cadernetaId = currentId();
+  if(!cadernetaId) return;
+  const resEl = document.getElementById('trocasResultado');
+  resEl.innerHTML = '<div class="empty">A procurar...</div>';
+
+  const trocas = await procurarTrocas(cadernetaId);
+  if(trocas.length === 0){
+    resEl.innerHTML = '<div class="empty">Ainda não há correspondências entre as tuas faltas e os repetidos de outras pessoas.</div>';
+    return;
+  }
+
+  const porPessoa = new Map();
+  trocas.forEach(t=>{
+    if(!porPessoa.has(t.email)) porPessoa.set(t.email, []);
+    porPessoa.get(t.email).push(t);
+  });
+
+  let html = '';
+  porPessoa.forEach((itens, email)=>{
+    html += `<div class="troca-pessoa"><h4>${email}</h4><div class="troca-itens">`;
+    itens.forEach(it=>{
+      html += `<span class="troca-item">${it.numero}${it.nomeCromo ? ' · '+it.nomeCromo : ''} <span class="qtd">×${it.quantidade}</span></span>`;
+    });
+    html += `</div></div>`;
+  });
+  resEl.innerHTML = html;
+});
+
+document.getElementById('btnTogglePortfolio')?.addEventListener('click', async ()=>{
+  const id = currentId();
+  if(!id) return;
+  const c = cadernetas.find(x=>x.id===id);
+  const btn = document.getElementById('btnTogglePortfolio');
+  btn.disabled = true;
+  if(portfolioAtual.has(id)) await removerDoPortfolio(id);
+  else await adicionarAoPortfolio(id, c.nome);
+  btn.disabled = false;
+  await carregarFaltasDaCaderneta(id);
+  atualizarPainelPortfolio(id);
+  const cromos = await loadCromos(id);
+  const s = stats(cromos, id);
+  document.getElementById('detailTenho').textContent = s.tenho;
+  document.getElementById('detailFalta').textContent = s.falta;
+  document.getElementById('detailPct').textContent = s.pct + '%';
+  const fill = document.getElementById('detailFill');
+  fill.style.width = s.pct + '%';
+  fill.className = 'fill ' + (s.falta===0 ? 'complete':'');
+  renderCromosGrid(cromos);
+});
 
 function renderCromosGrid(cromos){
   const grid = document.getElementById('cromosGrid');
@@ -1134,11 +1495,13 @@ function renderCromosGrid(cromos){
   const faltaOnly = document.getElementById('cromoFaltaOnly').checked;
   const especialOnly = document.getElementById('cromoEspecialOnly').checked;
   const repetidoOnly = document.getElementById('cromoRepetidoOnly').checked;
+  const cadernetaId = currentId();
 
   grid.innerHTML = '';
   cromos.forEach(cr=>{
+    const tem = efetivoTenho(cadernetaId, cr);
     const qtdRepetido = repetidosAtual.get(cr.numero) || 0;
-    if(faltaOnly && cr.tenho) return;
+    if(faltaOnly && tem) return;
     if(especialOnly && !cr.especial) return;
     if(repetidoOnly && qtdRepetido <= 0) return;
     if(search && !(cr.numero.toLowerCase().includes(search) || (cr.nome||'').toLowerCase().includes(search))) return;
@@ -1154,7 +1517,7 @@ function renderCromosGrid(cromos){
       ${cr.especial ? '<div class="star">★</div>' : ''}
       ${qtdRepetido > 0 ? `<div class="repetido-badge">×${qtdRepetido}</div>` : ''}
     `;
-    el.className = 'cromo ' + (cr.tenho ? 'tenho' : 'falta') + (temImagem ? ' tem-imagem' : '') + (isFoil ? ' foil' : '');
+    el.className = 'cromo ' + (tem ? 'tenho' : 'falta') + (temImagem ? ' tem-imagem' : '') + (isFoil ? ' foil' : '');
     el.dataset.numero = cr.numero;
     if(temImagem){
       el.innerHTML = `
@@ -1321,8 +1684,9 @@ async function buscarRepetidosMap(cadernetaId){
   return mapa;
 }
 
-async function aplicarBulkRepetidos(modo){
+async function aplicarBulkPessoal(modo){
   const msgEl = document.getElementById('repBulkMsg');
+  const tipo = document.getElementById('repBulkTipo').value; // 'falta' ou 'repetido'
   const cadernetaId = document.getElementById('repBulkCaderneta').value;
   const texto = document.getElementById('repBulkNumeros').value;
 
@@ -1357,25 +1721,37 @@ async function aplicarBulkRepetidos(modo){
   const infoCromos = new Map();
   cromosDaCaderneta.forEach(cr => infoCromos.set(cr.numero.toUpperCase(), cr));
 
-  const atuais = await buscarRepetidosMap(cadernetaId);
+  // garante que a caderneta fica no portefólio (não faz nada se já lá estiver)
+  await adicionarAoPortfolio(cadernetaId, c.nome);
 
   const naoEncontrados = [];
   const alterados = [];
   const promessas = [];
 
-  contagemColados.forEach((ocorrencias, chave)=>{
-    const cromo = infoCromos.get(chave);
-    if(!cromo){
-      naoEncontrados.push(chave);
-      return;
-    }
-    const atual = atuais.get(cromo.numero) || 0;
-    let nova = modo === 'add' ? atual + ocorrencias : atual - ocorrencias;
-    nova = Math.max(0, Math.min(99, nova));
-    if(nova === atual) return;
-    alterados.push(`${cromo.numero} (${atual}→${nova})`);
-    promessas.push(gravarRepetido(cadernetaId, c.nome, cromo.numero, cromo.nome || '', nova));
-  });
+  if(tipo === 'repetido'){
+    const atuais = await buscarRepetidosMap(cadernetaId);
+    contagemColados.forEach((ocorrencias, chave)=>{
+      const cromo = infoCromos.get(chave);
+      if(!cromo){ naoEncontrados.push(chave); return; }
+      const atual = atuais.get(cromo.numero) || 0;
+      let nova = modo === 'add' ? atual + ocorrencias : atual - ocorrencias;
+      nova = Math.max(0, Math.min(99, nova));
+      if(nova === atual) return;
+      alterados.push(`${cromo.numero} (${atual}→${nova})`);
+      promessas.push(gravarRepetido(cadernetaId, c.nome, cromo.numero, cromo.nome || '', nova));
+    });
+  } else {
+    const atuais = faltasGlobais.get(cadernetaId) || new Map();
+    contagemColados.forEach((ocorrencias, chave)=>{
+      const cromo = infoCromos.get(chave);
+      if(!cromo){ naoEncontrados.push(chave); return; }
+      const tinhaFalta = atuais.has(cromo.numero);
+      const novaFalta = modo === 'add';
+      if(tinhaFalta === novaFalta) return;
+      alterados.push(`${cromo.numero} (${novaFalta ? 'agora falta' : 'agora tens'})`);
+      promessas.push(gravarFalta(cadernetaId, c.nome, cromo.numero, cromo.nome || '', novaFalta));
+    });
+  }
 
   await Promise.all(promessas);
 
@@ -1395,24 +1771,34 @@ async function aplicarBulkRepetidos(modo){
 
   if(alterados.length){
     document.getElementById('repBulkNumeros').value = '';
-    // se a caderneta atualizada corresponder à que está aberta em detalhe, atualiza a grelha também
     if(currentId() === cadernetaId){
       await carregarRepetidosDaCaderneta(cadernetaId);
+      await carregarFaltasDaCaderneta(cadernetaId);
+      atualizarPainelPortfolio(cadernetaId);
       renderCromosGrid(cromosCache[cadernetaId]);
     }
-    // refresca a lista visual de repetidos por baixo, mantendo o formulário
-    const lista = await carregarTodosRepetidos();
-    const conteudo = document.getElementById('repetidosGeralConteudo');
-    if(lista.length === 0){
-      conteudo.innerHTML = '<div class="empty">Ainda não marcaste nenhum cromo como repetido.</div>';
-    } else {
-      await renderizarListaRepetidos(lista);
+    if(tipo === 'repetido'){
+      const lista = await carregarTodosRepetidos();
+      const conteudo = document.getElementById('repetidosGeralConteudo');
+      if(lista.length === 0){
+        conteudo.innerHTML = '<div class="empty">Ainda não marcaste nenhum cromo como repetido.</div>';
+      } else {
+        await renderizarListaRepetidos(lista);
+      }
     }
+    renderGlobalStats();
   }
 }
 
-document.getElementById('repBulkAdd').addEventListener('click', ()=>aplicarBulkRepetidos('add'));
-document.getElementById('repBulkRemove').addEventListener('click', ()=>aplicarBulkRepetidos('remove'));
+function atualizarLabelsBulk(){
+  const tipo = document.getElementById('repBulkTipo').value;
+  document.getElementById('repBulkAdd').textContent = tipo === 'falta' ? '➕ Marcar como falta' : '➕ Adicionar aos repetidos';
+  document.getElementById('repBulkRemove').textContent = tipo === 'falta' ? '➖ Já não falta (tenho)' : '➖ Remover dos repetidos';
+}
+
+document.getElementById('repBulkAdd').addEventListener('click', ()=>aplicarBulkPessoal('add'));
+document.getElementById('repBulkRemove').addEventListener('click', ()=>aplicarBulkPessoal('remove'));
+document.getElementById('repBulkTipo').addEventListener('change', ()=>{ limparMsgBulk(); atualizarLabelsBulk(); });
 
 function limparMsgBulk(){
   const msgEl = document.getElementById('repBulkMsg');
@@ -1433,6 +1819,7 @@ document.getElementById('repBulkToggle').addEventListener('click', ()=>{
   } else {
     body.style.display = 'block';
     seta.textContent = '▴';
+    atualizarLabelsBulk();
   }
 });
 
@@ -1470,6 +1857,15 @@ function abrirLightbox(cr){
   document.getElementById('lightboxNome').textContent = cr.nome || '';
   document.getElementById('lightboxClube').textContent = cr.clube || '';
 
+  const cadernetaIdAtual = currentId();
+  const tenhoWrap = document.getElementById('lightboxTenhoWrap');
+  if(repetidosAtivo() && portfolioAtual.has(cadernetaIdAtual)){
+    tenhoWrap.style.display = 'block';
+    atualizarBotaoTenho(cr, cadernetaIdAtual);
+  } else {
+    tenhoWrap.style.display = 'none';
+  }
+
   const repWrap = document.getElementById('lightboxRepetidoWrap');
   if(repetidosAtivo()){
     repWrap.style.display = 'flex';
@@ -1480,6 +1876,43 @@ function abrirLightbox(cr){
 
   document.getElementById('lightbox').classList.add('aberto');
 }
+
+function atualizarBotaoTenho(cr, cadernetaId){
+  const btn = document.getElementById('lightboxTenhoBtn');
+  const tem = efetivoTenho(cadernetaId, cr);
+  if(tem){
+    btn.textContent = '✓ Tenho — marcar como falta';
+    btn.className = 'marcar-tenho';
+  } else {
+    btn.textContent = '✗ Falta — marcar como tenho';
+    btn.className = 'marcar-falta';
+  }
+}
+
+document.getElementById('lightboxTenhoBtn').addEventListener('click', async (e)=>{
+  e.stopPropagation();
+  const cr = cromoAtualLightbox;
+  const cadernetaId = currentId();
+  if(!cr || !cadernetaId) return;
+  const btn = document.getElementById('lightboxTenhoBtn');
+  btn.disabled = true;
+  const temAtual = efetivoTenho(cadernetaId, cr);
+  const c = cadernetas.find(x=>x.id===cadernetaId);
+  await gravarFalta(cadernetaId, c.nome, cr.numero, cr.nome||'', temAtual);
+  btn.disabled = false;
+  atualizarBotaoTenho(cr, cadernetaId);
+
+  const s = stats(cromosCache[cadernetaId], cadernetaId);
+  document.getElementById('detailTenho').textContent = s.tenho;
+  document.getElementById('detailFalta').textContent = s.falta;
+  document.getElementById('detailPct').textContent = s.pct + '%';
+  const fill = document.getElementById('detailFill');
+  fill.style.width = s.pct + '%';
+  fill.className = 'fill ' + (s.falta===0 ? 'complete':'');
+
+  renderCromosGrid(cromosCache[cadernetaId]);
+  renderGlobalStats();
+});
 
 function fecharLightbox(){
   document.getElementById('lightbox').classList.remove('aberto');
