@@ -1157,23 +1157,32 @@ async function removerDoPortfolio(cadernetaId, cadernetaNome){
   if(!repetidosAtivo()) return;
   const uid = auth.currentUser.uid;
   try{
-    // marcamos como inativo em vez de apagar o documento (as regras do
-    // Firestore recusam delete/merge parciais aqui) -- reescrevemos o
-    // documento inteiro, na mesma forma que adicionarAoPortfolio, para
-    // corresponder exatamente ao que as regras de seguranca esperam
-    const ref = db.collection('portfolio').doc(idPortfolio(uid, cadernetaId));
-    await ref.set({
-      uid, cadernetaId, cadernetaNome: cadernetaNome || cadernetaId, ativo: false,
-      removidoEm: firebase.firestore.FieldValue.serverTimestamp()
-    });
-    // diagnóstico temporário: ler imediatamente a seguir a escrever, direto do
-    // servidor (sem cache), para confirmar que ficou mesmo gravado como ativo:false
-    try{
-      const confirmacao = await ref.get({source: 'server'});
-      console.log('[portfolio] removerDoPortfolio: confirmação pós-escrita para doc.id=' + ref.id + ' -> ' + JSON.stringify(confirmacao.data()));
-    }catch(errConfirmacao){
-      console.warn('[portfolio] não consegui confirmar a escrita:', errConfirmacao);
-    }
+    // algumas cadernetas foram importadas em massa há muito tempo com um
+    // esquema de id diferente (todos os espaços trocados por "_", não só as
+    // barras), pelo que podem existir DOIS documentos de portefólio para a
+    // mesma caderneta: o "canónico" (o que idPortfolio calcula hoje) e um
+    // antigo com outro id de documento mas o mesmo campo cadernetaId. Se só
+    // marcássemos o canónico como inativo, o antigo ficava para trás, ainda
+    // ativo, e a caderneta "reaparecia" no portefólio ao recarregar a
+    // página. Por isso procuramos TODOS os documentos desta caderneta pelo
+    // campo cadernetaId e marcamos todos como inativos.
+    const snap = await db.collection('portfolio')
+      .where('uid','==',uid)
+      .where('cadernetaId','==',cadernetaId)
+      .get();
+    const idsAMarcar = new Set(snap.docs.map(d => d.id));
+    idsAMarcar.add(idPortfolio(uid, cadernetaId));
+
+    await Promise.all([...idsAMarcar].map(docId =>
+      db.collection('portfolio').doc(docId).set({
+        uid, cadernetaId, cadernetaNome: cadernetaNome || cadernetaId, ativo: false,
+        removidoEm: firebase.firestore.FieldValue.serverTimestamp()
+      })
+    ));
+
+    // diagnóstico temporário: confirmar que ficaram mesmo todos marcados
+    console.log('[portfolio] removerDoPortfolio: ' + idsAMarcar.size + ' documento(s) marcados como inativos -> ' + [...idsAMarcar].join(', '));
+
     portfolioAtual.delete(cadernetaId);
     faltasGlobais.delete(cadernetaId);
   }catch(err){
