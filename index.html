@@ -768,7 +768,6 @@
 
   <div id="listView">
     <div class="acoes-topo" id="acoesTopo" style="display:none;">
-      <button id="btnVerRepetidos" class="botao-secundario">🔁 Os meus repetidos</button>
       <button id="btnVerPortfolio" class="botao-secundario">📚 Meu portefólio</button>
     </div>
     <div class="toolbar">
@@ -785,7 +784,7 @@
   </div>
 
   <div id="repetidosGeral">
-    <button class="back-btn" id="backBtnRepetidos">&larr; voltar às cadernetas</button>
+    <button class="back-btn" id="backBtnRepetidos">&larr; voltar ao portefólio</button>
     <h2 class="repetidos-titulo">🔁 Os meus repetidos</h2>
 
     <div class="repetidos-bulk">
@@ -821,6 +820,9 @@
   <div id="meuPortfolioView">
     <button class="back-btn" id="backBtnPortfolio">&larr; voltar às cadernetas</button>
     <h2 class="repetidos-titulo">📚 Meu Portefólio</h2>
+    <div class="acoes-topo">
+      <button id="btnVerRepetidos" class="botao-secundario">🔁 Os meus repetidos</button>
+    </div>
     <div id="meuPortfolioConteudo">
       <div class="empty">A carregar...</div>
     </div>
@@ -1357,7 +1359,7 @@ async function renderGrid(){
     if(search && !(c.nome.toLowerCase().includes(search) || c.editora.toLowerCase().includes(search))) continue;
 
     const cromos = await loadCromos(c.id);
-    const s = stats(cromos, c.id);
+    const s = stats(cromos); // sempre o catálogo geral, mesmo se estiver no portefólio
 
     shown++;
     const card = document.createElement('div');
@@ -1587,7 +1589,7 @@ document.getElementById('backBtn').addEventListener('click', ()=>{
 
 document.getElementById('backBtnRepetidos').addEventListener('click', ()=>{
   document.getElementById('repetidosGeral').classList.remove('active');
-  document.getElementById('listView').classList.remove('hidden');
+  document.getElementById('meuPortfolioView').classList.add('active');
 });
 
 document.getElementById('backBtnPortfolio').addEventListener('click', ()=>{
@@ -1644,6 +1646,7 @@ async function abrirMeuPortfolio(){
 
 async function abrirRepetidosGeral(){
   document.getElementById('listView').classList.add('hidden');
+  document.getElementById('meuPortfolioView').classList.remove('active');
   document.getElementById('detail').classList.remove('active');
   document.getElementById('repetidosGeral').classList.add('active');
   window.scrollTo({top:0, behavior:'instant'});
