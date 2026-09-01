@@ -1090,14 +1090,17 @@ document.getElementById('btnLogout').addEventListener('click', ()=>{
   if(auth) auth.signOut();
 });
 
+// só a barra "/" é problemática num ID do Firestore (espaços são
+// permitidos) -- e importa manter isto exatamente igual ao que as regras
+// de segurança calculam, para o get() lá dentro encontrar o documento certo
 function idRepetido(uid, cadernetaId, numero){
-  return `${uid}__${cadernetaId}__${numero}`.replace(/[/\s]/g, '_');
+  return `${uid}__${cadernetaId}__${numero}`.replace(/\//g, '_');
 }
 function idFalta(uid, cadernetaId, numero){
-  return `${uid}__${cadernetaId}__${numero}`.replace(/[/\s]/g, '_');
+  return `${uid}__${cadernetaId}__${numero}`.replace(/\//g, '_');
 }
 function idPortfolio(uid, cadernetaId){
-  return `${uid}__${cadernetaId}`.replace(/[/\s]/g, '_');
+  return `${uid}__${cadernetaId}`.replace(/\//g, '_');
 }
 
 async function carregarPortfolio(){
