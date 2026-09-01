@@ -826,7 +826,7 @@
     </div>
 
     <div id="cromosArea" style="display:none;">
-      <div class="repetidos-bulk">
+      <div class="repetidos-bulk" id="modoBulkWrap">
         <button type="button" id="modoBulkToggle" class="repetidos-bulk-toggle">
           <span>➕ Adicionar ou remover em lote</span>
           <span id="modoBulkToggleSeta">▾</span>
@@ -1437,6 +1437,7 @@ function atualizarPainelPortfolio(cadernetaId){
 
   document.getElementById('detailStatsWrap').style.display = modoPessoal ? '' : 'none';
   document.getElementById('detailProgressWrap').style.display = modoPessoal ? '' : 'none';
+  document.getElementById('modoBulkWrap').style.display = modoPessoal ? '' : 'none';
 
   if(!repetidosAtivo()){
     wrap.style.display = 'none';
