@@ -544,10 +544,12 @@
   }
   .cromo.tenho{ border-color:var(--teal); }
   .cromo.falta{ border-style:dashed; color:var(--ink-soft); }
+  .cromo.grande{ width:170px; }
   .cromo .conteudo{
     height:110px;
     background:var(--card-bg);
   }
+  .cromo.grande .conteudo{ height:190px; }
   .cromo.tenho .conteudo{ background:#dfe9d8; }
   .cromo.falta .conteudo{
     background:repeating-linear-gradient(45deg, var(--paper-darker), var(--paper-darker) 4px, var(--card-bg) 4px, var(--card-bg) 8px);
@@ -587,6 +589,7 @@
     padding:1px 5px;
     border-radius:2px;
   }
+  .cromo.grande .legenda .num{ font-size:0.82rem; padding:2px 7px; }
   .cromo .legenda .nome{
     display:block;
     margin-top:0;
@@ -598,6 +601,7 @@
     white-space:nowrap;
     min-width:0;
   }
+  .cromo.grande .legenda .nome{ font-size:0.72rem; }
   .cromo .star{
     position:absolute; top:-7px; right:-7px;
     width:18px; height:18px;
@@ -775,10 +779,6 @@
       <select id="temaFilter">
         <option value="">Todos os temas</option>
       </select>
-      <label class="switch">
-        <input type="checkbox" id="incompleteOnly">
-        só por completar
-      </label>
     </div>
     <div class="grid" id="cadGrid"></div>
     <div class="empty" id="emptyState" style="display:none;">Nenhuma caderneta encontrada.</div>
@@ -855,7 +855,7 @@
 
     <div class="cromos-toolbar">
       <input type="search" id="cromoSearch" placeholder="Procurar número ou nome...">
-      <label class="switch">
+      <label class="switch" id="cromoFaltaOnlyWrap" style="display:none;">
         <input type="checkbox" id="cromoFaltaOnly">
         só faltas
       </label>
@@ -996,10 +996,6 @@ async function atualizarUIAutenticacao(){
   // se estivermos numa caderneta aberta, atualiza também os controlos dela
   const idAtual = currentId();
   if(idAtual){
-    document.getElementById('cromoRepetidoOnlyWrap').style.display = ativo ? '' : 'none';
-    if(!ativo){
-      document.getElementById('cromoRepetidoOnly').checked = false;
-    }
     if(cromosCache[idAtual]){
       await carregarRepetidosDaCaderneta(idAtual);
       await carregarFaltasDaCaderneta(idAtual);
@@ -1351,7 +1347,6 @@ async function renderGrid(){
   const search = document.getElementById('searchInput').value.toLowerCase();
   const editora = document.getElementById('editoraFilter').value;
   const tema = document.getElementById('temaFilter').value;
-  const incompleteOnly = document.getElementById('incompleteOnly').checked;
 
   grid.innerHTML = '';
   let shown = 0;
@@ -1363,7 +1358,6 @@ async function renderGrid(){
 
     const cromos = await loadCromos(c.id);
     const s = stats(cromos, c.id);
-    if(incompleteOnly && s.falta === 0) continue;
 
     shown++;
     const card = document.createElement('div');
@@ -1436,7 +1430,6 @@ async function openDetail(id, pushHistory=true, soRepetidos=false){
   document.getElementById('cromoSearch').value = '';
   document.getElementById('cromoFaltaOnly').checked = false;
   document.getElementById('cromoEspecialOnly').checked = false;
-  document.getElementById('cromoRepetidoOnlyWrap').style.display = repetidosAtivo() ? '' : 'none';
 
   await carregarRepetidosDaCaderneta(id);
   await carregarFaltasDaCaderneta(id);
@@ -1450,12 +1443,23 @@ async function openDetail(id, pushHistory=true, soRepetidos=false){
 function atualizarPainelPortfolio(cadernetaId){
   const wrap = document.getElementById('portfolioPainel');
   if(!wrap) return;
+  const noPortfolio = repetidosAtivo() && portfolioAtual.has(cadernetaId);
+
+  // filtros de faltas/repetidos só fazem sentido depois de a caderneta
+  // estar no portefólio -- antes disso, esta página é só para conheceres
+  // a caderneta (só o filtro de especiais fica disponível)
+  document.getElementById('cromoFaltaOnlyWrap').style.display = noPortfolio ? '' : 'none';
+  document.getElementById('cromoRepetidoOnlyWrap').style.display = noPortfolio ? '' : 'none';
+  if(!noPortfolio){
+    document.getElementById('cromoFaltaOnly').checked = false;
+    document.getElementById('cromoRepetidoOnly').checked = false;
+  }
+
   if(!repetidosAtivo()){
     wrap.style.display = 'none';
     return;
   }
   wrap.style.display = 'block';
-  const noPortfolio = portfolioAtual.has(cadernetaId);
   const btn = document.getElementById('btnTogglePortfolio');
   btn.textContent = noPortfolio ? '✓ No meu portefólio (remover)' : '➕ Adicionar ao meu portefólio';
   btn.className = 'portfolio-btn-detalhe' + (noPortfolio ? ' no-portfolio' : '');
@@ -1523,11 +1527,12 @@ function renderCromosGrid(cromos){
   const especialOnly = document.getElementById('cromoEspecialOnly').checked;
   const repetidoOnly = document.getElementById('cromoRepetidoOnly').checked;
   const cadernetaId = currentId();
+  const emPortfolio = repetidosAtivo() && portfolioAtual.has(cadernetaId);
 
   grid.innerHTML = '';
   cromos.forEach(cr=>{
     const tem = efetivoTenho(cadernetaId, cr);
-    const qtdRepetido = repetidosAtual.get(cr.numero) || 0;
+    const qtdRepetido = emPortfolio ? (repetidosAtual.get(cr.numero) || 0) : 0;
     if(faltaOnly && tem) return;
     if(especialOnly && !cr.especial) return;
     if(repetidoOnly && qtdRepetido <= 0) return;
@@ -1544,7 +1549,7 @@ function renderCromosGrid(cromos){
       ${cr.especial ? '<div class="star">★</div>' : ''}
       ${qtdRepetido > 0 ? `<div class="repetido-badge">×${qtdRepetido}</div>` : ''}
     `;
-    el.className = 'cromo ' + (tem ? 'tenho' : 'falta') + (temImagem ? ' tem-imagem' : '') + (isFoil ? ' foil' : '');
+    el.className = 'cromo ' + (tem ? 'tenho' : 'falta') + (temImagem ? ' tem-imagem' : '') + (isFoil ? ' foil' : '') + (emPortfolio ? '' : ' grande');
     el.dataset.numero = cr.numero;
     if(temImagem){
       el.innerHTML = `
@@ -1914,7 +1919,6 @@ window.addEventListener('popstate', (e)=>{
 document.getElementById('searchInput').addEventListener('input', renderGrid);
 document.getElementById('editoraFilter').addEventListener('change', renderGrid);
 document.getElementById('temaFilter').addEventListener('change', renderGrid);
-document.getElementById('incompleteOnly').addEventListener('change', renderGrid);
 document.getElementById('cromoSearch').addEventListener('input', ()=>renderCromosGrid(cromosCache[currentId()]));
 document.getElementById('cromoFaltaOnly').addEventListener('change', ()=>renderCromosGrid(cromosCache[currentId()]));
 document.getElementById('cromoEspecialOnly').addEventListener('change', ()=>renderCromosGrid(cromosCache[currentId()]));
@@ -1945,7 +1949,7 @@ function abrirLightbox(cr){
   }
 
   const repWrap = document.getElementById('lightboxRepetidoWrap');
-  if(repetidosAtivo()){
+  if(repetidosAtivo() && portfolioAtual.has(cadernetaIdAtual)){
     repWrap.style.display = 'flex';
     document.getElementById('repQtd').textContent = repetidosAtual.get(cr.numero) || 0;
   } else {
@@ -2022,7 +2026,7 @@ function aplicarQtdNaGrelha(numero, qtd){
 }
 
 async function ajustarRepetido(delta){
-  if(!cromoAtualLightbox || !repetidosAtivo()) return;
+  if(!cromoAtualLightbox || !repetidosAtivo() || !portfolioAtual.has(currentId())) return;
   const cr = cromoAtualLightbox;
   const atual = repetidosAtual.get(cr.numero) || 0;
   const nova = Math.max(0, Math.min(99, atual + delta));
