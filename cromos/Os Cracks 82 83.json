@@ -4,6 +4,8 @@
     "nome": "Cromo 1",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "Sporting Club de Portugal",
     "imagem": "images/capas/Os Cracks 82 83/1.jpg"
   },
   {
@@ -11,6 +13,8 @@
     "nome": "Cromo 2",
     "tenho": true,
     "especial": false,
+    "clube": "Meszaros",
+    "tipo": "Sporting Club de Portugal",
     "imagem": "images/capas/Os Cracks 82 83/2.jpg"
   },
   {
@@ -18,6 +22,8 @@
     "nome": "Cromo 3",
     "tenho": true,
     "especial": false,
+    "clube": "Barao",
+    "tipo": "Sporting Club de Portugal",
     "imagem": "images/capas/Os Cracks 82 83/3.jpg"
   },
   {
@@ -25,6 +31,8 @@
     "nome": "Cromo 4",
     "tenho": true,
     "especial": false,
+    "clube": "Freire",
+    "tipo": "Sporting Club de Portugal",
     "imagem": "images/capas/Os Cracks 82 83/4.jpg"
   },
   {
@@ -32,6 +40,8 @@
     "nome": "Cromo 5",
     "tenho": true,
     "especial": false,
+    "clube": "Ademar",
+    "tipo": "Sporting Club de Portugal",
     "imagem": "images/capas/Os Cracks 82 83/5.jpg"
   },
   {
@@ -39,6 +49,8 @@
     "nome": "Cromo 6",
     "tenho": true,
     "especial": false,
+    "clube": "Bastos",
+    "tipo": "Sporting Club de Portugal",
     "imagem": "images/capas/Os Cracks 82 83/6.jpg"
   },
   {
@@ -46,6 +58,8 @@
     "nome": "Cromo 7",
     "tenho": true,
     "especial": false,
+    "clube": "Noguwiea",
+    "tipo": "Sporting Club de Portugal",
     "imagem": "images/capas/Os Cracks 82 83/7.jpg"
   },
   {
@@ -53,6 +67,8 @@
     "nome": "Cromo 8",
     "tenho": true,
     "especial": false,
+    "clube": "Festas",
+    "tipo": "Sporting Club de Portugal",
     "imagem": "images/capas/Os Cracks 82 83/8.jpg"
   },
   {
@@ -60,6 +76,8 @@
     "nome": "Cromo 9",
     "tenho": true,
     "especial": false,
+    "clube": "Lito",
+    "tipo": "Sporting Club de Portugal",
     "imagem": "images/capas/Os Cracks 82 83/9.jpg"
   },
   {
@@ -67,6 +85,8 @@
     "nome": "Cromo 10",
     "tenho": true,
     "especial": false,
+    "clube": "Oliveira",
+    "tipo": "Sporting Club de Portugal",
     "imagem": "images/capas/Os Cracks 82 83/10.jpg"
   },
   {
@@ -74,6 +94,8 @@
     "nome": "Cromo 11",
     "tenho": true,
     "especial": false,
+    "clube": "M. Fernandes",
+    "tipo": "Sporting Club de Portugal",
     "imagem": "images/capas/Os Cracks 82 83/11.jpg"
   },
   {
@@ -81,6 +103,8 @@
     "nome": "Cromo 12",
     "tenho": true,
     "especial": false,
+    "clube": "Jordao",
+    "tipo": "Sporting Club de Portugal",
     "imagem": "images/capas/Os Cracks 82 83/12.jpg"
   },
   {
@@ -88,6 +112,8 @@
     "nome": "Cromo 13",
     "tenho": true,
     "especial": false,
+    "clube": "Kikas",
+    "tipo": "Sporting Club de Portugal",
     "imagem": "images/capas/Os Cracks 82 83/13.jpg"
   },
   {
@@ -95,6 +121,8 @@
     "nome": "Cromo 14",
     "tenho": true,
     "especial": false,
+    "clube": "Martinho",
+    "tipo": "Sporting Club de Portugal",
     "imagem": "images/capas/Os Cracks 82 83/14.jpg"
   },
   {
@@ -102,6 +130,8 @@
     "nome": "Cromo 15",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Os Cracks 82 83/15.jpg"
   },
   {
@@ -109,6 +139,8 @@
     "nome": "Cromo 16",
     "tenho": true,
     "especial": false,
+    "clube": "Bento",
+    "tipo": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Os Cracks 82 83/16.jpg"
   },
   {
@@ -116,6 +148,8 @@
     "nome": "Cromo 17",
     "tenho": true,
     "especial": false,
+    "clube": "Veloso",
+    "tipo": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Os Cracks 82 83/17.jpg"
   },
   {
@@ -123,6 +157,8 @@
     "nome": "Cromo 18",
     "tenho": true,
     "especial": false,
+    "clube": "H. Coelho",
+    "tipo": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Os Cracks 82 83/18.jpg"
   },
   {
@@ -130,6 +166,8 @@
     "nome": "Cromo 19",
     "tenho": true,
     "especial": false,
+    "clube": "Pietra",
+    "tipo": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Os Cracks 82 83/19.jpg"
   },
   {
@@ -137,6 +175,8 @@
     "nome": "Cromo 20",
     "tenho": true,
     "especial": false,
+    "clube": "Padinha",
+    "tipo": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Os Cracks 82 83/20.jpg"
   },
   {
@@ -144,6 +184,8 @@
     "nome": "Cromo 21",
     "tenho": true,
     "especial": false,
+    "clube": "C. Manuel",
+    "tipo": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Os Cracks 82 83/21.jpg"
   },
   {
@@ -151,6 +193,8 @@
     "nome": "Cromo 22",
     "tenho": true,
     "especial": false,
+    "clube": "Nene",
+    "tipo": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Os Cracks 82 83/22.jpg"
   },
   {
@@ -158,6 +202,8 @@
     "nome": "Cromo 23",
     "tenho": true,
     "especial": false,
+    "clube": "Filipovic",
+    "tipo": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Os Cracks 82 83/23.jpg"
   },
   {
@@ -165,6 +211,8 @@
     "nome": "Cromo 24",
     "tenho": true,
     "especial": false,
+    "clube": "Alves",
+    "tipo": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Os Cracks 82 83/24.jpg"
   },
   {
@@ -172,6 +220,8 @@
     "nome": "Cromo 25",
     "tenho": true,
     "especial": false,
+    "clube": "Chalana",
+    "tipo": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Os Cracks 82 83/25.jpg"
   },
   {
@@ -179,6 +229,8 @@
     "nome": "Cromo 26",
     "tenho": true,
     "especial": false,
+    "clube": "Shéu",
+    "tipo": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Os Cracks 82 83/26.jpg"
   },
   {
@@ -186,6 +238,8 @@
     "nome": "Cromo 27",
     "tenho": true,
     "especial": false,
+    "clube": "B. Lopes",
+    "tipo": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Os Cracks 82 83/27.jpg"
   },
   {
@@ -193,6 +247,8 @@
     "nome": "Cromo 28",
     "tenho": true,
     "especial": false,
+    "clube": "Frederico",
+    "tipo": "Sport Lisboa e Benfica",
     "imagem": "images/capas/Os Cracks 82 83/28.jpg"
   },
   {
@@ -200,6 +256,8 @@
     "nome": "Cromo 29",
     "tenho": true,
     "especial": false,
+    "clube": "Embelma",
+    "tipo": "F.C. do Porto",
     "imagem": "images/capas/Os Cracks 82 83/29.jpg"
   },
   {
@@ -207,6 +265,8 @@
     "nome": "Cromo 30",
     "tenho": true,
     "especial": false,
+    "clube": "Tibi",
+    "tipo": "F.C. do Porto",
     "imagem": "images/capas/Os Cracks 82 83/30.jpg"
   },
   {
@@ -214,6 +274,8 @@
     "nome": "Cromo 31",
     "tenho": true,
     "especial": false,
+    "clube": "Gabriel",
+    "tipo": "F.C. do Porto",
     "imagem": "images/capas/Os Cracks 82 83/31.jpg"
   },
   {
@@ -221,6 +283,8 @@
     "nome": "Cromo 32",
     "tenho": true,
     "especial": false,
+    "clube": "Simoes",
+    "tipo": "F.C. do Porto",
     "imagem": "images/capas/Os Cracks 82 83/32.jpg"
   },
   {
@@ -228,6 +292,8 @@
     "nome": "Cromo 33",
     "tenho": true,
     "especial": false,
+    "clube": "Freitas",
+    "tipo": "F.C. do Porto",
     "imagem": "images/capas/Os Cracks 82 83/33.jpg"
   },
   {
@@ -235,6 +301,8 @@
     "nome": "Cromo 34",
     "tenho": true,
     "especial": false,
+    "clube": "Rodolfo",
+    "tipo": "F.C. do Porto",
     "imagem": "images/capas/Os Cracks 82 83/34.jpg"
   },
   {
@@ -242,6 +310,8 @@
     "nome": "Cromo 35",
     "tenho": true,
     "especial": false,
+    "clube": "Romeu",
+    "tipo": "F.C. do Porto",
     "imagem": "images/capas/Os Cracks 82 83/35.jpg"
   },
   {
@@ -249,6 +319,8 @@
     "nome": "Cromo 36",
     "tenho": true,
     "especial": false,
+    "clube": "Frasco",
+    "tipo": "F.C. do Porto",
     "imagem": "images/capas/Os Cracks 82 83/36.jpg"
   },
   {
@@ -256,6 +328,8 @@
     "nome": "Cromo 37",
     "tenho": true,
     "especial": false,
+    "clube": "Costa",
+    "tipo": "F.C. do Porto",
     "imagem": "images/capas/Os Cracks 82 83/37.jpg"
   },
   {
@@ -263,6 +337,8 @@
     "nome": "Cromo 38",
     "tenho": true,
     "especial": false,
+    "clube": "Walsh",
+    "tipo": "F.C. do Porto",
     "imagem": "images/capas/Os Cracks 82 83/38.jpg"
   },
   {
@@ -270,6 +346,8 @@
     "nome": "Cromo 39",
     "tenho": true,
     "especial": false,
+    "clube": "Julio",
+    "tipo": "F.C. do Porto",
     "imagem": "images/capas/Os Cracks 82 83/39.jpg"
   },
   {
@@ -277,6 +355,8 @@
     "nome": "Cromo 40",
     "tenho": true,
     "especial": false,
+    "clube": "Sousa",
+    "tipo": "F.C. do Porto",
     "imagem": "images/capas/Os Cracks 82 83/40.jpg"
   },
   {
@@ -284,6 +364,8 @@
     "nome": "Cromo 41",
     "tenho": true,
     "especial": false,
+    "clube": "Jacques",
+    "tipo": "F.C. do Porto",
     "imagem": "images/capas/Os Cracks 82 83/41.jpg"
   },
   {
@@ -291,6 +373,8 @@
     "nome": "Cromo 42",
     "tenho": true,
     "especial": false,
+    "clube": "Gomes",
+    "tipo": "F.C. do Porto",
     "imagem": "images/capas/Os Cracks 82 83/42.jpg"
   },
   {
@@ -298,6 +382,8 @@
     "nome": "Cromo 43",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "Vitória de Guimarães",
     "imagem": "images/capas/Os Cracks 82 83/43.jpg"
   },
   {
@@ -305,6 +391,8 @@
     "nome": "Cromo 44",
     "tenho": true,
     "especial": false,
+    "clube": "Jesus",
+    "tipo": "Vitória de Guimarães",
     "imagem": "images/capas/Os Cracks 82 83/44.jpg"
   },
   {
@@ -312,6 +400,8 @@
     "nome": "Cromo 45",
     "tenho": true,
     "especial": false,
+    "clube": "G. Freixo",
+    "tipo": "Vitória de Guimarães",
     "imagem": "images/capas/Os Cracks 82 83/45.jpg"
   },
   {
@@ -319,6 +409,8 @@
     "nome": "Cromo 46",
     "tenho": true,
     "especial": false,
+    "clube": "Barrinha",
+    "tipo": "Vitória de Guimarães",
     "imagem": "images/capas/Os Cracks 82 83/46.jpg"
   },
   {
@@ -326,6 +418,8 @@
     "nome": "Cromo 47",
     "tenho": true,
     "especial": false,
+    "clube": "Paquito",
+    "tipo": "Vitória de Guimarães",
     "imagem": "images/capas/Os Cracks 82 83/47.jpg"
   },
   {
@@ -333,6 +427,8 @@
     "nome": "Cromo 48",
     "tenho": true,
     "especial": false,
+    "clube": "Abreu",
+    "tipo": "Vitória de Guimarães",
     "imagem": "images/capas/Os Cracks 82 83/48.jpg"
   },
   {
@@ -340,6 +436,8 @@
     "nome": "Cromo 49",
     "tenho": true,
     "especial": false,
+    "clube": "Nivaldo",
+    "tipo": "Vitória de Guimarães",
     "imagem": "images/capas/Os Cracks 82 83/49.jpg"
   },
   {
@@ -347,6 +445,8 @@
     "nome": "Cromo 50",
     "tenho": true,
     "especial": false,
+    "clube": "Pedroto",
+    "tipo": "Vitória de Guimarães",
     "imagem": "images/capas/Os Cracks 82 83/50.jpg"
   },
   {
@@ -354,6 +454,8 @@
     "nome": "Cromo 51",
     "tenho": true,
     "especial": false,
+    "clube": "Murca",
+    "tipo": "Vitória de Guimarães",
     "imagem": "images/capas/Os Cracks 82 83/51.jpg"
   },
   {
@@ -361,6 +463,8 @@
     "nome": "Cromo 52",
     "tenho": true,
     "especial": false,
+    "clube": "Lucio",
+    "tipo": "Vitória de Guimarães",
     "imagem": "images/capas/Os Cracks 82 83/52.jpg"
   },
   {
@@ -368,6 +472,8 @@
     "nome": "Cromo 53",
     "tenho": true,
     "especial": false,
+    "clube": "Carraca",
+    "tipo": "Vitória de Guimarães",
     "imagem": "images/capas/Os Cracks 82 83/53.jpg"
   },
   {
@@ -375,6 +481,8 @@
     "nome": "Cromo 54",
     "tenho": true,
     "especial": false,
+    "clube": "Laureta",
+    "tipo": "Vitória de Guimarães",
     "imagem": "images/capas/Os Cracks 82 83/54.jpg"
   },
   {
@@ -382,6 +490,8 @@
     "nome": "Cromo 55",
     "tenho": true,
     "especial": false,
+    "clube": "J. Rocha",
+    "tipo": "Vitória de Guimarães",
     "imagem": "images/capas/Os Cracks 82 83/55.jpg"
   },
   {
@@ -389,6 +499,8 @@
     "nome": "Cromo 56",
     "tenho": true,
     "especial": false,
+    "clube": "Fonseca",
+    "tipo": "Vitória de Guimarães",
     "imagem": "images/capas/Os Cracks 82 83/56.jpg"
   },
   {
@@ -396,6 +508,8 @@
     "nome": "Cromo 57",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "Rio Ave F.C.",
     "imagem": "images/capas/Os Cracks 82 83/57.jpg"
   },
   {
@@ -403,6 +517,8 @@
     "nome": "Cromo 58",
     "tenho": true,
     "especial": false,
+    "clube": "Alberto",
+    "tipo": "Rio Ave F.C.",
     "imagem": "images/capas/Os Cracks 82 83/58.jpg"
   },
   {
@@ -410,6 +526,8 @@
     "nome": "Cromo 59",
     "tenho": true,
     "especial": false,
+    "clube": "Santana",
+    "tipo": "Rio Ave F.C.",
     "imagem": "images/capas/Os Cracks 82 83/59.jpg"
   },
   {
@@ -417,6 +535,8 @@
     "nome": "Cromo 60",
     "tenho": true,
     "especial": false,
+    "clube": "Duarte",
+    "tipo": "Rio Ave F.C.",
     "imagem": "images/capas/Os Cracks 82 83/60.jpg"
   },
   {
@@ -424,6 +544,8 @@
     "nome": "Cromo 61",
     "tenho": true,
     "especial": false,
+    "clube": "Nando",
+    "tipo": "Rio Ave F.C.",
     "imagem": "images/capas/Os Cracks 82 83/61.jpg"
   },
   {
@@ -431,6 +553,8 @@
     "nome": "Cromo 62",
     "tenho": true,
     "especial": false,
+    "clube": "Samuel",
+    "tipo": "Rio Ave F.C.",
     "imagem": "images/capas/Os Cracks 82 83/62.jpg"
   },
   {
@@ -438,6 +562,8 @@
     "nome": "Cromo 63",
     "tenho": true,
     "especial": false,
+    "clube": "Adérito",
+    "tipo": "Rio Ave F.C.",
     "imagem": "images/capas/Os Cracks 82 83/63.jpg"
   },
   {
@@ -445,6 +571,8 @@
     "nome": "Cromo 64",
     "tenho": true,
     "especial": false,
+    "clube": "Carvalho",
+    "tipo": "Rio Ave F.C.",
     "imagem": "images/capas/Os Cracks 82 83/64.jpg"
   },
   {
@@ -452,6 +580,8 @@
     "nome": "Cromo 65",
     "tenho": true,
     "especial": false,
+    "clube": "To Ze",
+    "tipo": "Rio Ave F.C.",
     "imagem": "images/capas/Os Cracks 82 83/65.jpg"
   },
   {
@@ -459,6 +589,8 @@
     "nome": "Cromo 66",
     "tenho": true,
     "especial": false,
+    "clube": "N'Habola",
+    "tipo": "Rio Ave F.C.",
     "imagem": "images/capas/Os Cracks 82 83/66.jpg"
   },
   {
@@ -466,6 +598,8 @@
     "nome": "Cromo 67",
     "tenho": true,
     "especial": false,
+    "clube": "Pires",
+    "tipo": "Rio Ave F.C.",
     "imagem": "images/capas/Os Cracks 82 83/67.jpg"
   },
   {
@@ -473,6 +607,8 @@
     "nome": "Cromo 68",
     "tenho": true,
     "especial": false,
+    "clube": "Sérgio",
+    "tipo": "Rio Ave F.C.",
     "imagem": "images/capas/Os Cracks 82 83/68.jpg"
   },
   {
@@ -480,6 +616,8 @@
     "nome": "Cromo 69",
     "tenho": true,
     "especial": false,
+    "clube": "Cabumba",
+    "tipo": "Rio Ave F.C.",
     "imagem": "images/capas/Os Cracks 82 83/69.jpg"
   },
   {
@@ -487,6 +625,8 @@
     "nome": "Cromo 70",
     "tenho": true,
     "especial": false,
+    "clube": "Quim",
+    "tipo": "Rio Ave F.C.",
     "imagem": "images/capas/Os Cracks 82 83/70.jpg"
   },
   {
@@ -494,6 +634,8 @@
     "nome": "Cromo 71",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "Portimonense S.C.",
     "imagem": "images/capas/Os Cracks 82 83/71.jpg"
   },
   {
@@ -501,6 +643,8 @@
     "nome": "Cromo 72",
     "tenho": true,
     "especial": false,
+    "clube": "Damas",
+    "tipo": "Portimonense S.C.",
     "imagem": "images/capas/Os Cracks 82 83/72.jpg"
   },
   {
@@ -508,6 +652,8 @@
     "nome": "Cromo 73",
     "tenho": true,
     "especial": false,
+    "clube": "Murca",
+    "tipo": "Portimonense S.C.",
     "imagem": "images/capas/Os Cracks 82 83/73.jpg"
   },
   {
@@ -515,6 +661,8 @@
     "nome": "Cromo 74",
     "tenho": true,
     "especial": false,
+    "clube": "R. Dias",
+    "tipo": "Portimonense S.C.",
     "imagem": "images/capas/Os Cracks 82 83/74.jpg"
   },
   {
@@ -522,6 +670,8 @@
     "nome": "Cromo 75",
     "tenho": true,
     "especial": false,
+    "clube": "F. Martins",
+    "tipo": "Portimonense S.C.",
     "imagem": "images/capas/Os Cracks 82 83/75.jpg"
   },
   {
@@ -529,6 +679,8 @@
     "nome": "Cromo 76",
     "tenho": true,
     "especial": false,
+    "clube": "Alhinho",
+    "tipo": "Portimonense S.C.",
     "imagem": "images/capas/Os Cracks 82 83/76.jpg"
   },
   {
@@ -536,6 +688,8 @@
     "nome": "Cromo 77",
     "tenho": true,
     "especial": false,
+    "clube": "C. Alberto",
+    "tipo": "Portimonense S.C.",
     "imagem": "images/capas/Os Cracks 82 83/77.jpg"
   },
   {
@@ -543,6 +697,8 @@
     "nome": "Cromo 78",
     "tenho": true,
     "especial": false,
+    "clube": "Patan",
+    "tipo": "Portimonense S.C.",
     "imagem": "images/capas/Os Cracks 82 83/78.jpg"
   },
   {
@@ -550,6 +706,8 @@
     "nome": "Cromo 79",
     "tenho": true,
     "especial": false,
+    "clube": "Norton Matos",
+    "tipo": "Portimonense S.C.",
     "imagem": "images/capas/Os Cracks 82 83/79.jpg"
   },
   {
@@ -557,6 +715,8 @@
     "nome": "Cromo 80",
     "tenho": true,
     "especial": false,
+    "clube": "Raul Aguas",
+    "tipo": "Portimonense S.C.",
     "imagem": "images/capas/Os Cracks 82 83/80.jpg"
   },
   {
@@ -564,6 +724,8 @@
     "nome": "Cromo 81",
     "tenho": true,
     "especial": false,
+    "clube": "Tiao",
+    "tipo": "Portimonense S.C.",
     "imagem": "images/capas/Os Cracks 82 83/81.jpg"
   },
   {
@@ -571,6 +733,8 @@
     "nome": "Cromo 82",
     "tenho": true,
     "especial": false,
+    "clube": "Rocadas",
+    "tipo": "Portimonense S.C.",
     "imagem": "images/capas/Os Cracks 82 83/82.jpg"
   },
   {
@@ -578,6 +742,8 @@
     "nome": "Cromo 83",
     "tenho": true,
     "especial": false,
+    "clube": "Amilcar",
+    "tipo": "Portimonense S.C.",
     "imagem": "images/capas/Os Cracks 82 83/83.jpg"
   },
   {
@@ -585,6 +751,8 @@
     "nome": "Cromo 84",
     "tenho": true,
     "especial": false,
+    "clube": "Coelho",
+    "tipo": "Portimonense S.C.",
     "imagem": "images/capas/Os Cracks 82 83/84.jpg"
   },
   {
@@ -592,6 +760,8 @@
     "nome": "Cromo 85",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "S.C. de Braga",
     "imagem": "images/capas/Os Cracks 82 83/85.jpg"
   },
   {
@@ -599,6 +769,8 @@
     "nome": "Cromo 86",
     "tenho": true,
     "especial": false,
+    "clube": "Walter",
+    "tipo": "S.C. de Braga",
     "imagem": "images/capas/Os Cracks 82 83/86.jpg"
   },
   {
@@ -606,6 +778,8 @@
     "nome": "Cromo 87",
     "tenho": true,
     "especial": false,
+    "clube": "Artur",
+    "tipo": "S.C. de Braga",
     "imagem": "images/capas/Os Cracks 82 83/87.jpg"
   },
   {
@@ -613,6 +787,8 @@
     "nome": "Cromo 88",
     "tenho": true,
     "especial": false,
+    "clube": "Dito",
+    "tipo": "S.C. de Braga",
     "imagem": "images/capas/Os Cracks 82 83/88.jpg"
   },
   {
@@ -620,6 +796,8 @@
     "nome": "Cromo 89",
     "tenho": true,
     "especial": false,
+    "clube": "J. Cardoso",
+    "tipo": "S.C. de Braga",
     "imagem": "images/capas/Os Cracks 82 83/89.jpg"
   },
   {
@@ -627,6 +805,8 @@
     "nome": "Cromo 90",
     "tenho": true,
     "especial": false,
+    "clube": "José Carlos",
+    "tipo": "S.C. de Braga",
     "imagem": "images/capas/Os Cracks 82 83/90.jpg"
   },
   {
@@ -634,6 +814,8 @@
     "nome": "Cromo 91",
     "tenho": true,
     "especial": false,
+    "clube": "Victor",
+    "tipo": "S.C. de Braga",
     "imagem": "images/capas/Os Cracks 82 83/91.jpg"
   },
   {
@@ -641,6 +823,8 @@
     "nome": "Cromo 92",
     "tenho": true,
     "especial": false,
+    "clube": "V. Santos",
+    "tipo": "S.C. de Braga",
     "imagem": "images/capas/Os Cracks 82 83/92.jpg"
   },
   {
@@ -648,6 +832,8 @@
     "nome": "Cromo 93",
     "tenho": true,
     "especial": false,
+    "clube": "Manoel",
+    "tipo": "S.C. de Braga",
     "imagem": "images/capas/Os Cracks 82 83/93.jpg"
   },
   {
@@ -655,6 +841,8 @@
     "nome": "Cromo 94",
     "tenho": true,
     "especial": false,
+    "clube": "Serra",
+    "tipo": "S.C. de Braga",
     "imagem": "images/capas/Os Cracks 82 83/94.jpg"
   },
   {
@@ -662,6 +850,8 @@
     "nome": "Cromo 95",
     "tenho": true,
     "especial": false,
+    "clube": "Spencer",
+    "tipo": "S.C. de Braga",
     "imagem": "images/capas/Os Cracks 82 83/95.jpg"
   },
   {
@@ -669,6 +859,8 @@
     "nome": "Cromo 96",
     "tenho": true,
     "especial": false,
+    "clube": "Malheiro",
+    "tipo": "S.C. de Braga",
     "imagem": "images/capas/Os Cracks 82 83/96.jpg"
   },
   {
@@ -676,6 +868,8 @@
     "nome": "Cromo 97",
     "tenho": true,
     "especial": false,
+    "clube": "Guedes",
+    "tipo": "S.C. de Braga",
     "imagem": "images/capas/Os Cracks 82 83/97.jpg"
   },
   {
@@ -683,6 +877,8 @@
     "nome": "Cromo 98",
     "tenho": true,
     "especial": false,
+    "clube": "Duarte",
+    "tipo": "S.C. de Braga",
     "imagem": "images/capas/Os Cracks 82 83/98.jpg"
   },
   {
@@ -690,6 +886,8 @@
     "nome": "Cromo 99",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "Vitoria S.C. Setubal",
     "imagem": "images/capas/Os Cracks 82 83/99.jpg"
   },
   {
@@ -697,6 +895,8 @@
     "nome": "Cromo 100",
     "tenho": true,
     "especial": false,
+    "clube": "Padrão",
+    "tipo": "Vitoria S.C. Setubal",
     "imagem": "images/capas/Os Cracks 82 83/100.jpg"
   },
   {
@@ -704,6 +904,8 @@
     "nome": "Cromo 101",
     "tenho": true,
     "especial": false,
+    "clube": "Cerdeira",
+    "tipo": "Vitoria S.C. Setubal",
     "imagem": "images/capas/Os Cracks 82 83/101.jpg"
   },
   {
@@ -711,6 +913,8 @@
     "nome": "Cromo 102",
     "tenho": true,
     "especial": false,
+    "clube": "João Cardoso",
+    "tipo": "Vitoria S.C. Setubal",
     "imagem": "images/capas/Os Cracks 82 83/102.jpg"
   },
   {
@@ -718,6 +922,8 @@
     "nome": "Cromo 103",
     "tenho": true,
     "especial": false,
+    "clube": "Nunes",
+    "tipo": "Vitoria S.C. Setubal",
     "imagem": "images/capas/Os Cracks 82 83/103.jpg"
   },
   {
@@ -725,6 +931,8 @@
     "nome": "Cromo 104",
     "tenho": true,
     "especial": false,
+    "clube": "Chico Silva",
+    "tipo": "Vitoria S.C. Setubal",
     "imagem": "images/capas/Os Cracks 82 83/104.jpg"
   },
   {
@@ -732,6 +940,8 @@
     "nome": "Cromo 105",
     "tenho": true,
     "especial": false,
+    "clube": "Nascimento",
+    "tipo": "Vitoria S.C. Setubal",
     "imagem": "images/capas/Os Cracks 82 83/105.jpg"
   },
   {
@@ -739,6 +949,8 @@
     "nome": "Cromo 106",
     "tenho": true,
     "especial": false,
+    "clube": "Octávio",
+    "tipo": "Vitoria S.C. Setubal",
     "imagem": "images/capas/Os Cracks 82 83/106.jpg"
   },
   {
@@ -746,6 +958,8 @@
     "nome": "Cromo 107",
     "tenho": true,
     "especial": false,
+    "clube": "Formosinho",
+    "tipo": "Vitoria S.C. Setubal",
     "imagem": "images/capas/Os Cracks 82 83/107.jpg"
   },
   {
@@ -753,6 +967,8 @@
     "nome": "Cromo 108",
     "tenho": true,
     "especial": false,
+    "clube": "Rui Lopes",
+    "tipo": "Vitoria S.C. Setubal",
     "imagem": "images/capas/Os Cracks 82 83/108.jpg"
   },
   {
@@ -760,6 +976,8 @@
     "nome": "Cromo 109",
     "tenho": true,
     "especial": false,
+    "clube": "Jesus",
+    "tipo": "Vitoria S.C. Setubal",
     "imagem": "images/capas/Os Cracks 82 83/109.jpg"
   },
   {
@@ -767,6 +985,8 @@
     "nome": "Cromo 110",
     "tenho": true,
     "especial": false,
+    "clube": "Pinto",
+    "tipo": "Vitoria S.C. Setubal",
     "imagem": "images/capas/Os Cracks 82 83/110.jpg"
   },
   {
@@ -774,6 +994,8 @@
     "nome": "Cromo 111",
     "tenho": true,
     "especial": false,
+    "clube": "Reis",
+    "tipo": "Vitoria S.C. Setubal",
     "imagem": "images/capas/Os Cracks 82 83/111.jpg"
   },
   {
@@ -781,6 +1003,8 @@
     "nome": "Cromo 112",
     "tenho": true,
     "especial": false,
+    "clube": "Mota",
+    "tipo": "Vitoria S.C. Setubal",
     "imagem": "images/capas/Os Cracks 82 83/112.jpg"
   },
   {
@@ -788,6 +1012,8 @@
     "nome": "Cromo 113",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "Boavista F.C.",
     "imagem": "images/capas/Os Cracks 82 83/113.jpg"
   },
   {
@@ -795,6 +1021,8 @@
     "nome": "Cromo 114",
     "tenho": true,
     "especial": false,
+    "clube": "Matos",
+    "tipo": "Boavista F.C.",
     "imagem": "images/capas/Os Cracks 82 83/114.jpg"
   },
   {
@@ -802,6 +1030,8 @@
     "nome": "Cromo 115",
     "tenho": true,
     "especial": false,
+    "clube": "Queiro",
+    "tipo": "Boavista F.C.",
     "imagem": "images/capas/Os Cracks 82 83/115.jpg"
   },
   {
@@ -809,6 +1039,8 @@
     "nome": "Cromo 116",
     "tenho": true,
     "especial": false,
+    "clube": "Adao",
+    "tipo": "Boavista F.C.",
     "imagem": "images/capas/Os Cracks 82 83/116.jpg"
   },
   {
@@ -816,6 +1048,8 @@
     "nome": "Cromo 117",
     "tenho": true,
     "especial": false,
+    "clube": "Artur",
+    "tipo": "Boavista F.C.",
     "imagem": "images/capas/Os Cracks 82 83/117.jpg"
   },
   {
@@ -823,6 +1057,8 @@
     "nome": "Cromo 118",
     "tenho": true,
     "especial": false,
+    "clube": "Alberto",
+    "tipo": "Boavista F.C.",
     "imagem": "images/capas/Os Cracks 82 83/118.jpg"
   },
   {
@@ -830,6 +1066,8 @@
     "nome": "Cromo 119",
     "tenho": true,
     "especial": false,
+    "clube": "Almeida",
+    "tipo": "Boavista F.C.",
     "imagem": "images/capas/Os Cracks 82 83/119.jpg"
   },
   {
@@ -837,6 +1075,8 @@
     "nome": "Cromo 120",
     "tenho": true,
     "especial": false,
+    "clube": "Eliseu",
+    "tipo": "Boavista F.C.",
     "imagem": "images/capas/Os Cracks 82 83/120.jpg"
   },
   {
@@ -844,6 +1084,8 @@
     "nome": "Cromo 121",
     "tenho": true,
     "especial": false,
+    "clube": "Reinaldo",
+    "tipo": "Boavista F.C.",
     "imagem": "images/capas/Os Cracks 82 83/121.jpg"
   },
   {
@@ -851,6 +1093,8 @@
     "nome": "Cromo 122",
     "tenho": true,
     "especial": false,
+    "clube": "Palhares",
+    "tipo": "Boavista F.C.",
     "imagem": "images/capas/Os Cracks 82 83/122.jpg"
   },
   {
@@ -858,6 +1102,8 @@
     "nome": "Cromo 123",
     "tenho": true,
     "especial": false,
+    "clube": "Barbosa",
+    "tipo": "Boavista F.C.",
     "imagem": "images/capas/Os Cracks 82 83/123.jpg"
   },
   {
@@ -865,6 +1111,8 @@
     "nome": "Cromo 124",
     "tenho": true,
     "especial": false,
+    "clube": "Alvaro",
+    "tipo": "Boavista F.C.",
     "imagem": "images/capas/Os Cracks 82 83/124.jpg"
   },
   {
@@ -872,6 +1120,8 @@
     "nome": "Cromo 125",
     "tenho": true,
     "especial": false,
+    "clube": "Coelho",
+    "tipo": "Boavista F.C.",
     "imagem": "images/capas/Os Cracks 82 83/125.jpg"
   },
   {
@@ -879,6 +1129,8 @@
     "nome": "Cromo 126",
     "tenho": true,
     "especial": false,
+    "clube": "Figueiredo",
+    "tipo": "Boavista F.C.",
     "imagem": "images/capas/Os Cracks 82 83/126.jpg"
   },
   {
@@ -886,6 +1138,8 @@
     "nome": "Cromo 127",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "S.C. de Espinho",
     "imagem": "images/capas/Os Cracks 82 83/127.jpg"
   },
   {
@@ -893,6 +1147,8 @@
     "nome": "Cromo 128",
     "tenho": true,
     "especial": false,
+    "clube": "Mendes",
+    "tipo": "S.C. de Espinho",
     "imagem": "images/capas/Os Cracks 82 83/128.jpg"
   },
   {
@@ -900,6 +1156,8 @@
     "nome": "Cromo 129",
     "tenho": true,
     "especial": false,
+    "clube": "Balaco",
+    "tipo": "S.C. de Espinho",
     "imagem": "images/capas/Os Cracks 82 83/129.jpg"
   },
   {
@@ -907,6 +1165,8 @@
     "nome": "Cromo 130",
     "tenho": true,
     "especial": false,
+    "clube": "Serra",
+    "tipo": "S.C. de Espinho",
     "imagem": "images/capas/Os Cracks 82 83/130.jpg"
   },
   {
@@ -914,6 +1174,8 @@
     "nome": "Cromo 131",
     "tenho": true,
     "especial": false,
+    "clube": "Nicolau",
+    "tipo": "S.C. de Espinho",
     "imagem": "images/capas/Os Cracks 82 83/131.jpg"
   },
   {
@@ -921,6 +1183,8 @@
     "nome": "Cromo 132",
     "tenho": true,
     "especial": false,
+    "clube": "Salvado",
+    "tipo": "S.C. de Espinho",
     "imagem": "images/capas/Os Cracks 82 83/132.jpg"
   },
   {
@@ -928,6 +1192,8 @@
     "nome": "Cromo 133",
     "tenho": true,
     "especial": false,
+    "clube": "J. Carlos",
+    "tipo": "S.C. de Espinho",
     "imagem": "images/capas/Os Cracks 82 83/133.jpg"
   },
   {
@@ -935,6 +1201,8 @@
     "nome": "Cromo 134",
     "tenho": true,
     "especial": false,
+    "clube": "Carvalho",
+    "tipo": "S.C. de Espinho",
     "imagem": "images/capas/Os Cracks 82 83/134.jpg"
   },
   {
@@ -942,6 +1210,8 @@
     "nome": "Cromo 135",
     "tenho": true,
     "especial": false,
+    "clube": "Raul Aguas",
+    "tipo": "S.C. de Espinho",
     "imagem": "images/capas/Os Cracks 82 83/135.jpg"
   },
   {
@@ -949,6 +1219,8 @@
     "nome": "Cromo 136",
     "tenho": true,
     "especial": false,
+    "clube": "J. Augusto",
+    "tipo": "S.C. de Espinho",
     "imagem": "images/capas/Os Cracks 82 83/136.jpg"
   },
   {
@@ -956,6 +1228,8 @@
     "nome": "Cromo 137",
     "tenho": true,
     "especial": false,
+    "clube": "Vitorino",
+    "tipo": "S.C. de Espinho",
     "imagem": "images/capas/Os Cracks 82 83/137.jpg"
   },
   {
@@ -963,6 +1237,8 @@
     "nome": "Cromo 138",
     "tenho": true,
     "especial": false,
+    "clube": "Moinhos",
+    "tipo": "S.C. de Espinho",
     "imagem": "images/capas/Os Cracks 82 83/138.jpg"
   },
   {
@@ -970,6 +1246,8 @@
     "nome": "Cromo 139",
     "tenho": true,
     "especial": false,
+    "clube": "Moia",
+    "tipo": "S.C. de Espinho",
     "imagem": "images/capas/Os Cracks 82 83/139.jpg"
   },
   {
@@ -977,6 +1255,8 @@
     "nome": "Cromo 140",
     "tenho": true,
     "especial": false,
+    "clube": "Pinto Rocha",
+    "tipo": "S.C. de Espinho",
     "imagem": "images/capas/Os Cracks 82 83/140.jpg"
   },
   {
@@ -984,6 +1264,8 @@
     "nome": "Cromo 141",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "Amora F.C.",
     "imagem": "images/capas/Os Cracks 82 83/141.jpg"
   },
   {
@@ -991,6 +1273,8 @@
     "nome": "Cromo 142",
     "tenho": true,
     "especial": false,
+    "clube": "Botelho",
+    "tipo": "Amora F.C.",
     "imagem": "images/capas/Os Cracks 82 83/142.jpg"
   },
   {
@@ -998,6 +1282,8 @@
     "nome": "Cromo 143",
     "tenho": true,
     "especial": false,
+    "clube": "Emmanuel",
+    "tipo": "Amora F.C.",
     "imagem": "images/capas/Os Cracks 82 83/143.jpg"
   },
   {
@@ -1005,6 +1291,8 @@
     "nome": "Cromo 144",
     "tenho": true,
     "especial": false,
+    "clube": "Arnaldo",
+    "tipo": "Amora F.C.",
     "imagem": "images/capas/Os Cracks 82 83/144.jpg"
   },
   {
@@ -1012,6 +1300,8 @@
     "nome": "Cromo 145",
     "tenho": true,
     "especial": false,
+    "clube": "Nelson",
+    "tipo": "Amora F.C.",
     "imagem": "images/capas/Os Cracks 82 83/145.jpg"
   },
   {
@@ -1019,6 +1309,8 @@
     "nome": "Cromo 146",
     "tenho": true,
     "especial": false,
+    "clube": "Alfredo",
+    "tipo": "Amora F.C.",
     "imagem": "images/capas/Os Cracks 82 83/146.jpg"
   },
   {
@@ -1026,6 +1318,8 @@
     "nome": "Cromo 147",
     "tenho": true,
     "especial": false,
+    "clube": "Alberto",
+    "tipo": "Amora F.C.",
     "imagem": "images/capas/Os Cracks 82 83/147.jpg"
   },
   {
@@ -1033,6 +1327,8 @@
     "nome": "Cromo 148",
     "tenho": true,
     "especial": false,
+    "clube": "Walter",
+    "tipo": "Amora F.C.",
     "imagem": "images/capas/Os Cracks 82 83/148.jpg"
   },
   {
@@ -1040,6 +1336,8 @@
     "nome": "Cromo 149",
     "tenho": true,
     "especial": false,
+    "clube": "Jaime",
+    "tipo": "Amora F.C.",
     "imagem": "images/capas/Os Cracks 82 83/149.jpg"
   },
   {
@@ -1047,6 +1345,8 @@
     "nome": "Cromo 150",
     "tenho": true,
     "especial": false,
+    "clube": "Caio Cambalhota",
+    "tipo": "Amora F.C.",
     "imagem": "images/capas/Os Cracks 82 83/150.jpg"
   },
   {
@@ -1054,6 +1354,8 @@
     "nome": "Cromo 151",
     "tenho": true,
     "especial": false,
+    "clube": "Baltazar",
+    "tipo": "Amora F.C.",
     "imagem": "images/capas/Os Cracks 82 83/151.jpg"
   },
   {
@@ -1061,6 +1363,8 @@
     "nome": "Cromo 152",
     "tenho": true,
     "especial": false,
+    "clube": "Celso",
+    "tipo": "Amora F.C.",
     "imagem": "images/capas/Os Cracks 82 83/152.jpg"
   },
   {
@@ -1068,6 +1372,8 @@
     "nome": "Cromo 153",
     "tenho": true,
     "especial": false,
+    "clube": "Ribeiro",
+    "tipo": "Amora F.C.",
     "imagem": "images/capas/Os Cracks 82 83/153.jpg"
   },
   {
@@ -1075,6 +1381,8 @@
     "nome": "Cromo 154",
     "tenho": true,
     "especial": false,
+    "clube": "Marlon",
+    "tipo": "Amora F.C.",
     "imagem": "images/capas/Os Cracks 82 83/154.jpg"
   },
   {
@@ -1082,6 +1390,8 @@
     "nome": "Cromo 155",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "G.D. Estoril-Praia",
     "imagem": "images/capas/Os Cracks 82 83/155.jpg"
   },
   {
@@ -1089,6 +1399,8 @@
     "nome": "Cromo 156",
     "tenho": true,
     "especial": false,
+    "clube": "Abrantes",
+    "tipo": "G.D. Estoril-Praia",
     "imagem": "images/capas/Os Cracks 82 83/156.jpg"
   },
   {
@@ -1096,6 +1408,8 @@
     "nome": "Cromo 157",
     "tenho": true,
     "especial": false,
+    "clube": "J. Antonio",
+    "tipo": "G.D. Estoril-Praia",
     "imagem": "images/capas/Os Cracks 82 83/157.jpg"
   },
   {
@@ -1103,6 +1417,8 @@
     "nome": "Cromo 158",
     "tenho": true,
     "especial": false,
+    "clube": "Cansado",
+    "tipo": "G.D. Estoril-Praia",
     "imagem": "images/capas/Os Cracks 82 83/158.jpg"
   },
   {
@@ -1110,6 +1426,8 @@
     "nome": "Cromo 159",
     "tenho": true,
     "especial": false,
+    "clube": "Manaca",
+    "tipo": "G.D. Estoril-Praia",
     "imagem": "images/capas/Os Cracks 82 83/159.jpg"
   },
   {
@@ -1117,6 +1435,8 @@
     "nome": "Cromo 160",
     "tenho": true,
     "especial": false,
+    "clube": "Leo",
+    "tipo": "G.D. Estoril-Praia",
     "imagem": "images/capas/Os Cracks 82 83/160.jpg"
   },
   {
@@ -1124,6 +1444,8 @@
     "nome": "Cromo 161",
     "tenho": true,
     "especial": false,
+    "clube": "Isidro",
+    "tipo": "G.D. Estoril-Praia",
     "imagem": "images/capas/Os Cracks 82 83/161.jpg"
   },
   {
@@ -1131,6 +1453,8 @@
     "nome": "Cromo 162",
     "tenho": true,
     "especial": false,
+    "clube": "Diamantino",
+    "tipo": "G.D. Estoril-Praia",
     "imagem": "images/capas/Os Cracks 82 83/162.jpg"
   },
   {
@@ -1138,6 +1462,8 @@
     "nome": "Cromo 163",
     "tenho": true,
     "especial": false,
+    "clube": "Ernesto",
+    "tipo": "G.D. Estoril-Praia",
     "imagem": "images/capas/Os Cracks 82 83/163.jpg"
   },
   {
@@ -1145,6 +1471,8 @@
     "nome": "Cromo 164",
     "tenho": true,
     "especial": false,
+    "clube": "J. Abrantes",
+    "tipo": "G.D. Estoril-Praia",
     "imagem": "images/capas/Os Cracks 82 83/164.jpg"
   },
   {
@@ -1152,6 +1480,8 @@
     "nome": "Cromo 165",
     "tenho": true,
     "especial": false,
+    "clube": "V. Madeira",
+    "tipo": "G.D. Estoril-Praia",
     "imagem": "images/capas/Os Cracks 82 83/165.jpg"
   },
   {
@@ -1159,6 +1489,8 @@
     "nome": "Cromo 166",
     "tenho": true,
     "especial": false,
+    "clube": "Hélio",
+    "tipo": "G.D. Estoril-Praia",
     "imagem": "images/capas/Os Cracks 82 83/166.jpg"
   },
   {
@@ -1166,6 +1498,8 @@
     "nome": "Cromo 167",
     "tenho": true,
     "especial": false,
+    "clube": "Vierinha",
+    "tipo": "G.D. Estoril-Praia",
     "imagem": "images/capas/Os Cracks 82 83/167.jpg"
   },
   {
@@ -1173,6 +1507,8 @@
     "nome": "Cromo 168",
     "tenho": true,
     "especial": false,
+    "clube": "Vitinha",
+    "tipo": "G.D. Estoril-Praia",
     "imagem": "images/capas/Os Cracks 82 83/168.jpg"
   },
   {
@@ -1180,6 +1516,8 @@
     "nome": "Cromo 169",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "Varzim S.C.",
     "imagem": "images/capas/Os Cracks 82 83/169.jpg"
   },
   {
@@ -1187,6 +1525,8 @@
     "nome": "Cromo 170",
     "tenho": true,
     "especial": false,
+    "clube": "D'Jair",
+    "tipo": "Varzim S.C.",
     "imagem": "images/capas/Os Cracks 82 83/170.jpg"
   },
   {
@@ -1194,6 +1534,8 @@
     "nome": "Cromo 171",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoriano",
+    "tipo": "Varzim S.C.",
     "imagem": "images/capas/Os Cracks 82 83/171.jpg"
   },
   {
@@ -1201,6 +1543,8 @@
     "nome": "Cromo 172",
     "tenho": true,
     "especial": false,
+    "clube": "Washington",
+    "tipo": "Varzim S.C.",
     "imagem": "images/capas/Os Cracks 82 83/172.jpg"
   },
   {
@@ -1208,6 +1552,8 @@
     "nome": "Cromo 173",
     "tenho": true,
     "especial": false,
+    "clube": "Torres",
+    "tipo": "Varzim S.C.",
     "imagem": "images/capas/Os Cracks 82 83/173.jpg"
   },
   {
@@ -1215,6 +1561,8 @@
     "nome": "Cromo 174",
     "tenho": true,
     "especial": false,
+    "clube": "Oscar",
+    "tipo": "Varzim S.C.",
     "imagem": "images/capas/Os Cracks 82 83/174.jpg"
   },
   {
@@ -1222,6 +1570,8 @@
     "nome": "Cromo 175",
     "tenho": true,
     "especial": false,
+    "clube": "Andre",
+    "tipo": "Varzim S.C.",
     "imagem": "images/capas/Os Cracks 82 83/175.jpg"
   },
   {
@@ -1229,6 +1579,8 @@
     "nome": "Cromo 176",
     "tenho": true,
     "especial": false,
+    "clube": "Pinto",
+    "tipo": "Varzim S.C.",
     "imagem": "images/capas/Os Cracks 82 83/176.jpg"
   },
   {
@@ -1236,6 +1588,8 @@
     "nome": "Cromo 177",
     "tenho": true,
     "especial": false,
+    "clube": "Albino",
+    "tipo": "Varzim S.C.",
     "imagem": "images/capas/Os Cracks 82 83/177.jpg"
   },
   {
@@ -1243,6 +1597,8 @@
     "nome": "Cromo 178",
     "tenho": true,
     "especial": false,
+    "clube": "Victor",
+    "tipo": "Varzim S.C.",
     "imagem": "images/capas/Os Cracks 82 83/178.jpg"
   },
   {
@@ -1250,6 +1606,8 @@
     "nome": "Cromo 179",
     "tenho": true,
     "especial": false,
+    "clube": "Vilacova",
+    "tipo": "Varzim S.C.",
     "imagem": "images/capas/Os Cracks 82 83/179.jpg"
   },
   {
@@ -1257,6 +1615,8 @@
     "nome": "Cromo 180",
     "tenho": true,
     "especial": false,
+    "clube": "Valdemar",
+    "tipo": "Varzim S.C.",
     "imagem": "images/capas/Os Cracks 82 83/180.jpg"
   },
   {
@@ -1264,6 +1624,8 @@
     "nome": "Cromo 181",
     "tenho": true,
     "especial": false,
+    "clube": "Ali Queta",
+    "tipo": "Varzim S.C.",
     "imagem": "images/capas/Os Cracks 82 83/181.jpg"
   },
   {
@@ -1271,6 +1633,8 @@
     "nome": "Cromo 182",
     "tenho": true,
     "especial": false,
+    "clube": "J. Albino",
+    "tipo": "Varzim S.C.",
     "imagem": "images/capas/Os Cracks 82 83/182.jpg"
   },
   {
@@ -1278,6 +1642,8 @@
     "nome": "Cromo 183",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "G.C. de Alcobaça",
     "imagem": "images/capas/Os Cracks 82 83/183.jpg"
   },
   {
@@ -1285,6 +1651,8 @@
     "nome": "Cromo 184",
     "tenho": true,
     "especial": false,
+    "clube": "Jorge",
+    "tipo": "G.C. de Alcobaça",
     "imagem": "images/capas/Os Cracks 82 83/184.jpg"
   },
   {
@@ -1292,6 +1660,8 @@
     "nome": "Cromo 185",
     "tenho": true,
     "especial": false,
+    "clube": "Modas",
+    "tipo": "G.C. de Alcobaça",
     "imagem": "images/capas/Os Cracks 82 83/185.jpg"
   },
   {
@@ -1299,6 +1669,8 @@
     "nome": "Cromo 186",
     "tenho": true,
     "especial": false,
+    "clube": "Raul Neto",
+    "tipo": "G.C. de Alcobaça",
     "imagem": "images/capas/Os Cracks 82 83/186.jpg"
   },
   {
@@ -1306,6 +1678,8 @@
     "nome": "Cromo 187",
     "tenho": true,
     "especial": false,
+    "clube": "Varela",
+    "tipo": "G.C. de Alcobaça",
     "imagem": "images/capas/Os Cracks 82 83/187.jpg"
   },
   {
@@ -1313,6 +1687,8 @@
     "nome": "Cromo 188",
     "tenho": true,
     "especial": false,
+    "clube": "Alfredo",
+    "tipo": "G.C. de Alcobaça",
     "imagem": "images/capas/Os Cracks 82 83/188.jpg"
   },
   {
@@ -1320,6 +1696,8 @@
     "nome": "Cromo 189",
     "tenho": true,
     "especial": false,
+    "clube": "Romao",
+    "tipo": "G.C. de Alcobaça",
     "imagem": "images/capas/Os Cracks 82 83/189.jpg"
   },
   {
@@ -1327,6 +1705,8 @@
     "nome": "Cromo 190",
     "tenho": true,
     "especial": false,
+    "clube": "José Rui",
+    "tipo": "G.C. de Alcobaça",
     "imagem": "images/capas/Os Cracks 82 83/190.jpg"
   },
   {
@@ -1334,6 +1714,8 @@
     "nome": "Cromo 191",
     "tenho": true,
     "especial": false,
+    "clube": "J. Oliveira",
+    "tipo": "G.C. de Alcobaça",
     "imagem": "images/capas/Os Cracks 82 83/191.jpg"
   },
   {
@@ -1341,6 +1723,8 @@
     "nome": "Cromo 192",
     "tenho": true,
     "especial": false,
+    "clube": "Cavungi",
+    "tipo": "G.C. de Alcobaça",
     "imagem": "images/capas/Os Cracks 82 83/192.jpg"
   },
   {
@@ -1348,6 +1732,8 @@
     "nome": "Cromo 193",
     "tenho": true,
     "especial": false,
+    "clube": "Nelito",
+    "tipo": "G.C. de Alcobaça",
     "imagem": "images/capas/Os Cracks 82 83/193.jpg"
   },
   {
@@ -1355,6 +1741,8 @@
     "nome": "Cromo 194",
     "tenho": true,
     "especial": false,
+    "clube": "Joao Cabral",
+    "tipo": "G.C. de Alcobaça",
     "imagem": "images/capas/Os Cracks 82 83/194.jpg"
   },
   {
@@ -1362,6 +1750,8 @@
     "nome": "Cromo 195",
     "tenho": true,
     "especial": false,
+    "clube": "Teixeira",
+    "tipo": "G.C. de Alcobaça",
     "imagem": "images/capas/Os Cracks 82 83/195.jpg"
   },
   {
@@ -1369,6 +1759,8 @@
     "nome": "Cromo 196",
     "tenho": true,
     "especial": false,
+    "clube": "Boavida",
+    "tipo": "G.C. de Alcobaça",
     "imagem": "images/capas/Os Cracks 82 83/196.jpg"
   },
   {
@@ -1376,6 +1768,8 @@
     "nome": "Cromo 197",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "C.S. Maritimo",
     "imagem": "images/capas/Os Cracks 82 83/197.jpg"
   },
   {
@@ -1383,6 +1777,8 @@
     "nome": "Cromo 198",
     "tenho": true,
     "especial": false,
+    "clube": "Quim",
+    "tipo": "C.S. Maritimo",
     "imagem": "images/capas/Os Cracks 82 83/198.jpg"
   },
   {
@@ -1390,6 +1786,8 @@
     "nome": "Cromo 199",
     "tenho": true,
     "especial": false,
+    "clube": "Cacheira",
+    "tipo": "C.S. Maritimo",
     "imagem": "images/capas/Os Cracks 82 83/199.jpg"
   },
   {
@@ -1397,6 +1795,8 @@
     "nome": "Cromo 200",
     "tenho": true,
     "especial": false,
+    "clube": "Oliveira",
+    "tipo": "C.S. Maritimo",
     "imagem": "images/capas/Os Cracks 82 83/200.jpg"
   },
   {
@@ -1404,6 +1804,8 @@
     "nome": "Cromo 201",
     "tenho": true,
     "especial": false,
+    "clube": "Humberto",
+    "tipo": "C.S. Maritimo",
     "imagem": "images/capas/Os Cracks 82 83/201.jpg"
   },
   {
@@ -1411,6 +1813,8 @@
     "nome": "Cromo 202",
     "tenho": true,
     "especial": false,
+    "clube": "A. Carvalho",
+    "tipo": "C.S. Maritimo",
     "imagem": "images/capas/Os Cracks 82 83/202.jpg"
   },
   {
@@ -1418,6 +1822,8 @@
     "nome": "Cromo 203",
     "tenho": true,
     "especial": false,
+    "clube": "Olavo",
+    "tipo": "C.S. Maritimo",
     "imagem": "images/capas/Os Cracks 82 83/203.jpg"
   },
   {
@@ -1425,6 +1831,8 @@
     "nome": "Cromo 204",
     "tenho": true,
     "especial": false,
+    "clube": "Eduardinho",
+    "tipo": "C.S. Maritimo",
     "imagem": "images/capas/Os Cracks 82 83/204.jpg"
   },
   {
@@ -1432,6 +1840,8 @@
     "nome": "Cromo 205",
     "tenho": true,
     "especial": false,
+    "clube": "Flavio",
+    "tipo": "C.S. Maritimo",
     "imagem": "images/capas/Os Cracks 82 83/205.jpg"
   },
   {
@@ -1439,6 +1849,8 @@
     "nome": "Cromo 206",
     "tenho": true,
     "especial": false,
+    "clube": "Nanino",
+    "tipo": "C.S. Maritimo",
     "imagem": "images/capas/Os Cracks 82 83/206.jpg"
   },
   {
@@ -1446,6 +1858,8 @@
     "nome": "Cromo 207",
     "tenho": true,
     "especial": false,
+    "clube": "Albertino",
+    "tipo": "C.S. Maritimo",
     "imagem": "images/capas/Os Cracks 82 83/207.jpg"
   },
   {
@@ -1453,6 +1867,8 @@
     "nome": "Cromo 208",
     "tenho": true,
     "especial": false,
+    "clube": "Quim Manuel",
+    "tipo": "C.S. Maritimo",
     "imagem": "images/capas/Os Cracks 82 83/208.jpg"
   },
   {
@@ -1460,6 +1876,8 @@
     "nome": "Cromo 209",
     "tenho": true,
     "especial": false,
+    "clube": "Metralha",
+    "tipo": "C.S. Maritimo",
     "imagem": "images/capas/Os Cracks 82 83/209.jpg"
   },
   {
@@ -1467,6 +1885,8 @@
     "nome": "Cromo 210",
     "tenho": true,
     "especial": false,
+    "clube": "Marineu",
+    "tipo": "C.S. Maritimo",
     "imagem": "images/capas/Os Cracks 82 83/210.jpg"
   },
   {
@@ -1474,6 +1894,8 @@
     "nome": "Cromo 211",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "F.C. de Penafiel",
     "imagem": "images/capas/Os Cracks 82 83/211.jpg"
   },
   {
@@ -1481,6 +1903,8 @@
     "nome": "Cromo 212",
     "tenho": true,
     "especial": false,
+    "clube": "Anibal",
+    "tipo": "F.C. de Penafiel",
     "imagem": "images/capas/Os Cracks 82 83/212.jpg"
   },
   {
@@ -1488,6 +1912,8 @@
     "nome": "Cromo 213",
     "tenho": true,
     "especial": false,
+    "clube": "Ze Manuel",
+    "tipo": "F.C. de Penafiel",
     "imagem": "images/capas/Os Cracks 82 83/213.jpg"
   },
   {
@@ -1495,6 +1921,8 @@
     "nome": "Cromo 214",
     "tenho": true,
     "especial": false,
+    "clube": "Ronaldo",
+    "tipo": "F.C. de Penafiel",
     "imagem": "images/capas/Os Cracks 82 83/214.jpg"
   },
   {
@@ -1502,6 +1930,8 @@
     "nome": "Cromo 215",
     "tenho": true,
     "especial": false,
+    "clube": "Paulo Cesar",
+    "tipo": "F.C. de Penafiel",
     "imagem": "images/capas/Os Cracks 82 83/215.jpg"
   },
   {
@@ -1509,6 +1939,8 @@
     "nome": "Cromo 216",
     "tenho": true,
     "especial": false,
+    "clube": "Fernando",
+    "tipo": "F.C. de Penafiel",
     "imagem": "images/capas/Os Cracks 82 83/216.jpg"
   },
   {
@@ -1516,6 +1948,8 @@
     "nome": "Cromo 217",
     "tenho": true,
     "especial": false,
+    "clube": "F. Costa",
+    "tipo": "F.C. de Penafiel",
     "imagem": "images/capas/Os Cracks 82 83/217.jpg"
   },
   {
@@ -1523,6 +1957,8 @@
     "nome": "Cromo 218",
     "tenho": true,
     "especial": false,
+    "clube": "Esmoris",
+    "tipo": "F.C. de Penafiel",
     "imagem": "images/capas/Os Cracks 82 83/218.jpg"
   },
   {
@@ -1530,6 +1966,8 @@
     "nome": "Cromo 219",
     "tenho": true,
     "especial": false,
+    "clube": "Sanha",
+    "tipo": "F.C. de Penafiel",
     "imagem": "images/capas/Os Cracks 82 83/219.jpg"
   },
   {
@@ -1537,6 +1975,8 @@
     "nome": "Cromo 220",
     "tenho": true,
     "especial": false,
+    "clube": "Joao",
+    "tipo": "F.C. de Penafiel",
     "imagem": "images/capas/Os Cracks 82 83/220.jpg"
   },
   {
@@ -1544,6 +1984,8 @@
     "nome": "Cromo 221",
     "tenho": true,
     "especial": false,
+    "clube": "Jairo",
+    "tipo": "F.C. de Penafiel",
     "imagem": "images/capas/Os Cracks 82 83/221.jpg"
   },
   {
@@ -1551,6 +1993,8 @@
     "nome": "Cromo 222",
     "tenho": true,
     "especial": false,
+    "clube": "Branco",
+    "tipo": "F.C. de Penafiel",
     "imagem": "images/capas/Os Cracks 82 83/222.jpg"
   },
   {
@@ -1558,6 +2002,8 @@
     "nome": "Cromo 223",
     "tenho": true,
     "especial": false,
+    "clube": "Leonel",
+    "tipo": "F.C. de Penafiel",
     "imagem": "images/capas/Os Cracks 82 83/223.jpg"
   },
   {
@@ -1565,6 +2011,8 @@
     "nome": "Cromo 224",
     "tenho": true,
     "especial": false,
+    "clube": "Chico Faria",
+    "tipo": "F.C. de Penafiel",
     "imagem": "images/capas/Os Cracks 82 83/224.jpg"
   },
   {
@@ -1572,6 +2020,8 @@
     "nome": "Cromo 225",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "S. Comercio e Salgueiros",
     "imagem": "images/capas/Os Cracks 82 83/225.jpg"
   },
   {
@@ -1579,6 +2029,8 @@
     "nome": "Cromo 226",
     "tenho": true,
     "especial": false,
+    "clube": "Pinto",
+    "tipo": "S. Comercio e Salgueiros",
     "imagem": "images/capas/Os Cracks 82 83/226.jpg"
   },
   {
@@ -1586,6 +2038,8 @@
     "nome": "Cromo 227",
     "tenho": true,
     "especial": false,
+    "clube": "Costeado",
+    "tipo": "S. Comercio e Salgueiros",
     "imagem": "images/capas/Os Cracks 82 83/227.jpg"
   },
   {
@@ -1593,6 +2047,8 @@
     "nome": "Cromo 228",
     "tenho": true,
     "especial": false,
+    "clube": "Carvalho",
+    "tipo": "S. Comercio e Salgueiros",
     "imagem": "images/capas/Os Cracks 82 83/228.jpg"
   },
   {
@@ -1600,6 +2056,8 @@
     "nome": "Cromo 229",
     "tenho": true,
     "especial": false,
+    "clube": "Peres",
+    "tipo": "S. Comercio e Salgueiros",
     "imagem": "images/capas/Os Cracks 82 83/229.jpg"
   },
   {
@@ -1607,6 +2065,8 @@
     "nome": "Cromo 230",
     "tenho": true,
     "especial": false,
+    "clube": "Luis Pereira",
+    "tipo": "S. Comercio e Salgueiros",
     "imagem": "images/capas/Os Cracks 82 83/230.jpg"
   },
   {
@@ -1614,6 +2074,8 @@
     "nome": "Cromo 231",
     "tenho": true,
     "especial": false,
+    "clube": "Jorginho",
+    "tipo": "S. Comercio e Salgueiros",
     "imagem": "images/capas/Os Cracks 82 83/231.jpg"
   },
   {
@@ -1621,6 +2083,8 @@
     "nome": "Cromo 232",
     "tenho": true,
     "especial": false,
+    "clube": "Rui Franca",
+    "tipo": "S. Comercio e Salgueiros",
     "imagem": "images/capas/Os Cracks 82 83/232.jpg"
   },
   {
@@ -1628,6 +2092,8 @@
     "nome": "Cromo 233",
     "tenho": true,
     "especial": false,
+    "clube": "Santos",
+    "tipo": "S. Comercio e Salgueiros",
     "imagem": "images/capas/Os Cracks 82 83/233.jpg"
   },
   {
@@ -1635,6 +2101,8 @@
     "nome": "Cromo 234",
     "tenho": true,
     "especial": false,
+    "clube": "S. Cardoso",
+    "tipo": "S. Comercio e Salgueiros",
     "imagem": "images/capas/Os Cracks 82 83/234.jpg"
   },
   {
@@ -1642,6 +2110,8 @@
     "nome": "Cromo 235",
     "tenho": true,
     "especial": false,
+    "clube": "Nelson",
+    "tipo": "S. Comercio e Salgueiros",
     "imagem": "images/capas/Os Cracks 82 83/235.jpg"
   },
   {
@@ -1649,6 +2119,8 @@
     "nome": "Cromo 236",
     "tenho": true,
     "especial": false,
+    "clube": "Joy",
+    "tipo": "S. Comercio e Salgueiros",
     "imagem": "images/capas/Os Cracks 82 83/236.jpg"
   },
   {
@@ -1656,6 +2128,8 @@
     "nome": "Cromo 237",
     "tenho": true,
     "especial": false,
+    "clube": "Meireles",
+    "tipo": "S. Comercio e Salgueiros",
     "imagem": "images/capas/Os Cracks 82 83/237.jpg"
   },
   {
@@ -1663,6 +2137,8 @@
     "nome": "Cromo 238",
     "tenho": true,
     "especial": false,
+    "clube": "Soares",
+    "tipo": "S. Comercio e Salgueiros",
     "imagem": "images/capas/Os Cracks 82 83/238.jpg"
   },
   {
@@ -1670,6 +2146,8 @@
     "nome": "Cromo 239",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "C.A. de Coimbra",
     "imagem": "images/capas/Os Cracks 82 83/239.jpg"
   },
   {
@@ -1677,6 +2155,8 @@
     "nome": "Cromo 240",
     "tenho": true,
     "especial": false,
+    "clube": "Jacinto Joao",
+    "tipo": "C.A. de Coimbra",
     "imagem": "images/capas/Os Cracks 82 83/240.jpg"
   },
   {
@@ -1684,6 +2164,8 @@
     "nome": "Cromo 241",
     "tenho": true,
     "especial": false,
+    "clube": "Parente",
+    "tipo": "C.A. de Coimbra",
     "imagem": "images/capas/Os Cracks 82 83/241.jpg"
   },
   {
@@ -1691,6 +2173,8 @@
     "nome": "Cromo 242",
     "tenho": true,
     "especial": false,
+    "clube": "José Freixo",
+    "tipo": "C.A. de Coimbra",
     "imagem": "images/capas/Os Cracks 82 83/242.jpg"
   },
   {
@@ -1698,6 +2182,8 @@
     "nome": "Cromo 243",
     "tenho": true,
     "especial": false,
+    "clube": "Tomas",
+    "tipo": "C.A. de Coimbra",
     "imagem": "images/capas/Os Cracks 82 83/243.jpg"
   },
   {
@@ -1705,6 +2191,8 @@
     "nome": "Cromo 244",
     "tenho": true,
     "especial": false,
+    "clube": "Freitas",
+    "tipo": "C.A. de Coimbra",
     "imagem": "images/capas/Os Cracks 82 83/244.jpg"
   },
   {
@@ -1712,6 +2200,8 @@
     "nome": "Cromo 245",
     "tenho": true,
     "especial": false,
+    "clube": "Luis Horta",
+    "tipo": "C.A. de Coimbra",
     "imagem": "images/capas/Os Cracks 82 83/245.jpg"
   },
   {
@@ -1719,6 +2209,8 @@
     "nome": "Cromo 246",
     "tenho": true,
     "especial": false,
+    "clube": "M. Wilson",
+    "tipo": "C.A. de Coimbra",
     "imagem": "images/capas/Os Cracks 82 83/246.jpg"
   },
   {
@@ -1726,6 +2218,8 @@
     "nome": "Cromo 247",
     "tenho": true,
     "especial": false,
+    "clube": "Aquiles",
+    "tipo": "C.A. de Coimbra",
     "imagem": "images/capas/Os Cracks 82 83/247.jpg"
   },
   {
@@ -1733,6 +2227,8 @@
     "nome": "Cromo 248",
     "tenho": true,
     "especial": false,
+    "clube": "Marconi",
+    "tipo": "C.A. de Coimbra",
     "imagem": "images/capas/Os Cracks 82 83/248.jpg"
   },
   {
@@ -1740,6 +2236,8 @@
     "nome": "Cromo 249",
     "tenho": true,
     "especial": false,
+    "clube": "Camegim",
+    "tipo": "C.A. de Coimbra",
     "imagem": "images/capas/Os Cracks 82 83/249.jpg"
   },
   {
@@ -1747,6 +2245,8 @@
     "nome": "Cromo 250",
     "tenho": true,
     "especial": false,
+    "clube": "Ibraim",
+    "tipo": "C.A. de Coimbra",
     "imagem": "images/capas/Os Cracks 82 83/250.jpg"
   },
   {
@@ -1754,6 +2254,8 @@
     "nome": "Cromo 251",
     "tenho": true,
     "especial": false,
+    "clube": "Rosado",
+    "tipo": "C.A. de Coimbra",
     "imagem": "images/capas/Os Cracks 82 83/251.jpg"
   },
   {
@@ -1761,6 +2263,8 @@
     "nome": "Cromo 252",
     "tenho": true,
     "especial": false,
+    "clube": "Redondo",
+    "tipo": "C.A. de Coimbra",
     "imagem": "images/capas/Os Cracks 82 83/252.jpg"
   },
   {
@@ -1768,6 +2272,8 @@
     "nome": "Cromo 253",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "S.C. Farense",
     "imagem": "images/capas/Os Cracks 82 83/253.jpg"
   },
   {
@@ -1775,6 +2281,8 @@
     "nome": "Cromo 254",
     "tenho": true,
     "especial": false,
+    "clube": "Jorge",
+    "tipo": "S.C. Farense",
     "imagem": "images/capas/Os Cracks 82 83/254.jpg"
   },
   {
@@ -1782,6 +2290,8 @@
     "nome": "Cromo 255",
     "tenho": true,
     "especial": false,
+    "clube": "César",
+    "tipo": "S.C. Farense",
     "imagem": "images/capas/Os Cracks 82 83/255.jpg"
   },
   {
@@ -1789,6 +2299,8 @@
     "nome": "Cromo 256",
     "tenho": true,
     "especial": false,
+    "clube": "Meneses",
+    "tipo": "S.C. Farense",
     "imagem": "images/capas/Os Cracks 82 83/256.jpg"
   },
   {
@@ -1796,6 +2308,8 @@
     "nome": "Cromo 257",
     "tenho": true,
     "especial": false,
+    "clube": "Leonardo",
+    "tipo": "S.C. Farense",
     "imagem": "images/capas/Os Cracks 82 83/257.jpg"
   },
   {
@@ -1803,6 +2317,8 @@
     "nome": "Cromo 258",
     "tenho": true,
     "especial": false,
+    "clube": "Alhinho",
+    "tipo": "S.C. Farense",
     "imagem": "images/capas/Os Cracks 82 83/258.jpg"
   },
   {
@@ -1810,6 +2326,8 @@
     "nome": "Cromo 259",
     "tenho": true,
     "especial": false,
+    "clube": "Vilaca",
+    "tipo": "S.C. Farense",
     "imagem": "images/capas/Os Cracks 82 83/259.jpg"
   },
   {
@@ -1817,6 +2335,8 @@
     "nome": "Cromo 260",
     "tenho": true,
     "especial": false,
+    "clube": "Oscar",
+    "tipo": "S.C. Farense",
     "imagem": "images/capas/Os Cracks 82 83/260.jpg"
   },
   {
@@ -1824,6 +2344,8 @@
     "nome": "Cromo 261",
     "tenho": true,
     "especial": false,
+    "clube": "M. Ventura",
+    "tipo": "S.C. Farense",
     "imagem": "images/capas/Os Cracks 82 83/261.jpg"
   },
   {
@@ -1831,6 +2353,8 @@
     "nome": "Cromo 262",
     "tenho": true,
     "especial": false,
+    "clube": "Sekoda",
+    "tipo": "S.C. Farense",
     "imagem": "images/capas/Os Cracks 82 83/262.jpg"
   },
   {
@@ -1838,6 +2362,8 @@
     "nome": "Cromo 263",
     "tenho": true,
     "especial": false,
+    "clube": "Joel",
+    "tipo": "S.C. Farense",
     "imagem": "images/capas/Os Cracks 82 83/263.jpg"
   },
   {
@@ -1845,6 +2371,8 @@
     "nome": "Cromo 264",
     "tenho": true,
     "especial": false,
+    "clube": "Vital",
+    "tipo": "S.C. Farense",
     "imagem": "images/capas/Os Cracks 82 83/264.jpg"
   },
   {
@@ -1852,6 +2380,8 @@
     "nome": "Cromo 265",
     "tenho": true,
     "especial": false,
+    "clube": "Fernando",
+    "tipo": "S.C. Farense",
     "imagem": "images/capas/Os Cracks 82 83/265.jpg"
   },
   {
@@ -1859,6 +2389,8 @@
     "nome": "Cromo 266",
     "tenho": true,
     "especial": false,
+    "clube": "José Alves",
+    "tipo": "S.C. Farense",
     "imagem": "images/capas/Os Cracks 82 83/266.jpg"
   }
 ]

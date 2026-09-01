@@ -1,982 +1,1098 @@
 [
   {
     "numero": "1",
-    "nome": "Cromo 1",
+    "nome": "Zoff",
     "tenho": true,
     "especial": false,
+    "clube": "ltaly",
     "imagem": "images/capas/Ases Mundial 82/1.jpg"
   },
   {
     "numero": "2",
-    "nome": "Cromo 2",
+    "nome": "Cabrini",
     "tenho": true,
     "especial": false,
+    "clube": "ltaly",
     "imagem": "images/capas/Ases Mundial 82/2.jpg"
   },
   {
     "numero": "3",
-    "nome": "Cromo 3",
+    "nome": "Collovati",
     "tenho": true,
     "especial": false,
+    "clube": "ltaly",
     "imagem": "images/capas/Ases Mundial 82/3.jpg"
   },
   {
     "numero": "4",
-    "nome": "Cromo 4",
+    "nome": "Tardelli",
     "tenho": true,
     "especial": false,
+    "clube": "ltaly",
     "imagem": "images/capas/Ases Mundial 82/4.jpg"
   },
   {
     "numero": "5",
-    "nome": "Cromo 5",
+    "nome": "Antognoni",
     "tenho": true,
     "especial": false,
+    "clube": "ltaly",
     "imagem": "images/capas/Ases Mundial 82/5.jpg"
   },
   {
     "numero": "6",
-    "nome": "Cromo 6",
+    "nome": "Bettega",
     "tenho": true,
     "especial": false,
+    "clube": "ltaly",
     "imagem": "images/capas/Ases Mundial 82/6.jpg"
   },
   {
     "numero": "7",
-    "nome": "Cromo 7",
+    "nome": "Gentile",
     "tenho": true,
     "especial": false,
+    "clube": "ltaly",
     "imagem": "images/capas/Ases Mundial 82/7.jpg"
   },
   {
     "numero": "8",
-    "nome": "Cromo 8",
+    "nome": "Rossi",
     "tenho": true,
     "especial": false,
+    "clube": "ltaly",
     "imagem": "images/capas/Ases Mundial 82/8.jpg"
   },
   {
     "numero": "9",
-    "nome": "Cromo 9",
+    "nome": "Graziani",
     "tenho": true,
     "especial": false,
+    "clube": "ltaly",
     "imagem": "images/capas/Ases Mundial 82/9.jpg"
   },
   {
     "numero": "10",
-    "nome": "Cromo 10",
+    "nome": "Lato",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
     "imagem": "images/capas/Ases Mundial 82/10.jpg"
   },
   {
     "numero": "11",
-    "nome": "Cromo 11",
+    "nome": "Boniek",
     "tenho": true,
     "especial": false,
+    "clube": "Poland",
     "imagem": "images/capas/Ases Mundial 82/11.jpg"
   },
   {
     "numero": "12",
-    "nome": "Cromo 12",
+    "nome": "Cubillas",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
     "imagem": "images/capas/Ases Mundial 82/12.jpg"
   },
   {
     "numero": "13",
-    "nome": "Cromo 13",
+    "nome": "Quiroga",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
     "imagem": "images/capas/Ases Mundial 82/13.jpg"
   },
   {
     "numero": "14",
-    "nome": "Cromo 14",
+    "nome": "Uribe",
     "tenho": true,
     "especial": false,
+    "clube": "Peru",
     "imagem": "images/capas/Ases Mundial 82/14.jpg"
   },
   {
     "numero": "15",
-    "nome": "Cromo 15",
+    "nome": "Tokoto",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroon",
     "imagem": "images/capas/Ases Mundial 82/15.jpg"
   },
   {
     "numero": "16",
-    "nome": "Cromo 16",
+    "nome": "Abega",
     "tenho": true,
     "especial": false,
+    "clube": "Cameroon",
     "imagem": "images/capas/Ases Mundial 82/16.jpg"
   },
   {
     "numero": "17",
-    "nome": "Cromo 17",
+    "nome": "Schumacher",
     "tenho": true,
     "especial": false,
+    "clube": "West Germany",
     "imagem": "images/capas/Ases Mundial 82/17.jpg"
   },
   {
     "numero": "18",
-    "nome": "Cromo 18",
+    "nome": "Forster",
     "tenho": true,
     "especial": false,
+    "clube": "West Germany",
     "imagem": "images/capas/Ases Mundial 82/18.jpg"
   },
   {
     "numero": "19",
-    "nome": "Cromo 19",
+    "nome": "Kaltz",
     "tenho": true,
     "especial": false,
+    "clube": "West Germany",
     "imagem": "images/capas/Ases Mundial 82/19.jpg"
   },
   {
     "numero": "20",
-    "nome": "Cromo 20",
+    "nome": "Briegel",
     "tenho": true,
     "especial": false,
+    "clube": "West Germany",
     "imagem": "images/capas/Ases Mundial 82/20.jpg"
   },
   {
     "numero": "21",
-    "nome": "Cromo 21",
+    "nome": "Schuster",
     "tenho": true,
     "especial": false,
+    "clube": "West Germany",
     "imagem": "images/capas/Ases Mundial 82/21.jpg"
   },
   {
     "numero": "22",
-    "nome": "Cromo 22",
+    "nome": "Stielike",
     "tenho": true,
     "especial": false,
+    "clube": "West Germany",
     "imagem": "images/capas/Ases Mundial 82/22.jpg"
   },
   {
     "numero": "23",
-    "nome": "Cromo 23",
+    "nome": "Breitner",
     "tenho": true,
     "especial": false,
+    "clube": "West Germany",
     "imagem": "images/capas/Ases Mundial 82/23.jpg"
   },
   {
     "numero": "24",
-    "nome": "Cromo 24",
+    "nome": "Muller",
     "tenho": true,
     "especial": false,
+    "clube": "West Germany",
     "imagem": "images/capas/Ases Mundial 82/24.jpg"
   },
   {
     "numero": "25",
-    "nome": "Cromo 25",
+    "nome": "Hrubesch",
     "tenho": true,
     "especial": false,
+    "clube": "West Germany",
     "imagem": "images/capas/Ases Mundial 82/25.jpg"
   },
   {
     "numero": "26",
-    "nome": "Cromo 26",
+    "nome": "Rummenigge",
     "tenho": true,
     "especial": false,
+    "clube": "West Germany",
     "imagem": "images/capas/Ases Mundial 82/26.jpg"
   },
   {
     "numero": "27",
-    "nome": "Cromo 27",
+    "nome": "Allofs",
     "tenho": true,
     "especial": false,
+    "clube": "West Germany",
     "imagem": "images/capas/Ases Mundial 82/27.jpg"
   },
   {
     "numero": "28",
-    "nome": "Cromo 28",
+    "nome": "Fischer",
     "tenho": true,
     "especial": false,
+    "clube": "West Germany",
     "imagem": "images/capas/Ases Mundial 82/28.jpg"
   },
   {
     "numero": "29",
-    "nome": "Cromo 29",
+    "nome": "Littbarski",
     "tenho": true,
     "especial": false,
+    "clube": "West Germany",
     "imagem": "images/capas/Ases Mundial 82/29.jpg"
   },
   {
     "numero": "30",
-    "nome": "Cromo 30",
+    "nome": "Magath",
     "tenho": true,
     "especial": false,
+    "clube": "West Germany",
     "imagem": "images/capas/Ases Mundial 82/30.jpg"
   },
   {
     "numero": "31",
-    "nome": "Cromo 31",
+    "nome": "Mansouri",
     "tenho": true,
     "especial": false,
+    "clube": "Algeria",
     "imagem": "images/capas/Ases Mundial 82/31.jpg"
   },
   {
     "numero": "32",
-    "nome": "Cromo 32",
+    "nome": "Kourishi",
     "tenho": true,
     "especial": false,
+    "clube": "Algeria",
     "imagem": "images/capas/Ases Mundial 82/32.jpg"
   },
   {
     "numero": "33",
-    "nome": "Cromo 33",
+    "nome": "Moscoso",
     "tenho": true,
     "especial": false,
+    "clube": "Chile",
     "imagem": "images/capas/Ases Mundial 82/33.jpg"
   },
   {
     "numero": "34",
-    "nome": "Cromo 34",
+    "nome": "Caszely",
     "tenho": true,
     "especial": false,
+    "clube": "Chile",
     "imagem": "images/capas/Ases Mundial 82/34.jpg"
   },
   {
     "numero": "35",
-    "nome": "Cromo 35",
+    "nome": "Yanez",
     "tenho": true,
     "especial": false,
+    "clube": "Chile",
     "imagem": "images/capas/Ases Mundial 82/35.jpg"
   },
   {
     "numero": "36",
-    "nome": "Cromo 36",
+    "nome": "Koncilia",
     "tenho": true,
     "especial": false,
+    "clube": "Austria",
     "imagem": "images/capas/Ases Mundial 82/36.jpg"
   },
   {
     "numero": "37",
-    "nome": "Cromo 37",
+    "nome": "Pezzey",
     "tenho": true,
     "especial": false,
+    "clube": "Austria",
     "imagem": "images/capas/Ases Mundial 82/37.jpg"
   },
   {
     "numero": "38",
-    "nome": "Cromo 38",
+    "nome": "Weber",
     "tenho": true,
     "especial": false,
+    "clube": "Austria",
     "imagem": "images/capas/Ases Mundial 82/38.jpg"
   },
   {
     "numero": "39",
-    "nome": "Cromo 39",
+    "nome": "Prohaska",
     "tenho": true,
     "especial": false,
+    "clube": "Austria",
     "imagem": "images/capas/Ases Mundial 82/39.jpg"
   },
   {
     "numero": "40",
-    "nome": "Cromo 40",
+    "nome": "Krankl",
     "tenho": true,
     "especial": false,
+    "clube": "Austria",
     "imagem": "images/capas/Ases Mundial 82/40.jpg"
   },
   {
     "numero": "41",
-    "nome": "Cromo 41",
+    "nome": "Welzl",
     "tenho": true,
     "especial": false,
+    "clube": "Austria",
     "imagem": "images/capas/Ases Mundial 82/41.jpg"
   },
   {
     "numero": "42",
-    "nome": "Cromo 42",
+    "nome": "Passarella",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
     "imagem": "images/capas/Ases Mundial 82/42.jpg"
   },
   {
     "numero": "43",
-    "nome": "Cromo 43",
+    "nome": "Santamaria",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
     "imagem": "images/capas/Ases Mundial 82/43.jpg"
   },
   {
     "numero": "44",
-    "nome": "Cromo 44",
+    "nome": "Olguin",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
     "imagem": "images/capas/Ases Mundial 82/44.jpg"
   },
   {
     "numero": "45",
-    "nome": "Cromo 45",
+    "nome": "Fillol",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
     "imagem": "images/capas/Ases Mundial 82/45.jpg"
   },
   {
     "numero": "46",
-    "nome": "Cromo 46",
+    "nome": "Kempes",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
     "imagem": "images/capas/Ases Mundial 82/46.jpg"
   },
   {
     "numero": "47",
-    "nome": "Cromo 47",
+    "nome": "Ardiles",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
     "imagem": "images/capas/Ases Mundial 82/47.jpg"
   },
   {
     "numero": "48",
-    "nome": "Cromo 48",
+    "nome": "Valencia",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
     "imagem": "images/capas/Ases Mundial 82/48.jpg"
   },
   {
     "numero": "49",
-    "nome": "Cromo 49",
+    "nome": "Maradona",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
     "imagem": "images/capas/Ases Mundial 82/49.jpg"
   },
   {
     "numero": "50",
-    "nome": "Cromo 50",
+    "nome": "Diaz",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
     "imagem": "images/capas/Ases Mundial 82/50.jpg"
   },
   {
     "numero": "51",
-    "nome": "Cromo 51",
+    "nome": "Barbas",
     "tenho": true,
     "especial": false,
+    "clube": "Argentina",
     "imagem": "images/capas/Ases Mundial 82/51.jpg"
   },
   {
     "numero": "52",
-    "nome": "Cromo 52",
+    "nome": "Pfaff",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
     "imagem": "images/capas/Ases Mundial 82/52.jpg"
   },
   {
     "numero": "53",
-    "nome": "Cromo 53",
+    "nome": "Gerets",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
     "imagem": "images/capas/Ases Mundial 82/53.jpg"
   },
   {
     "numero": "54",
-    "nome": "Cromo 54",
+    "nome": "Millecamps",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
     "imagem": "images/capas/Ases Mundial 82/54.jpg"
   },
   {
     "numero": "55",
-    "nome": "Cromo 55",
+    "nome": "Renquin",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
     "imagem": "images/capas/Ases Mundial 82/55.jpg"
   },
   {
     "numero": "56",
-    "nome": "Cromo 56",
+    "nome": "Van Der Elst",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
     "imagem": "images/capas/Ases Mundial 82/56.jpg"
   },
   {
     "numero": "57",
-    "nome": "Cromo 57",
+    "nome": "Van Moer",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
     "imagem": "images/capas/Ases Mundial 82/57.jpg"
   },
   {
     "numero": "58",
-    "nome": "Cromo 58",
+    "nome": "Vercauteren",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
     "imagem": "images/capas/Ases Mundial 82/58.jpg"
   },
   {
     "numero": "59",
-    "nome": "Cromo 59",
+    "nome": "Vandereycken",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
     "imagem": "images/capas/Ases Mundial 82/59.jpg"
   },
   {
     "numero": "60",
-    "nome": "Cromo 60",
+    "nome": "Ceulemans",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
     "imagem": "images/capas/Ases Mundial 82/60.jpg"
   },
   {
     "numero": "61",
-    "nome": "Cromo 61",
+    "nome": "Vandenbergh",
     "tenho": true,
     "especial": false,
+    "clube": "Belgium",
     "imagem": "images/capas/Ases Mundial 82/61.jpg"
   },
   {
     "numero": "62",
-    "nome": "Cromo 62",
+    "nome": "Meszaros",
     "tenho": true,
     "especial": false,
+    "clube": "Hungary",
     "imagem": "images/capas/Ases Mundial 82/62.jpg"
   },
   {
     "numero": "63",
-    "nome": "Cromo 63",
+    "nome": "Balint",
     "tenho": true,
     "especial": false,
+    "clube": "Hungary",
     "imagem": "images/capas/Ases Mundial 82/63.jpg"
   },
   {
     "numero": "64",
-    "nome": "Cromo 64",
+    "nome": "Nyilasi",
     "tenho": true,
     "especial": false,
+    "clube": "Hungary",
     "imagem": "images/capas/Ases Mundial 82/64.jpg"
   },
   {
     "numero": "65",
-    "nome": "Cromo 65",
+    "nome": "Garaba",
     "tenho": true,
     "especial": false,
+    "clube": "Hungary",
     "imagem": "images/capas/Ases Mundial 82/65.jpg"
   },
   {
     "numero": "66",
-    "nome": "Cromo 66",
+    "nome": "Fazekas",
     "tenho": true,
     "especial": false,
+    "clube": "Hungary",
     "imagem": "images/capas/Ases Mundial 82/66.jpg"
   },
   {
     "numero": "67",
-    "nome": "Cromo 67",
+    "nome": "Torocsik",
     "tenho": true,
     "especial": false,
+    "clube": "Hungary",
     "imagem": "images/capas/Ases Mundial 82/67.jpg"
   },
   {
     "numero": "68",
-    "nome": "Cromo 68",
+    "nome": "Huezo",
     "tenho": true,
     "especial": false,
+    "clube": "El Salvador",
     "imagem": "images/capas/Ases Mundial 82/68.jpg"
   },
   {
     "numero": "69",
-    "nome": "Cromo 69",
+    "nome": "Diaz",
     "tenho": true,
     "especial": false,
+    "clube": "El Salvador",
     "imagem": "images/capas/Ases Mundial 82/69.jpg"
   },
   {
     "numero": "70",
-    "nome": "Cromo 70",
+    "nome": "Ever",
     "tenho": true,
     "especial": false,
+    "clube": "El Salvador",
     "imagem": "images/capas/Ases Mundial 82/70.jpg"
   },
   {
     "numero": "71",
-    "nome": "Cromo 71",
+    "nome": "Shilton",
     "tenho": true,
     "especial": false,
+    "clube": "England",
     "imagem": "images/capas/Ases Mundial 82/71.jpg"
   },
   {
     "numero": "72",
-    "nome": "Cromo 72",
+    "nome": "Neal",
     "tenho": true,
     "especial": false,
+    "clube": "England",
     "imagem": "images/capas/Ases Mundial 82/72.jpg"
   },
   {
     "numero": "73",
-    "nome": "Cromo 73",
+    "nome": "Robson",
     "tenho": true,
     "especial": false,
+    "clube": "England",
     "imagem": "images/capas/Ases Mundial 82/73.jpg"
   },
   {
     "numero": "74",
-    "nome": "Cromo 74",
+    "nome": "Brooking",
     "tenho": true,
     "especial": false,
+    "clube": "England",
     "imagem": "images/capas/Ases Mundial 82/74.jpg"
   },
   {
     "numero": "75",
-    "nome": "Cromo 75",
+    "nome": "Keegan",
     "tenho": true,
     "especial": false,
+    "clube": "England",
     "imagem": "images/capas/Ases Mundial 82/75.jpg"
   },
   {
     "numero": "76",
-    "nome": "Cromo 76",
+    "nome": "Mariner",
     "tenho": true,
     "especial": false,
+    "clube": "England",
     "imagem": "images/capas/Ases Mundial 82/76.jpg"
   },
   {
     "numero": "77",
-    "nome": "Cromo 77",
+    "nome": "Francis",
     "tenho": true,
     "especial": false,
+    "clube": "England",
     "imagem": "images/capas/Ases Mundial 82/77.jpg"
   },
   {
     "numero": "78",
-    "nome": "Cromo 78",
+    "nome": "Mills",
     "tenho": true,
     "especial": false,
+    "clube": "England",
     "imagem": "images/capas/Ases Mundial 82/78.jpg"
   },
   {
     "numero": "79",
-    "nome": "Cromo 79",
+    "nome": "Tresor",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Ases Mundial 82/79.jpg"
   },
   {
     "numero": "80",
-    "nome": "Cromo 80",
+    "nome": "Bossis",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Ases Mundial 82/80.jpg"
   },
   {
     "numero": "81",
-    "nome": "Cromo 81",
+    "nome": "Janvion",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Ases Mundial 82/81.jpg"
   },
   {
     "numero": "82",
-    "nome": "Cromo 82",
+    "nome": "Lacombe",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Ases Mundial 82/82.jpg"
   },
   {
     "numero": "83",
-    "nome": "Cromo 83",
+    "nome": "Rocheteau",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Ases Mundial 82/83.jpg"
   },
   {
     "numero": "84",
-    "nome": "Cromo 84",
+    "nome": "Larios",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Ases Mundial 82/84.jpg"
   },
   {
     "numero": "85",
-    "nome": "Cromo 85",
+    "nome": "Didier Six",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Ases Mundial 82/85.jpg"
   },
   {
     "numero": "86",
-    "nome": "Cromo 86",
+    "nome": "Platini",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Ases Mundial 82/86.jpg"
   },
   {
     "numero": "87",
-    "nome": "Cromo 87",
+    "nome": "Netolika",
     "tenho": true,
     "especial": false,
+    "clube": "Czechoslovakia",
     "imagem": "images/capas/Ases Mundial 82/87.jpg"
   },
   {
     "numero": "88",
-    "nome": "Cromo 88",
+    "nome": "Barmos",
     "tenho": true,
     "especial": false,
+    "clube": "Czechoslovakia",
     "imagem": "images/capas/Ases Mundial 82/88.jpg"
   },
   {
     "numero": "89",
-    "nome": "Cromo 89",
+    "nome": "Kozak",
     "tenho": true,
     "especial": false,
+    "clube": "Czechoslovakia",
     "imagem": "images/capas/Ases Mundial 82/89.jpg"
   },
   {
     "numero": "90",
-    "nome": "Cromo 90",
+    "nome": "Nehoda",
     "tenho": true,
     "especial": false,
+    "clube": "Czechoslovakia",
     "imagem": "images/capas/Ases Mundial 82/90.jpg"
   },
   {
     "numero": "91",
-    "nome": "Cromo 91",
+    "nome": "Panenka",
     "tenho": true,
     "especial": false,
+    "clube": "Czechoslovakia",
     "imagem": "images/capas/Ases Mundial 82/91.jpg"
   },
   {
     "numero": "92",
-    "nome": "Cromo 92",
+    "nome": "Masny",
     "tenho": true,
     "especial": false,
+    "clube": "Czechoslovakia",
     "imagem": "images/capas/Ases Mundial 82/92.jpg"
   },
   {
     "numero": "93",
-    "nome": "Cromo 93",
+    "nome": "Kameel",
     "tenho": true,
     "especial": false,
+    "clube": "Kuwait",
     "imagem": "images/capas/Ases Mundial 82/93.jpg"
   },
   {
     "numero": "94",
-    "nome": "Cromo 94",
+    "nome": "Mayouf",
     "tenho": true,
     "especial": false,
+    "clube": "Kuwait",
     "imagem": "images/capas/Ases Mundial 82/94.jpg"
   },
   {
     "numero": "95",
-    "nome": "Cromo 95",
+    "nome": "Arconada",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
     "imagem": "images/capas/Ases Mundial 82/95.jpg"
   },
   {
     "numero": "96",
-    "nome": "Cromo 96",
+    "nome": "Alesanco",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
     "imagem": "images/capas/Ases Mundial 82/96.jpg"
   },
   {
     "numero": "97",
-    "nome": "Cromo 97",
+    "nome": "Camacho",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
     "imagem": "images/capas/Ases Mundial 82/97.jpg"
   },
   {
     "numero": "98",
-    "nome": "Cromo 98",
+    "nome": "Gordillo",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
     "imagem": "images/capas/Ases Mundial 82/98.jpg"
   },
   {
     "numero": "99",
-    "nome": "Cromo 99",
+    "nome": "Alonso",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
     "imagem": "images/capas/Ases Mundial 82/99.jpg"
   },
   {
     "numero": "100",
-    "nome": "Cromo 100",
+    "nome": "Zamora",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
     "imagem": "images/capas/Ases Mundial 82/100.jpg"
   },
   {
     "numero": "101",
-    "nome": "Cromo 101",
+    "nome": "Dani",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
     "imagem": "images/capas/Ases Mundial 82/101.jpg"
   },
   {
     "numero": "102",
-    "nome": "Cromo 102",
+    "nome": "Lopez Ufarte",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
     "imagem": "images/capas/Ases Mundial 82/102.jpg"
   },
   {
     "numero": "103",
-    "nome": "Cromo 103",
+    "nome": "Marcos",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
     "imagem": "images/capas/Ases Mundial 82/103.jpg"
   },
   {
     "numero": "104",
-    "nome": "Cromo 104",
+    "nome": "Quini",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
     "imagem": "images/capas/Ases Mundial 82/104.jpg"
   },
   {
     "numero": "105",
-    "nome": "Cromo 105",
+    "nome": "Santillana",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
     "imagem": "images/capas/Ases Mundial 82/105.jpg"
   },
   {
     "numero": "106",
-    "nome": "Cromo 106",
+    "nome": "Satrustegui",
     "tenho": true,
     "especial": false,
+    "clube": "Spain",
     "imagem": "images/capas/Ases Mundial 82/106.jpg"
   },
   {
     "numero": "107",
-    "nome": "Cromo 107",
+    "nome": "Maradiaga",
     "tenho": true,
     "especial": false,
+    "clube": "Honduras",
     "imagem": "images/capas/Ases Mundial 82/107.jpg"
   },
   {
     "numero": "108",
-    "nome": "Cromo 108",
+    "nome": "Gilberto",
     "tenho": true,
     "especial": false,
+    "clube": "Honduras",
     "imagem": "images/capas/Ases Mundial 82/108.jpg"
   },
   {
     "numero": "109",
-    "nome": "Cromo 109",
+    "nome": "Zajec",
     "tenho": true,
     "especial": false,
+    "clube": "Yugoslavia",
     "imagem": "images/capas/Ases Mundial 82/109.jpg"
   },
   {
     "numero": "110",
-    "nome": "Cromo 110",
+    "nome": "Petrovic",
     "tenho": true,
     "especial": false,
+    "clube": "Yugoslavia",
     "imagem": "images/capas/Ases Mundial 82/110.jpg"
   },
   {
     "numero": "111",
-    "nome": "Cromo 111",
+    "nome": "Vujovic",
     "tenho": true,
     "especial": false,
+    "clube": "Yugoslavia",
     "imagem": "images/capas/Ases Mundial 82/111.jpg"
   },
   {
     "numero": "112",
-    "nome": "Cromo 112",
+    "nome": "Surjak",
     "tenho": true,
     "especial": false,
+    "clube": "Yugoslavia",
     "imagem": "images/capas/Ases Mundial 82/112.jpg"
   },
   {
     "numero": "113",
-    "nome": "Cromo 113",
+    "nome": "Susic",
     "tenho": true,
     "especial": false,
+    "clube": "Yugoslavia",
     "imagem": "images/capas/Ases Mundial 82/113.jpg"
   },
   {
     "numero": "114",
-    "nome": "Cromo 114",
+    "nome": "Jennings",
     "tenho": true,
     "especial": false,
+    "clube": "Northern Ireland",
     "imagem": "images/capas/Ases Mundial 82/114.jpg"
   },
   {
     "numero": "115",
-    "nome": "Cromo 115",
+    "nome": "McIlroy",
     "tenho": true,
     "especial": false,
+    "clube": "Northern Ireland",
     "imagem": "images/capas/Ases Mundial 82/115.jpg"
   },
   {
     "numero": "116",
-    "nome": "Cromo 116",
+    "nome": "Donaghy",
     "tenho": true,
     "especial": false,
+    "clube": "Northern Ireland",
     "imagem": "images/capas/Ases Mundial 82/116.jpg"
   },
   {
     "numero": "117",
-    "nome": "Cromo 117",
+    "nome": "O'Neill",
     "tenho": true,
     "especial": false,
+    "clube": "Northern Ireland",
     "imagem": "images/capas/Ases Mundial 82/117.jpg"
   },
   {
     "numero": "118",
-    "nome": "Cromo 118",
+    "nome": "Luisinho",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
     "imagem": "images/capas/Ases Mundial 82/118.jpg"
   },
   {
     "numero": "119",
-    "nome": "Cromo 119",
+    "nome": "Junior",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
     "imagem": "images/capas/Ases Mundial 82/119.jpg"
   },
   {
     "numero": "120",
-    "nome": "Cromo 120",
+    "nome": "Edevaldo",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
     "imagem": "images/capas/Ases Mundial 82/120.jpg"
   },
   {
     "numero": "121",
-    "nome": "Cromo 121",
+    "nome": "Cerezo",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
     "imagem": "images/capas/Ases Mundial 82/121.jpg"
   },
   {
     "numero": "122",
-    "nome": "Cromo 122",
+    "nome": "Eder",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
     "imagem": "images/capas/Ases Mundial 82/122.jpg"
   },
   {
     "numero": "123",
-    "nome": "Cromo 123",
+    "nome": "Isidoro",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
     "imagem": "images/capas/Ases Mundial 82/123.jpg"
   },
   {
     "numero": "124",
-    "nome": "Cromo 124",
+    "nome": "Reynaldo",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
     "imagem": "images/capas/Ases Mundial 82/124.jpg"
   },
   {
     "numero": "125",
-    "nome": "Cromo 125",
+    "nome": "Roberto",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
     "imagem": "images/capas/Ases Mundial 82/125.jpg"
   },
   {
     "numero": "126",
-    "nome": "Cromo 126",
+    "nome": "Socrates",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
     "imagem": "images/capas/Ases Mundial 82/126.jpg"
   },
   {
     "numero": "127",
-    "nome": "Cromo 127",
+    "nome": "Zico",
     "tenho": true,
     "especial": false,
+    "clube": "Brazil",
     "imagem": "images/capas/Ases Mundial 82/127.jpg"
   },
   {
     "numero": "128",
-    "nome": "Cromo 128",
+    "nome": "Gavrilov",
     "tenho": true,
     "especial": false,
+    "clube": "U.S.S.R.",
     "imagem": "images/capas/Ases Mundial 82/128.jpg"
   },
   {
     "numero": "129",
-    "nome": "Cromo 129",
+    "nome": "Kipiani",
     "tenho": true,
     "especial": false,
+    "clube": "U.S.S.R.",
     "imagem": "images/capas/Ases Mundial 82/129.jpg"
   },
   {
     "numero": "130",
-    "nome": "Cromo 130",
+    "nome": "Civadze",
     "tenho": true,
     "especial": false,
+    "clube": "U.S.S.R.",
     "imagem": "images/capas/Ases Mundial 82/130.jpg"
   },
   {
     "numero": "131",
-    "nome": "Cromo 131",
+    "nome": "Dasaev",
     "tenho": true,
     "especial": false,
+    "clube": "U.S.S.R.",
     "imagem": "images/capas/Ases Mundial 82/131.jpg"
   },
   {
     "numero": "132",
-    "nome": "Cromo 132",
+    "nome": "Blochin",
     "tenho": true,
     "especial": false,
+    "clube": "U.S.S.R.",
     "imagem": "images/capas/Ases Mundial 82/132.jpg"
   },
   {
     "numero": "133",
-    "nome": "Cromo 133",
+    "nome": "McQueen",
     "tenho": true,
     "especial": false,
+    "clube": "Scotland",
     "imagem": "images/capas/Ases Mundial 82/133.jpg"
   },
   {
     "numero": "134",
-    "nome": "Cromo 134",
+    "nome": "Hartford",
     "tenho": true,
     "especial": false,
+    "clube": "Scotland",
     "imagem": "images/capas/Ases Mundial 82/134.jpg"
   },
   {
     "numero": "135",
-    "nome": "Cromo 135",
+    "nome": "Jordan",
     "tenho": true,
     "especial": false,
+    "clube": "Scotland",
     "imagem": "images/capas/Ases Mundial 82/135.jpg"
   },
   {
     "numero": "136",
-    "nome": "Cromo 136",
+    "nome": "Dalglish",
     "tenho": true,
     "especial": false,
+    "clube": "Scotland",
     "imagem": "images/capas/Ases Mundial 82/136.jpg"
   },
   {
     "numero": "137",
-    "nome": "Cromo 137",
+    "nome": "Hansen",
     "tenho": true,
     "especial": false,
+    "clube": "Scotland",
     "imagem": "images/capas/Ases Mundial 82/137.jpg"
-  },
-  {
-    "numero": "138",
-    "nome": "Cromo 138",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Ases Mundial 82/138.jpg"
-  },
-  {
-    "numero": "139",
-    "nome": "Cromo 139",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Ases Mundial 82/139.jpg"
-  },
-  {
-    "numero": "140",
-    "nome": "Cromo 140",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Ases Mundial 82/140.jpg"
   }
 ]
