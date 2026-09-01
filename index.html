@@ -1093,8 +1093,13 @@ async function carregarPortfolio(){
   const uid = auth.currentUser.uid;
   try{
     const snap = await db.collection('portfolio').where('uid','==',uid).get();
+    // diagnóstico temporário: confirmar exatamente o que a Firestore devolve
+    // para cada caderneta, para perceber porque é que uma remoção por vezes
+    // não fica persistida depois de um refresh
+    console.log('[portfolio] carregarPortfolio: ' + snap.size + ' documento(s) para uid=' + uid);
     snap.forEach(doc => {
       const d = doc.data();
+      console.log('[portfolio] doc.id=' + doc.id + ' cadernetaId=' + JSON.stringify(d.cadernetaId) + ' ativo=' + d.ativo);
       // ativo===false = foi removido do portefolio (ver nota em removerDoPortfolio
       // sobre porque nunca apagamos o documento); docs antigos sem este campo
       // contam como ativos
@@ -1156,10 +1161,19 @@ async function removerDoPortfolio(cadernetaId, cadernetaNome){
     // Firestore recusam delete/merge parciais aqui) -- reescrevemos o
     // documento inteiro, na mesma forma que adicionarAoPortfolio, para
     // corresponder exatamente ao que as regras de seguranca esperam
-    await db.collection('portfolio').doc(idPortfolio(uid, cadernetaId)).set({
+    const ref = db.collection('portfolio').doc(idPortfolio(uid, cadernetaId));
+    await ref.set({
       uid, cadernetaId, cadernetaNome: cadernetaNome || cadernetaId, ativo: false,
       removidoEm: firebase.firestore.FieldValue.serverTimestamp()
     });
+    // diagnóstico temporário: ler imediatamente a seguir a escrever, direto do
+    // servidor (sem cache), para confirmar que ficou mesmo gravado como ativo:false
+    try{
+      const confirmacao = await ref.get({source: 'server'});
+      console.log('[portfolio] removerDoPortfolio: confirmação pós-escrita para doc.id=' + ref.id + ' -> ' + JSON.stringify(confirmacao.data()));
+    }catch(errConfirmacao){
+      console.warn('[portfolio] não consegui confirmar a escrita:', errConfirmacao);
+    }
     portfolioAtual.delete(cadernetaId);
     faltasGlobais.delete(cadernetaId);
   }catch(err){
@@ -1396,7 +1410,7 @@ async function openDetail(id, pushHistory=true, from='list'){
   document.getElementById('detail').classList.add('active');
 
   if(pushHistory){
-    history.pushState({view:'detail', id, from}, '', '#' + encodeURIComponent(id));
+    history.pushState({view:'detail', id, from}, '', '#' + from + ':' + encodeURIComponent(id));
   }
 
   document.getElementById('backBtn').innerHTML = from === 'portfolio'
@@ -2000,9 +2014,14 @@ async function init(){
 
     history.replaceState({view:'list'}, '', location.pathname + location.search);
 
-    const idNaUrl = decodeURIComponent(location.hash.replace('#',''));
+    const hashCru = location.hash.replace('#','');
+    const separador = hashCru.indexOf(':');
+    // hashes antigos (partilhados antes desta alteração) não têm o prefixo
+    // "list:"/"portfolio:" -- nesse caso assume-se 'list' (demonstração)
+    const origemNaUrl = separador === -1 ? 'list' : hashCru.slice(0, separador);
+    const idNaUrl = decodeURIComponent(separador === -1 ? hashCru : hashCru.slice(separador + 1));
     if(idNaUrl && cadernetas.some(c=>c.id===idNaUrl)){
-      await openDetail(idNaUrl);
+      await openDetail(idNaUrl, true, origemNaUrl === 'portfolio' ? 'portfolio' : 'list');
     }
   }catch(err){
     document.getElementById('cadGrid').innerHTML = '';
