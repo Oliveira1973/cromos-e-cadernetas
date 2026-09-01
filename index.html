@@ -1776,12 +1776,32 @@ async function abrirMeuPortfolio(pushHistory=true){
 }
 
 // conta quantas vezes cada número aparece no texto colado (separado por
-// vírgulas, quebras de linha, ponto-e-vírgula ou espaços). Também aceita
-// a forma "621(2)" ou "621 (2)" para indicar diretamente a quantidade.
+// vírgulas, quebras de linha ou ponto-e-vírgula). Também aceita:
+// - a forma "621(2)" ou "621 (2)" para indicar diretamente a quantidade;
+// - um intervalo "180-293" para marcar todos os números entre os dois,
+//   inclusive (mantendo o preenchimento com zeros se foi escrito assim,
+//   ex.: "001-010").
 function contarNumerosColados(texto){
   const contagem = new Map();
   const tokens = texto.split(/[\n,;]+/).map(t=>t.trim()).filter(Boolean);
+  const LIMITE_INTERVALO = 5000; // salvaguarda contra intervalos escritos por engano (ex.: "1-999999999")
+
   tokens.forEach(t=>{
+    const comIntervalo = t.match(/^(\d+)\s*-\s*(\d+)$/);
+    if(comIntervalo){
+      const [, deTexto, ateTexto] = comIntervalo;
+      const inicio = Math.min(parseInt(deTexto, 10), parseInt(ateTexto, 10));
+      const fim = Math.max(parseInt(deTexto, 10), parseInt(ateTexto, 10));
+      if(fim - inicio + 1 > LIMITE_INTERVALO) return;
+      const comZeros = (deTexto.length > 1 && deTexto[0] === '0') || (ateTexto.length > 1 && ateTexto[0] === '0');
+      const largura = Math.max(deTexto.length, ateTexto.length);
+      for(let n = inicio; n <= fim; n++){
+        const chave = (comZeros ? String(n).padStart(largura, '0') : String(n)).toUpperCase();
+        contagem.set(chave, (contagem.get(chave)||0) + 1);
+      }
+      return;
+    }
+
     const comQuantidade = t.match(/^(.+?)\s*\((\d+)\)$/);
     let chave, qtd;
     if(comQuantidade){
