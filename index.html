@@ -1129,6 +1129,17 @@ async function adicionarAoPortfolio(cadernetaId, cadernetaNome){
   if(!repetidosAtivo() || portfolioAtual.has(cadernetaId)) return;
   const uid = auth.currentUser.uid;
   try{
+    // se já alguma vez existiu um documento de portefólio para esta
+    // caderneta (mesmo que tenha sido removida depois, ficando ativo:false),
+    // não é a primeira vez -- e por isso NÃO se deve semear as faltas outra
+    // vez a partir do ficheiro JSON, porque isso desfazia uma remoção
+    // (e limpeza de faltas/repetidos) que a pessoa tinha feito de propósito
+    const jaExistiuAntes = (await db.collection('portfolio')
+      .where('uid','==',uid)
+      .where('cadernetaId','==',cadernetaId)
+      .limit(1)
+      .get()).size > 0;
+
     await db.collection('portfolio').doc(idPortfolio(uid, cadernetaId)).set({
       uid, cadernetaId, cadernetaNome, ativo: true,
       adicionadoEm: firebase.firestore.FieldValue.serverTimestamp()
@@ -1136,8 +1147,9 @@ async function adicionarAoPortfolio(cadernetaId, cadernetaNome){
     portfolioAtual.add(cadernetaId);
 
     // a conta do dono do site começa com o tenho/falta que já estava
-    // gravado no ficheiro JSON, em vez de começar do zero
-    if(auth.currentUser.email === OWNER_EMAIL){
+    // gravado no ficheiro JSON, em vez de começar do zero -- mas só na
+    // primeiríssima vez que esta caderneta entra no portefólio
+    if(!jaExistiuAntes && auth.currentUser.email === OWNER_EMAIL){
       const cromos = await loadCromos(cadernetaId);
       const faltantes = cromos.filter(c => !c.tenho);
       await Promise.all(faltantes.map(cr => gravarFalta(cadernetaId, cadernetaNome, cr.numero, cr.nome||'', true)));
