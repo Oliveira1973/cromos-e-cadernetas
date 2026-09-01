@@ -17,10 +17,14 @@ self.addEventListener('activate', (e)=>{
 // internet primeiro, e só usa a cópia guardada se não houver ligação
 // (offline). Assim as atualizações ao site chegam sempre ao telemóvel.
 self.addEventListener('fetch', (e)=>{
+  // só GET pode ir para a cache do browser -- os pedidos em segundo plano
+  // do Firestore (streaming/tempo real) usam POST e têm de passar direto
+  if(e.request.method !== 'GET') return;
+
   e.respondWith(
     fetch(e.request).then(res=>{
       const clone = res.clone();
-      caches.open(CACHE).then(c=>c.put(e.request, clone));
+      caches.open(CACHE).then(c=>c.put(e.request, clone)).catch(()=>{});
       return res;
     }).catch(()=>caches.match(e.request))
   );

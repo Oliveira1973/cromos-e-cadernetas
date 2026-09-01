@@ -317,6 +317,19 @@
   #listView.hidden{ display:none; }
   #repetidosGeral{ display:none; }
   #repetidosGeral.active{ display:block; }
+  #meuPortfolioView{ display:none; }
+  #meuPortfolioView.active{ display:block; }
+  .meu-portfolio-grid{
+    display:flex; flex-wrap:wrap; gap:16px;
+  }
+  .meu-portfolio-item{
+    width:100px; cursor:pointer;
+  }
+  .meu-portfolio-item .mini-capa-badge{ background:var(--teal); }
+  .meu-portfolio-item .mini-capa-meta{
+    font-family:'Space Mono', monospace; font-size:0.6rem;
+    text-align:center; color:var(--ink-soft); margin-top:2px;
+  }
 
   .repetidos-titulo{
     font-family:'Anton', sans-serif; font-weight:400;
@@ -752,6 +765,7 @@
   <div id="listView">
     <div class="acoes-topo" id="acoesTopo" style="display:none;">
       <button id="btnVerRepetidos" class="botao-secundario">🔁 Os meus repetidos</button>
+      <button id="btnVerPortfolio" class="botao-secundario">📚 Meu portefólio</button>
     </div>
     <div class="toolbar">
       <input type="search" id="searchInput" placeholder="Procurar caderneta ou editora...">
@@ -800,6 +814,14 @@
     </div>
 
     <div id="repetidosGeralConteudo">
+      <div class="empty">A carregar...</div>
+    </div>
+  </div>
+
+  <div id="meuPortfolioView">
+    <button class="back-btn" id="backBtnPortfolio">&larr; voltar às cadernetas</button>
+    <h2 class="repetidos-titulo">📚 Meu Portefólio</h2>
+    <div id="meuPortfolioConteudo">
       <div class="empty">A carregar...</div>
     </div>
   </div>
@@ -1370,6 +1392,7 @@ async function renderGrid(){
         if(portfolioAtual.has(c.id)) await removerDoPortfolio(c.id);
         else await adicionarAoPortfolio(c.id, c.nome);
         renderGrid();
+        renderGlobalStats();
       });
     }
     grid.appendChild(card);
@@ -1487,6 +1510,7 @@ document.getElementById('btnTogglePortfolio')?.addEventListener('click', async (
   fill.style.width = s.pct + '%';
   fill.className = 'fill ' + (s.falta===0 ? 'complete':'');
   renderCromosGrid(cromos);
+  renderGlobalStats();
 });
 
 function renderCromosGrid(cromos){
@@ -1545,6 +1569,7 @@ function renderCromosGrid(cromos){
 function showList(){
   document.getElementById('detail').classList.remove('active');
   document.getElementById('repetidosGeral').classList.remove('active');
+  document.getElementById('meuPortfolioView').classList.remove('active');
   document.getElementById('listView').classList.remove('hidden');
 }
 
@@ -1557,7 +1582,57 @@ document.getElementById('backBtnRepetidos').addEventListener('click', ()=>{
   document.getElementById('listView').classList.remove('hidden');
 });
 
+document.getElementById('backBtnPortfolio').addEventListener('click', ()=>{
+  document.getElementById('meuPortfolioView').classList.remove('active');
+  document.getElementById('listView').classList.remove('hidden');
+});
+
 document.getElementById('btnVerRepetidos').addEventListener('click', abrirRepetidosGeral);
+document.getElementById('btnVerPortfolio').addEventListener('click', abrirMeuPortfolio);
+
+async function abrirMeuPortfolio(){
+  document.getElementById('listView').classList.add('hidden');
+  document.getElementById('detail').classList.remove('active');
+  document.getElementById('meuPortfolioView').classList.add('active');
+  window.scrollTo({top:0, behavior:'instant'});
+
+  const conteudo = document.getElementById('meuPortfolioConteudo');
+  conteudo.innerHTML = '<div class="empty">A carregar...</div>';
+
+  const minhas = cadernetas.filter(c => portfolioAtual.has(c.id));
+  if(minhas.length === 0){
+    conteudo.innerHTML = '<div class="empty">Ainda não adicionaste nenhuma caderneta ao teu portefólio. Vai à lista de cadernetas e clica em "➕ Adicionar ao portefólio".</div>';
+    return;
+  }
+
+  conteudo.innerHTML = '<div class="meu-portfolio-grid" id="meuPortfolioGrid"></div>';
+  const grid = document.getElementById('meuPortfolioGrid');
+
+  for(const c of minhas){
+    const cromos = await loadCromos(c.id);
+    const s = stats(cromos, c.id);
+    const item = document.createElement('div');
+    item.className = 'meu-portfolio-item';
+    item.tabIndex = 0;
+    item.setAttribute('role','button');
+    item.innerHTML = `
+      <div class="mini-capa">
+        <div class="mini-capa-img">
+          ${c.capa ? `<img src="${resolvePath(c.capa)}" alt="Capa ${c.nome}">` : `<div class="mini-capa-placeholder">${initials(c.nome)}</div>`}
+        </div>
+        <div class="mini-capa-nome">${c.nome}</div>
+        <div class="mini-capa-badge">${s.pct}%</div>
+      </div>
+      <div class="mini-capa-meta">${s.tenho}/${s.total}</div>
+    `;
+    item.addEventListener('click', ()=>{
+      document.getElementById('meuPortfolioView').classList.remove('active');
+      openDetail(c.id);
+    });
+    item.addEventListener('keypress', (e)=>{ if(e.key==='Enter') item.click(); });
+    grid.appendChild(item);
+  }
+}
 
 async function abrirRepetidosGeral(){
   document.getElementById('listView').classList.add('hidden');
