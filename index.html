@@ -835,12 +835,12 @@
       <div class="detail-title">
         <h2 id="detailNome"></h2>
         <div class="editora-ano" id="detailEditoraAno"></div>
-        <div class="detail-stats">
+        <div class="detail-stats" id="detailStatsWrap">
           <div class="stat"><span class="num" id="detailTenho"></span><span class="lbl">tenho</span></div>
           <div class="stat"><span class="num" id="detailFalta"></span><span class="lbl">faltam</span></div>
           <div class="stat"><span class="num" id="detailPct"></span><span class="lbl">completo</span></div>
         </div>
-        <div class="detail-progress"><div class="fill" id="detailFill"></div></div>
+        <div class="detail-progress" id="detailProgressWrap"><div class="fill" id="detailFill"></div></div>
       </div>
     </div>
 
@@ -1456,6 +1456,11 @@ function atualizarPainelPortfolio(cadernetaId){
     document.getElementById('cromoFaltaOnly').checked = false;
     document.getElementById('cromoRepetidoOnly').checked = false;
   }
+
+  // o "tenho/faltam/completo" só aparece depois de a caderneta estar no
+  // portefólio -- antes disso é só apresentação da caderneta
+  document.getElementById('detailStatsWrap').style.display = noPortfolio ? '' : 'none';
+  document.getElementById('detailProgressWrap').style.display = noPortfolio ? '' : 'none';
 
   if(!repetidosAtivo()){
     wrap.style.display = 'none';
