@@ -1093,7 +1093,13 @@ async function carregarPortfolio(){
   const uid = auth.currentUser.uid;
   try{
     const snap = await db.collection('portfolio').where('uid','==',uid).get();
-    snap.forEach(doc => portfolioAtual.add(doc.data().cadernetaId));
+    snap.forEach(doc => {
+      const d = doc.data();
+      // ativo===false = foi removido do portefolio (ver nota em removerDoPortfolio
+      // sobre porque nunca apagamos o documento); docs antigos sem este campo
+      // contam como ativos
+      if(d.ativo !== false) portfolioAtual.add(d.cadernetaId);
+    });
   }catch(err){
     console.warn('Não consegui carregar o portefólio:', err);
   }
@@ -1124,7 +1130,7 @@ async function adicionarAoPortfolio(cadernetaId, cadernetaNome){
   const uid = auth.currentUser.uid;
   try{
     await db.collection('portfolio').doc(idPortfolio(uid, cadernetaId)).set({
-      uid, cadernetaId, cadernetaNome,
+      uid, cadernetaId, cadernetaNome, ativo: true,
       adicionadoEm: firebase.firestore.FieldValue.serverTimestamp()
     });
     portfolioAtual.add(cadernetaId);
@@ -1146,7 +1152,13 @@ async function removerDoPortfolio(cadernetaId){
   if(!repetidosAtivo()) return;
   const uid = auth.currentUser.uid;
   try{
-    await db.collection('portfolio').doc(idPortfolio(uid, cadernetaId)).delete();
+    // marcamos como inativo em vez de apagar o documento -- as regras de
+    // seguranca do Firestore, tal como para repetidos/faltas, so permitem
+    // escrever, nunca apagar
+    await db.collection('portfolio').doc(idPortfolio(uid, cadernetaId)).set({
+      ativo: false,
+      removidoEm: firebase.firestore.FieldValue.serverTimestamp()
+    }, {merge: true});
     portfolioAtual.delete(cadernetaId);
     faltasGlobais.delete(cadernetaId);
   }catch(err){
