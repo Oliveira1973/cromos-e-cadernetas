@@ -575,28 +575,21 @@
   .cromo.falta{ border-style:dashed; color:var(--ink-soft); }
   .cromo.grande{ width:170px; }
   .cromo .conteudo{
-    height:110px;
+    height:180px;
     background:var(--card-bg);
   }
-  .cromo.grande .conteudo{ height:190px; }
+  .cromo.grande .conteudo{ height:306px; }
   .cromo.tenho .conteudo{ background:#dfe9d8; }
   .cromo.falta .conteudo{
     background:repeating-linear-gradient(45deg, var(--paper-darker), var(--paper-darker) 4px, var(--card-bg) 4px, var(--card-bg) 8px);
   }
   .cromo.tem-imagem{ cursor:zoom-in; }
-  .cromo.tem-imagem .conteudo{
-    height:auto;
-  }
   .cromo .conteudo img{
     width:100%;
     height:100%;
     object-fit:cover;
     background:var(--paper-darker);
     display:block;
-  }
-  .cromo.tem-imagem .conteudo img{
-    height:auto;
-    object-fit:contain;
   }
   .cromo.tem-imagem.falta .conteudo img{ filter: grayscale(0.85) brightness(0.9); opacity:0.55; }
   .cromo .legenda{
@@ -1694,18 +1687,19 @@ document.getElementById('btnTogglePortfolio')?.addEventListener('click', async (
   renderGlobalStats();
 });
 
-// calcula a proporção (largura/altura) real de uma foto de cromo e
-// "arredonda-a" a um valor comum (múltiplo de 0.15). Fotos com formas
-// muito parecidas (ex: todos os retratos de jogadores de uma caderneta)
-// acabam assim com exatamente a mesma altura de moldura, em vez de cada
-// uma variar um pouco -- sem nunca cortar a imagem.
-function aplicarProporcaoFixa(img){
-  const PASSO = 0.15;
+// todos os cromos (com ou sem foto) têm sempre a mesma altura de moldura
+// (ver ".cromo .conteudo{ height:180px }" no CSS) -- para a foto aparecer
+// inteira, sem cortes nem espaço vazio à volta, ajustamos é a LARGURA do
+// cromo à proporção real da imagem, mantendo essa altura fixa. Um cromo
+// "deitado" (ex: foto de equipa) fica mais largo; um cromo "de pé" (ex:
+// retrato de jogador) fica com a largura normal -- mas a altura de todos
+// é sempre igual.
+function aplicarLarguraFixa(el, img){
+  const ALTURA_FIXA = 180; // tem de bater certo com a altura no CSS
   const aplicar = () => {
     if(!img.naturalWidth || !img.naturalHeight) return;
     const proporcao = img.naturalWidth / img.naturalHeight;
-    const arredondada = Math.round(proporcao / PASSO) * PASSO;
-    img.style.aspectRatio = arredondada;
+    el.style.width = Math.round(ALTURA_FIXA * proporcao) + 'px';
   };
   if(img.complete){
     aplicar();
@@ -1757,14 +1751,13 @@ function renderCromosGrid(cromos){
       const img = el.querySelector('img');
       img.addEventListener('error', () => {
         el.classList.remove('tem-imagem');
+        el.style.width = '';
         el.innerHTML = `<div class="conteudo"></div>${legendaHtml}`;
       }, { once: true });
-      // a moldura acompanha a proporção real da foto (em vez de esticar/
-      // cortar para um tamanho fixo), mas "arredondada" a um valor comum --
-      // assim, cromos com a mesma forma (ex: fotos individuais vs fotos de
-      // equipa) ficam sempre com a mesma altura entre si, em vez de cada
-      // imagem ter uma altura ligeiramente diferente
-      aplicarProporcaoFixa(img);
+      // todos os cromos ficam sempre com a mesma altura (definida no CSS);
+      // aqui só ajustamos a largura do cromo à proporção real da foto, para
+      // esta aparecer inteira, sem cortes nem espaço vazio à volta
+      aplicarLarguraFixa(el, img);
     } else {
       el.innerHTML = `<div class="conteudo"></div>${legendaHtml}`;
     }
