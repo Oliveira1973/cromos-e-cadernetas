@@ -583,12 +583,19 @@
     background:repeating-linear-gradient(45deg, var(--paper-darker), var(--paper-darker) 4px, var(--card-bg) 4px, var(--card-bg) 8px);
   }
   .cromo.tem-imagem{ cursor:zoom-in; }
+  .cromo.tem-imagem .conteudo{
+    height:auto;
+  }
   .cromo .conteudo img{
     width:100%;
     height:100%;
     object-fit:cover;
     background:var(--paper-darker);
     display:block;
+  }
+  .cromo.tem-imagem .conteudo img{
+    height:auto;
+    object-fit:contain;
   }
   .cromo.tem-imagem.falta .conteudo img{ filter: grayscale(0.85) brightness(0.9); opacity:0.55; }
   .cromo .legenda{
