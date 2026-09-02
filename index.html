@@ -345,7 +345,11 @@
   }
   .tema-card:hover{ transform: translate(-2px,-2px); box-shadow: 6px 6px 0 var(--paper-darker); }
   .tema-card:focus-visible{ outline: 3px solid var(--teal); outline-offset:2px; }
-  .tema-card .tema-icon{ font-size:2rem; margin-bottom:8px; }
+  .tema-card .tema-logo{
+    height:44px; display:flex; align-items:center; justify-content:center;
+    margin-bottom:10px;
+  }
+  .tema-card .tema-logo img{ max-height:44px; max-width:100%; object-fit:contain; }
   .tema-card h3{
     font-family:'Anton', sans-serif; font-weight:400;
     font-size:1.05rem; margin:0 0 6px; line-height:1.1;
@@ -1755,7 +1759,11 @@ document.getElementById('btnVerPortfolio').addEventListener('click', ()=>abrirMe
 // ordem fixa dos temas principais; qualquer tema novo que apareça nos
 // dados aparece depois destes, por ordem alfabética
 const TEMAS_ORDEM = ['Mundiais', 'Europeus', 'Liga Portuguesa'];
-const TEMA_ICONES = { 'Mundiais': '🌍', 'Europeus': '🏆', 'Liga Portuguesa': '🇵🇹' };
+const TEMA_LOGOS = {
+  'Mundiais': 'images/temas/fifa.svg',
+  'Europeus': 'images/temas/uefa.svg',
+  'Liga Portuguesa': 'images/temas/liga-portugal.png'
+};
 
 async function abrirMeuPortfolio(pushHistory=true, temaSelecionado=null){
   document.getElementById('listView').classList.add('hidden');
@@ -1845,8 +1853,9 @@ function renderTemasPortfolio(conteudo, minhas){
     card.className = 'tema-card';
     card.tabIndex = 0;
     card.setAttribute('role', 'button');
+    const logo = TEMA_LOGOS[tema];
     card.innerHTML = `
-      <div class="tema-icon">${TEMA_ICONES[tema] || '📁'}</div>
+      <div class="tema-logo">${logo ? `<img src="${resolvePath(logo)}" alt="${tema}">` : '📁'}</div>
       <h3>${tema}</h3>
       <div class="tema-count">${n} caderneta${n===1 ? '' : 's'}</div>
     `;
