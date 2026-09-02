@@ -330,6 +330,30 @@
     font-family:'Space Mono', monospace; font-size:0.6rem;
     text-align:center; color:var(--ink-soft); margin-top:2px;
   }
+  .meu-portfolio-temas{
+    display:flex; flex-wrap:wrap; gap:16px;
+  }
+  .tema-card{
+    width:160px;
+    cursor:pointer;
+    background:var(--card-bg);
+    border:2px solid var(--ink);
+    border-radius:3px;
+    padding:20px 14px;
+    text-align:center;
+    transition: transform .15s, box-shadow .15s;
+  }
+  .tema-card:hover{ transform: translate(-2px,-2px); box-shadow: 6px 6px 0 var(--paper-darker); }
+  .tema-card:focus-visible{ outline: 3px solid var(--teal); outline-offset:2px; }
+  .tema-card .tema-icon{ font-size:2rem; margin-bottom:8px; }
+  .tema-card h3{
+    font-family:'Anton', sans-serif; font-weight:400;
+    font-size:1.05rem; margin:0 0 6px; line-height:1.1;
+  }
+  .tema-card .tema-count{
+    font-family:'Space Mono', monospace; font-size:0.7rem;
+    color:var(--ink-soft);
+  }
 
   .repetidos-titulo{
     font-family:'Anton', sans-serif; font-weight:400;
@@ -785,7 +809,7 @@
 
   <div id="meuPortfolioView">
     <button class="back-btn" id="backBtnPortfolio">&larr; voltar às cadernetas</button>
-    <h2 class="repetidos-titulo">📚 Meu Portefólio</h2>
+    <h2 class="repetidos-titulo" id="meuPortfolioTitulo">📚 Meu Portefólio</h2>
     <div id="meuPortfolioConteudo">
       <div class="empty">A carregar...</div>
     </div>
@@ -1728,15 +1752,28 @@ document.getElementById('backBtnPortfolio').addEventListener('click', ()=>{
 
 document.getElementById('btnVerPortfolio').addEventListener('click', ()=>abrirMeuPortfolio());
 
-async function abrirMeuPortfolio(pushHistory=true){
+// ordem fixa dos temas principais; qualquer tema novo que apareça nos
+// dados aparece depois destes, por ordem alfabética
+const TEMAS_ORDEM = ['Mundiais', 'Europeus', 'Liga Portuguesa'];
+const TEMA_ICONES = { 'Mundiais': '🌍', 'Europeus': '🏆', 'Liga Portuguesa': '🇵🇹' };
+
+async function abrirMeuPortfolio(pushHistory=true, temaSelecionado=null){
   document.getElementById('listView').classList.add('hidden');
   document.getElementById('detail').classList.remove('active');
   document.getElementById('meuPortfolioView').classList.add('active');
   window.scrollTo({top:0, behavior:'instant'});
 
   if(pushHistory){
-    history.pushState({view:'portfolio'}, '', location.pathname + location.search + '#portfolio');
+    const hash = '#portfolio' + (temaSelecionado ? ':' + encodeURIComponent(temaSelecionado) : '');
+    history.pushState({view:'portfolio', tema: temaSelecionado}, '', location.pathname + location.search + hash);
   }
+
+  document.getElementById('backBtnPortfolio').innerHTML = temaSelecionado
+    ? '&larr; voltar aos temas'
+    : '&larr; voltar às cadernetas';
+  document.getElementById('meuPortfolioTitulo').textContent = temaSelecionado
+    ? `📚 Meu Portefólio — ${temaSelecionado}`
+    : '📚 Meu Portefólio';
 
   const conteudo = document.getElementById('meuPortfolioConteudo');
   conteudo.innerHTML = '<div class="empty">A carregar...</div>';
@@ -1747,10 +1784,21 @@ async function abrirMeuPortfolio(pushHistory=true){
     return;
   }
 
+  if(!temaSelecionado){
+    renderTemasPortfolio(conteudo, minhas);
+    return;
+  }
+
+  const daTema = minhas.filter(c => (c.tema || 'Sem tema') === temaSelecionado);
+  if(daTema.length === 0){
+    conteudo.innerHTML = '<div class="empty">Sem cadernetas neste tema.</div>';
+    return;
+  }
+
   conteudo.innerHTML = '<div class="meu-portfolio-grid" id="meuPortfolioGrid"></div>';
   const grid = document.getElementById('meuPortfolioGrid');
 
-  for(const c of minhas){
+  for(const c of daTema){
     const cromos = await loadCromos(c.id);
     const s = stats(cromos, c.id);
     const item = document.createElement('div');
@@ -1773,6 +1821,39 @@ async function abrirMeuPortfolio(pushHistory=true){
     item.addEventListener('keypress', (e)=>{ if(e.key==='Enter') item.click(); });
     grid.appendChild(item);
   }
+}
+
+function renderTemasPortfolio(conteudo, minhas){
+  const contagem = new Map();
+  minhas.forEach(c=>{
+    const t = c.tema || 'Sem tema';
+    contagem.set(t, (contagem.get(t) || 0) + 1);
+  });
+
+  const temasPresentes = [...contagem.keys()];
+  const ordenados = [
+    ...TEMAS_ORDEM.filter(t => temasPresentes.includes(t)),
+    ...temasPresentes.filter(t => !TEMAS_ORDEM.includes(t)).sort()
+  ];
+
+  conteudo.innerHTML = '<div class="meu-portfolio-temas" id="meuPortfolioTemas"></div>';
+  const wrap = document.getElementById('meuPortfolioTemas');
+
+  ordenados.forEach(tema=>{
+    const n = contagem.get(tema);
+    const card = document.createElement('div');
+    card.className = 'tema-card';
+    card.tabIndex = 0;
+    card.setAttribute('role', 'button');
+    card.innerHTML = `
+      <div class="tema-icon">${TEMA_ICONES[tema] || '📁'}</div>
+      <h3>${tema}</h3>
+      <div class="tema-count">${n} caderneta${n===1 ? '' : 's'}</div>
+    `;
+    card.addEventListener('click', ()=>abrirMeuPortfolio(true, tema));
+    card.addEventListener('keypress', (e)=>{ if(e.key==='Enter') card.click(); });
+    wrap.appendChild(card);
+  });
 }
 
 // conta quantas vezes cada número aparece no texto colado (separado por
@@ -1953,7 +2034,7 @@ window.addEventListener('popstate', (e)=>{
   if(state && state.view === 'detail' && state.id){
     openDetail(state.id, false, state.from || 'list');
   } else if(state && state.view === 'portfolio'){
-    abrirMeuPortfolio(false);
+    abrirMeuPortfolio(false, state.tema || null);
   } else {
     showList();
   }
