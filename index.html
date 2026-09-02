@@ -1150,7 +1150,10 @@ function efetivoTenho(cadernetaId, cromo){
     const faltasDaCaderneta = faltasGlobais.get(cadernetaId);
     return !(faltasDaCaderneta && faltasDaCaderneta.has(cromo.numero));
   }
-  return cromo.tenho;
+  // fora do acompanhamento pessoal (catálogo/demonstração), a caderneta
+  // apresenta-se sempre como completa -- o campo "tenho" do JSON não deve
+  // aparecer como falta aqui, mesmo que já tenha dados pessoais gravados
+  return true;
 }
 
 async function adicionarAoPortfolio(cadernetaId, cadernetaNome){
@@ -1378,11 +1381,14 @@ async function loadCromos(id){
   return data;
 }
 
-function stats(cromos, cadernetaId){
+function stats(cromos, cadernetaId, pessoal){
   const total = cromos.length;
-  const tenho = cadernetaId
+  // "pessoal" só é true quando se quer mesmo o acompanhamento pessoal
+  // (dentro do Meu Portefólio); fora daí é sempre a demonstração do
+  // catálogo, apresentada como completa
+  const tenho = pessoal
     ? cromos.filter(c => efetivoTenho(cadernetaId, c)).length
-    : cromos.filter(c => c.tenho).length;
+    : total;
   const falta = total - tenho;
   const pct = total ? Math.round((tenho/total)*100) : 0;
   return {total, tenho, falta, pct};
@@ -1494,7 +1500,8 @@ function initials(nome){
 async function openDetail(id, pushHistory=true, from='list'){
   const c = cadernetas.find(x=>x.id===id);
   const cromos = await loadCromos(id);
-  const s = stats(cromos, id);
+  const emPortfolio = repetidosAtivo() && portfolioAtual.has(id) && from === 'portfolio';
+  const s = stats(cromos, id, emPortfolio);
 
   document.getElementById('listView').classList.add('hidden');
   document.getElementById('meuPortfolioView').classList.remove('active');
@@ -1667,7 +1674,8 @@ document.getElementById('btnTogglePortfolio')?.addEventListener('click', async (
   await carregarFaltasDaCaderneta(id);
   atualizarPainelPortfolio(id);
   const cromos = await loadCromos(id);
-  const s = stats(cromos, id);
+  const emPortfolio = repetidosAtivo() && portfolioAtual.has(id) && detailOrigem === 'portfolio';
+  const s = stats(cromos, id, emPortfolio);
   document.getElementById('detailTenho').textContent = s.tenho;
   document.getElementById('detailFalta').textContent = s.falta;
   document.getElementById('detailPct').textContent = s.pct + '%';
@@ -1690,7 +1698,7 @@ function renderCromosGrid(cromos){
 
   grid.innerHTML = '';
   cromos.forEach(cr=>{
-    const tem = emPortfolio ? efetivoTenho(cadernetaId, cr) : cr.tenho;
+    const tem = emPortfolio ? efetivoTenho(cadernetaId, cr) : true;
     const qtdRepetido = emPortfolio ? (repetidosAtual.get(cr.numero) || 0) : 0;
     if(emPortfolio && modoAtual === 'faltas' && tem) return;
     if(emPortfolio && modoAtual === 'repetidos' && qtdRepetido <= 0) return;
@@ -1808,7 +1816,7 @@ async function abrirMeuPortfolio(pushHistory=true, temaSelecionado=null){
 
   for(const c of daTema){
     const cromos = await loadCromos(c.id);
-    const s = stats(cromos, c.id);
+    const s = stats(cromos, c.id, true);
     const item = document.createElement('div');
     item.className = 'meu-portfolio-item';
     item.tabIndex = 0;
@@ -2116,7 +2124,7 @@ document.getElementById('lightboxTenhoBtn').addEventListener('click', async (e)=
   btn.disabled = false;
   atualizarBotaoTenho(cr, cadernetaId);
 
-  const s = stats(cromosCache[cadernetaId], cadernetaId);
+  const s = stats(cromosCache[cadernetaId], cadernetaId, true);
   document.getElementById('detailTenho').textContent = s.tenho;
   document.getElementById('detailFalta').textContent = s.falta;
   document.getElementById('detailPct').textContent = s.pct + '%';
