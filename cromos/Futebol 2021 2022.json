@@ -1,128 +1,164 @@
 [
   {
     "numero": "1",
-    "nome": "Arouca",
+    "nome": "Emblema Arouca",
     "tenho": true,
     "especial": false,
+    "clube": "Liga BWIN 2021-2022",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/1.jpg"
   },
   {
     "numero": "2",
-    "nome": "OS Belenenses SAD",
+    "nome": "Emblema OS Belenenses SAD",
     "tenho": true,
     "especial": false,
+    "clube": "Liga BWIN 2021-2022",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/2.jpg"
   },
   {
     "numero": "3",
-    "nome": "Benfica",
+    "nome": "Emblema Benfica",
     "tenho": true,
     "especial": false,
+    "clube": "Liga BWIN 2021-2022",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/3.jpg"
   },
   {
     "numero": "4",
-    "nome": "Boavista",
+    "nome": "Emblema Boavista",
     "tenho": true,
     "especial": false,
+    "clube": "Liga BWIN 2021-2022",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/4.jpg"
   },
   {
     "numero": "5",
-    "nome": "Braga",
+    "nome": "Emblema Braga",
     "tenho": true,
     "especial": false,
+    "clube": "Liga BWIN 2021-2022",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/5.jpg"
   },
   {
     "numero": "6",
-    "nome": "Estoril",
+    "nome": "Emblema Estoril",
     "tenho": true,
     "especial": false,
+    "clube": "Liga BWIN 2021-2022",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/6.jpg"
   },
   {
     "numero": "7",
-    "nome": "Famalicão",
+    "nome": "Emblema Famalicão",
     "tenho": true,
     "especial": false,
+    "clube": "Liga BWIN 2021-2022",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/7.jpg"
   },
   {
     "numero": "8",
-    "nome": "Gil Vicente",
+    "nome": "Emblema Gil Vicente",
     "tenho": true,
     "especial": false,
+    "clube": "Liga BWIN 2021-2022",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/8.jpg"
   },
   {
     "numero": "9",
-    "nome": "Marítimo",
+    "nome": "Emblema Marítimo",
     "tenho": true,
     "especial": false,
+    "clube": "Liga BWIN 2021-2022",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/9.jpg"
   },
   {
     "numero": "10",
-    "nome": "Moreirense",
+    "nome": "Emblema Moreirense",
     "tenho": true,
     "especial": false,
+    "clube": "Liga BWIN 2021-2022",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/10.jpg"
   },
   {
     "numero": "11",
-    "nome": "Paços de Ferreira",
+    "nome": "Emblema Paços de Ferreira",
     "tenho": true,
     "especial": false,
+    "clube": "Liga BWIN 2021-2022",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/11.jpg"
   },
   {
     "numero": "12",
-    "nome": "Portimonense",
+    "nome": "Emblema Portimonense",
     "tenho": true,
     "especial": false,
+    "clube": "Liga BWIN 2021-2022",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/12.jpg"
   },
   {
     "numero": "13",
-    "nome": "Porto",
+    "nome": "Emblema Porto",
     "tenho": true,
     "especial": false,
+    "clube": "Liga BWIN 2021-2022",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/13.jpg"
   },
   {
     "numero": "14",
-    "nome": "Santa Clara",
+    "nome": "Emblema Santa Clara",
     "tenho": true,
     "especial": false,
+    "clube": "Liga BWIN 2021-2022",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/14.jpg"
   },
   {
     "numero": "15",
-    "nome": "Sporting",
+    "nome": "Emblema Sporting",
     "tenho": true,
     "especial": false,
+    "clube": "Liga BWIN 2021-2022",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/15.jpg"
   },
   {
     "numero": "16",
-    "nome": "Tondela",
+    "nome": "Emblema Tondela",
     "tenho": true,
     "especial": false,
+    "clube": "Liga BWIN 2021-2022",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/16.jpg"
   },
   {
     "numero": "17",
-    "nome": "V. Guimarães",
+    "nome": "Emblema V. Guimarães",
     "tenho": true,
     "especial": false,
+    "clube": "Liga BWIN 2021-2022",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/17.jpg"
   },
   {
     "numero": "18",
-    "nome": "Vizela",
+    "nome": "Emblema Vizela",
     "tenho": true,
     "especial": false,
+    "clube": "Liga BWIN 2021-2022",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/18.jpg"
   },
   {
@@ -130,6 +166,8 @@
     "nome": "Victor Braga",
     "tenho": true,
     "especial": false,
+    "clube": "Arouca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/19.jpg"
   },
   {
@@ -137,6 +175,8 @@
     "nome": "Fernando Castro",
     "tenho": true,
     "especial": false,
+    "clube": "Arouca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/20.jpg"
   },
   {
@@ -144,6 +184,8 @@
     "nome": "Thales Oleques",
     "tenho": true,
     "especial": false,
+    "clube": "Arouca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/21.jpg"
   },
   {
@@ -151,6 +193,8 @@
     "nome": "Mateus Quaresma",
     "tenho": true,
     "especial": false,
+    "clube": "Arouca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/22.jpg"
   },
   {
@@ -158,6 +202,8 @@
     "nome": "Brunão Gonçalves",
     "tenho": true,
     "especial": false,
+    "clube": "Arouca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/23.jpg"
   },
   {
@@ -165,6 +211,8 @@
     "nome": "Sema Velázquez",
     "tenho": true,
     "especial": false,
+    "clube": "Arouca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/24.jpg"
   },
   {
@@ -172,6 +220,8 @@
     "nome": "João Basso",
     "tenho": true,
     "especial": false,
+    "clube": "Arouca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/25.jpg"
   },
   {
@@ -179,6 +229,8 @@
     "nome": "Joel Ferreira",
     "tenho": true,
     "especial": false,
+    "clube": "Arouca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/26.jpg"
   },
   {
@@ -186,6 +238,8 @@
     "nome": "Leandro Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Arouca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/27.jpg"
   },
   {
@@ -193,6 +247,8 @@
     "nome": "Eugeni",
     "tenho": true,
     "especial": false,
+    "clube": "Arouca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/28.jpg"
   },
   {
@@ -200,6 +256,8 @@
     "nome": "Marco Soares",
     "tenho": true,
     "especial": false,
+    "clube": "Arouca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/29.jpg"
   },
   {
@@ -207,6 +265,8 @@
     "nome": "Pedro Moreira",
     "tenho": true,
     "especial": false,
+    "clube": "Arouca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/30.jpg"
   },
   {
@@ -214,6 +274,8 @@
     "nome": "Pité",
     "tenho": true,
     "especial": false,
+    "clube": "Arouca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/31.jpg"
   },
   {
@@ -221,6 +283,8 @@
     "nome": "Arsénio",
     "tenho": true,
     "especial": false,
+    "clube": "Arouca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/32.jpg"
   },
   {
@@ -228,6 +292,8 @@
     "nome": "André Bukia",
     "tenho": true,
     "especial": false,
+    "clube": "Arouca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/33.jpg"
   },
   {
@@ -235,6 +301,8 @@
     "nome": "Tiago Araújo",
     "tenho": true,
     "especial": false,
+    "clube": "Arouca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/34.jpg"
   },
   {
@@ -242,6 +310,8 @@
     "nome": "Adílio",
     "tenho": true,
     "especial": false,
+    "clube": "Arouca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/35.jpg"
   },
   {
@@ -249,6 +319,8 @@
     "nome": "André Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Arouca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/36.jpg"
   },
   {
@@ -256,6 +328,8 @@
     "nome": "Luiz Felipe",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/37.jpg"
   },
   {
@@ -263,6 +337,8 @@
     "nome": "Álvaro Ramalho",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/38.jpg"
   },
   {
@@ -270,6 +346,8 @@
     "nome": "Diogo Calila",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/39.jpg"
   },
   {
@@ -277,6 +355,8 @@
     "nome": "Boni",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/40.jpg"
   },
   {
@@ -284,6 +364,8 @@
     "nome": "Danny Henriques",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/41.jpg"
   },
   {
@@ -291,6 +373,8 @@
     "nome": "Tomás Ribeiro",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/42.jpg"
   },
   {
@@ -298,6 +382,8 @@
     "nome": "Chima Akas",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/43.jpg"
   },
   {
@@ -305,6 +391,8 @@
     "nome": "Nilton Varela",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/44.jpg"
   },
   {
@@ -312,6 +400,8 @@
     "nome": "Phete",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/45.jpg"
   },
   {
@@ -319,6 +409,8 @@
     "nome": "César Sousa",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/46.jpg"
   },
   {
@@ -326,6 +418,8 @@
     "nome": "Sandro",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/47.jpg"
   },
   {
@@ -333,6 +427,8 @@
     "nome": "Yaya Sithole",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/48.jpg"
   },
   {
@@ -340,6 +436,8 @@
     "nome": "Rafa Santos",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/49.jpg"
   },
   {
@@ -347,6 +445,8 @@
     "nome": "Pedro Nuno",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/50.jpg"
   },
   {
@@ -354,6 +454,8 @@
     "nome": "Afonso Sousa",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/51.jpg"
   },
   {
@@ -361,6 +463,8 @@
     "nome": "Ndour",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/52.jpg"
   },
   {
@@ -368,6 +472,8 @@
     "nome": "Francisco Teixeira",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/53.jpg"
   },
   {
@@ -375,6 +481,8 @@
     "nome": "Luís Mota",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/54.jpg"
   },
   {
@@ -382,6 +490,8 @@
     "nome": "Odisseas Vlachodimos",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/55.jpg"
   },
   {
@@ -389,6 +499,8 @@
     "nome": "Helton Leite",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/56.jpg"
   },
   {
@@ -396,6 +508,8 @@
     "nome": "Diogo Gonçalves",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/57.jpg"
   },
   {
@@ -403,6 +517,8 @@
     "nome": "Gilberto",
     "tenho": true,
     "especial": true,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/57bis.jpg"
   },
   {
@@ -410,6 +526,8 @@
     "nome": "Lucas Veríssimo",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/58.jpg"
   },
   {
@@ -417,6 +535,8 @@
     "nome": "Nicolas Otamendi",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/59.jpg"
   },
   {
@@ -424,6 +544,8 @@
     "nome": "Jan Vertonghen",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/60.jpg"
   },
   {
@@ -431,6 +553,8 @@
     "nome": "Morato",
     "tenho": true,
     "especial": true,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/60bis.jpg"
   },
   {
@@ -438,6 +562,8 @@
     "nome": "Grimaldo",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/61.jpg"
   },
   {
@@ -445,6 +571,8 @@
     "nome": "Gil Dias",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/62.jpg"
   },
   {
@@ -452,6 +580,8 @@
     "nome": "André Almeida",
     "tenho": true,
     "especial": true,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/62bis.jpg"
   },
   {
@@ -459,6 +589,8 @@
     "nome": "Soualiho Meité",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/63.jpg"
   },
   {
@@ -466,6 +598,8 @@
     "nome": "Julian Weigl",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/64.jpg"
   },
   {
@@ -473,6 +607,8 @@
     "nome": "João Mário",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/65.jpg"
   },
   {
@@ -480,6 +616,8 @@
     "nome": "Pizzi",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/66.jpg"
   },
   {
@@ -487,6 +625,8 @@
     "nome": "Everton",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/67.jpg"
   },
   {
@@ -494,6 +634,8 @@
     "nome": "Adel Taarabt",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/68.jpg"
   },
   {
@@ -501,6 +643,8 @@
     "nome": "Rafa",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/69.jpg"
   },
   {
@@ -508,6 +652,8 @@
     "nome": "Gonçalo Ramos",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/70.jpg"
   },
   {
@@ -515,6 +661,8 @@
     "nome": "Roman Yaremchuk",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/71.jpg"
   },
   {
@@ -522,6 +670,8 @@
     "nome": "Darwin Núñez",
     "tenho": true,
     "especial": true,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/71bis.jpg"
   },
   {
@@ -529,6 +679,8 @@
     "nome": "Haris Seferovic",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/72.jpg"
   },
   {
@@ -536,6 +688,8 @@
     "nome": "Bracali",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/73.jpg"
   },
   {
@@ -543,6 +697,8 @@
     "nome": "Alireza Beiranvand",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/74.jpg"
   },
   {
@@ -550,6 +706,8 @@
     "nome": "Nathan",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/75.jpg"
   },
   {
@@ -557,6 +715,8 @@
     "nome": "Chidozie",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/76.jpg"
   },
   {
@@ -564,6 +724,8 @@
     "nome": "Tiago Ilori",
     "tenho": true,
     "especial": true,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/76bis.jpg"
   },
   {
@@ -571,6 +733,8 @@
     "nome": "Pedro Malheiro",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/77.jpg"
   },
   {
@@ -578,6 +742,8 @@
     "nome": "Abascal",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/78.jpg"
   },
   {
@@ -585,6 +751,8 @@
     "nome": "Porozo",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/79.jpg"
   },
   {
@@ -592,6 +760,8 @@
     "nome": "Hamache",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/80.jpg"
   },
   {
@@ -599,6 +769,8 @@
     "nome": "Filipe Ferreira",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/81.jpg"
   },
   {
@@ -606,6 +778,8 @@
     "nome": "Javi Garcia",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/82.jpg"
   },
   {
@@ -613,6 +787,8 @@
     "nome": "Makouta",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/83.jpg"
   },
   {
@@ -620,6 +796,8 @@
     "nome": "Gustavo Sauer",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/84.jpg"
   },
   {
@@ -627,6 +805,8 @@
     "nome": "Sebastián Pérez",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/85.jpg"
   },
   {
@@ -634,6 +814,8 @@
     "nome": "Reisinho",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/86.jpg"
   },
   {
@@ -641,6 +823,8 @@
     "nome": "Luís Santos",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/87.jpg"
   },
   {
@@ -648,6 +832,8 @@
     "nome": "Kenji Gorré",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/88.jpg"
   },
   {
@@ -655,6 +841,8 @@
     "nome": "Tiago Morais",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/89.jpg"
   },
   {
@@ -662,6 +850,8 @@
     "nome": "Yusupha",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/90.jpg"
   },
   {
@@ -669,6 +859,8 @@
     "nome": "Matheus",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/91.jpg"
   },
   {
@@ -676,6 +868,8 @@
     "nome": "Tiago Sá",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/92.jpg"
   },
   {
@@ -683,6 +877,8 @@
     "nome": "Fabiano",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/93.jpg"
   },
   {
@@ -690,6 +886,8 @@
     "nome": "Tormena",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/94.jpg"
   },
   {
@@ -697,6 +895,8 @@
     "nome": "Paulo Oliveira",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/95.jpg"
   },
   {
@@ -704,6 +904,8 @@
     "nome": "Raúl Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/96.jpg"
   },
   {
@@ -711,6 +913,8 @@
     "nome": "Sequeira",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/97.jpg"
   },
   {
@@ -718,6 +922,8 @@
     "nome": "Francisco Moura",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/98.jpg"
   },
   {
@@ -725,6 +931,8 @@
     "nome": "Al Musrati",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/99.jpg"
   },
   {
@@ -732,6 +940,8 @@
     "nome": "Lucas Mineiro",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/100.jpg"
   },
   {
@@ -739,6 +949,8 @@
     "nome": "Castro",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/101.jpg"
   },
   {
@@ -746,6 +958,8 @@
     "nome": "Lucas Piazón",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/102.jpg"
   },
   {
@@ -753,6 +967,8 @@
     "nome": "Fábio Martins",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/103.jpg"
   },
   {
@@ -760,6 +976,8 @@
     "nome": "André Horta",
     "tenho": true,
     "especial": true,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/103bis.jpg"
   },
   {
@@ -767,6 +985,8 @@
     "nome": "Galeno",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/104.jpg"
   },
   {
@@ -774,6 +994,8 @@
     "nome": "Iuri Medeiros",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/105.jpg"
   },
   {
@@ -781,6 +1003,8 @@
     "nome": "Ricardo Horta",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/106.jpg"
   },
   {
@@ -788,6 +1012,8 @@
     "nome": "Mario González",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/107.jpg"
   },
   {
@@ -795,6 +1021,8 @@
     "nome": "Abel Ruiz",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/108.jpg"
   },
   {
@@ -802,6 +1030,8 @@
     "nome": "Dani Figueira",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/109.jpg"
   },
   {
@@ -809,6 +1039,8 @@
     "nome": "Thiago Rodrigues",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/110.jpg"
   },
   {
@@ -816,6 +1048,8 @@
     "nome": "Carles Soria",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/111.jpg"
   },
   {
@@ -823,6 +1057,8 @@
     "nome": "Patrick Wiliam",
     "tenho": true,
     "especial": true,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/111bis.jpg"
   },
   {
@@ -830,6 +1066,8 @@
     "nome": "David Bruno",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/112.jpg"
   },
   {
@@ -837,6 +1075,8 @@
     "nome": "Lucas Áfrico",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/113.jpg"
   },
   {
@@ -844,6 +1084,8 @@
     "nome": "Bernardo Vital",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/114.jpg"
   },
   {
@@ -851,6 +1093,8 @@
     "nome": "Ferraresi",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/115.jpg"
   },
   {
@@ -858,6 +1102,8 @@
     "nome": "Joãozinho",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/116.jpg"
   },
   {
@@ -865,6 +1111,8 @@
     "nome": "Gamboa",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/117.jpg"
   },
   {
@@ -872,6 +1120,8 @@
     "nome": "Rosier",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/118.jpg"
   },
   {
@@ -879,6 +1129,8 @@
     "nome": "Crespo",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/119.jpg"
   },
   {
@@ -886,6 +1138,8 @@
     "nome": "Romário Baró",
     "tenho": true,
     "especial": true,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/119bis.jpg"
   },
   {
@@ -893,6 +1147,8 @@
     "nome": "André Franco",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/120.jpg"
   },
   {
@@ -900,6 +1156,8 @@
     "nome": "Meshino",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/121.jpg"
   },
   {
@@ -907,6 +1165,8 @@
     "nome": "Chiquinho",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/122.jpg"
   },
   {
@@ -914,6 +1174,8 @@
     "nome": "Bruno Lourenço",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/123.jpg"
   },
   {
@@ -921,6 +1183,8 @@
     "nome": "Francisco Geraldes",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/124.jpg"
   },
   {
@@ -928,6 +1192,8 @@
     "nome": "Leonardo Ruiz",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/125.jpg"
   },
   {
@@ -935,6 +1201,8 @@
     "nome": "André Clóvis",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/126.jpg"
   },
   {
@@ -942,6 +1210,8 @@
     "nome": "Luiz Júnior",
     "tenho": true,
     "especial": false,
+    "clube": "Famalicão",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/127.jpg"
   },
   {
@@ -949,6 +1219,8 @@
     "nome": "Zlobin",
     "tenho": true,
     "especial": false,
+    "clube": "Famalicão",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/128.jpg"
   },
   {
@@ -956,6 +1228,8 @@
     "nome": "Diogo Figueiras",
     "tenho": true,
     "especial": false,
+    "clube": "Famalicão",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/129.jpg"
   },
   {
@@ -963,6 +1237,8 @@
     "nome": "Alex Nascimento",
     "tenho": true,
     "especial": false,
+    "clube": "Famalicão",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/130.jpg"
   },
   {
@@ -970,6 +1246,8 @@
     "nome": "Francisco Saldanha",
     "tenho": true,
     "especial": false,
+    "clube": "Famalicão",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/131.jpg"
   },
   {
@@ -977,6 +1255,8 @@
     "nome": "Adrián Marín",
     "tenho": true,
     "especial": true,
+    "clube": "Famalicão",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/131bis.jpg"
   },
   {
@@ -984,6 +1264,8 @@
     "nome": "Batubinsika",
     "tenho": true,
     "especial": false,
+    "clube": "Famalicão",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/132.jpg"
   },
   {
@@ -991,6 +1273,8 @@
     "nome": "Riccieli",
     "tenho": true,
     "especial": false,
+    "clube": "Famalicão",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/133.jpg"
   },
   {
@@ -998,6 +1282,8 @@
     "nome": "Rúben Lima",
     "tenho": true,
     "especial": false,
+    "clube": "Famalicão",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/134.jpg"
   },
   {
@@ -1005,6 +1291,8 @@
     "nome": "Penetra",
     "tenho": true,
     "especial": false,
+    "clube": "Famalicão",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/135.jpg"
   },
   {
@@ -1012,6 +1300,8 @@
     "nome": "Gustavo Assunção",
     "tenho": true,
     "especial": false,
+    "clube": "Famalicão",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/136.jpg"
   },
   {
@@ -1019,6 +1309,8 @@
     "nome": "Pickel",
     "tenho": true,
     "especial": true,
+    "clube": "Famalicão",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/136bis.jpg"
   },
   {
@@ -1026,6 +1318,8 @@
     "nome": "David Tavares",
     "tenho": true,
     "especial": false,
+    "clube": "Famalicão",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/137.jpg"
   },
   {
@@ -1033,6 +1327,8 @@
     "nome": "Ofori",
     "tenho": true,
     "especial": false,
+    "clube": "Famalicão",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/138.jpg"
   },
   {
@@ -1040,6 +1336,8 @@
     "nome": "André Ricardo",
     "tenho": true,
     "especial": false,
+    "clube": "Famalicão",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/139.jpg"
   },
   {
@@ -1047,6 +1345,8 @@
     "nome": "Iván Jaime",
     "tenho": true,
     "especial": false,
+    "clube": "Famalicão",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/140.jpg"
   },
   {
@@ -1054,6 +1354,8 @@
     "nome": "Bruno Rodrigues",
     "tenho": true,
     "especial": false,
+    "clube": "Famalicão",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/141.jpg"
   },
   {
@@ -1061,6 +1363,8 @@
     "nome": "Ivo Rodrigues",
     "tenho": true,
     "especial": false,
+    "clube": "Famalicão",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/142.jpg"
   },
   {
@@ -1068,6 +1372,8 @@
     "nome": "Heri",
     "tenho": true,
     "especial": false,
+    "clube": "Famalicão",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/143.jpg"
   },
   {
@@ -1075,6 +1381,8 @@
     "nome": "Pablo",
     "tenho": true,
     "especial": false,
+    "clube": "Famalicão",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/144.jpg"
   },
   {
@@ -1082,6 +1390,8 @@
     "nome": "Simon Banza",
     "tenho": true,
     "especial": true,
+    "clube": "Famalicão",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/144bis.jpg"
   },
   {
@@ -1089,6 +1399,8 @@
     "nome": "Brian Araújo",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/145.jpg"
   },
   {
@@ -1096,6 +1408,8 @@
     "nome": "Andrew Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/146.jpg"
   },
   {
@@ -1103,6 +1417,8 @@
     "nome": "Zé Carlos",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/147.jpg"
   },
   {
@@ -1110,6 +1426,8 @@
     "nome": "Hackman",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/148.jpg"
   },
   {
@@ -1117,6 +1435,8 @@
     "nome": "Lucas Cunha",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/149.jpg"
   },
   {
@@ -1124,6 +1444,8 @@
     "nome": "Rúben Fernandes",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/150.jpg"
   },
   {
@@ -1131,6 +1453,8 @@
     "nome": "Diogo Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/151.jpg"
   },
   {
@@ -1138,6 +1462,8 @@
     "nome": "Henrique Gomes",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/152.jpg"
   },
   {
@@ -1145,6 +1471,8 @@
     "nome": "Talocha",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/153.jpg"
   },
   {
@@ -1152,6 +1480,8 @@
     "nome": "Vítor Carvalho",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/154.jpg"
   },
   {
@@ -1159,6 +1489,8 @@
     "nome": "Pedrinho",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/155.jpg"
   },
   {
@@ -1166,6 +1498,8 @@
     "nome": "Matheus Bueno",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/156.jpg"
   },
   {
@@ -1173,6 +1507,8 @@
     "nome": "Léautey",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/157.jpg"
   },
   {
@@ -1180,6 +1516,8 @@
     "nome": "Murilo",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/158.jpg"
   },
   {
@@ -1187,6 +1525,8 @@
     "nome": "Fujimoto",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/159.jpg"
   },
   {
@@ -1194,6 +1534,8 @@
     "nome": "Bilel Aouacheria",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/160.jpg"
   },
   {
@@ -1201,6 +1543,8 @@
     "nome": "Fran Navarro",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/161.jpg"
   },
   {
@@ -1208,6 +1552,8 @@
     "nome": "Samuel Lino",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/162.jpg"
   },
   {
@@ -1215,6 +1561,8 @@
     "nome": "Miguel Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/163.jpg"
   },
   {
@@ -1222,6 +1570,8 @@
     "nome": "Paulo Victor",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/164.jpg"
   },
   {
@@ -1229,6 +1579,8 @@
     "nome": "Winck",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/165.jpg"
   },
   {
@@ -1236,6 +1588,8 @@
     "nome": "Zainadine",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/166.jpg"
   },
   {
@@ -1243,6 +1597,8 @@
     "nome": "Jorge Sáenz",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/167.jpg"
   },
   {
@@ -1250,6 +1606,8 @@
     "nome": "Léo Andrade",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/168.jpg"
   },
   {
@@ -1257,6 +1615,8 @@
     "nome": "Vítor Costa",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/169.jpg"
   },
   {
@@ -1264,6 +1624,8 @@
     "nome": "Fábio China",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/170.jpg"
   },
   {
@@ -1271,6 +1633,8 @@
     "nome": "Diogo Mendes",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/171.jpg"
   },
   {
@@ -1278,6 +1642,8 @@
     "nome": "Edgar Costa",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/172.jpg"
   },
   {
@@ -1285,6 +1651,8 @@
     "nome": "Xadas",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/173.jpg"
   },
   {
@@ -1292,6 +1660,8 @@
     "nome": "Pelágio",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/174.jpg"
   },
   {
@@ -1299,6 +1669,8 @@
     "nome": "Milson",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/175.jpg"
   },
   {
@@ -1306,6 +1678,8 @@
     "nome": "Rúben Macedo",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/176.jpg"
   },
   {
@@ -1313,6 +1687,8 @@
     "nome": "André Vidigal",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/177.jpg"
   },
   {
@@ -1320,6 +1696,8 @@
     "nome": "Joel Tagueu",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/178.jpg"
   },
   {
@@ -1327,6 +1705,8 @@
     "nome": "Alipour",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/179.jpg"
   },
   {
@@ -1334,6 +1714,8 @@
     "nome": "Henrique",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/180.jpg"
   },
   {
@@ -1341,6 +1723,8 @@
     "nome": "Mateus Pasinato",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/181.jpg"
   },
   {
@@ -1348,6 +1732,8 @@
     "nome": "Kewin",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/182.jpg"
   },
   {
@@ -1355,6 +1741,8 @@
     "nome": "Rodrigo Conceição",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/183.jpg"
   },
   {
@@ -1362,6 +1750,8 @@
     "nome": "Rosic",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/184.jpg"
   },
   {
@@ -1369,6 +1759,8 @@
     "nome": "Steven Vitória",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/185.jpg"
   },
   {
@@ -1376,6 +1768,8 @@
     "nome": "Artur Jorge",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/186.jpg"
   },
   {
@@ -1383,6 +1777,8 @@
     "nome": "Frimpomg",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/187.jpg"
   },
   {
@@ -1390,6 +1786,8 @@
     "nome": "Abdu Conté",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/188.jpg"
   },
   {
@@ -1397,6 +1795,8 @@
     "nome": "Fábio Pacheco",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/189.jpg"
   },
   {
@@ -1404,6 +1804,8 @@
     "nome": "Ibrahima Camará",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/190.jpg"
   },
   {
@@ -1411,6 +1813,8 @@
     "nome": "Filipe Soares",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/191.jpg"
   },
   {
@@ -1418,6 +1822,8 @@
     "nome": "Gonçalo Franco",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/192.jpg"
   },
   {
@@ -1425,6 +1831,8 @@
     "nome": "Felipe Pires",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/193.jpg"
   },
   {
@@ -1432,6 +1840,8 @@
     "nome": "Walterson",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/194.jpg"
   },
   {
@@ -1439,6 +1849,8 @@
     "nome": "André Luís",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/195.jpg"
   },
   {
@@ -1446,6 +1858,8 @@
     "nome": "Derik Lacerda",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/196.jpg"
   },
   {
@@ -1453,6 +1867,8 @@
     "nome": "Yan Matheus",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/197.jpg"
   },
   {
@@ -1460,6 +1876,8 @@
     "nome": "Rafael Martins",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/198.jpg"
   },
   {
@@ -1467,6 +1885,8 @@
     "nome": "André Ferreira",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/199.jpg"
   },
   {
@@ -1474,6 +1894,8 @@
     "nome": "Jordi",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/200.jpg"
   },
   {
@@ -1481,6 +1903,8 @@
     "nome": "Zé Uilton",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/201.jpg"
   },
   {
@@ -1488,6 +1912,8 @@
     "nome": "Fernando Fonseca",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/202.jpg"
   },
   {
@@ -1495,6 +1921,8 @@
     "nome": "Marco Baixinho",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/203.jpg"
   },
   {
@@ -1502,6 +1930,8 @@
     "nome": "Flávio Ramos",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/204.jpg"
   },
   {
@@ -1509,6 +1939,8 @@
     "nome": "Maracás",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/205.jpg"
   },
   {
@@ -1516,6 +1948,8 @@
     "nome": "João Vigário",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/206.jpg"
   },
   {
@@ -1523,6 +1957,8 @@
     "nome": "Luiz Carlos",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/207.jpg"
   },
   {
@@ -1530,6 +1966,8 @@
     "nome": "Stephen Eustáquio",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/208.jpg"
   },
   {
@@ -1537,6 +1975,8 @@
     "nome": "Nuno Santos",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/209.jpg"
   },
   {
@@ -1544,6 +1984,8 @@
     "nome": "Juan Delgado",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/210.jpg"
   },
   {
@@ -1551,6 +1993,8 @@
     "nome": "Rui Pires",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/211.jpg"
   },
   {
@@ -1558,6 +2002,8 @@
     "nome": "Hélder Ferreira",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/212.jpg"
   },
   {
@@ -1565,6 +2011,8 @@
     "nome": "Matchoi",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/213.jpg"
   },
   {
@@ -1572,6 +2020,8 @@
     "nome": "Lucas Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/214.jpg"
   },
   {
@@ -1579,6 +2029,8 @@
     "nome": "Douglas Tanque",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/215.jpg"
   },
   {
@@ -1586,6 +2038,8 @@
     "nome": "Denilson Júnior",
     "tenho": true,
     "especial": true,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/215bis.jpg"
   },
   {
@@ -1593,6 +2047,8 @@
     "nome": "João Pedro",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/216.jpg"
   },
   {
@@ -1600,6 +2056,8 @@
     "nome": "Samuel",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/217.jpg"
   },
   {
@@ -1607,6 +2065,8 @@
     "nome": "Ricardo Ferreira",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/218.jpg"
   },
   {
@@ -1614,6 +2074,8 @@
     "nome": "Moufi",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/219.jpg"
   },
   {
@@ -1621,6 +2083,8 @@
     "nome": "Pedrão",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/220.jpg"
   },
   {
@@ -1628,6 +2092,8 @@
     "nome": "Willyan",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/221.jpg"
   },
   {
@@ -1635,6 +2101,8 @@
     "nome": "Lucas Possignolo",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/222.jpg"
   },
   {
@@ -1642,6 +2110,8 @@
     "nome": "Filipe Relvas",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/223.jpg"
   },
   {
@@ -1649,6 +2119,8 @@
     "nome": "Fali Candé",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/224.jpg"
   },
   {
@@ -1656,6 +2128,8 @@
     "nome": "Pedro Sá",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/225.jpg"
   },
   {
@@ -1663,6 +2137,8 @@
     "nome": "Carlinhos",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/226.jpg"
   },
   {
@@ -1670,6 +2146,8 @@
     "nome": "Imbula",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/227.jpg"
   },
   {
@@ -1677,6 +2155,8 @@
     "nome": "Lucas Fernandes",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/228.jpg"
   },
   {
@@ -1684,6 +2164,8 @@
     "nome": "Luquinha",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/229.jpg"
   },
   {
@@ -1691,6 +2173,8 @@
     "nome": "Fabrício",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/230.jpg"
   },
   {
@@ -1698,6 +2182,8 @@
     "nome": "Aylton",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/231.jpg"
   },
   {
@@ -1705,6 +2191,8 @@
     "nome": "Anderson",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/232.jpg"
   },
   {
@@ -1712,6 +2200,8 @@
     "nome": "Iván Angulo",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/233.jpg"
   },
   {
@@ -1719,6 +2209,8 @@
     "nome": "Aponza",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/234.jpg"
   },
   {
@@ -1726,6 +2218,8 @@
     "nome": "Marchesín",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/235.jpg"
   },
   {
@@ -1733,6 +2227,8 @@
     "nome": "Diogo Costa",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/236.jpg"
   },
   {
@@ -1740,6 +2236,8 @@
     "nome": "Manafá",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/237.jpg"
   },
   {
@@ -1747,6 +2245,8 @@
     "nome": "João Mário",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/238.jpg"
   },
   {
@@ -1754,6 +2254,8 @@
     "nome": "Pepe",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/239.jpg"
   },
   {
@@ -1761,6 +2263,8 @@
     "nome": "Mbemba",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/240.jpg"
   },
   {
@@ -1768,6 +2272,8 @@
     "nome": "Fábio Cardoso",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/241.jpg"
   },
   {
@@ -1775,6 +2281,8 @@
     "nome": "Zaidu",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/242.jpg"
   },
   {
@@ -1782,6 +2290,8 @@
     "nome": "Sérgio Oliveira",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/243.jpg"
   },
   {
@@ -1789,6 +2299,8 @@
     "nome": "Bruno Costa",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/244.jpg"
   },
   {
@@ -1796,6 +2308,8 @@
     "nome": "Marko Grujic",
     "tenho": true,
     "especial": true,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/244bis.jpg"
   },
   {
@@ -1803,6 +2317,8 @@
     "nome": "Uribe",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/245.jpg"
   },
   {
@@ -1810,6 +2326,8 @@
     "nome": "Vitinha",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/246.jpg"
   },
   {
@@ -1817,6 +2335,8 @@
     "nome": "Fábio Vieira",
     "tenho": true,
     "especial": true,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/246bis.jpg"
   },
   {
@@ -1824,6 +2344,8 @@
     "nome": "Otávio",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/247.jpg"
   },
   {
@@ -1831,6 +2353,8 @@
     "nome": "Pepê",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/248.jpg"
   },
   {
@@ -1838,6 +2362,8 @@
     "nome": "Francisco Conceição",
     "tenho": true,
     "especial": true,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/248bis.jpg"
   },
   {
@@ -1845,6 +2371,8 @@
     "nome": "Luis Díaz",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/249.jpg"
   },
   {
@@ -1852,6 +2380,8 @@
     "nome": "Corona",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/250.jpg"
   },
   {
@@ -1859,6 +2389,8 @@
     "nome": "Taremi",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/251.jpg"
   },
   {
@@ -1866,6 +2398,8 @@
     "nome": "Toni Martínez",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/252.jpg"
   },
   {
@@ -1873,6 +2407,8 @@
     "nome": "Marco",
     "tenho": true,
     "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/253.jpg"
   },
   {
@@ -1880,6 +2416,8 @@
     "nome": "Ricardo Fernandes",
     "tenho": true,
     "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/254.jpg"
   },
   {
@@ -1887,6 +2425,8 @@
     "nome": "Rafael Ramos",
     "tenho": true,
     "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/255.jpg"
   },
   {
@@ -1894,6 +2434,8 @@
     "nome": "Sagna",
     "tenho": true,
     "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/256.jpg"
   },
   {
@@ -1901,6 +2443,8 @@
     "nome": "João Afonso",
     "tenho": true,
     "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/257.jpg"
   },
   {
@@ -1908,6 +2452,8 @@
     "nome": "Villanueva",
     "tenho": true,
     "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/258.jpg"
   },
   {
@@ -1915,6 +2461,8 @@
     "nome": "Paulo Henrique",
     "tenho": true,
     "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/259.jpg"
   },
   {
@@ -1922,6 +2470,8 @@
     "nome": "Mansur",
     "tenho": true,
     "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/260.jpg"
   },
   {
@@ -1929,6 +2479,8 @@
     "nome": "Anderson Carvalho",
     "tenho": true,
     "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/261.jpg"
   },
   {
@@ -1936,6 +2488,8 @@
     "nome": "Costinha",
     "tenho": true,
     "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/262.jpg"
   },
   {
@@ -1943,6 +2497,8 @@
     "nome": "Néné",
     "tenho": true,
     "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/263.jpg"
   },
   {
@@ -1950,6 +2506,8 @@
     "nome": "Morita",
     "tenho": true,
     "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/264.jpg"
   },
   {
@@ -1957,6 +2515,8 @@
     "nome": "Lincoln",
     "tenho": true,
     "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/265.jpg"
   },
   {
@@ -1964,6 +2524,8 @@
     "nome": "Allano",
     "tenho": true,
     "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/266.jpg"
   },
   {
@@ -1971,6 +2533,8 @@
     "nome": "Júlio Romão",
     "tenho": true,
     "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/267.jpg"
   },
   {
@@ -1978,6 +2542,8 @@
     "nome": "Rui Costa",
     "tenho": true,
     "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/268.jpg"
   },
   {
@@ -1985,6 +2551,8 @@
     "nome": "Cryzan",
     "tenho": true,
     "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/269.jpg"
   },
   {
@@ -1992,6 +2560,8 @@
     "nome": "Jean Patric",
     "tenho": true,
     "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/270.jpg"
   },
   {
@@ -1999,6 +2569,8 @@
     "nome": "Adán",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/271.jpg"
   },
   {
@@ -2006,6 +2578,8 @@
     "nome": "João Virgínia",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/272.jpg"
   },
   {
@@ -2013,6 +2587,8 @@
     "nome": "Porro",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/273.jpg"
   },
   {
@@ -2020,6 +2596,8 @@
     "nome": "Ricardo Esgaio",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/274.jpg"
   },
   {
@@ -2027,6 +2605,8 @@
     "nome": "Gonçalo Inácio",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/275.jpg"
   },
   {
@@ -2034,6 +2614,8 @@
     "nome": "Coates",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/276.jpg"
   },
   {
@@ -2041,6 +2623,8 @@
     "nome": "Feddal",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/277.jpg"
   },
   {
@@ -2048,6 +2632,8 @@
     "nome": "Matheus Reis",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/278.jpg"
   },
   {
@@ -2055,6 +2641,8 @@
     "nome": "Rúben Vinagre",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/279.jpg"
   },
   {
@@ -2062,6 +2650,8 @@
     "nome": "João Palhinha",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/280.jpg"
   },
   {
@@ -2069,6 +2659,8 @@
     "nome": "Ugarte",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/281.jpg"
   },
   {
@@ -2076,6 +2668,8 @@
     "nome": "Matheus Nunes",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/282.jpg"
   },
   {
@@ -2083,6 +2677,8 @@
     "nome": "Daniel Bragança",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/283.jpg"
   },
   {
@@ -2090,6 +2686,8 @@
     "nome": "Pedro Gonçalves",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/284.jpg"
   },
   {
@@ -2097,6 +2695,8 @@
     "nome": "Nuno Santos",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/285.jpg"
   },
   {
@@ -2104,6 +2704,8 @@
     "nome": "Tabata",
     "tenho": true,
     "especial": true,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/285bis.jpg"
   },
   {
@@ -2111,6 +2713,8 @@
     "nome": "Jovane",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/286.jpg"
   },
   {
@@ -2118,6 +2722,8 @@
     "nome": "Paulinho",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/287.jpg"
   },
   {
@@ -2125,6 +2731,8 @@
     "nome": "Tiago Tomás",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/288.jpg"
   },
   {
@@ -2132,6 +2740,8 @@
     "nome": "Niasse",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/289.jpg"
   },
   {
@@ -2139,6 +2749,8 @@
     "nome": "Pedro Trigueira",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/290.jpg"
   },
   {
@@ -2146,6 +2758,8 @@
     "nome": "Tiago Almeida",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/291.jpg"
   },
   {
@@ -2153,6 +2767,8 @@
     "nome": "Bebeto",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/292.jpg"
   },
   {
@@ -2160,6 +2776,8 @@
     "nome": "Quaresma",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/293.jpg"
   },
   {
@@ -2167,6 +2785,8 @@
     "nome": "Jota Gonçalves",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/294.jpg"
   },
   {
@@ -2174,6 +2794,8 @@
     "nome": "Manu Hernando",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/295.jpg"
   },
   {
@@ -2181,6 +2803,8 @@
     "nome": "Khacef",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/296.jpg"
   },
   {
@@ -2188,6 +2812,8 @@
     "nome": "Pedro Augusto",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/297.jpg"
   },
   {
@@ -2195,6 +2821,8 @@
     "nome": "Undabarrena",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/298.jpg"
   },
   {
@@ -2202,6 +2830,8 @@
     "nome": "João Pedro",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/299.jpg"
   },
   {
@@ -2209,6 +2839,8 @@
     "nome": "Tiago Dantas",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/300.jpg"
   },
   {
@@ -2216,6 +2848,8 @@
     "nome": "Telmo Arcanjo",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/301.jpg"
   },
   {
@@ -2223,6 +2857,8 @@
     "nome": "Rafael Barbosa",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/302.jpg"
   },
   {
@@ -2230,6 +2866,8 @@
     "nome": "Salvador Agra",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/303.jpg"
   },
   {
@@ -2237,6 +2875,8 @@
     "nome": "Murillo",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/304.jpg"
   },
   {
@@ -2244,6 +2884,8 @@
     "nome": "Dadashov",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/305.jpg"
   },
   {
@@ -2251,6 +2893,8 @@
     "nome": "Daniel dos Anjos",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/306.jpg"
   },
   {
@@ -2258,6 +2902,8 @@
     "nome": "Bruno Varela",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/307.jpg"
   },
   {
@@ -2265,6 +2911,8 @@
     "nome": "Trmal",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/308.jpg"
   },
   {
@@ -2272,6 +2920,8 @@
     "nome": "Sacko",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/309.jpg"
   },
   {
@@ -2279,6 +2929,8 @@
     "nome": "Sílvio",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/310.jpg"
   },
   {
@@ -2286,6 +2938,8 @@
     "nome": "Alfa Semedo",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/311.jpg"
   },
   {
@@ -2293,6 +2947,8 @@
     "nome": "Mumin",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/312.jpg"
   },
   {
@@ -2300,6 +2956,8 @@
     "nome": "Borevkovic",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/313.jpg"
   },
   {
@@ -2307,6 +2965,8 @@
     "nome": "André Amaro",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/314.jpg"
   },
   {
@@ -2314,6 +2974,8 @@
     "nome": "Rafa Soares",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/315.jpg"
   },
   {
@@ -2321,6 +2983,8 @@
     "nome": "Tomás Händel",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/316.jpg"
   },
   {
@@ -2328,6 +2992,8 @@
     "nome": "André André",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/317.jpg"
   },
   {
@@ -2335,6 +3001,8 @@
     "nome": "Rochinha",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/318.jpg"
   },
   {
@@ -2342,6 +3010,8 @@
     "nome": "André Almeida",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/319.jpg"
   },
   {
@@ -2349,6 +3019,8 @@
     "nome": "Marcus Edwards",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/320.jpg"
   },
   {
@@ -2356,6 +3028,8 @@
     "nome": "Quaresma",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/321.jpg"
   },
   {
@@ -2363,6 +3037,8 @@
     "nome": "Rúben Lameiras",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/322.jpg"
   },
   {
@@ -2370,6 +3046,8 @@
     "nome": "Bruno Duarte",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/323.jpg"
   },
   {
@@ -2377,6 +3055,8 @@
     "nome": "Óscar Estupiñán",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/324.jpg"
   },
   {
@@ -2384,6 +3064,8 @@
     "nome": "Charles",
     "tenho": true,
     "especial": false,
+    "clube": "Vizela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/325.jpg"
   },
   {
@@ -2391,6 +3073,8 @@
     "nome": "Ivo Gonçalves",
     "tenho": true,
     "especial": false,
+    "clube": "Vizela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/326.jpg"
   },
   {
@@ -2398,6 +3082,8 @@
     "nome": "Koffi Kouao",
     "tenho": true,
     "especial": false,
+    "clube": "Vizela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/327.jpg"
   },
   {
@@ -2405,6 +3091,8 @@
     "nome": "Julião",
     "tenho": true,
     "especial": false,
+    "clube": "Vizela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/328.jpg"
   },
   {
@@ -2412,6 +3100,8 @@
     "nome": "Aidara",
     "tenho": true,
     "especial": false,
+    "clube": "Vizela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/329.jpg"
   },
   {
@@ -2419,6 +3109,8 @@
     "nome": "Bruno Wilson",
     "tenho": true,
     "especial": false,
+    "clube": "Vizela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/330.jpg"
   },
   {
@@ -2426,6 +3118,8 @@
     "nome": "Marcelo Machado",
     "tenho": true,
     "especial": false,
+    "clube": "Vizela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/331.jpg"
   },
   {
@@ -2433,6 +3127,8 @@
     "nome": "Ofori",
     "tenho": true,
     "especial": false,
+    "clube": "Vizela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/332.jpg"
   },
   {
@@ -2440,6 +3136,8 @@
     "nome": "Kiki Afonso",
     "tenho": true,
     "especial": false,
+    "clube": "Vizela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/333.jpg"
   },
   {
@@ -2447,6 +3145,8 @@
     "nome": "Claudemir",
     "tenho": true,
     "especial": false,
+    "clube": "Vizela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/334.jpg"
   },
   {
@@ -2454,6 +3154,8 @@
     "nome": "Marcos Paulo",
     "tenho": true,
     "especial": false,
+    "clube": "Vizela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/335.jpg"
   },
   {
@@ -2461,6 +3163,8 @@
     "nome": "Raphael Guzzo",
     "tenho": true,
     "especial": false,
+    "clube": "Vizela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/336.jpg"
   },
   {
@@ -2468,6 +3172,8 @@
     "nome": "Samu",
     "tenho": true,
     "especial": false,
+    "clube": "Vizela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/337.jpg"
   },
   {
@@ -2475,6 +3181,8 @@
     "nome": "Alex Méndez",
     "tenho": true,
     "especial": false,
+    "clube": "Vizela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/338.jpg"
   },
   {
@@ -2482,6 +3190,8 @@
     "nome": "Kiko Bondoso",
     "tenho": true,
     "especial": false,
+    "clube": "Vizela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/339.jpg"
   },
   {
@@ -2489,6 +3199,8 @@
     "nome": "Francis Cann",
     "tenho": true,
     "especial": false,
+    "clube": "Vizela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/340.jpg"
   },
   {
@@ -2496,6 +3208,8 @@
     "nome": "Schettine",
     "tenho": true,
     "especial": false,
+    "clube": "Vizela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/341.jpg"
   },
   {
@@ -2503,6 +3217,8 @@
     "nome": "Cassiano",
     "tenho": true,
     "especial": false,
+    "clube": "Vizela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/342.jpg"
   },
   {
@@ -2510,6 +3226,8 @@
     "nome": "Alfa Semedo (V. Guimarães)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/343.jpg"
   },
   {
@@ -2517,6 +3235,8 @@
     "nome": "Borevkovic (V. Guimarães)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/344.jpg"
   },
   {
@@ -2524,6 +3244,8 @@
     "nome": "Bruno Costa (Porto)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/345.jpg"
   },
   {
@@ -2531,6 +3253,8 @@
     "nome": "Fabiano (Braga)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/346.jpg"
   },
   {
@@ -2538,6 +3262,8 @@
     "nome": "Ferraresi (Estoril)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/347.jpg"
   },
   {
@@ -2545,6 +3271,8 @@
     "nome": "Gil Dias (Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/348.jpg"
   },
   {
@@ -2552,6 +3280,8 @@
     "nome": "João Mário (Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/349.jpg"
   },
   {
@@ -2559,6 +3289,8 @@
     "nome": "Mario González (Braga)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/350.jpg"
   },
   {
@@ -2566,6 +3298,8 @@
     "nome": "Meité (Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/351.jpg"
   },
   {
@@ -2573,6 +3307,8 @@
     "nome": "Paulo Oliveira (Braga)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/352.jpg"
   },
   {
@@ -2580,6 +3316,8 @@
     "nome": "Pepê (Porto)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/353.jpg"
   },
   {
@@ -2587,6 +3325,8 @@
     "nome": "Rafa Soares (V. Guimarães)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/354.jpg"
   },
   {
@@ -2594,6 +3334,8 @@
     "nome": "Ricardo Esgaio (Sporting)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/355.jpg"
   },
   {
@@ -2601,6 +3343,8 @@
     "nome": "Rúben Vinagre (Sporting)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/356.jpg"
   },
   {
@@ -2608,6 +3352,8 @@
     "nome": "Vitinha (Porto)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/357.jpg"
   },
   {
@@ -2615,6 +3361,8 @@
     "nome": "Roman Yaremchuk (Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/358.jpg"
   },
   {
@@ -2622,6 +3370,8 @@
     "nome": "Daniel Bragança (Sporting)",
     "tenho": true,
     "especial": false,
+    "clube": "Força Rookie",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/359.jpg"
   },
   {
@@ -2629,6 +3379,8 @@
     "nome": "Fábio Vieira (Porto)",
     "tenho": true,
     "especial": false,
+    "clube": "Força Rookie",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/360.jpg"
   },
   {
@@ -2636,6 +3388,8 @@
     "nome": "Francisco Conceição (Porto)",
     "tenho": true,
     "especial": false,
+    "clube": "Força Rookie",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/361.jpg"
   },
   {
@@ -2643,6 +3397,8 @@
     "nome": "Gonçalo Inácio (Sporting)",
     "tenho": true,
     "especial": false,
+    "clube": "Força Rookie",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/362.jpg"
   },
   {
@@ -2650,6 +3406,8 @@
     "nome": "Gonçalo Ramos (Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Força Rookie",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/363.jpg"
   },
   {
@@ -2657,6 +3415,8 @@
     "nome": "João Mário (Porto)",
     "tenho": true,
     "especial": false,
+    "clube": "Força Rookie",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/364.jpg"
   },
   {
@@ -2664,6 +3424,8 @@
     "nome": "Nuno Mendes (Sporting)",
     "tenho": true,
     "especial": false,
+    "clube": "Força Rookie",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/365.jpg"
   },
   {
@@ -2671,6 +3433,8 @@
     "nome": "Paulo Bernardo (Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Força Rookie",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/366.jpg"
   },
   {
@@ -2678,6 +3442,8 @@
     "nome": "Tiago Tomás (Sporting)",
     "tenho": true,
     "especial": false,
+    "clube": "Força Rookie",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/367.jpg"
   },
   {
@@ -2685,6 +3451,8 @@
     "nome": "Coates (Sporting)",
     "tenho": true,
     "especial": false,
+    "clube": "Bola de Ouro",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/368.jpg"
   },
   {
@@ -2692,6 +3460,8 @@
     "nome": "João Palhinha (Sporting)",
     "tenho": true,
     "especial": false,
+    "clube": "Bola de Ouro",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/369.jpg"
   },
   {
@@ -2699,6 +3469,8 @@
     "nome": "Luis Díaz (Porto)",
     "tenho": true,
     "especial": false,
+    "clube": "Bola de Ouro",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/370.jpg"
   },
   {
@@ -2706,6 +3478,8 @@
     "nome": "Otamendi (Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Bola de Ouro",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/371.jpg"
   },
   {
@@ -2713,6 +3487,8 @@
     "nome": "Pedro Gonçalves (Sporting)",
     "tenho": true,
     "especial": false,
+    "clube": "Bola de Ouro",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/372.jpg"
   },
   {
@@ -2720,6 +3496,8 @@
     "nome": "Pepe (Porto)",
     "tenho": true,
     "especial": false,
+    "clube": "Bola de Ouro",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/373.jpg"
   },
   {
@@ -2727,6 +3505,8 @@
     "nome": "Pizzi (Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Bola de Ouro",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/374.jpg"
   },
   {
@@ -2734,6 +3514,8 @@
     "nome": "Rafa (Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Bola de Ouro",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/375.jpg"
   },
   {
@@ -2741,6 +3523,8 @@
     "nome": "Sérgio Oliveira (Porto)",
     "tenho": true,
     "especial": false,
+    "clube": "Bola de Ouro",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/376.jpg"
   },
   {
@@ -2748,6 +3532,8 @@
     "nome": "André Silva (RB Leipzig)",
     "tenho": true,
     "especial": false,
+    "clube": "Bola de Ouro",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/377.jpg"
   },
   {
@@ -2755,6 +3541,8 @@
     "nome": "Bruno Fernandes (Manchester United)",
     "tenho": true,
     "especial": false,
+    "clube": "Bola de Ouro",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/378.jpg"
   },
   {
@@ -2762,6 +3550,8 @@
     "nome": "Cristiano Ronaldo (Juventus)",
     "tenho": true,
     "especial": false,
+    "clube": "Bola de Ouro",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/379.jpg"
   },
   {
@@ -2769,6 +3559,8 @@
     "nome": "Cristiano Ronaldo (Manchester United)",
     "tenho": true,
     "especial": true,
+    "clube": "Bola de Ouro",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/379bis.jpg"
   },
   {
@@ -2776,6 +3568,8 @@
     "nome": "Diogo Jota (Liverpool)",
     "tenho": true,
     "especial": false,
+    "clube": "Bola de Ouro",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/380.jpg"
   },
   {
@@ -2783,6 +3577,8 @@
     "nome": "João Cancelo (Manchester City)",
     "tenho": true,
     "especial": false,
+    "clube": "Bola de Ouro",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/381.jpg"
   },
   {
@@ -2790,6 +3586,8 @@
     "nome": "João Félix (Atlético Madrid)",
     "tenho": true,
     "especial": false,
+    "clube": "Bola de Ouro",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/382.jpg"
   },
   {
@@ -2797,6 +3595,8 @@
     "nome": "Renato Sanches (Lille)",
     "tenho": true,
     "especial": false,
+    "clube": "Bola de Ouro",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/383.jpg"
   },
   {
@@ -2804,6 +3604,8 @@
     "nome": "Rúben Dias (Manchester City)",
     "tenho": true,
     "especial": false,
+    "clube": "Bola de Ouro",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/384.jpg"
   },
   {
@@ -2811,6 +3613,8 @@
     "nome": "Rui Patrícia (AS Roma)",
     "tenho": true,
     "especial": false,
+    "clube": "Bola de Ouro",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/385.jpg"
   },
   {
@@ -2818,6 +3622,8 @@
     "nome": "Or Dasa (Arouca)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/386.jpg"
   },
   {
@@ -2825,6 +3631,8 @@
     "nome": "Alisson Safira (Belenenses Sad)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/387.jpg"
   },
   {
@@ -2832,6 +3640,8 @@
     "nome": "Lázaro (Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/388.jpg"
   },
   {
@@ -2839,6 +3649,8 @@
     "nome": "Ferro (Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/389.jpg"
   },
   {
@@ -2846,6 +3658,8 @@
     "nome": "Paulo Bernardo (Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/390.jpg"
   },
   {
@@ -2853,6 +3667,8 @@
     "nome": "Radonjic (Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/391.jpg"
   },
   {
@@ -2860,6 +3676,8 @@
     "nome": "Rodrigo Pinho (Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/392.jpg"
   },
   {
@@ -2867,6 +3685,8 @@
     "nome": "Ntep (Boavista)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/393.jpg"
   },
   {
@@ -2874,6 +3694,8 @@
     "nome": "Musa (Boavista)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/394.jpg"
   },
   {
@@ -2881,6 +3703,8 @@
     "nome": "Yan Couto (Braga)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/395.jpg"
   },
   {
@@ -2888,6 +3712,8 @@
     "nome": "Diogo Leite (Braga)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/396.jpg"
   },
   {
@@ -2895,6 +3721,8 @@
     "nome": "Chiquinho (Braga)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/397.jpg"
   },
   {
@@ -2902,6 +3730,8 @@
     "nome": "Roger Fernandes (Braga)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/398.jpg"
   },
   {
@@ -2909,6 +3739,8 @@
     "nome": "Xavier (Estoril)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/399.jpg"
   },
   {
@@ -2916,6 +3748,8 @@
     "nome": "Arthur Gomes (Estoril)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/400.jpg"
   },
   {
@@ -2923,6 +3757,8 @@
     "nome": "Rui Fonte (Estoril)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/401.jpg"
   },
   {
@@ -2930,6 +3766,8 @@
     "nome": "De La Fuente (Famalicão)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/402.jpg"
   },
   {
@@ -2937,6 +3775,8 @@
     "nome": "Pedro Marques (Famalicão)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/403.jpg"
   },
   {
@@ -2944,6 +3784,8 @@
     "nome": "Frelih (Gil Vicente)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/404.jpg"
   },
   {
@@ -2951,6 +3793,8 @@
     "nome": "Clésio (Marítimo)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/405.jpg"
   },
   {
@@ -2958,6 +3802,8 @@
     "nome": "Paulinho (Moreirense)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/406.jpg"
   },
   {
@@ -2965,6 +3811,8 @@
     "nome": "Pablo Santos (Moreirense)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/407.jpg"
   },
   {
@@ -2972,6 +3820,8 @@
     "nome": "Antunes (Paços De Ferreira)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/408.jpg"
   },
   {
@@ -2979,6 +3829,8 @@
     "nome": "Nakajima (Portimonense)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/409.jpg"
   },
   {
@@ -2986,6 +3838,8 @@
     "nome": "Wendell (Porto)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/410.jpg"
   },
   {
@@ -2993,6 +3847,8 @@
     "nome": "Boateng (Santa Clara)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/411.jpg"
   },
   {
@@ -3000,6 +3856,8 @@
     "nome": "Luiz Phellype (Santa Clara)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/412.jpg"
   },
   {
@@ -3007,6 +3865,8 @@
     "nome": "Gonçalo Esteves (Sporting)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/413.jpg"
   },
   {
@@ -3014,6 +3874,8 @@
     "nome": "Sarabia (Sporting)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/414.jpg"
   },
   {
@@ -3021,6 +3883,8 @@
     "nome": "Neto Borges (Tondela)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/415.jpg"
   },
   {
@@ -3028,6 +3892,8 @@
     "nome": "Modibo Sagnan (Tondela)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/416.jpg"
   },
   {
@@ -3035,6 +3901,8 @@
     "nome": "Muratore (Tondela)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/417.jpg"
   },
   {
@@ -3042,6 +3910,8 @@
     "nome": "João Ferreira (V. Guimarães)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/418.jpg"
   },
   {
@@ -3049,6 +3919,8 @@
     "nome": "Tiago Silva (V. Guimarães)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/419.jpg"
   },
   {
@@ -3056,6 +3928,8 @@
     "nome": "Ivanildo Fernandes (Vizela)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2021 2022/420.jpg"
   },
   {
@@ -3063,6 +3937,7 @@
     "nome": "Nuno Moreira (Vizela)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2021 2022/421.jpg"
   }
 ]
