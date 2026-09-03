@@ -1,0 +1,730 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gerador de Cadernetas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Space+Mono:wght@400;700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+<style>
+  :root{
+    --paper: #e7dab8;
+    --paper-dark: #d8c79e;
+    --paper-darker: #c9b98c;
+    --ink: #2b2420;
+    --ink-soft: #5a5044;
+    --stamp-red: #b8433a;
+    --teal: #2f6b62;
+    --mustard: #cc9a1f;
+    --line: #b7a67c;
+    --card-bg: #f2ead4;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0; background:var(--paper); color:var(--ink);
+    font-family:'Work Sans', sans-serif;
+    min-height:100vh;
+  }
+  .wrap{ max-width:820px; margin:0 auto; padding:24px 18px 90px; }
+  h1{
+    font-family:'Anton', sans-serif; font-weight:400;
+    font-size:clamp(1.9rem, 5vw, 2.6rem);
+    margin:0 0 4px; border-bottom:3px solid var(--ink); padding-bottom:12px;
+  }
+  .sub{
+    font-family:'Space Mono', monospace; font-size:0.78rem;
+    color:var(--ink-soft); text-transform:uppercase; letter-spacing:0.06em;
+    margin:0 0 26px;
+  }
+  section{
+    background:var(--card-bg); border:2px solid var(--ink); border-radius:3px;
+    padding:18px 18px 20px; margin-bottom:20px;
+    box-shadow:4px 4px 0 var(--paper-darker);
+  }
+  section h2{
+    font-family:'Anton', sans-serif; font-weight:400; font-size:1.2rem;
+    margin:0 0 14px; color:var(--stamp-red);
+  }
+  label{
+    display:block; font-family:'Space Mono', monospace; font-size:0.7rem;
+    text-transform:uppercase; letter-spacing:0.05em; color:var(--ink-soft);
+    margin:12px 0 4px;
+  }
+  label:first-child{ margin-top:0; }
+  input[type=text], input[type=number], textarea, select{
+    width:100%; font-family:'Work Sans', sans-serif; font-size:0.92rem;
+    padding:9px 10px; border:2px solid var(--ink); border-radius:2px;
+    background:#fdf9ee; color:var(--ink);
+  }
+  textarea{ min-height:64px; resize:vertical; font-family:'Space Mono', monospace; font-size:0.82rem; }
+  .row{ display:grid; grid-template-columns:1fr 1fr; gap:14px; }
+  .row3{ display:grid; grid-template-columns:1fr 1fr 1fr; gap:14px; }
+  @media (max-width:560px){ .row, .row3{ grid-template-columns:1fr; } }
+  .hint{ font-size:0.72rem; color:var(--ink-soft); margin-top:4px; }
+  .check-row{ display:flex; align-items:center; gap:8px; margin-top:14px; }
+  .check-row input{ accent-color:var(--stamp-red); width:16px; height:16px; }
+  .check-row label{ margin:0; text-transform:none; font-size:0.85rem; font-family:'Work Sans',sans-serif; }
+
+  button{
+    font-family:'Space Mono', monospace; font-size:0.82rem; font-weight:700;
+    text-transform:uppercase; letter-spacing:0.04em;
+    padding:11px 18px; border:2px solid var(--ink); border-radius:2px;
+    background:var(--ink); color:var(--paper); cursor:pointer;
+    transition:transform 0.1s ease;
+  }
+  button:hover{ transform:translate(-1px,-1px); }
+  button.secondary{ background:var(--card-bg); color:var(--ink); }
+  button.small{ padding:6px 10px; font-size:0.68rem; }
+  .actions{ display:flex; gap:10px; flex-wrap:wrap; margin-top:18px; }
+
+  .stamp-msg{
+    font-family:'Space Mono', monospace; font-size:0.8rem;
+    border:2px dashed var(--teal); color:var(--teal);
+    padding:8px 10px; border-radius:2px; margin-top:14px;
+    display:none;
+  }
+  .stamp-msg.show{ display:block; }
+  .stamp-msg.erro{ border-color:var(--stamp-red); color:var(--stamp-red); }
+
+  pre{
+    background:#fdf9ee; border:2px solid var(--line); border-radius:2px;
+    padding:10px; font-size:0.72rem; max-height:220px; overflow:auto;
+    font-family:'Space Mono', monospace; white-space:pre-wrap; word-break:break-word;
+  }
+
+  table{ width:100%; border-collapse:collapse; margin-top:10px; font-size:0.82rem; }
+  th, td{ text-align:left; padding:7px 8px; border-bottom:1px solid var(--line); }
+  th{ font-family:'Space Mono', monospace; font-size:0.68rem; text-transform:uppercase; color:var(--ink-soft); }
+  td.acoes{ text-align:right; white-space:nowrap; }
+
+  footer{
+    text-align:center; margin-top:40px; font-family:'Space Mono', monospace;
+    font-size:0.68rem; color:var(--ink-soft);
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Gerador de Cadernetas</h1>
+  <p class="sub">preenche os dados &middot; descarrega o JSON &middot; sobe para o GitHub</p>
+
+  <section>
+    <h2>0. Importar de Excel/CSV (opcional)</h2>
+    <div class="hint" style="margin-bottom:10px;">
+      Se tiveres um ficheiro com uma linha por cromo (ex: número, nome, clube,
+      tipo), carrega-o aqui e os campos abaixo preenchem-se sozinhos. Se não
+      tiveres, ignora esta secção e preenche tudo à mão como habitualmente.
+    </div>
+    <label for="ficheiroImport">Ficheiro (.xlsx, .xls ou .csv)</label>
+    <input type="file" id="ficheiroImport" accept=".xlsx,.xls,.csv">
+
+    <div id="importMapeamento" style="display:none; margin-top:14px;">
+      <div class="row">
+        <div>
+          <label for="colNumero">Coluna do número</label>
+          <select id="colNumero"></select>
+        </div>
+        <div>
+          <label for="colNome">Coluna do nome</label>
+          <select id="colNome"></select>
+        </div>
+      </div>
+      <div class="row">
+        <div>
+          <label for="colClube">Coluna do clube (opcional)</label>
+          <select id="colClube"></select>
+        </div>
+        <div>
+          <label for="colTipo">Coluna do tipo (opcional)</label>
+          <select id="colTipo"></select>
+        </div>
+      </div>
+      <div class="hint" style="margin-top:-8px;">Texto livre (ex: "foil", "Coca Cola / Europe") guardado no campo <code>tipo</code> de cada cromo.</div>
+
+      <label for="colEspecial">Coluna que marca "especial" (opcional)</label>
+      <select id="colEspecial"></select>
+      <label for="valorEspecial" style="margin-top:10px;">Valor que significa "é especial" nessa coluna</label>
+      <input type="text" id="valorEspecial" value="sim">
+      <div class="hint">Um cromo fica <code>especial: true</code> quando essa coluna tiver exatamente este valor (ex: "sim"). Tudo o resto (vazio, "não", etc.) fica <code>false</code>.</div>
+
+      <div class="check-row">
+        <input type="checkbox" id="primeiraLinhaCabecalho">
+        <label for="primeiraLinhaCabecalho">A primeira linha do ficheiro é um cabeçalho (títulos das colunas), não um cromo</label>
+      </div>
+
+      <div class="stamp-msg show" id="importResumo" style="margin-top:12px;"></div>
+      <div class="actions">
+        <button id="btnAplicarImport">Aplicar esta importação</button>
+        <button id="btnCancelarImport" class="secondary">Cancelar / voltar ao modo manual</button>
+      </div>
+      <pre id="importPreview" style="margin-top:10px; max-height:160px;"></pre>
+    </div>
+
+    <div class="stamp-msg" id="importAtivo" style="margin-top:10px;"></div>
+    <div class="actions" id="importAtivoAcoes" style="display:none;">
+      <button id="btnCancelarImport2" class="secondary">Cancelar importação / voltar ao modo manual</button>
+    </div>
+  </section>
+
+  <section>
+    <h2>1. Dados da caderneta</h2>
+    <div class="row3">
+      <div>
+        <label for="editora">Editora</label>
+        <select id="editora">
+          <option>Panini</option><option>Topps</option><option>Mabilgráfica</option>
+          <option>Acropole</option><option>Manil</option><option>APR</option>
+          <option>ESTE</option><option>Francisco Más</option><option>Navarrete</option>
+          <option>Estádio</option><option>Mattamouros</option><option>MOS</option>
+          <option>Disvenda</option><option>Clube do Cromo</option><option value="__outra">Outra...</option>
+        </select>
+        <input type="text" id="editoraOutra" placeholder="Nome da editora" style="margin-top:6px; display:none;">
+      </div>
+      <div>
+        <label for="ano">Ano</label>
+        <input type="number" id="ano" placeholder="1982">
+      </div>
+      <div>
+        <label for="total">Nº total de cromos</label>
+        <input type="number" id="total" placeholder="168" min="1">
+      </div>
+    </div>
+    <label for="nome">Nome da caderneta</label>
+    <input type="text" id="nome" placeholder="Mundial Espanha 82">
+    <div class="hint">Usado também como identificador nos nomes de ficheiro (ex: <code>&lt;nome&gt;.json</code>).</div>
+
+    <label for="tema">Tema</label>
+    <select id="tema">
+      <option value="">(sem tema)</option>
+      <option>Europeus</option>
+      <option>Mundiais</option>
+      <option>Liga Portuguesa</option>
+      <option value="__outro">Outro...</option>
+    </select>
+    <input type="text" id="temaOutro" placeholder="Nome do tema" style="margin-top:6px; display:none;">
+    <div class="hint">Usado para filtrar as cadernetas no site (ex: só ver os Mundiais).</div>
+  </section>
+
+  <section>
+    <h2>2. Cromos especiais</h2>
+    <div class="hint" style="margin-bottom:10px;">
+      Já não é preciso indicar aqui quais faltam -- essa informação é gerida
+      por cada pessoa dentro do site, em "Meu Portefólio". Todos os cromos
+      são gerados como <code>tenho: true</code>.
+    </div>
+    <label for="especiais">Números especiais / holográficos (opcional)</label>
+    <textarea id="especiais" placeholder="ex: 5, 12, 88-90"></textarea>
+
+    <label for="extra">Cromos extra não numéricos (opcional, ex: 17-BIS, 45A)</label>
+    <textarea id="extra" placeholder="ex: 17-BIS, 45A"></textarea>
+    <div class="hint">Estes já contam para o "Nº total de cromos" acima — a numeração normal (1, 2, 3...) pára mais cedo para dar lugar a eles. Ex: total 426 com 26 extras aqui → numeração normal vai só até 400, e os 26 extras ficam inseridos a seguir aos respetivos números base. São sempre marcados como <code>especial: true</code> automaticamente. Os números "0" e "00" são exceção -- ficam colocados no INÍCIO da lista.</div>
+  </section>
+
+  <section>
+    <h2>3. Nomes dos cromos (opcional)</h2>
+    <label for="listaNomes">Cola aqui uma lista com número e nome, um cromo por linha</label>
+    <textarea id="listaNomes" style="min-height:120px;" placeholder="1 Emblema&#10;2 Cristiano Ronaldo&#10;3 Selo da Liga&#10;17-BIS Bandeira Especial"></textarea>
+    <div class="hint">Formato livre: número, um espaço (ou tab / vírgula / ponto e vírgula) e o nome. Cromos que não aparecerem aqui ficam com o nome genérico "Cromo N".</div>
+
+    <label for="listaClubes" style="margin-top:16px;">Cola aqui uma lista com número e clube, um cromo por linha (opcional)</label>
+    <textarea id="listaClubes" style="min-height:120px;" placeholder="1 FC Arouca&#10;2 Os Belenenses SAD&#10;11 FC Paços de Ferreira"></textarea>
+    <div class="hint">Mesmo formato do campo acima. Aparece como segunda linha ao clicares no cromo no site. Cromos sem clube aqui simplesmente não mostram essa linha.</div>
+  </section>
+
+  <section>
+    <h2>4. Imagens</h2>
+    <div class="check-row">
+      <input type="checkbox" id="incluirImagem" checked>
+      <label for="incluirImagem">Incluir caminho da imagem em cada cromo</label>
+    </div>
+    <label for="pastaImagens">Pasta das imagens</label>
+    <input type="text" id="pastaImagens" placeholder="gerado automaticamente">
+    <div class="hint">Cada cromo aponta para <code>&lt;pasta&gt;/&lt;número&gt;.jpg</code></div>
+
+    <label for="capa">Imagem de capa da caderneta (para o cadernetas.json)</label>
+    <input type="text" id="capa" placeholder="gerado automaticamente">
+    <div class="hint">Caminho da foto de capa desta caderneta. Deixa em branco se ainda não tiveres a imagem — dá para preencher mais tarde diretamente no cadernetas.json.</div>
+  </section>
+
+  <div class="actions">
+    <button id="btnGerar">Gerar ficheiro dos cromos</button>
+    <button id="btnCadernetaEntry" class="secondary">Adicionar à lista de cadernetas.json</button>
+    <button id="btnLimpar" class="secondary">Limpar formulário</button>
+  </div>
+  <div class="stamp-msg" id="msgGerar"></div>
+
+  <section id="previewSection" style="display:none;">
+    <h2>Pré-visualização</h2>
+    <pre id="preview"></pre>
+    <div class="actions">
+      <button id="btnDownload">Descarregar &lt;id&gt;.json</button>
+    </div>
+  </section>
+
+  <section>
+    <h2>5. Cadernetas acumuladas nesta sessão</h2>
+    <div class="hint" style="margin-bottom:10px;">
+      Vai acrescentando cadernetas (botão acima) e no fim descarregas o
+      <code>cadernetas.json</code> completo, já com todas. Isto só existe
+      enquanto esta página estiver aberta — se a fechares, perdes a lista
+      (mas os ficheiros de cromos já descarregados ficam guardados).
+    </div>
+    <table id="tabelaCadernetas">
+      <thead><tr><th>Nome</th><th>Editora</th><th>Tema</th><th>Ano</th><th>Total</th><th></th></tr></thead>
+      <tbody></tbody>
+    </table>
+    <div class="actions">
+      <button id="btnDownloadCadernetas" class="secondary">Descarregar cadernetas.json</button>
+    </div>
+  </section>
+
+  <footer>ferramenta local &middot; nada é enviado para fora do teu browser</footer>
+</div>
+
+<script>
+const $ = id => document.getElementById(id);
+
+let cadernetasAcumuladas = [];
+let ultimoCromosJson = null;
+let ultimoId = null;
+let importedRows = null;    // array de {numero, nome, clube, especial} depois de aplicar a importação
+let importParsedRows = null; // linhas em bruto (array de arrays) lidas do ficheiro, antes de mapear
+
+function slugify(str){
+  return str.toString().toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g,'')
+    .replace(/[^a-z0-9]+/g,'-')
+    .replace(/^-+|-+$/g,'');
+}
+
+$('editora').addEventListener('change', ()=>{
+  $('editoraOutra').style.display = $('editora').value === '__outra' ? 'block' : 'none';
+});
+
+function editoraAtual(){
+  return $('editora').value === '__outra' ? $('editoraOutra').value.trim() : $('editora').value;
+}
+
+$('tema').addEventListener('change', ()=>{
+  $('temaOutro').style.display = $('tema').value === '__outro' ? 'block' : 'none';
+});
+
+function temaAtual(){
+  return $('tema').value === '__outro' ? $('temaOutro').value.trim() : $('tema').value;
+}
+
+function idAtual(){
+  return $('nome').value.trim();
+}
+
+$('nome').addEventListener('input', ()=>{
+  if(!$('pastaImagens').dataset.tocado){
+    $('pastaImagens').value = `images/capas/${$('nome').value}`;
+  }
+  if(!$('capa').dataset.tocado){
+    $('capa').value = `images/capas/${$('nome').value}.jpg`;
+  }
+});
+$('pastaImagens').addEventListener('input', ()=> $('pastaImagens').dataset.tocado = '1');
+$('capa').addEventListener('input', ()=> $('capa').dataset.tocado = '1');
+
+// devolve um Set de strings a partir de "1-15, 20, 33-40"
+// normaliza um identificador de cromo para comparação (maiúsculas, sem
+// espaços a mais) -- assim "fwc6" e "FWC6" são tratados como o mesmo cromo
+function norm(v){
+  return (v ?? '').toString().trim().toUpperCase();
+}
+
+function parseIntervalos(texto){
+  const resultado = new Set();
+  if(!texto || !texto.trim()) return resultado;
+  const partes = texto.split(',').map(p=>p.trim()).filter(Boolean);
+  for(const parte of partes){
+    const m = parte.match(/^(\d+)\s*-\s*(\d+)$/);
+    if(m){
+      const a = parseInt(m[1], 10), b = parseInt(m[2], 10);
+      const [ini, fim] = a <= b ? [a,b] : [b,a];
+      for(let n = ini; n <= fim; n++) resultado.add(String(n));
+    } else {
+      resultado.add(norm(parte));
+    }
+  }
+  return resultado;
+}
+
+// devolve um Map numero -> nome a partir de uma lista "1 Emblema\n2 Cristiano Ronaldo"
+// (a chave fica normalizada, para "fwc6" e "FWC6" corresponderem ao mesmo cromo)
+function parseNomes(texto){
+  const mapa = new Map();
+  if(!texto || !texto.trim()) return mapa;
+  const linhas = texto.split('\n').map(l=>l.trim()).filter(Boolean);
+  for(const linha of linhas){
+    const m = linha.match(/^([^\s,;:]+)[\s,;:]+(.+)$/);
+    if(m){
+      mapa.set(norm(m[1]), m[2].trim());
+    }
+  }
+  return mapa;
+}
+
+/* ====== IMPORTAÇÃO DE EXCEL/CSV ====== */
+
+function letraColuna(idx){
+  let s = '';
+  idx++;
+  while(idx > 0){
+    const r = (idx - 1) % 26;
+    s = String.fromCharCode(65 + r) + s;
+    idx = Math.floor((idx - 1) / 26);
+  }
+  return s;
+}
+
+$('ficheiroImport').addEventListener('change', (e)=>{
+  const file = e.target.files[0];
+  if(!file) return;
+
+  const reader = new FileReader();
+  reader.onload = (ev)=>{
+    try{
+      const data = new Uint8Array(ev.target.result);
+      const wb = XLSX.read(data, {type:'array'});
+      const ws = wb.Sheets[wb.SheetNames[0]];
+      const linhas = XLSX.utils.sheet_to_json(ws, {header:1, raw:false, defval:''});
+      importParsedRows = linhas.filter(l => l.some(cell => String(cell).trim() !== ''));
+      if(importParsedRows.length === 0){
+        mostrarMsg('O ficheiro parece estar vazio.', true);
+        return;
+      }
+      popularMapeamentoColunas();
+    }catch(err){
+      mostrarMsg('Não consegui ler este ficheiro: ' + err.message, true);
+    }
+  };
+  reader.readAsArrayBuffer(file);
+});
+
+function popularMapeamentoColunas(){
+  const nCols = Math.max(...importParsedRows.slice(0,10).map(l=>l.length));
+  const amostra = importParsedRows[0];
+
+  const opcoesObrigatorias = [];
+  const opcoesOpcionais = [`<option value="-1">(nenhuma)</option>`];
+  for(let i=0;i<nCols;i++){
+    const exemplo = (amostra[i] ?? '').toString().slice(0,20);
+    const label = `Coluna ${letraColuna(i)}${exemplo ? ' — "'+exemplo+'"' : ''}`;
+    opcoesObrigatorias.push(`<option value="${i}">${label}</option>`);
+    opcoesOpcionais.push(`<option value="${i}">${label}</option>`);
+  }
+
+  $('colNumero').innerHTML = opcoesObrigatorias.join('');
+  $('colNome').innerHTML = opcoesObrigatorias.join('');
+  $('colClube').innerHTML = opcoesOpcionais.join('');
+  $('colTipo').innerHTML = opcoesOpcionais.join('');
+  $('colEspecial').innerHTML = opcoesOpcionais.join('');
+
+  // palpite razoável pela ordem mais comum: número, nome, clube, tipo, especial
+  $('colNumero').value = nCols > 0 ? '0' : '-1';
+  $('colNome').value = nCols > 1 ? '1' : '0';
+  $('colClube').value = nCols > 2 ? '2' : '-1';
+  $('colTipo').value = nCols > 3 ? '3' : '-1';
+  $('colEspecial').value = nCols > 4 ? '4' : '-1';
+
+  $('importMapeamento').style.display = 'block';
+  atualizarPreviewImport();
+}
+
+function construirImportedRows(){
+  const iNum = parseInt($('colNumero').value, 10);
+  const iNome = parseInt($('colNome').value, 10);
+  const iClube = parseInt($('colClube').value, 10);
+  const iTipo = parseInt($('colTipo').value, 10);
+  const iEspecial = parseInt($('colEspecial').value, 10);
+  const comCabecalho = $('primeiraLinhaCabecalho').checked;
+  const valorEspecial = ($('valorEspecial').value || '').trim().toLowerCase();
+
+  const linhas = comCabecalho ? importParsedRows.slice(1) : importParsedRows;
+
+  return linhas.map(linha=>{
+    const numero = (linha[iNum] ?? '').toString().trim();
+    const nome = (linha[iNome] ?? '').toString().trim();
+    const clube = iClube >= 0 ? (linha[iClube] ?? '').toString().trim() : '';
+    const tipo = iTipo >= 0 ? (linha[iTipo] ?? '').toString().trim() : '';
+    const valorCelulaEspecial = iEspecial >= 0 ? (linha[iEspecial] ?? '').toString().trim().toLowerCase() : '';
+    const especial = iEspecial >= 0 && valorCelulaEspecial === valorEspecial && valorEspecial !== '';
+    return {numero, nome, clube, tipo, especial};
+  }).filter(r => r.numero !== '');
+}
+
+function atualizarPreviewImport(){
+  const linhas = construirImportedRows();
+  const nEspeciais = linhas.filter(l=>l.especial).length;
+  $('importResumo').textContent = `${linhas.length} cromo(s) detetado(s), ${nEspeciais} marcado(s) como especial.`;
+  $('importPreview').textContent = linhas.slice(0,8).map(l =>
+    `${l.numero}\t${l.nome}${l.clube ? '  ['+l.clube+']' : ''}${l.tipo ? '  {'+l.tipo+'}' : ''}${l.especial ? '  ★' : ''}`
+  ).join('\n') + (linhas.length > 8 ? `\n... e mais ${linhas.length-8}` : '');
+}
+
+['colNumero','colNome','colClube','colTipo','colEspecial','primeiraLinhaCabecalho','valorEspecial'].forEach(id=>{
+  $(id).addEventListener('input', atualizarPreviewImport);
+  $(id).addEventListener('change', atualizarPreviewImport);
+});
+
+$('btnAplicarImport').addEventListener('click', ()=>{
+  importedRows = construirImportedRows();
+  if(importedRows.length === 0){
+    mostrarMsg('Nenhum cromo válido encontrado com este mapeamento.', true);
+    return;
+  }
+  $('total').value = importedRows.length;
+  $('total').disabled = true;
+  $('importMapeamento').style.display = 'none';
+  $('importAtivo').className = 'stamp-msg show';
+  $('importAtivo').textContent = `A usar ${importedRows.length} cromos importados do ficheiro. Os campos das secções seguintes (especiais, nomes...) ainda podem ser usados como ajustes extra por cima da importação.`;
+  $('importAtivoAcoes').style.display = 'flex';
+  mostrarMsg(`Importação aplicada: ${importedRows.length} cromos.`);
+});
+
+$('btnCancelarImport').addEventListener('click', cancelarImportacao);
+$('btnCancelarImport2').addEventListener('click', cancelarImportacao);
+
+function cancelarImportacao(){
+  importedRows = null;
+  importParsedRows = null;
+  $('ficheiroImport').value = '';
+  $('importMapeamento').style.display = 'none';
+  $('importAtivo').className = 'stamp-msg';
+  $('importAtivo').textContent = '';
+  $('importAtivoAcoes').style.display = 'none';
+  $('total').disabled = false;
+}
+
+function validar(){
+  const nome = $('nome').value.trim();
+  const editora = editoraAtual();
+  const ano = $('ano').value.trim();
+  const total = parseInt($('total').value, 10);
+
+  if(!nome) return 'Falta o nome da caderneta.';
+  if(!editora) return 'Falta a editora.';
+  if(!ano) return 'Falta o ano.';
+  if(!total || total < 1) return 'Número de cromos inválido.';
+  return null;
+}
+
+function gerarCromos(){
+  const total = parseInt($('total').value, 10);
+  const id = idAtual();
+  const pasta = $('pastaImagens').value.trim();
+  const incluirImagem = $('incluirImagem').checked;
+
+  const setEspeciais = parseIntervalos($('especiais').value);
+  const nomes = parseNomes($('listaNomes').value);
+  const clubes = parseNomes($('listaClubes').value);
+
+  // já não há campo "faltam" -- quem falta é gerido por cada pessoa no
+  // próprio site (Meu Portefólio), por isso todos os cromos saem daqui
+  // como tenho:true
+
+  // ---- modo importação: um cromo por linha do ficheiro, pela ordem em
+  // que vêm lá -- os campos "especiais"/nomes/clubes acima continuam a
+  // servir como ajustes por cima dos dados importados ----
+  if(importedRows){
+    return importedRows.map(row=>{
+      const chave = norm(row.numero);
+      const cromo = {
+        numero: row.numero,
+        nome: nomes.get(chave) || row.nome || `Cromo ${row.numero}`,
+        tenho: true,
+        especial: row.especial || setEspeciais.has(chave)
+      };
+      const clube = clubes.get(chave) || row.clube;
+      if(clube) cromo.clube = clube;
+      if(row.tipo) cromo.tipo = row.tipo;
+      if(incluirImagem) cromo.imagem = `${pasta}/${row.numero}.jpg`;
+      return cromo;
+    });
+  }
+
+  const extras = $('extra').value.split(',').map(s=>s.trim()).filter(Boolean);
+
+  // o "Nº de cromos" é o TOTAL da caderneta (já incluindo os extras tipo
+  // "123-Bis"), por isso a numeração normal só vai até (total - nº extras)
+  const totalNormal = Math.max(0, total - extras.length);
+
+  const cromos = [];
+  for(let i = 1; i <= totalNormal; i++){
+    const num = String(i);
+    const cromo = {
+      numero: num,
+      nome: nomes.get(num) || `Cromo ${num}`,
+      tenho: true,
+      especial: setEspeciais.has(num)
+    };
+    if(clubes.has(num)) cromo.clube = clubes.get(num);
+    if(incluirImagem) cromo.imagem = `${pasta}/${num}.jpg`;
+    cromos.push(cromo);
+  }
+
+  const extraCromos = extras.map(num => {
+    const chave = norm(num);
+    const cromo = {
+      numero: num,
+      nome: nomes.get(chave) || `Cromo ${num}`,
+      tenho: true,
+      especial: true  // cromos extra (ex: 17-BIS) são sempre marcados como especiais
+    };
+    if(clubes.has(chave)) cromo.clube = clubes.get(chave);
+    if(incluirImagem) cromo.imagem = `${pasta}/${num}.jpg`;
+    return cromo;
+  });
+
+  // "0" e "00" são cromos especiais que tradicionalmente vêm no INÍCIO da
+  // caderneta (ex: cromo de erro/capa) -- separam-se dos restantes extras
+  const extrasZero = extraCromos.filter(c => c.numero === '0' || c.numero === '00');
+  const extrasNormais = extraCromos.filter(c => c.numero !== '0' && c.numero !== '00');
+
+  // inserir cada extra logo a seguir ao número base (ex: "123-Bis" fica
+  // colocado depois do "123", em vez de ir todo para o fim da lista)
+  const proximaPosicao = {}; // base -> próximo índice de inserção
+  for(const extra of extrasNormais){
+    const baseMatch = extra.numero.match(/^(\d+)/);
+    const base = baseMatch ? baseMatch[1] : null;
+    const idxBase = base ? cromos.findIndex(c => c.numero === base) : -1;
+
+    if(idxBase === -1){
+      cromos.push(extra); // sem número base correspondente na caderneta -> vai para o fim
+      continue;
+    }
+
+    if(!(base in proximaPosicao)){
+      proximaPosicao[base] = idxBase + 1;
+    }
+    cromos.splice(proximaPosicao[base], 0, extra);
+    proximaPosicao[base]++;
+  }
+
+  // "0" e "00" vão para o início, pela ordem em que foram escritos
+  cromos.unshift(...extrasZero);
+
+  return cromos;
+}
+
+function mostrarMsg(texto, erro=false){
+  const el = $('msgGerar');
+  el.textContent = texto;
+  el.className = 'stamp-msg show' + (erro ? ' erro' : '');
+}
+
+$('btnGerar').addEventListener('click', ()=>{
+  const erro = validar();
+  if(erro){ mostrarMsg(erro, true); return; }
+
+  const cromos = gerarCromos();
+  ultimoCromosJson = JSON.stringify(cromos, null, 2);
+  ultimoId = idAtual();
+
+  $('preview').textContent = ultimoCromosJson;
+  $('previewSection').style.display = 'block';
+
+  const nEspeciais = cromos.filter(c=>c.especial).length;
+  mostrarMsg(`Gerado: ${cromos.length} cromos, ${nEspeciais} marcado(s) como especial.`);
+});
+
+$('btnDownload').addEventListener('click', ()=>{
+  if(!ultimoCromosJson) return;
+  baixarFicheiro(`${ultimoId}.json`, ultimoCromosJson);
+});
+
+$('btnCadernetaEntry').addEventListener('click', ()=>{
+  const erro = validar();
+  if(erro){ mostrarMsg(erro, true); return; }
+
+  const entry = {
+    id: idAtual(),
+    nome: $('nome').value.trim(),
+    editora: editoraAtual(),
+    ano: parseInt($('ano').value, 10),
+    totalCromos: parseInt($('total').value, 10),
+    capa: $('capa').value.trim()
+  };
+  const tema = temaAtual();
+  if(tema) entry.tema = tema;
+
+  cadernetasAcumuladas = cadernetasAcumuladas.filter(c => c.id !== entry.id);
+  cadernetasAcumuladas.push(entry);
+  renderTabela();
+  mostrarMsg(`"${entry.nome}" adicionada à lista (${cadernetasAcumuladas.length} no total).`);
+});
+
+function renderTabela(){
+  const tbody = document.querySelector('#tabelaCadernetas tbody');
+  tbody.innerHTML = '';
+  cadernetasAcumuladas.forEach((c, idx)=>{
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+      <td>${c.nome}</td><td>${c.editora}</td><td>${c.tema||'—'}</td><td>${c.ano}</td><td>${c.totalCromos}</td>
+      <td class="acoes"><button class="small secondary" data-idx="${idx}">remover</button></td>
+    `;
+    tbody.appendChild(tr);
+  });
+  tbody.querySelectorAll('button[data-idx]').forEach(btn=>{
+    btn.addEventListener('click', ()=>{
+      cadernetasAcumuladas.splice(parseInt(btn.dataset.idx,10), 1);
+      renderTabela();
+    });
+  });
+}
+
+$('btnDownloadCadernetas').addEventListener('click', ()=>{
+  if(cadernetasAcumuladas.length === 0){ mostrarMsg('Ainda não adicionaste nenhuma caderneta à lista.', true); return; }
+  baixarFicheiro('cadernetas.json', JSON.stringify(cadernetasAcumuladas, null, 2));
+});
+
+$('btnLimpar').addEventListener('click', ()=>{
+  // limpa os campos do formulário (não mexe na lista de cadernetas já
+  // acumuladas nesta sessão -- essa tem o seu próprio botão "remover" por linha)
+  cancelarImportacao();
+  $('editora').selectedIndex = 0;
+  $('editoraOutra').value = '';
+  $('editoraOutra').style.display = 'none';
+  $('tema').selectedIndex = 0;
+  $('temaOutro').value = '';
+  $('temaOutro').style.display = 'none';
+  $('ano').value = '';
+  $('total').value = '';
+  $('nome').value = '';
+
+  $('especiais').value = '';
+  $('extra').value = '';
+  $('listaNomes').value = '';
+  $('listaClubes').value = '';
+
+  $('incluirImagem').checked = true;
+  $('pastaImagens').value = '';
+  delete $('pastaImagens').dataset.tocado;
+  $('capa').value = '';
+  delete $('capa').dataset.tocado;
+
+  $('previewSection').style.display = 'none';
+  $('preview').textContent = '';
+  ultimoCromosJson = null;
+  ultimoId = null;
+
+  $('msgGerar').className = 'stamp-msg';
+  $('nome').focus();
+});
+
+function baixarFicheiro(nome, conteudo){
+  const blob = new Blob([conteudo], {type:'application/json'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url; a.download = nome;
+  document.body.appendChild(a); a.click(); document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+}
+</script>
+</body>
+</html>
