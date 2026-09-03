@@ -584,7 +584,7 @@
   }
   .cromo{
     position:relative;
-    width:100px;
+    width:120px;
     height:auto;
     border:2px solid var(--ink);
     border-radius:2px;
@@ -602,10 +602,17 @@
   .cromo.tenho{ border-color:var(--teal); }
   .cromo.falta{ border-style:dashed; color:var(--ink-soft); }
   .cromo.grande{ width:170px; }
+  /* moldura "de pé" (retrato) -- tamanho fixo, igual para todos os cromos
+     deste tipo. As fotos "deitadas" (largura maior que altura) usam a
+     moldura .deitado logo a seguir, também de tamanho fixo mas na
+     proporção contrária. Cada cromo só recebe uma das duas -- nunca uma
+     moldura "genérica" que sirva mal às duas orientações. */
   .cromo .conteudo{
-    height:180px;
+    height:160px;
     background:var(--card-bg);
   }
+  .cromo.deitado{ width:160px; }
+  .cromo.deitado .conteudo{ height:120px; }
   .cromo.grande .conteudo{ height:306px; }
   .cromo.tenho .conteudo{ background:#dfe9d8; }
   .cromo.falta .conteudo{
@@ -1724,6 +1731,24 @@ document.getElementById('btnTogglePortfolio')?.addEventListener('click', async (
   renderGlobalStats();
 });
 
+// classifica o cromo como "deitado" (largura da foto maior que a altura)
+// ou deixa-o na moldura padrão "de pé" -- cada uma das duas molduras tem
+// sempre o mesmo tamanho fixo (ver CSS ".cromo .conteudo" e
+// ".cromo.deitado .conteudo"), nunca varia cromo a cromo
+function aplicarOrientacao(el, img){
+  const aplicar = () => {
+    if(!img.naturalWidth || !img.naturalHeight) return;
+    if(img.naturalWidth > img.naturalHeight){
+      el.classList.add('deitado');
+    }
+  };
+  if(img.complete){
+    aplicar();
+  } else {
+    img.addEventListener('load', aplicar, { once: true });
+  }
+}
+
 function renderCromosGrid(cromos){
   const grid = document.getElementById('cromosGrid');
   const search = document.getElementById('cromoSearch').value.toLowerCase();
@@ -1769,10 +1794,12 @@ function renderCromosGrid(cromos){
         el.classList.remove('tem-imagem');
         el.innerHTML = `<div class="conteudo"></div>${legendaHtml}`;
       }, { once: true });
-      // a moldura (largura e altura) é sempre fixa, definida só no CSS
-      // (".cromo{ width }" e ".conteudo{ height }"); a foto ajusta-se a
-      // esse tamanho sem cortar (object-fit:contain), fique ela "de pé"
-      // ou "deitada"
+      // há só duas molduras possíveis, cada uma de tamanho sempre fixo
+      // (".cromo{ width }"/".conteudo{ height }" para "de pé", e
+      // ".cromo.deitado" para "deitada") -- primeiro descobrimos a
+      // orientação real da foto e aplicamos a moldura certa; a foto em
+      // si ajusta-se a essa moldura sem cortar (object-fit:contain)
+      aplicarOrientacao(el, img);
     } else {
       el.innerHTML = `<div class="conteudo"></div>${legendaHtml}`;
     }
