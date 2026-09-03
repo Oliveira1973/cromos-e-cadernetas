@@ -615,7 +615,7 @@
   .cromo .conteudo img{
     width:100%;
     height:100%;
-    object-fit:cover;
+    object-fit:contain;
     background:var(--paper-darker);
     display:block;
   }
@@ -1724,27 +1724,6 @@ document.getElementById('btnTogglePortfolio')?.addEventListener('click', async (
   renderGlobalStats();
 });
 
-// todos os cromos (com ou sem foto) têm sempre a mesma altura de moldura
-// (ver ".cromo .conteudo{ height:180px }" no CSS) -- para a foto aparecer
-// inteira, sem cortes nem espaço vazio à volta, ajustamos é a LARGURA do
-// cromo à proporção real da imagem, mantendo essa altura fixa. Um cromo
-// "deitado" (ex: foto de equipa) fica mais largo; um cromo "de pé" (ex:
-// retrato de jogador) fica com a largura normal -- mas a altura de todos
-// é sempre igual.
-function aplicarLarguraFixa(el, img){
-  const ALTURA_FIXA = 180; // tem de bater certo com a altura no CSS
-  const aplicar = () => {
-    if(!img.naturalWidth || !img.naturalHeight) return;
-    const proporcao = img.naturalWidth / img.naturalHeight;
-    el.style.width = Math.round(ALTURA_FIXA * proporcao) + 'px';
-  };
-  if(img.complete){
-    aplicar();
-  } else {
-    img.addEventListener('load', aplicar, { once: true });
-  }
-}
-
 function renderCromosGrid(cromos){
   const grid = document.getElementById('cromosGrid');
   const search = document.getElementById('cromoSearch').value.toLowerCase();
@@ -1788,13 +1767,12 @@ function renderCromosGrid(cromos){
       const img = el.querySelector('img');
       img.addEventListener('error', () => {
         el.classList.remove('tem-imagem');
-        el.style.width = '';
         el.innerHTML = `<div class="conteudo"></div>${legendaHtml}`;
       }, { once: true });
-      // todos os cromos ficam sempre com a mesma altura (definida no CSS);
-      // aqui só ajustamos a largura do cromo à proporção real da foto, para
-      // esta aparecer inteira, sem cortes nem espaço vazio à volta
-      aplicarLarguraFixa(el, img);
+      // a moldura (largura e altura) é sempre fixa, definida só no CSS
+      // (".cromo{ width }" e ".conteudo{ height }"); a foto ajusta-se a
+      // esse tamanho sem cortar (object-fit:contain), fique ela "de pé"
+      // ou "deitada"
     } else {
       el.innerHTML = `<div class="conteudo"></div>${legendaHtml}`;
     }
