@@ -582,6 +582,24 @@
     align-items:flex-start;
     gap:8px;
   }
+  /* quando a caderneta tem um campo que sirva para agrupar os cromos por
+     equipa/secção (ver escolherCampoAgrupamento no JS), cada secção fica
+     dentro de ".grupo-cromos", com o nome por cima e a grelha desses
+     cromos por baixo -- assim aparecem na mesma ordem em que estão na
+     caderneta física, em vez de tudo misturado numa grelha só */
+  .grupo-cromos{ margin-bottom:22px; }
+  .grupo-cromos:last-child{ margin-bottom:0; }
+  .grupo-titulo{
+    font-family:'Space Mono', monospace;
+    font-size:0.72rem;
+    font-weight:700;
+    letter-spacing:0.03em;
+    text-transform:uppercase;
+    color:var(--ink);
+    border-bottom:2px solid var(--ink);
+    padding-bottom:4px;
+    margin:0 0 8px;
+  }
   .cromo{
     position:relative;
     width:120px;
@@ -918,7 +936,7 @@
           só especiais
         </label>
       </div>
-      <div class="cromos-grid" id="cromosGrid"></div>
+      <div id="cromosGrid"></div>
     </div>
   </div>
 
@@ -1749,8 +1767,40 @@ function aplicarOrientacao(el, img){
   }
 }
 
+// escolhe automaticamente o campo (clube ou tipo) que serve para agrupar
+// os cromos por equipa/secção, pela mesma ordem em que aparecem na
+// caderneta física (ex: World Cup 2026 -- "clube" tem o país de cada
+// cromo; Os Cracks 82/83 -- é "tipo" que tem o clube, porque ali
+// "clube" é usado para outra coisa). Só usamos um campo se ele formar
+// mesmo blocos seguidos com vários cromos cada (como as secções reais
+// da caderneta) -- nunca um campo disperso por todo o lado (ex: "tipo"
+// a assinalar só se um cromo é foil ou não, que intercala o tempo
+// todo). Se nenhum dos dois servir, os cromos ficam todos numa grelha
+// só, exatamente como sempre foi.
+const agrupamentoCache = {};
+function escolherCampoAgrupamento(cadernetaId, todosCromos){
+  if(agrupamentoCache[cadernetaId] !== undefined) return agrupamentoCache[cadernetaId];
+  const total = todosCromos.length;
+  let escolhido = null;
+  for(const campo of ['clube', 'tipo']){
+    const valores = todosCromos.map(c => (c[campo] || '').trim());
+    const distintos = new Set(valores.filter(v => v));
+    if(distintos.size < 2) continue;
+    let transicoes = 0, anterior = null;
+    valores.forEach(v => { if(v !== anterior) transicoes++; anterior = v; });
+    const tamanhoMedio = total / distintos.size;
+    const contiguidade = transicoes / distintos.size;
+    if(tamanhoMedio >= 2 && contiguidade <= 2.2){
+      escolhido = campo;
+      break;
+    }
+  }
+  agrupamentoCache[cadernetaId] = escolhido;
+  return escolhido;
+}
+
 function renderCromosGrid(cromos){
-  const grid = document.getElementById('cromosGrid');
+  const gridWrap = document.getElementById('cromosGrid');
   const search = document.getElementById('cromoSearch').value.toLowerCase();
   const especialOnly = document.getElementById('cromoEspecialOnly').checked;
   const cadernetaId = currentId();
@@ -1758,8 +1808,15 @@ function renderCromosGrid(cromos){
   // quando se entrou por "Meu Portefolio" -- a partir da pagina inicial e'
   // sempre so uma demonstracao com os dados do catalogo
   const emPortfolio = repetidosAtivo() && portfolioAtual.has(cadernetaId) && detailOrigem === 'portfolio';
+  // "cromos" chega sempre com a lista completa da caderneta (é sempre
+  // cromosCache[cadernetaId]), por isso dá para decidir o agrupamento
+  // aqui mesmo, antes de aplicar os filtros de pesquisa/faltas/etc.
+  const campoAgrupamento = escolherCampoAgrupamento(cadernetaId, cromos);
 
-  grid.innerHTML = '';
+  gridWrap.innerHTML = '';
+  let gradeAtual = null;
+  let valorAnterior = Symbol('inicio');
+
   cromos.forEach(cr=>{
     const tem = emPortfolio ? efetivoTenho(cadernetaId, cr) : true;
     const qtdRepetido = emPortfolio ? (repetidosAtual.get(cr.numero) || 0) : 0;
@@ -1767,6 +1824,30 @@ function renderCromosGrid(cromos){
     if(emPortfolio && modoAtual === 'repetidos' && qtdRepetido <= 0) return;
     if(especialOnly && !cr.especial) return;
     if(search && !(cr.numero.toLowerCase().includes(search) || (cr.nome||'').toLowerCase().includes(search))) return;
+
+    // quando a caderneta tem secções (equipa/país/etc.), sempre que o
+    // cromo muda de secção abre-se um novo bloco com título; sem
+    // agrupamento fica só uma grelha única, como sempre foi
+    if(campoAgrupamento){
+      const valor = (cr[campoAgrupamento] || '').trim() || '—';
+      if(valor !== valorAnterior){
+        valorAnterior = valor;
+        const secao = document.createElement('div');
+        secao.className = 'grupo-cromos';
+        const titulo = document.createElement('div');
+        titulo.className = 'grupo-titulo';
+        titulo.textContent = valor;
+        gradeAtual = document.createElement('div');
+        gradeAtual.className = 'cromos-grid';
+        secao.appendChild(titulo);
+        secao.appendChild(gradeAtual);
+        gridWrap.appendChild(secao);
+      }
+    } else if(!gradeAtual){
+      gradeAtual = document.createElement('div');
+      gradeAtual.className = 'cromos-grid';
+      gridWrap.appendChild(gradeAtual);
+    }
 
     const el = document.createElement('div');
     const temImagem = !!cr.imagem;
@@ -1806,7 +1887,7 @@ function renderCromosGrid(cromos){
     // qualquer cromo é clicável -- abre a vista ampliada com número, nome
     // e clube (a foto só aparece se o cromo tiver uma associada)
     el.addEventListener('click', ()=> abrirLightbox(cr));
-    grid.appendChild(el);
+    gradeAtual.appendChild(el);
   });
 }
 
