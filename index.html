@@ -367,6 +367,18 @@
     font-family:'Anton', sans-serif; font-weight:400;
     font-size:1.8rem; margin:0 0 18px;
   }
+  .link-gerador{
+    display:inline-block;
+    font-family:'Space Mono', monospace;
+    font-size:0.7rem;
+    color:var(--ink-soft);
+    text-decoration:none;
+    border:1.5px dashed var(--ink-soft);
+    border-radius:2px;
+    padding:4px 8px;
+    margin:-10px 0 18px;
+  }
+  .link-gerador:hover{ color:var(--ink); border-color:var(--ink); }
   .repetidos-bulk{
     background:var(--card-bg);
     border:2px solid var(--ink);
@@ -831,6 +843,7 @@
   <div id="meuPortfolioView">
     <button class="back-btn" id="backBtnPortfolio">&larr; voltar às cadernetas</button>
     <h2 class="repetidos-titulo" id="meuPortfolioTitulo">📚 Meu Portefólio</h2>
+    <a href="geradorcadernetas.html" target="_blank" rel="noopener" id="linkGerador" class="link-gerador" style="display:none;">🛠️ Gerador de cadernetas</a>
     <div id="meuPortfolioConteudo">
       <div class="empty">A carregar...</div>
     </div>
@@ -1019,6 +1032,7 @@ async function atualizarUIAutenticacao(){
     : '';
   document.getElementById('btnLogin').style.display = autenticado ? 'none' : 'inline';
   document.getElementById('btnLogout').style.display = autenticado ? 'inline' : 'none';
+  document.getElementById('linkGerador').style.display = (autenticado && auth.currentUser.email === OWNER_EMAIL) ? 'inline-block' : 'none';
 
   await carregarPortfolio();
   renderGlobalStats();
