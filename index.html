@@ -276,7 +276,11 @@
     padding:9px 16px; border:2px solid var(--ink); border-radius:2px;
     background:var(--stamp-red); color:var(--paper); cursor:pointer;
   }
-  .portfolio-btn-detalhe.no-portfolio{ background:var(--teal); }
+  .portfolio-btn-detalhe.no-portfolio{
+    background:var(--teal);
+    font-size:0.66rem;
+    padding:6px 10px;
+  }
   .portfolio-btn-detalhe:disabled{ opacity:0.6; cursor:default; }
   .portfolio-aviso{
     margin-top:8px;
@@ -422,7 +426,19 @@
     background:var(--stamp-red); color:var(--paper); cursor:pointer;
   }
   .repetidos-bulk-botoes button.secondary{ background:var(--card-bg); color:var(--ink); }
+  .repetidos-bulk-botoes button.perigo{
+    background:var(--card-bg);
+    color:var(--stamp-red);
+    border-color:var(--stamp-red);
+  }
   .repetidos-bulk-botoes button:disabled{ opacity:0.5; cursor:default; }
+  .repetidos-bulk-separador{
+    font-family:'Space Mono', monospace;
+    font-size:0.7rem;
+    color:var(--ink-soft);
+    text-align:center;
+    margin-top:14px;
+  }
   .repetidos-bulk-msg{
     margin-top:10px;
     font-family:'Space Mono', monospace;
@@ -868,6 +884,10 @@
             <button id="modoBulkRemove" class="secondary"></button>
           </div>
           <div class="repetidos-bulk-msg" id="modoBulkMsg"></div>
+          <div class="repetidos-bulk-separador">ou, de uma só vez</div>
+          <div class="repetidos-bulk-botoes">
+            <button type="button" id="modoBulkEliminarTudo" class="perigo"></button>
+          </div>
         </div>
       </div>
 
@@ -1608,12 +1628,15 @@ function atualizarBotoesModo(){
 
   const btnAdd = document.getElementById('modoBulkAdd');
   const btnRem = document.getElementById('modoBulkRemove');
+  const btnTudo = document.getElementById('modoBulkEliminarTudo');
   if(modoAtual === 'repetidos'){
     btnAdd.textContent = '➕ Adicionar aos repetidos';
     btnRem.textContent = '➖ Remover dos repetidos';
+    btnTudo.textContent = '🗑️ Eliminar todos os repetidos';
   } else if(modoAtual === 'faltas'){
     btnAdd.textContent = '➕ Marcar como falta';
     btnRem.textContent = '➖ Já não falta (tenho)';
+    btnTudo.textContent = '🗑️ Eliminar todas as faltas';
   }
 }
 
@@ -1946,7 +1969,13 @@ async function buscarRepetidosMap(cadernetaId){
   const mapa = new Map();
   if(!repetidosAtivo()) return mapa;
   try{
-    const snap = await db.collection('repetidos').where('cadernetaId','==',cadernetaId).get();
+    // IMPORTANTE: filtrar sempre por uid -- sem isto, a consulta devolvia os
+    // repetidos desta caderneta de QUALQUER conta que alguma vez os tenha
+    // gravado, não só os teus. Isso fazia com que "atual" partisse de um
+    // valor errado (de outra conta) e o "adicionar em lote" somasse em cima
+    // desse valor, dando quantidades a dobrar.
+    const uid = auth.currentUser.uid;
+    const snap = await db.collection('repetidos').where('uid','==',uid).where('cadernetaId','==',cadernetaId).get();
     snap.forEach(doc=>{
       const d = doc.data();
       if(d.quantidade > 0) mapa.set(d.numero, d.quantidade);
@@ -2051,6 +2080,80 @@ async function aplicarBulkPessoal(modo){
 
 document.getElementById('modoBulkAdd').addEventListener('click', ()=>aplicarBulkPessoal('add'));
 document.getElementById('modoBulkRemove').addEventListener('click', ()=>aplicarBulkPessoal('remove'));
+
+// elimina de uma só vez TODAS as faltas (ou TODOS os repetidos) da
+// caderneta aberta -- tal como no resto do código, nunca apagamos os
+// documentos do Firestore (as regras não deixam), gravamos falta:false /
+// quantidade:0 em todos os que estavam marcados
+async function eliminarTodasFaltasCaderneta(cadernetaId, cadernetaNome){
+  const uid = auth.currentUser.uid;
+  const snap = await db.collection('faltas').where('uid','==',uid).where('cadernetaId','==',cadernetaId).get();
+  const comFalta = snap.docs.filter(doc => doc.data().falta === true);
+  await Promise.all(comFalta.map(doc => {
+    const d = doc.data();
+    return db.collection('faltas').doc(doc.id).set({
+      uid, cadernetaId, cadernetaNome: d.cadernetaNome || cadernetaNome || cadernetaId,
+      numero: d.numero, nomeCromo: d.nomeCromo || '', falta: false,
+      atualizadoEm: firebase.firestore.FieldValue.serverTimestamp()
+    });
+  }));
+  return comFalta.length;
+}
+
+async function eliminarTodosRepetidosCaderneta(cadernetaId, cadernetaNome){
+  const uid = auth.currentUser.uid;
+  const snap = await db.collection('repetidos').where('uid','==',uid).where('cadernetaId','==',cadernetaId).get();
+  const comQtd = snap.docs.filter(doc => doc.data().quantidade > 0);
+  await Promise.all(comQtd.map(doc => {
+    const d = doc.data();
+    return db.collection('repetidos').doc(doc.id).set({
+      uid, email: auth.currentUser.email,
+      cadernetaId, cadernetaNome: d.cadernetaNome || cadernetaNome || cadernetaId,
+      numero: d.numero, nomeCromo: d.nomeCromo || '', quantidade: 0,
+      atualizadoEm: firebase.firestore.FieldValue.serverTimestamp()
+    });
+  }));
+  return comQtd.length;
+}
+
+async function eliminarTudoModoAtual(){
+  const cadernetaId = currentId();
+  const msgEl = document.getElementById('modoBulkMsg');
+  if(!repetidosAtivo() || !cadernetaId) return;
+  const c = cadernetas.find(x=>x.id===cadernetaId);
+  const nomeCaderneta = c ? c.nome : cadernetaId;
+  const tipo = modoAtual === 'repetidos' ? 'repetidos' : 'faltas';
+  const pergunta = tipo === 'repetidos'
+    ? `Eliminar TODOS os repetidos de "${nomeCaderneta}"?\n\nA quantidade de todos os cromos repetidos volta a 0.`
+    : `Eliminar TODAS as faltas de "${nomeCaderneta}"?\n\nTodos os cromos marcados em falta passam a "tens".`;
+  if(!confirm(pergunta)) return;
+
+  const btnTudo = document.getElementById('modoBulkEliminarTudo');
+  btnTudo.disabled = true;
+  msgEl.className = 'repetidos-bulk-msg';
+  msgEl.textContent = 'A eliminar...';
+  try{
+    const quantos = tipo === 'repetidos'
+      ? await eliminarTodosRepetidosCaderneta(cadernetaId, nomeCaderneta)
+      : await eliminarTodasFaltasCaderneta(cadernetaId, nomeCaderneta);
+    msgEl.className = 'repetidos-bulk-msg';
+    msgEl.textContent = quantos > 0
+      ? `✔ ${quantos} cromo(s) atualizado(s).`
+      : 'Não havia nada para eliminar.';
+    await carregarRepetidosDaCaderneta(cadernetaId);
+    await carregarFaltasDaCaderneta(cadernetaId);
+    atualizarPainelPortfolio(cadernetaId);
+    renderCromosGrid(cromosCache[cadernetaId]);
+    renderGlobalStats();
+  }catch(err){
+    console.warn('Não consegui eliminar tudo:', err);
+    msgEl.className = 'repetidos-bulk-msg erro';
+    msgEl.textContent = 'Não foi possível eliminar (sem ligação?). Tenta outra vez.';
+  }
+  btnTudo.disabled = false;
+}
+
+document.getElementById('modoBulkEliminarTudo').addEventListener('click', eliminarTudoModoAtual);
 
 function limparMsgBulk(){
   const msgEl = document.getElementById('modoBulkMsg');
