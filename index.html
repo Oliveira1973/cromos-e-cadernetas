@@ -582,11 +582,11 @@
     align-items:flex-start;
     gap:8px;
   }
-  /* quando a caderneta tem um campo que sirva para agrupar os cromos por
-     equipa/secção (ver escolherCampoAgrupamento no JS), cada secção fica
-     dentro de ".grupo-cromos", com o nome por cima e a grelha desses
-     cromos por baixo -- assim aparecem na mesma ordem em que estão na
-     caderneta física, em vez de tudo misturado numa grelha só */
+  /* quando a caderneta tem dados que sirvam para agrupar os cromos por
+     equipa/secção (ver obterAgrupamento no JS), cada secção fica dentro
+     de ".grupo-cromos", com o nome por cima e a grelha desses cromos por
+     baixo -- assim aparecem na mesma ordem em que estão na caderneta
+     física, em vez de tudo misturado numa grelha só */
   .grupo-cromos{ margin-bottom:22px; }
   .grupo-cromos:last-child{ margin-bottom:0; }
   .grupo-titulo{
@@ -1767,21 +1767,29 @@ function aplicarOrientacao(el, img){
   }
 }
 
-// escolhe automaticamente o campo (clube ou tipo) que serve para agrupar
-// os cromos por equipa/secção, pela mesma ordem em que aparecem na
-// caderneta física (ex: World Cup 2026 -- "clube" tem o país de cada
-// cromo; Os Cracks 82/83 -- é "tipo" que tem o clube, porque ali
-// "clube" é usado para outra coisa). Só usamos um campo se ele formar
-// mesmo blocos seguidos com vários cromos cada (como as secções reais
-// da caderneta) -- nunca um campo disperso por todo o lado (ex: "tipo"
-// a assinalar só se um cromo é foil ou não, que intercala o tempo
-// todo). Se nenhum dos dois servir, os cromos ficam todos numa grelha
-// só, exatamente como sempre foi.
+// decide como agrupar os cromos desta caderneta por secção/equipa, pela
+// mesma ordem em que aparecem na caderneta física, e devolve um Map
+// "numero do cromo -> nome da secção" (ou null se não houver dados que
+// sirvam para isso -- nesse caso fica tudo numa grelha só, como sempre
+// foi). Duas estratégias possíveis, por esta ordem:
+//   1) um campo simples (clube ou tipo) que forme blocos seguidos, com
+//      vários cromos cada -- normal em cadernetas de seleções/torneios
+//      (ex: World Cup 2026 -- "clube" tem o país de cada cromo; Os
+//      Cracks 82/83 -- é "tipo" que tem o clube, porque ali "clube" é
+//      usado para outra coisa). Nunca um campo disperso por todo o lado
+//      (ex: "tipo" a assinalar só se um cromo é foil, que intercala o
+//      tempo todo)
+//   2) cromos "Plantel - <equipa>" a abrir a secção de cada equipa,
+//      seguidos pelos jogadores dela -- comum nas cadernetas de liga
+//      portuguesa (ex: Futebol 2022/2023). Fora dessas secções
+//      (emblemas, cromos avulsos "Jogador (Equipa)", listas de outros
+//      clubes, etc.) cada cromo usa o seu próprio nome como secção, para
+//      nunca ficar associado à equipa errada
 const agrupamentoCache = {};
-function escolherCampoAgrupamento(cadernetaId, todosCromos){
+function obterAgrupamento(cadernetaId, todosCromos){
   if(agrupamentoCache[cadernetaId] !== undefined) return agrupamentoCache[cadernetaId];
   const total = todosCromos.length;
-  let escolhido = null;
+
   for(const campo of ['clube', 'tipo']){
     const valores = todosCromos.map(c => (c[campo] || '').trim());
     const distintos = new Set(valores.filter(v => v));
@@ -1791,12 +1799,55 @@ function escolherCampoAgrupamento(cadernetaId, todosCromos){
     const tamanhoMedio = total / distintos.size;
     const contiguidade = transicoes / distintos.size;
     if(tamanhoMedio >= 2 && contiguidade <= 2.2){
-      escolhido = campo;
-      break;
+      const mapa = new Map();
+      todosCromos.forEach(c => mapa.set(c.numero, (c[campo] || '').trim() || '—'));
+      agrupamentoCache[cadernetaId] = mapa;
+      return mapa;
     }
   }
-  agrupamentoCache[cadernetaId] = escolhido;
-  return escolhido;
+
+  // nomes das equipas que têm mesmo um cromo "Plantel - X" -- servem
+  // para reconhecer, mais à frente na caderneta, um cromo que só repete
+  // o nome de uma equipa (ex: um 2º emblema) e não deve continuar a
+  // "herdar" a última equipa vista
+  const nomesEquipas = new Set();
+  todosCromos.forEach(c=>{
+    const marcador = (c.nome || '').trim().match(/^plantel\s*-\s*(.+)$/i);
+    if(marcador) nomesEquipas.add(marcador[1].trim().toLowerCase());
+  });
+
+  if(nomesEquipas.size > 0){
+    const mapa = new Map();
+    let equipaAtual = null;
+    todosCromos.forEach(c=>{
+      const nome = (c.nome || '').trim();
+      const marcador = nome.match(/^plantel\s*-\s*(.+)$/i);
+      const parentese = nome.match(/\(([^)]+)\)\s*$/);
+      let rotulo;
+      if(marcador){
+        equipaAtual = marcador[1].trim();
+        rotulo = equipaAtual;
+      } else if(parentese){
+        // cromo avulso do tipo "Jogador (Equipa)" -- usa a equipa
+        // indicada nele, sem alterar a secção "corrente"
+        rotulo = parentese[1].trim();
+      } else if(equipaAtual && !nomesEquipas.has(nome.toLowerCase())){
+        rotulo = equipaAtual;
+      } else {
+        // ou não há nenhuma secção aberta ainda, ou este cromo só repete
+        // o nome de uma equipa (ex: outro emblema) -- não pertence à
+        // secção anterior, por isso fecha-se essa secção aqui
+        rotulo = nome || '—';
+        equipaAtual = null;
+      }
+      mapa.set(c.numero, rotulo);
+    });
+    agrupamentoCache[cadernetaId] = mapa;
+    return mapa;
+  }
+
+  agrupamentoCache[cadernetaId] = null;
+  return null;
 }
 
 function renderCromosGrid(cromos){
@@ -1811,7 +1862,7 @@ function renderCromosGrid(cromos){
   // "cromos" chega sempre com a lista completa da caderneta (é sempre
   // cromosCache[cadernetaId]), por isso dá para decidir o agrupamento
   // aqui mesmo, antes de aplicar os filtros de pesquisa/faltas/etc.
-  const campoAgrupamento = escolherCampoAgrupamento(cadernetaId, cromos);
+  const agrupamento = obterAgrupamento(cadernetaId, cromos);
 
   gridWrap.innerHTML = '';
   let gradeAtual = null;
@@ -1828,8 +1879,8 @@ function renderCromosGrid(cromos){
     // quando a caderneta tem secções (equipa/país/etc.), sempre que o
     // cromo muda de secção abre-se um novo bloco com título; sem
     // agrupamento fica só uma grelha única, como sempre foi
-    if(campoAgrupamento){
-      const valor = (cr[campoAgrupamento] || '').trim() || '—';
+    if(agrupamento){
+      const valor = agrupamento.get(cr.numero) || '—';
       if(valor !== valorAnterior){
         valorAnterior = valor;
         const secao = document.createElement('div');
