@@ -1578,8 +1578,9 @@
   {
     "numero": "198",
     "nome": "Cromo 198",
-    "tenho": false,
+    "tenho": true,
     "especial": false,
+    "clube": "SC Beira-Mar",
     "imagem": "images/capas/Offside 88 89/198.jpg"
   },
   {
@@ -1857,8 +1858,9 @@
   {
     "numero": "233",
     "nome": "Cromo 233",
-    "tenho": false,
+    "tenho": true,
     "especial": false,
+    "clube": "AD Fafe",
     "imagem": "images/capas/Offside 88 89/233.jpg"
   },
   {
@@ -1872,8 +1874,9 @@
   {
     "numero": "235",
     "nome": "Cromo 235",
-    "tenho": false,
+    "tenho": true,
     "especial": false,
+    "clube": "AD Fafe",
     "imagem": "images/capas/Offside 88 89/235.jpg"
   },
   {
@@ -1895,8 +1898,9 @@
   {
     "numero": "238",
     "nome": "Cromo 238",
-    "tenho": false,
+    "tenho": true,
     "especial": false,
+    "clube": "AD Fafe",
     "imagem": "images/capas/Offside 88 89/238.jpg"
   },
   {
@@ -1920,159 +1924,159 @@
     "nome": "FC Porto",
     "tenho": true,
     "especial": false,
-    "clube": "FC Porto",
-    "imagem": "images/capas/Offside 88 89/FCPorto.jpg"
+    "clube": "Equipa",
+    "imagem": "images/capas/Offside 88 89/241.jpg"
   },
   {
     "numero": "242",
     "nome": "SL Benfica",
     "tenho": true,
     "especial": false,
-    "clube": "SL Benfica",
-    "imagem": "images/capas/Offside 88 89/Benfica.jpg"
+    "clube": "Equipa",
+    "imagem": "images/capas/Offside 88 89/242.jpg"
   },
   {
     "numero": "243",
     "nome": "Belenenses",
     "tenho": true,
     "especial": false,
-    "clube": "Belenenses",
-    "imagem": "images/capas/Offside 88 89/Belenenses.jpg"
+    "clube": "Equipa",
+    "imagem": "images/capas/Offside 88 89/243.jpg"
   },
   {
     "numero": "244",
     "nome": "Sporting CP",
     "tenho": true,
     "especial": false,
-    "clube": "Sporting CP",
-    "imagem": "images/capas/Offside 88 89/Sporting.jpg"
+    "clube": "Equipa",
+    "imagem": "images/capas/Offside 88 89/244.jpg"
   },
   {
     "numero": "245",
     "nome": "Boavista FC",
     "tenho": true,
     "especial": false,
-    "clube": "Boavista FC",
-    "imagem": "images/capas/Offside 88 89/Boavista.jpg"
+    "clube": "Equipa",
+    "imagem": "images/capas/Offside 88 89/245.jpg"
   },
   {
     "numero": "246",
     "nome": "CS Marítimo",
     "tenho": true,
     "especial": false,
-    "clube": "CS Marítimo",
-    "imagem": "images/capas/Offside 88 89/Maritimo.jpg"
+    "clube": "Equipa",
+    "imagem": "images/capas/Offside 88 89/246.jpg"
   },
   {
     "numero": "247",
     "nome": "FC Penafiel",
     "tenho": true,
     "especial": false,
-    "clube": "FC Penafiel",
-    "imagem": "images/capas/Offside 88 89/Penafiel.jpg"
+    "clube": "Equipa",
+    "imagem": "images/capas/Offside 88 89/247.jpg"
   },
   {
     "numero": "248",
     "nome": "Vitória FC",
     "tenho": true,
     "especial": false,
-    "clube": "Vitória FC",
-    "imagem": "images/capas/Offside 88 89/Setubal.jpg"
+    "clube": "Equipa",
+    "imagem": "images/capas/Offside 88 89/248.jpg"
   },
   {
     "numero": "249",
     "nome": "SC Espinho",
     "tenho": true,
     "especial": false,
-    "clube": "SC Espinho",
-    "imagem": "images/capas/Offside 88 89/Espinho.jpg"
+    "clube": "Equipa",
+    "imagem": "images/capas/Offside 88 89/249.jpg"
   },
   {
     "numero": "250",
     "nome": "GD Chaves",
     "tenho": true,
     "especial": false,
-    "clube": "GD Chaves",
-    "imagem": "images/capas/Offside 88 89/Chaves.jpg"
+    "clube": "Equipa",
+    "imagem": "images/capas/Offside 88 89/250.jpg"
   },
   {
     "numero": "251",
     "nome": "SC Braga",
     "tenho": true,
     "especial": false,
-    "clube": "SC Braga",
-    "imagem": "images/capas/Offside 88 89/Braga.jpg"
+    "clube": "Equipa",
+    "imagem": "images/capas/Offside 88 89/251.jpg"
   },
   {
     "numero": "252",
     "nome": "Académico de Viseu",
     "tenho": true,
     "especial": false,
-    "clube": "Académico de Viseu",
-    "imagem": "images/capas/Offside 88 89/Academico.jpg"
+    "clube": "Equipa",
+    "imagem": "images/capas/Offside 88 89/252.jpg"
   },
   {
     "numero": "253",
     "nome": "SC Beira-Mar",
     "tenho": true,
     "especial": false,
-    "clube": "SC Beira-Mar",
-    "imagem": "images/capas/Offside 88 89/Beira Mar.jpg"
+    "clube": "Equipa",
+    "imagem": "images/capas/Offside 88 89/253.jpg"
   },
   {
     "numero": "254",
     "nome": "Estrela da Amadora",
     "tenho": true,
     "especial": false,
-    "clube": "Estrela da Amadora",
-    "imagem": "images/capas/Offside 88 89/Estrela.jpg"
+    "clube": "Equipa",
+    "imagem": "images/capas/Offside 88 89/254.jpg"
   },
   {
     "numero": "255",
     "nome": "SC Farense",
     "tenho": true,
     "especial": false,
-    "clube": "SC Farense",
-    "imagem": "images/capas/Offside 88 89/Farense.jpg"
+    "clube": "Equipa",
+    "imagem": "images/capas/Offside 88 89/255.jpg"
   },
   {
     "numero": "256",
     "nome": "Vitória SC",
     "tenho": true,
     "especial": false,
-    "clube": "Vitória SC",
-    "imagem": "images/capas/Offside 88 89/Guimarães.jpg"
+    "clube": "Equipa",
+    "imagem": "images/capas/Offside 88 89/256.jpg"
   },
   {
     "numero": "257",
     "nome": "Leixões SC",
     "tenho": true,
     "especial": false,
-    "clube": "Leixões SC",
-    "imagem": "images/capas/Offside 88 89/Leixões.jpg"
+    "clube": "Equipa",
+    "imagem": "images/capas/Offside 88 89/257.jpg"
   },
   {
     "numero": "258",
     "nome": "Portimonense SC",
     "tenho": true,
     "especial": false,
-    "clube": "Portimonense SC",
-    "imagem": "images/capas/Offside 88 89/Portimonense.jpg"
+    "clube": "Equipa",
+    "imagem": "images/capas/Offside 88 89/258.jpg"
   },
   {
     "numero": "259",
     "nome": "CD Nacional",
     "tenho": true,
     "especial": false,
-    "clube": "CD Nacional",
-    "imagem": "images/capas/Offside 88 89/Nacional.jpg"
+    "clube": "Equipa",
+    "imagem": "images/capas/Offside 88 89/259.jpg"
   },
   {
     "numero": "260",
     "nome": "AD Fafe",
     "tenho": true,
     "especial": false,
-    "clube": "AD Fafe",
-    "imagem": "images/capas/Offside 88 89/Fafe.jpg"
+    "clube": "Equipa",
+    "imagem": "images/capas/Offside 88 89/260.jpg"
   }
 ]
