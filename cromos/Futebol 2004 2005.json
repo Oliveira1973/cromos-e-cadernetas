@@ -1,0 +1,4268 @@
+[
+  {
+    "numero": "1",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/1.jpg"
+  },
+  {
+    "numero": "2",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/2.jpg"
+  },
+  {
+    "numero": "3",
+    "nome": "Luciano Fonseca (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/3.jpg"
+  },
+  {
+    "numero": "4",
+    "nome": "Vasco Faísca (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/4.jpg"
+  },
+  {
+    "numero": "5",
+    "nome": "Pedro Roma",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/5.jpg"
+  },
+  {
+    "numero": "6",
+    "nome": "Bruno Leite",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/6.jpg"
+  },
+  {
+    "numero": "7",
+    "nome": "Nuno Luís",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/7.jpg"
+  },
+  {
+    "numero": "8",
+    "nome": "Danilo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/8.jpg"
+  },
+  {
+    "numero": "9",
+    "nome": "Castro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/9.jpg"
+  },
+  {
+    "numero": "10",
+    "nome": "Vasco Faísca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/10.jpg"
+  },
+  {
+    "numero": "11",
+    "nome": "Pedro Henriques",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/11.jpg"
+  },
+  {
+    "numero": "12",
+    "nome": "Paulo Adriano",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/12.jpg"
+  },
+  {
+    "numero": "13",
+    "nome": "Rafael Gaúcho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/13.jpg"
+  },
+  {
+    "numero": "14",
+    "nome": "Tixier",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/14.jpg"
+  },
+  {
+    "numero": "15",
+    "nome": "Ricardo Fernandes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/15.jpg"
+  },
+  {
+    "numero": "16",
+    "nome": "Dionattan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/16.jpg"
+  },
+  {
+    "numero": "17",
+    "nome": "William Soares",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/17.jpg"
+  },
+  {
+    "numero": "17-bis",
+    "nome": "Cooper",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/17-bis.jpg"
+  },
+  {
+    "numero": "18",
+    "nome": "Fredy",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/18.jpg"
+  },
+  {
+    "numero": "19",
+    "nome": "Joeano",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/19.jpg"
+  },
+  {
+    "numero": "20",
+    "nome": "Luciano Fonseca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/20.jpg"
+  },
+  {
+    "numero": "21",
+    "nome": "Delmer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/21.jpg"
+  },
+  {
+    "numero": "22",
+    "nome": "Dani",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/22.jpg"
+  },
+  {
+    "numero": "23",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira-Mar",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/23.jpg"
+  },
+  {
+    "numero": "24",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira-Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/24.jpg"
+  },
+  {
+    "numero": "25",
+    "nome": "Paul Murray (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira-Mar",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/25.jpg"
+  },
+  {
+    "numero": "26",
+    "nome": "Beto (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira-Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/26.jpg"
+  },
+  {
+    "numero": "27",
+    "nome": "Galekovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira-Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/27.jpg"
+  },
+  {
+    "numero": "28",
+    "nome": "Ribeiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira-Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/28.jpg"
+  },
+  {
+    "numero": "29",
+    "nome": "Alcaraz",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira-Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/29.jpg"
+  },
+  {
+    "numero": "30",
+    "nome": "Mário Loja",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira-Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/30.jpg"
+  },
+  {
+    "numero": "31",
+    "nome": "Filipe",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira-Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/31.jpg"
+  },
+  {
+    "numero": "32",
+    "nome": "Zeman",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira-Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/32.jpg"
+  },
+  {
+    "numero": "33",
+    "nome": "Tininho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira-Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/33.jpg"
+  },
+  {
+    "numero": "34",
+    "nome": "Ricardo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira-Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/34.jpg"
+  },
+  {
+    "numero": "35",
+    "nome": "Malá",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira-Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/35.jpg"
+  },
+  {
+    "numero": "36",
+    "nome": "Beto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira-Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/36.jpg"
+  },
+  {
+    "numero": "37",
+    "nome": "Sandro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira-Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/37.jpg"
+  },
+  {
+    "numero": "38",
+    "nome": "Marcelinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira-Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/38.jpg"
+  },
+  {
+    "numero": "39",
+    "nome": "Rui Lima",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira-Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/39.jpg"
+  },
+  {
+    "numero": "40",
+    "nome": "Paul Murray",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira-Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/40.jpg"
+  },
+  {
+    "numero": "41",
+    "nome": "Kingsley",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira-Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/41.jpg"
+  },
+  {
+    "numero": "42",
+    "nome": "McPhee",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira-Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/42.jpg"
+  },
+  {
+    "numero": "43",
+    "nome": "Artur",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira-Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/43.jpg"
+  },
+  {
+    "numero": "44",
+    "nome": "Paulo Sérgio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira-Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/44.jpg"
+  },
+  {
+    "numero": "45",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/45.jpg"
+  },
+  {
+    "numero": "46",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/46.jpg"
+  },
+  {
+    "numero": "47",
+    "nome": "Rodolfo Lima (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/47.jpg"
+  },
+  {
+    "numero": "48",
+    "nome": "Zé Pedro (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/48.jpg"
+  },
+  {
+    "numero": "49",
+    "nome": "Marco Aurélio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/49.jpg"
+  },
+  {
+    "numero": "50",
+    "nome": "Amaral",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/50.jpg"
+  },
+  {
+    "numero": "51",
+    "nome": "Wilson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/51.jpg"
+  },
+  {
+    "numero": "52",
+    "nome": "Gonçalo Brandão",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/52.jpg"
+  },
+  {
+    "numero": "53",
+    "nome": "Sandro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/53.jpg"
+  },
+  {
+    "numero": "54",
+    "nome": "Cristiano",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/54.jpg"
+  },
+  {
+    "numero": "55",
+    "nome": "Pelé",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/55.jpg"
+  },
+  {
+    "numero": "56",
+    "nome": "Tuck",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/56.jpg"
+  },
+  {
+    "numero": "57",
+    "nome": "Andersson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/57.jpg"
+  },
+  {
+    "numero": "58",
+    "nome": "Marco Paulo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/58.jpg"
+  },
+  {
+    "numero": "59",
+    "nome": "Eliseu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/59.jpg"
+  },
+  {
+    "numero": "60",
+    "nome": "Zé Pedro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/60.jpg"
+  },
+  {
+    "numero": "61",
+    "nome": "Neca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/61.jpg"
+  },
+  {
+    "numero": "62",
+    "nome": "Ruben Amorim",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/62.jpg"
+  },
+  {
+    "numero": "63",
+    "nome": "Lourenço",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/63.jpg"
+  },
+  {
+    "numero": "64",
+    "nome": "Antchouet",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/64.jpg"
+  },
+  {
+    "numero": "65",
+    "nome": "Rodolfo Lima",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/65.jpg"
+  },
+  {
+    "numero": "66",
+    "nome": "Pedro Alves",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/66.jpg"
+  },
+  {
+    "numero": "67",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/67.jpg"
+  },
+  {
+    "numero": "68",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/68.jpg"
+  },
+  {
+    "numero": "69",
+    "nome": "Dos Santos (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/69.jpg"
+  },
+  {
+    "numero": "70",
+    "nome": "Paulo Almeida (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/70.jpg"
+  },
+  {
+    "numero": "71",
+    "nome": "Moreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/71.jpg"
+  },
+  {
+    "numero": "72",
+    "nome": "Miguel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/72.jpg"
+  },
+  {
+    "numero": "73",
+    "nome": "Luisão",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/73.jpg"
+  },
+  {
+    "numero": "74",
+    "nome": "Amoreirinha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/74.jpg"
+  },
+  {
+    "numero": "75",
+    "nome": "Ricardo Rocha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/75.jpg"
+  },
+  {
+    "numero": "76",
+    "nome": "Fyssas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/76.jpg"
+  },
+  {
+    "numero": "77",
+    "nome": "Dos Santos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/77.jpg"
+  },
+  {
+    "numero": "78",
+    "nome": "Petit",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/78.jpg"
+  },
+  {
+    "numero": "79",
+    "nome": "Paulo Almeida",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/79.jpg"
+  },
+  {
+    "numero": "80",
+    "nome": "João Pereira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/80.jpg"
+  },
+  {
+    "numero": "81",
+    "nome": "Geovanni",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/81.jpg"
+  },
+  {
+    "numero": "82",
+    "nome": "Carlitos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/82.jpg"
+  },
+  {
+    "numero": "83",
+    "nome": "Zlatko Zahovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/83.jpg"
+  },
+  {
+    "numero": "84",
+    "nome": "Manuel Fernandes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/84.jpg"
+  },
+  {
+    "numero": "85",
+    "nome": "Simão",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/85.jpg"
+  },
+  {
+    "numero": "86",
+    "nome": "Sokota",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/86.jpg"
+  },
+  {
+    "numero": "87",
+    "nome": "Nuno Gomes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/87.jpg"
+  },
+  {
+    "numero": "88",
+    "nome": "Quim",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/88.jpg"
+  },
+  {
+    "numero": "89",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/89.jpg"
+  },
+  {
+    "numero": "90",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/90.jpg"
+  },
+  {
+    "numero": "91",
+    "nome": "João Pinto (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/91.jpg"
+  },
+  {
+    "numero": "92",
+    "nome": "Zé Manel (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/92.jpg"
+  },
+  {
+    "numero": "93",
+    "nome": "William",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/93.jpg"
+  },
+  {
+    "numero": "94",
+    "nome": "Frechaut",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/94.jpg"
+  },
+  {
+    "numero": "95",
+    "nome": "Nélson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/95.jpg"
+  },
+  {
+    "numero": "96",
+    "nome": "Éder",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/96.jpg"
+  },
+  {
+    "numero": "97",
+    "nome": "Jorge Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/97.jpg"
+  },
+  {
+    "numero": "98",
+    "nome": "Milhazes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/98.jpg"
+  },
+  {
+    "numero": "99",
+    "nome": "Carlos Fernandes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/99.jpg"
+  },
+  {
+    "numero": "100",
+    "nome": "Lucas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/100.jpg"
+  },
+  {
+    "numero": "101",
+    "nome": "André Barreto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/101.jpg"
+  },
+  {
+    "numero": "102",
+    "nome": "Tiago",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/102.jpg"
+  },
+  {
+    "numero": "103",
+    "nome": "Zé Manel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/103.jpg"
+  },
+  {
+    "numero": "104",
+    "nome": "Guga",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/104.jpg"
+  },
+  {
+    "numero": "105",
+    "nome": "João Pinto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/105.jpg"
+  },
+  {
+    "numero": "106",
+    "nome": "Toñito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/106.jpg"
+  },
+  {
+    "numero": "107",
+    "nome": "Rui Gomes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/107.jpg"
+  },
+  {
+    "numero": "108",
+    "nome": "Cafú",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/108.jpg"
+  },
+  {
+    "numero": "109",
+    "nome": "Fary",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/109.jpg"
+  },
+  {
+    "numero": "110",
+    "nome": "Khadim",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/110.jpg"
+  },
+  {
+    "numero": "111",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/111.jpg"
+  },
+  {
+    "numero": "112",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/112.jpg"
+  },
+  {
+    "numero": "113",
+    "nome": "Jaime (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/113.jpg"
+  },
+  {
+    "numero": "114",
+    "nome": "Luís Loureiro (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/114.jpg"
+  },
+  {
+    "numero": "115",
+    "nome": "Marco",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/115.jpg"
+  },
+  {
+    "numero": "116",
+    "nome": "Abel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/116.jpg"
+  },
+  {
+    "numero": "117",
+    "nome": "Pedro Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/117.jpg"
+  },
+  {
+    "numero": "118",
+    "nome": "Nunes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/118.jpg"
+  },
+  {
+    "numero": "119",
+    "nome": "Maurício",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/119.jpg"
+  },
+  {
+    "numero": "120",
+    "nome": "Paulo Jorge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/120.jpg"
+  },
+  {
+    "numero": "121",
+    "nome": "Jorge Luiz",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/121.jpg"
+  },
+  {
+    "numero": "122",
+    "nome": "Barroso",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/122.jpg"
+  },
+  {
+    "numero": "123",
+    "nome": "Vandinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/123.jpg"
+  },
+  {
+    "numero": "124",
+    "nome": "Luís Loureiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/124.jpg"
+  },
+  {
+    "numero": "125",
+    "nome": "Jaime",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/125.jpg"
+  },
+  {
+    "numero": "126",
+    "nome": "Paulo Sérgio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/126.jpg"
+  },
+  {
+    "numero": "127",
+    "nome": "João Alves",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/127.jpg"
+  },
+  {
+    "numero": "128",
+    "nome": "Wender",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/128.jpg"
+  },
+  {
+    "numero": "129",
+    "nome": "Baha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/129.jpg"
+  },
+  {
+    "numero": "130",
+    "nome": "João Tomás",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/130.jpg"
+  },
+  {
+    "numero": "131",
+    "nome": "Henrique",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/131.jpg"
+  },
+  {
+    "numero": "131-bis",
+    "nome": "Cesinha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/131-bis.jpg"
+  },
+  {
+    "numero": "132",
+    "nome": "Paulo Santos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/132.jpg"
+  },
+  {
+    "numero": "133",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/133.jpg"
+  },
+  {
+    "numero": "134",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/134.jpg"
+  },
+  {
+    "numero": "135",
+    "nome": "Dejan (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/135.jpg"
+  },
+  {
+    "numero": "136",
+    "nome": "N'Doye (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/136.jpg"
+  },
+  {
+    "numero": "137",
+    "nome": "Edmar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/137.jpg"
+  },
+  {
+    "numero": "138",
+    "nome": "Rui Duarte",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/138.jpg"
+  },
+  {
+    "numero": "139",
+    "nome": "Buba",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/139.jpg"
+  },
+  {
+    "numero": "140",
+    "nome": "Abadito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/140.jpg"
+  },
+  {
+    "numero": "141",
+    "nome": "Dorival",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/141.jpg"
+  },
+  {
+    "numero": "142",
+    "nome": "Dejan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/142.jpg"
+  },
+  {
+    "numero": "143",
+    "nome": "João Pedro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/143.jpg"
+  },
+  {
+    "numero": "144",
+    "nome": "Paulo Sousa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/144.jpg"
+  },
+  {
+    "numero": "145",
+    "nome": "Pinheiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/145.jpg"
+  },
+  {
+    "numero": "146",
+    "nome": "N'Doye",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/146.jpg"
+  },
+  {
+    "numero": "147",
+    "nome": "Elias",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/147.jpg"
+  },
+  {
+    "numero": "148",
+    "nome": "Felipe",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/148.jpg"
+  },
+  {
+    "numero": "148-bis",
+    "nome": "Ali",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/148-bis.jpg"
+  },
+  {
+    "numero": "149",
+    "nome": "Milton",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/149.jpg"
+  },
+  {
+    "numero": "150",
+    "nome": "Cissé",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/150.jpg"
+  },
+  {
+    "numero": "151",
+    "nome": "Fellahi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/151.jpg"
+  },
+  {
+    "numero": "152",
+    "nome": "Rosa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/152.jpg"
+  },
+  {
+    "numero": "153",
+    "nome": "Hugo Santos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/153.jpg"
+  },
+  {
+    "numero": "154",
+    "nome": "Jorge Baptista",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/154.jpg"
+  },
+  {
+    "numero": "155",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/155.jpg"
+  },
+  {
+    "numero": "156",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/156.jpg"
+  },
+  {
+    "numero": "157",
+    "nome": "Jorge Ribeiro (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/157.jpg"
+  },
+  {
+    "numero": "158",
+    "nome": "Júlio César (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/158.jpg"
+  },
+  {
+    "numero": "159",
+    "nome": "Paulo Jorge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/159.jpg"
+  },
+  {
+    "numero": "160",
+    "nome": "Édson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/160.jpg"
+  },
+  {
+    "numero": "161",
+    "nome": "Rovérsio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/161.jpg"
+  },
+  {
+    "numero": "162",
+    "nome": "Sidráilson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/162.jpg"
+  },
+  {
+    "numero": "163",
+    "nome": "Marcos António",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/163.jpg"
+  },
+  {
+    "numero": "164",
+    "nome": "Nuno Amaro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/164.jpg"
+  },
+  {
+    "numero": "165",
+    "nome": "Jorge Ribeiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/165.jpg"
+  },
+  {
+    "numero": "166",
+    "nome": "Braíma",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/166.jpg"
+  },
+  {
+    "numero": "167",
+    "nome": "Casquilha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/167.jpg"
+  },
+  {
+    "numero": "168",
+    "nome": "Nandinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/168.jpg"
+  },
+  {
+    "numero": "169",
+    "nome": "Luís Coentrão",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/169.jpg"
+  },
+  {
+    "numero": "170",
+    "nome": "Paulo Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/170.jpg"
+  },
+  {
+    "numero": "171",
+    "nome": "Rui Baião",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/171.jpg"
+  },
+  {
+    "numero": "172",
+    "nome": "Júlio César",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/172.jpg"
+  },
+  {
+    "numero": "173",
+    "nome": "Mauro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/173.jpg"
+  },
+  {
+    "numero": "174",
+    "nome": "Paulo Alves",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/174.jpg"
+  },
+  {
+    "numero": "175",
+    "nome": "Fábio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/175.jpg"
+  },
+  {
+    "numero": "176",
+    "nome": "Adriano",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/176.jpg"
+  },
+  {
+    "numero": "177",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/177.jpg"
+  },
+  {
+    "numero": "178",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/178.jpg"
+  },
+  {
+    "numero": "179",
+    "nome": "Silas (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/179.jpg"
+  },
+  {
+    "numero": "180",
+    "nome": "Tonel (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/180.jpg"
+  },
+  {
+    "numero": "181",
+    "nome": "Marcos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/181.jpg"
+  },
+  {
+    "numero": "182",
+    "nome": "Ferreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/182.jpg"
+  },
+  {
+    "numero": "183",
+    "nome": "Van Der Gaag",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/183.jpg"
+  },
+  {
+    "numero": "184",
+    "nome": "Tonel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/184.jpg"
+  },
+  {
+    "numero": "185",
+    "nome": "Fernando",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/185.jpg"
+  },
+  {
+    "numero": "186",
+    "nome": "Eusébio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/186.jpg"
+  },
+  {
+    "numero": "187",
+    "nome": "Briguel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/187.jpg"
+  },
+  {
+    "numero": "188",
+    "nome": "Zeca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/188.jpg"
+  },
+  {
+    "numero": "189",
+    "nome": "Wênio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/189.jpg"
+  },
+  {
+    "numero": "190",
+    "nome": "Luís Filipe",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/190.jpg"
+  },
+  {
+    "numero": "191",
+    "nome": "Silas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/191.jpg"
+  },
+  {
+    "numero": "192",
+    "nome": "Chaínho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/192.jpg"
+  },
+  {
+    "numero": "193",
+    "nome": "Alan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/193.jpg"
+  },
+  {
+    "numero": "194",
+    "nome": "Leo Lima",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/194.jpg"
+  },
+  {
+    "numero": "195",
+    "nome": "Manduca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/195.jpg"
+  },
+  {
+    "numero": "196",
+    "nome": "Rodrigão",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/196.jpg"
+  },
+  {
+    "numero": "196-bis",
+    "nome": "Pena",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/196-bis.jpg"
+  },
+  {
+    "numero": "197",
+    "nome": "Souza",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/197.jpg"
+  },
+  {
+    "numero": "198",
+    "nome": "Nélson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/198.jpg"
+  },
+  {
+    "numero": "199",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/199.jpg"
+  },
+  {
+    "numero": "200",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/200.jpg"
+  },
+  {
+    "numero": "201",
+    "nome": "Afonso Martins (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/201.jpg"
+  },
+  {
+    "numero": "202",
+    "nome": "João Manuel (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/202.jpg"
+  },
+  {
+    "numero": "203",
+    "nome": "João",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/203.jpg"
+  },
+  {
+    "numero": "204",
+    "nome": "Primo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/204.jpg"
+  },
+  {
+    "numero": "205",
+    "nome": "Orlando",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/205.jpg"
+  },
+  {
+    "numero": "206",
+    "nome": "Ricardo Fernandes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/206.jpg"
+  },
+  {
+    "numero": "207",
+    "nome": "Sérgio Lomba",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/207.jpg"
+  },
+  {
+    "numero": "208",
+    "nome": "Bertinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/208.jpg"
+  },
+  {
+    "numero": "209",
+    "nome": "Tito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/209.jpg"
+  },
+  {
+    "numero": "210",
+    "nome": "Jorge Duarte",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/210.jpg"
+  },
+  {
+    "numero": "211",
+    "nome": "Castro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/211.jpg"
+  },
+  {
+    "numero": "212",
+    "nome": "João Manuel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/212.jpg"
+  },
+  {
+    "numero": "213",
+    "nome": "Vítor Pereira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/213.jpg"
+  },
+  {
+    "numero": "214",
+    "nome": "Afonso Martins",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/214.jpg"
+  },
+  {
+    "numero": "215",
+    "nome": "Lito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/215.jpg"
+  },
+  {
+    "numero": "216",
+    "nome": "Luís Vouzela",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/216.jpg"
+  },
+  {
+    "numero": "217",
+    "nome": "Manoel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/217.jpg"
+  },
+  {
+    "numero": "218",
+    "nome": "Bruno Mestre",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/218.jpg"
+  },
+  {
+    "numero": "219",
+    "nome": "Armando",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/219.jpg"
+  },
+  {
+    "numero": "220",
+    "nome": "Nuno Claro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/220.jpg"
+  },
+  {
+    "numero": "221",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/221.jpg"
+  },
+  {
+    "numero": "222",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/222.jpg"
+  },
+  {
+    "numero": "223",
+    "nome": "Ferreira (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/223.jpg"
+  },
+  {
+    "numero": "224",
+    "nome": "Marcelo (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/224.jpg"
+  },
+  {
+    "numero": "225",
+    "nome": "Hilário",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/225.jpg"
+  },
+  {
+    "numero": "226",
+    "nome": "Patacas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/226.jpg"
+  },
+  {
+    "numero": "227",
+    "nome": "Fernando Cardozo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/227.jpg"
+  },
+  {
+    "numero": "228",
+    "nome": "João Fidalgo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/228.jpg"
+  },
+  {
+    "numero": "229",
+    "nome": "Emerson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/229.jpg"
+  },
+  {
+    "numero": "230",
+    "nome": "Ávalos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/230.jpg"
+  },
+  {
+    "numero": "231",
+    "nome": "Rondinelli",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/231.jpg"
+  },
+  {
+    "numero": "232",
+    "nome": "Bruno",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/232.jpg"
+  },
+  {
+    "numero": "233",
+    "nome": "Cléber Monteiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/233.jpg"
+  },
+  {
+    "numero": "234",
+    "nome": "Alexandre Goulart",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/234.jpg"
+  },
+  {
+    "numero": "235",
+    "nome": "Fábio Santos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/235.jpg"
+  },
+  {
+    "numero": "236",
+    "nome": "Gouveia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/236.jpg"
+  },
+  {
+    "numero": "237",
+    "nome": "Marcelo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/237.jpg"
+  },
+  {
+    "numero": "238",
+    "nome": "Cleomir",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/238.jpg"
+  },
+  {
+    "numero": "239",
+    "nome": "Serginho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/239.jpg"
+  },
+  {
+    "numero": "240",
+    "nome": "Ferreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/240.jpg"
+  },
+  {
+    "numero": "241",
+    "nome": "Adriano",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/241.jpg"
+  },
+  {
+    "numero": "242",
+    "nome": "Nuno Carrapato",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/242.jpg"
+  },
+  {
+    "numero": "243",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/243.jpg"
+  },
+  {
+    "numero": "244",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/244.jpg"
+  },
+  {
+    "numero": "245",
+    "nome": "Clayton (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/245.jpg"
+  },
+  {
+    "numero": "246",
+    "nome": "Drulovic (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/246.jpg"
+  },
+  {
+    "numero": "247",
+    "nome": "Nuno Santos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/247.jpg"
+  },
+  {
+    "numero": "248",
+    "nome": "Pedro Moreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/248.jpg"
+  },
+  {
+    "numero": "249",
+    "nome": "Odair",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/249.jpg"
+  },
+  {
+    "numero": "250",
+    "nome": "Artur Jorge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/250.jpg"
+  },
+  {
+    "numero": "251",
+    "nome": "Nuno Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/251.jpg"
+  },
+  {
+    "numero": "252",
+    "nome": "Weligton",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/252.jpg"
+  },
+  {
+    "numero": "253",
+    "nome": "Celso",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/253.jpg"
+  },
+  {
+    "numero": "254",
+    "nome": "Pedro Santos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/254.jpg"
+  },
+  {
+    "numero": "255",
+    "nome": "Messias",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/255.jpg"
+  },
+  {
+    "numero": "256",
+    "nome": "Folha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/256.jpg"
+  },
+  {
+    "numero": "257",
+    "nome": "Wesley",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/257.jpg"
+  },
+  {
+    "numero": "258",
+    "nome": "Nilton",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/258.jpg"
+  },
+  {
+    "numero": "259",
+    "nome": "Mariano",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/259.jpg"
+  },
+  {
+    "numero": "260",
+    "nome": "Clayton",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/260.jpg"
+  },
+  {
+    "numero": "261",
+    "nome": "Drulovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/261.jpg"
+  },
+  {
+    "numero": "262",
+    "nome": "Marquinhos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/262.jpg"
+  },
+  {
+    "numero": "262-bis",
+    "nome": "Rolf",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/262-bis.jpg"
+  },
+  {
+    "numero": "263",
+    "nome": "Roberto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/263.jpg"
+  },
+  {
+    "numero": "264",
+    "nome": "Avelino",
+    "tenho": true,
+    "especial": false,
+    "clube": "Penafiel",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/264.jpg"
+  },
+  {
+    "numero": "265",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/265.jpg"
+  },
+  {
+    "numero": "266",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/266.jpg"
+  },
+  {
+    "numero": "267",
+    "nome": "Quaresma (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/267.jpg"
+  },
+  {
+    "numero": "268",
+    "nome": "Diego (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/268.jpg"
+  },
+  {
+    "numero": "269",
+    "nome": "Vítor Baía",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/269.jpg"
+  },
+  {
+    "numero": "270",
+    "nome": "Giourkas Seitaridis",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/270.jpg"
+  },
+  {
+    "numero": "271",
+    "nome": "Jorge Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/271.jpg"
+  },
+  {
+    "numero": "272",
+    "nome": "Pedro Emanuel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/272.jpg"
+  },
+  {
+    "numero": "273",
+    "nome": "Ricardo Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/273.jpg"
+  },
+  {
+    "numero": "274",
+    "nome": "Pepe",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/274.jpg"
+  },
+  {
+    "numero": "275",
+    "nome": "Nuno Valente",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/275.jpg"
+  },
+  {
+    "numero": "276",
+    "nome": "Areias",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/276.jpg"
+  },
+  {
+    "numero": "277",
+    "nome": "Costinha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/277.jpg"
+  },
+  {
+    "numero": "278",
+    "nome": "Diego",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/278.jpg"
+  },
+  {
+    "numero": "279",
+    "nome": "Quaresma",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/279.jpg"
+  },
+  {
+    "numero": "280",
+    "nome": "Carlos Alberto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/280.jpg"
+  },
+  {
+    "numero": "281",
+    "nome": "Maniche",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/281.jpg"
+  },
+  {
+    "numero": "282",
+    "nome": "Bosingwa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/282.jpg"
+  },
+  {
+    "numero": "283",
+    "nome": "Benni McCarthy",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/283.jpg"
+  },
+  {
+    "numero": "284",
+    "nome": "Hélder Postiga",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/284.jpg"
+  },
+  {
+    "numero": "285",
+    "nome": "Derlei",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/285.jpg"
+  },
+  {
+    "numero": "286",
+    "nome": "Nuno Espirito Santo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/286.jpg"
+  },
+  {
+    "numero": "287",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/287.jpg"
+  },
+  {
+    "numero": "288",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/288.jpg"
+  },
+  {
+    "numero": "289",
+    "nome": "Ricardo Nascimento (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/289.jpg"
+  },
+  {
+    "numero": "290",
+    "nome": "Saulo (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/290.jpg"
+  },
+  {
+    "numero": "291",
+    "nome": "Mora",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/291.jpg"
+  },
+  {
+    "numero": "292",
+    "nome": "Zé Gomes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/292.jpg"
+  },
+  {
+    "numero": "293",
+    "nome": "Danielson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/293.jpg"
+  },
+  {
+    "numero": "294",
+    "nome": "Franco",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/294.jpg"
+  },
+  {
+    "numero": "295",
+    "nome": "Bruno Mendes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/295.jpg"
+  },
+  {
+    "numero": "296",
+    "nome": "Idalécio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/296.jpg"
+  },
+  {
+    "numero": "297",
+    "nome": "Miguelito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/297.jpg"
+  },
+  {
+    "numero": "298",
+    "nome": "Mozer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/298.jpg"
+  },
+  {
+    "numero": "299",
+    "nome": "Délson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/299.jpg"
+  },
+  {
+    "numero": "300",
+    "nome": "Niquinha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/300.jpg"
+  },
+  {
+    "numero": "301",
+    "nome": "Jacques",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/301.jpg"
+  },
+  {
+    "numero": "302",
+    "nome": "Ricardo Nascimento",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/302.jpg"
+  },
+  {
+    "numero": "303",
+    "nome": "Gama",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/303.jpg"
+  },
+  {
+    "numero": "304",
+    "nome": "Junas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/304.jpg"
+  },
+  {
+    "numero": "305",
+    "nome": "Evandro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/305.jpg"
+  },
+  {
+    "numero": "306",
+    "nome": "Paulo César",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/306.jpg"
+  },
+  {
+    "numero": "307",
+    "nome": "Saulo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/307.jpg"
+  },
+  {
+    "numero": "308",
+    "nome": "Candeias",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/308.jpg"
+  },
+  {
+    "numero": "309",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/309.jpg"
+  },
+  {
+    "numero": "310",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/310.jpg"
+  },
+  {
+    "numero": "311",
+    "nome": "Douala (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/311.jpg"
+  },
+  {
+    "numero": "312",
+    "nome": "Hugo Viana (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/312.jpg"
+  },
+  {
+    "numero": "313",
+    "nome": "Ricardo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/313.jpg"
+  },
+  {
+    "numero": "314",
+    "nome": "Mário Sérgio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/314.jpg"
+  },
+  {
+    "numero": "315",
+    "nome": "Miguel Garcia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/315.jpg"
+  },
+  {
+    "numero": "316",
+    "nome": "Beto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/316.jpg"
+  },
+  {
+    "numero": "317",
+    "nome": "Anderson Polga",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/317.jpg"
+  },
+  {
+    "numero": "318",
+    "nome": "Rui Jorge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/318.jpg"
+  },
+  {
+    "numero": "319",
+    "nome": "Paíto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/319.jpg"
+  },
+  {
+    "numero": "320",
+    "nome": "Rochemback",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/320.jpg"
+  },
+  {
+    "numero": "321",
+    "nome": "Custódio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/321.jpg"
+  },
+  {
+    "numero": "322",
+    "nome": "Hugo Viana",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/322.jpg"
+  },
+  {
+    "numero": "323",
+    "nome": "Pedro Barbosa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/323.jpg"
+  },
+  {
+    "numero": "324",
+    "nome": "Tinga",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/324.jpg"
+  },
+  {
+    "numero": "325",
+    "nome": "Douala",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/325.jpg"
+  },
+  {
+    "numero": "326",
+    "nome": "Danny",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/326.jpg"
+  },
+  {
+    "numero": "327",
+    "nome": "Liedson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/327.jpg"
+  },
+  {
+    "numero": "328",
+    "nome": "Mauricio Pinilla",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/328.jpg"
+  },
+  {
+    "numero": "329",
+    "nome": "Paulo Sérgio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/329.jpg"
+  },
+  {
+    "numero": "330",
+    "nome": "Nélson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/330.jpg"
+  },
+  {
+    "numero": "331",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/331.jpg"
+  },
+  {
+    "numero": "332",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/332.jpg"
+  },
+  {
+    "numero": "333",
+    "nome": "Fábio Felício (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/333.jpg"
+  },
+  {
+    "numero": "334",
+    "nome": "Fangueiro (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/334.jpg"
+  },
+  {
+    "numero": "335",
+    "nome": "Helton",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/335.jpg"
+  },
+  {
+    "numero": "336",
+    "nome": "Laranjeiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/336.jpg"
+  },
+  {
+    "numero": "337",
+    "nome": "Renato",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/337.jpg"
+  },
+  {
+    "numero": "338",
+    "nome": "Gabriel",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/338.jpg"
+  },
+  {
+    "numero": "339",
+    "nome": "João Paulo",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/339.jpg"
+  },
+  {
+    "numero": "340",
+    "nome": "Alhandra",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/340.jpg"
+  },
+  {
+    "numero": "341",
+    "nome": "Edson",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/341.jpg"
+  },
+  {
+    "numero": "342",
+    "nome": "Paulo Gomes",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/342.jpg"
+  },
+  {
+    "numero": "343",
+    "nome": "Caíco",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/343.jpg"
+  },
+  {
+    "numero": "344",
+    "nome": "Otacílio",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/344.jpg"
+  },
+  {
+    "numero": "345",
+    "nome": "Torrão",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/345.jpg"
+  },
+  {
+    "numero": "346",
+    "nome": "Fangueiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/346.jpg"
+  },
+  {
+    "numero": "347",
+    "nome": "Hugo Cunha",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/347.jpg"
+  },
+  {
+    "numero": "348",
+    "nome": "Mário Carlos",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/348.jpg"
+  },
+  {
+    "numero": "348-bis",
+    "nome": "Renato Queiroz",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/348-bis.jpg"
+  },
+  {
+    "numero": "349",
+    "nome": "Vargas",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/349.jpg"
+  },
+  {
+    "numero": "350",
+    "nome": "Fábio Felício",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/350.jpg"
+  },
+  {
+    "numero": "351",
+    "nome": "Freddy",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/351.jpg"
+  },
+  {
+    "numero": "352",
+    "nome": "Costinha",
+    "tenho": true,
+    "especial": false,
+    "clube": "União Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/352.jpg"
+  },
+  {
+    "numero": "353",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Guimarães",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/353.jpg"
+  },
+  {
+    "numero": "354",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Guimarães",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/354.jpg"
+  },
+  {
+    "numero": "355",
+    "nome": "Alex (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Guimarães",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/355.jpg"
+  },
+  {
+    "numero": "356",
+    "nome": "Luiz Mario (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Guimarães",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/356.jpg"
+  },
+  {
+    "numero": "357",
+    "nome": "Palatsi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Guimarães",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/357.jpg"
+  },
+  {
+    "numero": "358",
+    "nome": "Bessa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Guimarães",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/358.jpg"
+  },
+  {
+    "numero": "359",
+    "nome": "Medeiros",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Guimarães",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/359.jpg"
+  },
+  {
+    "numero": "360",
+    "nome": "Moreno",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Guimarães",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/360.jpg"
+  },
+  {
+    "numero": "361",
+    "nome": "Cléber",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Guimarães",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/361.jpg"
+  },
+  {
+    "numero": "362",
+    "nome": "Rogério Matias",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Guimarães",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/362.jpg"
+  },
+  {
+    "numero": "363",
+    "nome": "Zé Nando",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Guimarães",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/363.jpg"
+  },
+  {
+    "numero": "364",
+    "nome": "Rui Ferreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Guimarães",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/364.jpg"
+  },
+  {
+    "numero": "365",
+    "nome": "Flávio Meireles",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Guimarães",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/365.jpg"
+  },
+  {
+    "numero": "366",
+    "nome": "Djurdjevic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Guimarães",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/366.jpg"
+  },
+  {
+    "numero": "367",
+    "nome": "Orahovac",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Guimarães",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/367.jpg"
+  },
+  {
+    "numero": "368",
+    "nome": "Rafael",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Guimarães",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/368.jpg"
+  },
+  {
+    "numero": "369",
+    "nome": "Alex",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Guimarães",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/369.jpg"
+  },
+  {
+    "numero": "370",
+    "nome": "Luis Mário",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Guimarães",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/370.jpg"
+  },
+  {
+    "numero": "371",
+    "nome": "Nuno Assis",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Guimarães",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/371.jpg"
+  },
+  {
+    "numero": "372",
+    "nome": "Romeu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Guimarães",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/372.jpg"
+  },
+  {
+    "numero": "373",
+    "nome": "Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Guimarães",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/373.jpg"
+  },
+  {
+    "numero": "374",
+    "nome": "Miguel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Guimarães",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/374.jpg"
+  },
+  {
+    "numero": "375",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Setubal",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/375.jpg"
+  },
+  {
+    "numero": "376",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/376.jpg"
+  },
+  {
+    "numero": "377",
+    "nome": "Igor (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Setubal",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/377.jpg"
+  },
+  {
+    "numero": "378",
+    "nome": "Veríssimo (Super Aquisições)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/378.jpg"
+  },
+  {
+    "numero": "379",
+    "nome": "Paulo Ribeiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/379.jpg"
+  },
+  {
+    "numero": "380",
+    "nome": "Ricardo Pessoa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/380.jpg"
+  },
+  {
+    "numero": "381",
+    "nome": "Veríssimo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/381.jpg"
+  },
+  {
+    "numero": "382",
+    "nome": "Auri",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/382.jpg"
+  },
+  {
+    "numero": "383",
+    "nome": "Hugo Alcântara",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/383.jpg"
+  },
+  {
+    "numero": "384",
+    "nome": "Nandinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/384.jpg"
+  },
+  {
+    "numero": "385",
+    "nome": "Bruno Ribeiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/385.jpg"
+  },
+  {
+    "numero": "386",
+    "nome": "Hélio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/386.jpg"
+  },
+  {
+    "numero": "387",
+    "nome": "Puma",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/387.jpg"
+  },
+  {
+    "numero": "388",
+    "nome": "Manuel José",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/388.jpg"
+  },
+  {
+    "numero": "389",
+    "nome": "Zé Rui",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/389.jpg"
+  },
+  {
+    "numero": "390",
+    "nome": "Sandro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/390.jpg"
+  },
+  {
+    "numero": "391",
+    "nome": "João Paulo Brito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/391.jpg"
+  },
+  {
+    "numero": "392",
+    "nome": "Jorginho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/392.jpg"
+  },
+  {
+    "numero": "393",
+    "nome": "Meyong",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/393.jpg"
+  },
+  {
+    "numero": "394",
+    "nome": "Pedro Oliveira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/394.jpg"
+  },
+  {
+    "numero": "395",
+    "nome": "Igor",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/395.jpg"
+  },
+  {
+    "numero": "396",
+    "nome": "Marco Tábuas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitória Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/396.jpg"
+  },
+  {
+    "numero": "397",
+    "nome": "Paulo Adriano (Académica)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ídolos",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/397.jpg"
+  },
+  {
+    "numero": "398",
+    "nome": "Ribeiro (Beira-Mar)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ídolos",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/398.jpg"
+  },
+  {
+    "numero": "399",
+    "nome": "Antchouet (Belenenses)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ídolos",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/399.jpg"
+  },
+  {
+    "numero": "400",
+    "nome": "Miguel (Benfica)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ídolos",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/400.jpg"
+  },
+  {
+    "numero": "401",
+    "nome": "João Pinto (Boavista)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ídolos",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/401.jpg"
+  },
+  {
+    "numero": "402",
+    "nome": "Paulo Sérgio (Braga)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ídolos",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/402.jpg"
+  },
+  {
+    "numero": "403",
+    "nome": "Pinheiro (Estoril)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ídolos",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/403.jpg"
+  },
+  {
+    "numero": "404",
+    "nome": "Luís Coentrão (Gil Vicente)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ídolos",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/404.jpg"
+  },
+  {
+    "numero": "405",
+    "nome": "Van Der Gaag (Marítimo)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ídolos",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/405.jpg"
+  },
+  {
+    "numero": "406",
+    "nome": "Castro (Moreirense)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ídolos",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/406.jpg"
+  },
+  {
+    "numero": "407",
+    "nome": "Adriano (Nacional)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ídolos",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/407.jpg"
+  },
+  {
+    "numero": "408",
+    "nome": "Roberto (Penafiel)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ídolos",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/408.jpg"
+  },
+  {
+    "numero": "409",
+    "nome": "Maniche (Porto)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ídolos",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/409.jpg"
+  },
+  {
+    "numero": "410",
+    "nome": "Evandro (Rio Ave)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ídolos",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/410.jpg"
+  },
+  {
+    "numero": "411",
+    "nome": "Rochemback (Sporting)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ídolos",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/411.jpg"
+  },
+  {
+    "numero": "412",
+    "nome": "Otacílio (U.Leiria)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ídolos",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/412.jpg"
+  },
+  {
+    "numero": "413",
+    "nome": "Nuno Assis (V.Guimarães)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ídolos",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/413.jpg"
+  },
+  {
+    "numero": "414",
+    "nome": "Jorginho (V.Setúbal)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Ídolos",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/414.jpg"
+  },
+  {
+    "numero": "415",
+    "nome": "Alinhação",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sececção 2004",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/415.jpg"
+  },
+  {
+    "numero": "416",
+    "nome": "Luiz Felipe Scolari",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sececção 2004",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/416.jpg"
+  },
+  {
+    "numero": "417",
+    "nome": "Ricardo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sececção 2004",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/417.jpg"
+  },
+  {
+    "numero": "418",
+    "nome": "Miguel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sececção 2004",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/418.jpg"
+  },
+  {
+    "numero": "419",
+    "nome": "Fernando Couto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sececção 2004",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/419.jpg"
+  },
+  {
+    "numero": "420",
+    "nome": "Jorge Andrade",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sececção 2004",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/420.jpg"
+  },
+  {
+    "numero": "421",
+    "nome": "Ricardo Carvalho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sececção 2004",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/421.jpg"
+  },
+  {
+    "numero": "422",
+    "nome": "Nuno Valente",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sececção 2004",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/422.jpg"
+  },
+  {
+    "numero": "423",
+    "nome": "Costinha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sececção 2004",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/423.jpg"
+  },
+  {
+    "numero": "424",
+    "nome": "Maniche",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sececção 2004",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/424.jpg"
+  },
+  {
+    "numero": "425",
+    "nome": "Deco",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sececção 2004",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/425.jpg"
+  },
+  {
+    "numero": "426",
+    "nome": "Adeptos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sececção 2004",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/426.jpg"
+  },
+  {
+    "numero": "427",
+    "nome": "Rui Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sececção 2004",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/427.jpg"
+  },
+  {
+    "numero": "428",
+    "nome": "Figo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sececção 2004",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/428.jpg"
+  },
+  {
+    "numero": "429",
+    "nome": "Cristiano Ronaldo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sececção 2004",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/429.jpg"
+  },
+  {
+    "numero": "430",
+    "nome": "Nuno Gomes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sececção 2004",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/430.jpg"
+  },
+  {
+    "numero": "431",
+    "nome": "Hélder Postiga",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sececção 2004",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/431.jpg"
+  },
+  {
+    "numero": "432",
+    "nome": "Pauleta",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sececção 2004",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2004 2005/432.jpg"
+  },
+  {
+    "numero": "433",
+    "nome": "Dário (Académica)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/433.jpg"
+  },
+  {
+    "numero": "434",
+    "nome": "Srnicek (Beira-Mar)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/434.jpg"
+  },
+  {
+    "numero": "435",
+    "nome": "Pablo Rodriguez (Beira-Mar)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/435.jpg"
+  },
+  {
+    "numero": "436",
+    "nome": "Santiago Silva (Beira-Mar)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/436.jpg"
+  },
+  {
+    "numero": "437",
+    "nome": "Rolando (Belenenses)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/437.jpg"
+  },
+  {
+    "numero": "438",
+    "nome": "Juninho Petrolina (Belenenses)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/438.jpg"
+  },
+  {
+    "numero": "439",
+    "nome": "Bruno Aguiar (Benfica)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/439.jpg"
+  },
+  {
+    "numero": "440",
+    "nome": "Everson (Benfica)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/440.jpg"
+  },
+  {
+    "numero": "441",
+    "nome": "Karadas (Benfica)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/441.jpg"
+  },
+  {
+    "numero": "442",
+    "nome": "Cadu (Boavista)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/442.jpg"
+  },
+  {
+    "numero": "443",
+    "nome": "Hélder Rosário (Boavista)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/443.jpg"
+  },
+  {
+    "numero": "444",
+    "nome": "Cândido Costa (Braga)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/444.jpg"
+  },
+  {
+    "numero": "445",
+    "nome": "Cícero (Braga)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/445.jpg"
+  },
+  {
+    "numero": "446",
+    "nome": "Yuri (Estoril)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/446.jpg"
+  },
+  {
+    "numero": "447",
+    "nome": "Arrieta (Estoril)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/447.jpg"
+  },
+  {
+    "numero": "448",
+    "nome": "João Paulo (Estoril)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/448.jpg"
+  },
+  {
+    "numero": "449",
+    "nome": "Ednilson (Gil Vicente)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/449.jpg"
+  },
+  {
+    "numero": "450",
+    "nome": "Rui Marques (Marítimo)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/450.jpg"
+  },
+  {
+    "numero": "451",
+    "nome": "Bibishkov (Marítimo)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/451.jpg"
+  },
+  {
+    "numero": "452",
+    "nome": "Filipe Anunciação (Moreirense)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/452.jpg"
+  },
+  {
+    "numero": "453",
+    "nome": "Fernando (Moreirense)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/453.jpg"
+  },
+  {
+    "numero": "454",
+    "nome": "Nuno Viveiros (Nacional)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/454.jpg"
+  },
+  {
+    "numero": "455",
+    "nome": "Fernando Aguiar (Penafiel)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/455.jpg"
+  },
+  {
+    "numero": "456",
+    "nome": "Raúl Meireles (Porto)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/456.jpg"
+  },
+  {
+    "numero": "457",
+    "nome": "Hugo Leal (Porto)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/457.jpg"
+  },
+  {
+    "numero": "458",
+    "nome": "Hugo Almeida (Porto)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/458.jpg"
+  },
+  {
+    "numero": "459",
+    "nome": "Luís Fabiano (Porto)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/459.jpg"
+  },
+  {
+    "numero": "460",
+    "nome": "Gaúcho (Rio Ave)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/460.jpg"
+  },
+  {
+    "numero": "461",
+    "nome": "Nuno Sousa (Rio Ave)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/461.jpg"
+  },
+  {
+    "numero": "462",
+    "nome": "Enakarhire (Sporting)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/462.jpg"
+  },
+  {
+    "numero": "463",
+    "nome": "Rogério (Sporting)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/463.jpg"
+  },
+  {
+    "numero": "464",
+    "nome": "Sougou (U.Leiria)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/464.jpg"
+  },
+  {
+    "numero": "465",
+    "nome": "Paulo Turra (V.Guimarães)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/465.jpg"
+  },
+  {
+    "numero": "466",
+    "nome": "Alexandre (V.Guimarães)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/466.jpg"
+  },
+  {
+    "numero": "467",
+    "nome": "Marco Ferreira (V.Guimarães)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/467.jpg"
+  },
+  {
+    "numero": "468",
+    "nome": "Ricardo Chaves (V.Setúbal)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2004 2005/468.jpg"
+  }
+]

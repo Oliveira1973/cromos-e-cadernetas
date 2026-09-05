@@ -1,0 +1,3881 @@
+[
+  {
+    "numero": "1",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/1.jpg"
+  },
+  {
+    "numero": "2",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/2.jpg"
+  },
+  {
+    "numero": "3",
+    "nome": "Dario",
+    "tenho": true,
+    "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/3.jpg"
+  },
+  {
+    "numero": "4",
+    "nome": "Buszaky",
+    "tenho": true,
+    "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/4.jpg"
+  },
+  {
+    "numero": "5",
+    "nome": "Pedro Roma",
+    "tenho": true,
+    "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/5.jpg"
+  },
+  {
+    "numero": "6",
+    "nome": "Filipe Alvim",
+    "tenho": true,
+    "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/6.jpg"
+  },
+  {
+    "numero": "7",
+    "nome": "Tonel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/7.jpg"
+  },
+  {
+    "numero": "8",
+    "nome": "Dyduch",
+    "tenho": true,
+    "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/8.jpg"
+  },
+  {
+    "numero": "9",
+    "nome": "Castro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/9.jpg"
+  },
+  {
+    "numero": "10",
+    "nome": "Jose Antonio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/10.jpg"
+  },
+  {
+    "numero": "11",
+    "nome": "Pedro Henriques",
+    "tenho": true,
+    "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/11.jpg"
+  },
+  {
+    "numero": "12",
+    "nome": "Paulo Adriano",
+    "tenho": true,
+    "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/12.jpg"
+  },
+  {
+    "numero": "13",
+    "nome": "Buszaky",
+    "tenho": true,
+    "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/13.jpg"
+  },
+  {
+    "numero": "14",
+    "nome": "Tixier",
+    "tenho": true,
+    "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/14.jpg"
+  },
+  {
+    "numero": "15",
+    "nome": "Lucas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/15.jpg"
+  },
+  {
+    "numero": "16",
+    "nome": "Marinescu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/16.jpg"
+  },
+  {
+    "numero": "17",
+    "nome": "Rocha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/17.jpg"
+  },
+  {
+    "numero": "18",
+    "nome": "Rodolfo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/18.jpg"
+  },
+  {
+    "numero": "19",
+    "nome": "Perez",
+    "tenho": true,
+    "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/19.jpg"
+  },
+  {
+    "numero": "20",
+    "nome": "Dario",
+    "tenho": true,
+    "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/20.jpg"
+  },
+  {
+    "numero": "21",
+    "nome": "Delmer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/21.jpg"
+  },
+  {
+    "numero": "22",
+    "nome": "Fouhami",
+    "tenho": true,
+    "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/22.jpg"
+  },
+  {
+    "numero": "23",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/23.jpg"
+  },
+  {
+    "numero": "24",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/24.jpg"
+  },
+  {
+    "numero": "25",
+    "nome": "Verissimo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/25.jpg"
+  },
+  {
+    "numero": "26",
+    "nome": "Jose Rui",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/26.jpg"
+  },
+  {
+    "numero": "27",
+    "nome": "Yannick",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/27.jpg"
+  },
+  {
+    "numero": "28",
+    "nome": "Ramires",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/28.jpg"
+  },
+  {
+    "numero": "29",
+    "nome": "Paviot",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/29.jpg"
+  },
+  {
+    "numero": "30",
+    "nome": "Marco Almeida",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/30.jpg"
+  },
+  {
+    "numero": "31",
+    "nome": "Verissimo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/31.jpg"
+  },
+  {
+    "numero": "32",
+    "nome": "Junior",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/32.jpg"
+  },
+  {
+    "numero": "33",
+    "nome": "Nandinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/33.jpg"
+  },
+  {
+    "numero": "34",
+    "nome": "Tinaia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/34.jpg"
+  },
+  {
+    "numero": "35",
+    "nome": "Torrao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/35.jpg"
+  },
+  {
+    "numero": "36",
+    "nome": "Poejo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/36.jpg"
+  },
+  {
+    "numero": "37",
+    "nome": "Pedro Neves",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/37.jpg"
+  },
+  {
+    "numero": "38",
+    "nome": "Bruno Aguiar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/38.jpg"
+  },
+  {
+    "numero": "39",
+    "nome": "Ronald Garcia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/39.jpg"
+  },
+  {
+    "numero": "40",
+    "nome": "Jose Rui",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/40.jpg"
+  },
+  {
+    "numero": "41",
+    "nome": "Rodolfo Lima",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/41.jpg"
+  },
+  {
+    "numero": "42",
+    "nome": "Zeferino",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/42.jpg"
+  },
+  {
+    "numero": "43",
+    "nome": "Alex Alonso",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/43.jpg"
+  },
+  {
+    "numero": "44",
+    "nome": "Ernesto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/44.jpg"
+  },
+  {
+    "numero": "45",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/45.jpg"
+  },
+  {
+    "numero": "46",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/46.jpg"
+  },
+  {
+    "numero": "47",
+    "nome": "Juninho Petrolina",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/47.jpg"
+  },
+  {
+    "numero": "48",
+    "nome": "Ribeiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/48.jpg"
+  },
+  {
+    "numero": "49",
+    "nome": "Marriot",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/49.jpg"
+  },
+  {
+    "numero": "50",
+    "nome": "Ribeiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/50.jpg"
+  },
+  {
+    "numero": "51",
+    "nome": "Alcaraz",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/51.jpg"
+  },
+  {
+    "numero": "52",
+    "nome": "Saul",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/52.jpg"
+  },
+  {
+    "numero": "53",
+    "nome": "Filipe",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/53.jpg"
+  },
+  {
+    "numero": "54",
+    "nome": "Zeman",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/54.jpg"
+  },
+  {
+    "numero": "55",
+    "nome": "Areias",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/55.jpg"
+  },
+  {
+    "numero": "56",
+    "nome": "Kata",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/56.jpg"
+  },
+  {
+    "numero": "57",
+    "nome": "Levato",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/57.jpg"
+  },
+  {
+    "numero": "58",
+    "nome": "Sandro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/58.jpg"
+  },
+  {
+    "numero": "59",
+    "nome": "Marcelinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/59.jpg"
+  },
+  {
+    "numero": "60",
+    "nome": "Juninho Petrolina",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/60.jpg"
+  },
+  {
+    "numero": "61",
+    "nome": "Osorio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/61.jpg"
+  },
+  {
+    "numero": "62",
+    "nome": "Rui Dolores",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/62.jpg"
+  },
+  {
+    "numero": "63",
+    "nome": "Kingsley",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/63.jpg"
+  },
+  {
+    "numero": "64",
+    "nome": "Carlinhos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/64.jpg"
+  },
+  {
+    "numero": "65",
+    "nome": "Gamboa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/65.jpg"
+  },
+  {
+    "numero": "66",
+    "nome": "Debenest",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/66.jpg"
+  },
+  {
+    "numero": "67",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/67.jpg"
+  },
+  {
+    "numero": "68",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/68.jpg"
+  },
+  {
+    "numero": "69",
+    "nome": "Neca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/69.jpg"
+  },
+  {
+    "numero": "70",
+    "nome": "Antchouet",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/70.jpg"
+  },
+  {
+    "numero": "71",
+    "nome": "Marco Aurelio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/71.jpg"
+  },
+  {
+    "numero": "72",
+    "nome": "Sousa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/72.jpg"
+  },
+  {
+    "numero": "73",
+    "nome": "Wilson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/73.jpg"
+  },
+  {
+    "numero": "74",
+    "nome": "Pele",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/74.jpg"
+  },
+  {
+    "numero": "75",
+    "nome": "Filgueira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/75.jpg"
+  },
+  {
+    "numero": "76",
+    "nome": "Carlos Fernandez",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/76.jpg"
+  },
+  {
+    "numero": "77",
+    "nome": "Fabio Rosa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/77.jpg"
+  },
+  {
+    "numero": "78",
+    "nome": "Tuck",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/78.jpg"
+  },
+  {
+    "numero": "79",
+    "nome": "Mauro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/79.jpg"
+  },
+  {
+    "numero": "80",
+    "nome": "Marco Paulo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/80.jpg"
+  },
+  {
+    "numero": "81",
+    "nome": "Eliseu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/81.jpg"
+  },
+  {
+    "numero": "82",
+    "nome": "Sane",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/82.jpg"
+  },
+  {
+    "numero": "83",
+    "nome": "Neca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/83.jpg"
+  },
+  {
+    "numero": "84",
+    "nome": "Rui Borges",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/84.jpg"
+  },
+  {
+    "numero": "85",
+    "nome": "Leonardo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/85.jpg"
+  },
+  {
+    "numero": "86",
+    "nome": "Antchouet",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/86.jpg"
+  },
+  {
+    "numero": "87",
+    "nome": "Verona",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/87.jpg"
+  },
+  {
+    "numero": "88",
+    "nome": "Pedro Alves",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/88.jpg"
+  },
+  {
+    "numero": "89",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/89.jpg"
+  },
+  {
+    "numero": "90",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/90.jpg"
+  },
+  {
+    "numero": "91",
+    "nome": "Simao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/91.jpg"
+  },
+  {
+    "numero": "92",
+    "nome": "Ricardo Rocha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/92.jpg"
+  },
+  {
+    "numero": "93",
+    "nome": "Moreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/93.jpg"
+  },
+  {
+    "numero": "94",
+    "nome": "Armando",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/94.jpg"
+  },
+  {
+    "numero": "95",
+    "nome": "Miguel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/95.jpg"
+  },
+  {
+    "numero": "96",
+    "nome": "Helder",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/96.jpg"
+  },
+  {
+    "numero": "97",
+    "nome": "Argel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/97.jpg"
+  },
+  {
+    "numero": "98",
+    "nome": "Ricardo Rocha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/98.jpg"
+  },
+  {
+    "numero": "99",
+    "nome": "Fernando Aguiar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/99.jpg"
+  },
+  {
+    "numero": "100",
+    "nome": "Petit",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/100.jpg"
+  },
+  {
+    "numero": "101",
+    "nome": "Andersson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/101.jpg"
+  },
+  {
+    "numero": "102",
+    "nome": "Tiago Mendes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/102.jpg"
+  },
+  {
+    "numero": "103",
+    "nome": "Geovanni",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/103.jpg"
+  },
+  {
+    "numero": "104",
+    "nome": "Alex",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/104.jpg"
+  },
+  {
+    "numero": "105",
+    "nome": "Zahovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/105.jpg"
+  },
+  {
+    "numero": "106",
+    "nome": "Simao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/106.jpg"
+  },
+  {
+    "numero": "107",
+    "nome": "Sokota",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/107.jpg"
+  },
+  {
+    "numero": "108",
+    "nome": "Feher",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/108.jpg"
+  },
+  {
+    "numero": "109",
+    "nome": "Nuno Gomes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/109.jpg"
+  },
+  {
+    "numero": "110",
+    "nome": "Bossio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/110.jpg"
+  },
+  {
+    "numero": "111",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/111.jpg"
+  },
+  {
+    "numero": "112",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/112.jpg"
+  },
+  {
+    "numero": "113",
+    "nome": "Ricardo Sousa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/113.jpg"
+  },
+  {
+    "numero": "114",
+    "nome": "Raul Meireles",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/114.jpg"
+  },
+  {
+    "numero": "115",
+    "nome": "William",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/115.jpg"
+  },
+  {
+    "numero": "116",
+    "nome": "Frechaut",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/116.jpg"
+  },
+  {
+    "numero": "117",
+    "nome": "Paulo Turra",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/117.jpg"
+  },
+  {
+    "numero": "118",
+    "nome": "Eder",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/118.jpg"
+  },
+  {
+    "numero": "119",
+    "nome": "Ricardo Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/119.jpg"
+  },
+  {
+    "numero": "120",
+    "nome": "Ali",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/120.jpg"
+  },
+  {
+    "numero": "121",
+    "nome": "Rui Oscar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/121.jpg"
+  },
+  {
+    "numero": "122",
+    "nome": "Pedro Santos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/122.jpg"
+  },
+  {
+    "numero": "123",
+    "nome": "Raul Meireles",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/123.jpg"
+  },
+  {
+    "numero": "124",
+    "nome": "Ricardo Sousa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/124.jpg"
+  },
+  {
+    "numero": "125",
+    "nome": "Andre",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/125.jpg"
+  },
+  {
+    "numero": "126",
+    "nome": "Jocivalter",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/126.jpg"
+  },
+  {
+    "numero": "127",
+    "nome": "Martelinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/127.jpg"
+  },
+  {
+    "numero": "128",
+    "nome": "Yuri",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/128.jpg"
+  },
+  {
+    "numero": "129",
+    "nome": "Cafu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/129.jpg"
+  },
+  {
+    "numero": "130",
+    "nome": "Duda",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/130.jpg"
+  },
+  {
+    "numero": "131",
+    "nome": "Luiz Claudio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/131.jpg"
+  },
+  {
+    "numero": "132",
+    "nome": "Khadim",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/132.jpg"
+  },
+  {
+    "numero": "133",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/133.jpg"
+  },
+  {
+    "numero": "134",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/134.jpg"
+  },
+  {
+    "numero": "135",
+    "nome": "Quim",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/135.jpg"
+  },
+  {
+    "numero": "136",
+    "nome": "Paulo Sergio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/136.jpg"
+  },
+  {
+    "numero": "137",
+    "nome": "Quim",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/137.jpg"
+  },
+  {
+    "numero": "138",
+    "nome": "Eder",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/138.jpg"
+  },
+  {
+    "numero": "139",
+    "nome": "Pedro Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/139.jpg"
+  },
+  {
+    "numero": "140",
+    "nome": "Nem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/140.jpg"
+  },
+  {
+    "numero": "141",
+    "nome": "Artur Jorge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/141.jpg"
+  },
+  {
+    "numero": "142",
+    "nome": "Paulo Jorge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/142.jpg"
+  },
+  {
+    "numero": "143",
+    "nome": "Jorge Luiz",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/143.jpg"
+  },
+  {
+    "numero": "144",
+    "nome": "Barroso",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/144.jpg"
+  },
+  {
+    "numero": "145",
+    "nome": "Nene",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/145.jpg"
+  },
+  {
+    "numero": "146",
+    "nome": "Castanheira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/146.jpg"
+  },
+  {
+    "numero": "147",
+    "nome": "Nuno Rocha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/147.jpg"
+  },
+  {
+    "numero": "148",
+    "nome": "Paulo Sergio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/148.jpg"
+  },
+  {
+    "numero": "149",
+    "nome": "Soderstrom",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/149.jpg"
+  },
+  {
+    "numero": "150",
+    "nome": "Wender",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/150.jpg"
+  },
+  {
+    "numero": "151",
+    "nome": "Pena",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/151.jpg"
+  },
+  {
+    "numero": "152",
+    "nome": "Igor",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/152.jpg"
+  },
+  {
+    "numero": "153",
+    "nome": "Henrique",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/153.jpg"
+  },
+  {
+    "numero": "154",
+    "nome": "Marco",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/154.jpg"
+  },
+  {
+    "numero": "155",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estrella Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/155.jpg"
+  },
+  {
+    "numero": "156",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estrella Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/156.jpg"
+  },
+  {
+    "numero": "157",
+    "nome": "Paulo Madeira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estrella Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/157.jpg"
+  },
+  {
+    "numero": "158",
+    "nome": "Rui Baiao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estrella Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/158.jpg"
+  },
+  {
+    "numero": "159",
+    "nome": "Veiga",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estrella Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/159.jpg"
+  },
+  {
+    "numero": "160",
+    "nome": "Rui Neves",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estrella Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/160.jpg"
+  },
+  {
+    "numero": "161",
+    "nome": "Fonseca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estrella Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/161.jpg"
+  },
+  {
+    "numero": "162",
+    "nome": "Hugo Carreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estrella Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/162.jpg"
+  },
+  {
+    "numero": "163",
+    "nome": "Paulo Madeira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estrella Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/163.jpg"
+  },
+  {
+    "numero": "164",
+    "nome": "Dennis",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estrella Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/164.jpg"
+  },
+  {
+    "numero": "165",
+    "nome": "Alex Garcia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estrella Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/165.jpg"
+  },
+  {
+    "numero": "166",
+    "nome": "Lazaro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estrella Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/166.jpg"
+  },
+  {
+    "numero": "167",
+    "nome": "Juba",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estrella Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/167.jpg"
+  },
+  {
+    "numero": "168",
+    "nome": "Rogerio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estrella Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/168.jpg"
+  },
+  {
+    "numero": "169",
+    "nome": "Litera",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estrella Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/169.jpg"
+  },
+  {
+    "numero": "170",
+    "nome": "Sabry",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estrella Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/170.jpg"
+  },
+  {
+    "numero": "171",
+    "nome": "Rui Baiao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estrella Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/171.jpg"
+  },
+  {
+    "numero": "172",
+    "nome": "Pedro Simoes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estrella Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/172.jpg"
+  },
+  {
+    "numero": "173",
+    "nome": "Semedo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estrella Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/173.jpg"
+  },
+  {
+    "numero": "174",
+    "nome": "Miran",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estrella Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/174.jpg"
+  },
+  {
+    "numero": "175",
+    "nome": "Roberto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estrella Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/175.jpg"
+  },
+  {
+    "numero": "176",
+    "nome": "Marcio Santos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Estrella Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/176.jpg"
+  },
+  {
+    "numero": "177",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/177.jpg"
+  },
+  {
+    "numero": "178",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/178.jpg"
+  },
+  {
+    "numero": "179",
+    "nome": "Luis Loureiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/179.jpg"
+  },
+  {
+    "numero": "180",
+    "nome": "Hugo Luz",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/180.jpg"
+  },
+  {
+    "numero": "181",
+    "nome": "Paulo Jorge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/181.jpg"
+  },
+  {
+    "numero": "182",
+    "nome": "Fernando Joca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/182.jpg"
+  },
+  {
+    "numero": "183",
+    "nome": "Nunes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/183.jpg"
+  },
+  {
+    "numero": "184",
+    "nome": "Gaspar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/184.jpg"
+  },
+  {
+    "numero": "185",
+    "nome": "Marcos Antonio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/185.jpg"
+  },
+  {
+    "numero": "186",
+    "nome": "Nuno Amaro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/186.jpg"
+  },
+  {
+    "numero": "187",
+    "nome": "Hugo Luz",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/187.jpg"
+  },
+  {
+    "numero": "188",
+    "nome": "Ricardo Joca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/188.jpg"
+  },
+  {
+    "numero": "189",
+    "nome": "Casquilha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/189.jpg"
+  },
+  {
+    "numero": "190",
+    "nome": "Luis Loureiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/190.jpg"
+  },
+  {
+    "numero": "191",
+    "nome": "Luis Coentrao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/191.jpg"
+  },
+  {
+    "numero": "192",
+    "nome": "Lary",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/192.jpg"
+  },
+  {
+    "numero": "193",
+    "nome": "Edinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/193.jpg"
+  },
+  {
+    "numero": "194",
+    "nome": "Fabio Januario",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/194.jpg"
+  },
+  {
+    "numero": "195",
+    "nome": "Josiesley Ferreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/195.jpg"
+  },
+  {
+    "numero": "195er",
+    "nome": "Josiesley Ferreira",
+    "tenho": true,
+    "especial": true,
+    "clube": "Gil Vicente",
+    "tipo": "Error Sticker",
+    "imagem": "images/capas/Futebol 2003 2004/195er.jpg"
+  },
+  {
+    "numero": "196",
+    "nome": "Paulo Alves",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/196.jpg"
+  },
+  {
+    "numero": "197",
+    "nome": "Bito'o",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/197.jpg"
+  },
+  {
+    "numero": "198",
+    "nome": "Adriano",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/198.jpg"
+  },
+  {
+    "numero": "199",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/199.jpg"
+  },
+  {
+    "numero": "200",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/200.jpg"
+  },
+  {
+    "numero": "201",
+    "nome": "Gaucho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/201.jpg"
+  },
+  {
+    "numero": "202",
+    "nome": "Pepe",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/202.jpg"
+  },
+  {
+    "numero": "203",
+    "nome": "Marcos Antonio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/203.jpg"
+  },
+  {
+    "numero": "204",
+    "nome": "Albertino",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/204.jpg"
+  },
+  {
+    "numero": "205",
+    "nome": "Van Der Gaag",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/205.jpg"
+  },
+  {
+    "numero": "206",
+    "nome": "Ezequias",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/206.jpg"
+  },
+  {
+    "numero": "207",
+    "nome": "Pepe",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/207.jpg"
+  },
+  {
+    "numero": "208",
+    "nome": "Eusebio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/208.jpg"
+  },
+  {
+    "numero": "209",
+    "nome": "Kenedy",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/209.jpg"
+  },
+  {
+    "numero": "210",
+    "nome": "Joel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/210.jpg"
+  },
+  {
+    "numero": "211",
+    "nome": "Wenio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/211.jpg"
+  },
+  {
+    "numero": "212",
+    "nome": "Bino",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/212.jpg"
+  },
+  {
+    "numero": "213",
+    "nome": "Chaino",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/213.jpg"
+  },
+  {
+    "numero": "214",
+    "nome": "Alan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/214.jpg"
+  },
+  {
+    "numero": "215",
+    "nome": "Marcio Abreu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/215.jpg"
+  },
+  {
+    "numero": "216",
+    "nome": "Braganca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/216.jpg"
+  },
+  {
+    "numero": "216bis",
+    "nome": "Zeca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/216bis.jpg"
+  },
+  {
+    "numero": "217",
+    "nome": "Gaucho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/217.jpg"
+  },
+  {
+    "numero": "218",
+    "nome": "Rincon",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/218.jpg"
+  },
+  {
+    "numero": "219",
+    "nome": "Danny",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/219.jpg"
+  },
+  {
+    "numero": "220",
+    "nome": "Nelson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/220.jpg"
+  },
+  {
+    "numero": "221",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/221.jpg"
+  },
+  {
+    "numero": "222",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/222.jpg"
+  },
+  {
+    "numero": "223",
+    "nome": "Jorge Duarte",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/223.jpg"
+  },
+  {
+    "numero": "224",
+    "nome": "Uribe",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/224.jpg"
+  },
+  {
+    "numero": "225",
+    "nome": "Joao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/225.jpg"
+  },
+  {
+    "numero": "226",
+    "nome": "Primo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/226.jpg"
+  },
+  {
+    "numero": "227",
+    "nome": "Sena",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/227.jpg"
+  },
+  {
+    "numero": "228",
+    "nome": "Orlando",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/228.jpg"
+  },
+  {
+    "numero": "229",
+    "nome": "Ricrado Fernandes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/229.jpg"
+  },
+  {
+    "numero": "230",
+    "nome": "Sergio Lomba",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/230.jpg"
+  },
+  {
+    "numero": "231",
+    "nome": "Tito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/231.jpg"
+  },
+  {
+    "numero": "232",
+    "nome": "Jorge Duarte",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/232.jpg"
+  },
+  {
+    "numero": "233",
+    "nome": "Quintana",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/233.jpg"
+  },
+  {
+    "numero": "233bis",
+    "nome": "Lito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/233bis.jpg"
+  },
+  {
+    "numero": "234",
+    "nome": "Uribe",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/234.jpg"
+  },
+  {
+    "numero": "235",
+    "nome": "Vitor Pereira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/235.jpg"
+  },
+  {
+    "numero": "236",
+    "nome": "Lima",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/236.jpg"
+  },
+  {
+    "numero": "237",
+    "nome": "Bertinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/237.jpg"
+  },
+  {
+    "numero": "238",
+    "nome": "Laelson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/238.jpg"
+  },
+  {
+    "numero": "238bis",
+    "nome": "Castro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/238bis.jpg"
+  },
+  {
+    "numero": "239",
+    "nome": "Demetrios",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/239.jpg"
+  },
+  {
+    "numero": "240",
+    "nome": "Bruno Mestre",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/240.jpg"
+  },
+  {
+    "numero": "241",
+    "nome": "Armando",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/241.jpg"
+  },
+  {
+    "numero": "242",
+    "nome": "Nuno Claro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreierense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/242.jpg"
+  },
+  {
+    "numero": "243",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/243.jpg"
+  },
+  {
+    "numero": "244",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/244.jpg"
+  },
+  {
+    "numero": "245",
+    "nome": "Adriano",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/245.jpg"
+  },
+  {
+    "numero": "246",
+    "nome": "Paulo Assuncao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/246.jpg"
+  },
+  {
+    "numero": "247",
+    "nome": "Nuno Carrapato",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/247.jpg"
+  },
+  {
+    "numero": "248",
+    "nome": "Patacas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/248.jpg"
+  },
+  {
+    "numero": "249",
+    "nome": "Ricardo Esteves",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/249.jpg"
+  },
+  {
+    "numero": "250",
+    "nome": "Joao Fidalgo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/250.jpg"
+  },
+  {
+    "numero": "251",
+    "nome": "Emerson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/251.jpg"
+  },
+  {
+    "numero": "252",
+    "nome": "Avalos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/252.jpg"
+  },
+  {
+    "numero": "253",
+    "nome": "Cleomir",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/253.jpg"
+  },
+  {
+    "numero": "254",
+    "nome": "Paulo Assuncao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/254.jpg"
+  },
+  {
+    "numero": "255",
+    "nome": "Carlos Alvarez",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/255.jpg"
+  },
+  {
+    "numero": "256",
+    "nome": "Alexandre Goulart",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/256.jpg"
+  },
+  {
+    "numero": "257",
+    "nome": "Gouveia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/257.jpg"
+  },
+  {
+    "numero": "258",
+    "nome": "Hugo Freire",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/258.jpg"
+  },
+  {
+    "numero": "258bis",
+    "nome": "Rossato",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/258bis.jpg"
+  },
+  {
+    "numero": "259",
+    "nome": "Leandro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/259.jpg"
+  },
+  {
+    "numero": "260",
+    "nome": "Rogeirinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/260.jpg"
+  },
+  {
+    "numero": "260bis",
+    "nome": "Cléber Monteiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/260bis.jpg"
+  },
+  {
+    "numero": "261",
+    "nome": "Andre Pinto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/261.jpg"
+  },
+  {
+    "numero": "261bis",
+    "nome": "Serginho Baiano",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/261bis.jpg"
+  },
+  {
+    "numero": "262",
+    "nome": "Serginho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/262.jpg"
+  },
+  {
+    "numero": "263",
+    "nome": "Adriano",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/263.jpg"
+  },
+  {
+    "numero": "264",
+    "nome": "Belman",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/264.jpg"
+  },
+  {
+    "numero": "265",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/265.jpg"
+  },
+  {
+    "numero": "266",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/266.jpg"
+  },
+  {
+    "numero": "267",
+    "nome": "Paulo Vida",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/267.jpg"
+  },
+  {
+    "numero": "268",
+    "nome": "Cadu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/268.jpg"
+  },
+  {
+    "numero": "269",
+    "nome": "Pedro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/269.jpg"
+  },
+  {
+    "numero": "270",
+    "nome": "Luis Miguel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/270.jpg"
+  },
+  {
+    "numero": "271",
+    "nome": "Cadu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/271.jpg"
+  },
+  {
+    "numero": "272",
+    "nome": "Geraldo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/272.jpg"
+  },
+  {
+    "numero": "273",
+    "nome": "Filo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/273.jpg"
+  },
+  {
+    "numero": "274",
+    "nome": "Adalberto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/274.jpg"
+  },
+  {
+    "numero": "275",
+    "nome": "Jose Nando",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/275.jpg"
+  },
+  {
+    "numero": "276",
+    "nome": "Paulo Sousa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/276.jpg"
+  },
+  {
+    "numero": "277",
+    "nome": "Pedrinha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/277.jpg"
+  },
+  {
+    "numero": "278",
+    "nome": "Puntas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/278.jpg"
+  },
+  {
+    "numero": "279",
+    "nome": "Jose Manuel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/279.jpg"
+  },
+  {
+    "numero": "280",
+    "nome": "Pedro Moita",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/280.jpg"
+  },
+  {
+    "numero": "281",
+    "nome": "Bikey",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/281.jpg"
+  },
+  {
+    "numero": "282",
+    "nome": "Renato Quieros",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/282.jpg"
+  },
+  {
+    "numero": "283",
+    "nome": "Rui Miguel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/283.jpg"
+  },
+  {
+    "numero": "284",
+    "nome": "Paulo Vida",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/284.jpg"
+  },
+  {
+    "numero": "285",
+    "nome": "Manduca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/285.jpg"
+  },
+  {
+    "numero": "286",
+    "nome": "Batista",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/286.jpg"
+  },
+  {
+    "numero": "287",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/287.jpg"
+  },
+  {
+    "numero": "288",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/288.jpg"
+  },
+  {
+    "numero": "289",
+    "nome": "Deco",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/289.jpg"
+  },
+  {
+    "numero": "290",
+    "nome": "Pedro Mendes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/290.jpg"
+  },
+  {
+    "numero": "291",
+    "nome": "Vitor Baia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/291.jpg"
+  },
+  {
+    "numero": "292",
+    "nome": "Paulo Ferreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/292.jpg"
+  },
+  {
+    "numero": "293",
+    "nome": "Jorge Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/293.jpg"
+  },
+  {
+    "numero": "294",
+    "nome": "Ricardo Carvalho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/294.jpg"
+  },
+  {
+    "numero": "295",
+    "nome": "Ricardo Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/295.jpg"
+  },
+  {
+    "numero": "296",
+    "nome": "Pedro Emanuel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/296.jpg"
+  },
+  {
+    "numero": "297",
+    "nome": "Nuno Valente",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/297.jpg"
+  },
+  {
+    "numero": "298",
+    "nome": "Costinha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/298.jpg"
+  },
+  {
+    "numero": "299",
+    "nome": "Pedro Mendes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/299.jpg"
+  },
+  {
+    "numero": "300",
+    "nome": "Marco Ferreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/300.jpg"
+  },
+  {
+    "numero": "301",
+    "nome": "Alenichev",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/301.jpg"
+  },
+  {
+    "numero": "302",
+    "nome": "Deco",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/302.jpg"
+  },
+  {
+    "numero": "303",
+    "nome": "Maniche",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/303.jpg"
+  },
+  {
+    "numero": "304",
+    "nome": "Bosingwa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/304.jpg"
+  },
+  {
+    "numero": "305",
+    "nome": "Benni McCarthy",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/305.jpg"
+  },
+  {
+    "numero": "306",
+    "nome": "Jankauskas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/306.jpg"
+  },
+  {
+    "numero": "307",
+    "nome": "Derlei",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/307.jpg"
+  },
+  {
+    "numero": "308",
+    "nome": "Nuno Espirito Santo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/308.jpg"
+  },
+  {
+    "numero": "309",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/309.jpg"
+  },
+  {
+    "numero": "310",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/310.jpg"
+  },
+  {
+    "numero": "311",
+    "nome": "Idalecio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/311.jpg"
+  },
+  {
+    "numero": "312",
+    "nome": "Miguelito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/312.jpg"
+  },
+  {
+    "numero": "313",
+    "nome": "Candeias",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/313.jpg"
+  },
+  {
+    "numero": "314",
+    "nome": "Ze Gomes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/314.jpg"
+  },
+  {
+    "numero": "315",
+    "nome": "Danielson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/315.jpg"
+  },
+  {
+    "numero": "316",
+    "nome": "Franco",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/316.jpg"
+  },
+  {
+    "numero": "317",
+    "nome": "Bruno Mendes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/317.jpg"
+  },
+  {
+    "numero": "318",
+    "nome": "Idalecio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/318.jpg"
+  },
+  {
+    "numero": "319",
+    "nome": "Valente",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/319.jpg"
+  },
+  {
+    "numero": "320",
+    "nome": "Mozer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/320.jpg"
+  },
+  {
+    "numero": "321",
+    "nome": "Jaime",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/321.jpg"
+  },
+  {
+    "numero": "322",
+    "nome": "Niquinha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/322.jpg"
+  },
+  {
+    "numero": "323",
+    "nome": "Vandinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/323.jpg"
+  },
+  {
+    "numero": "324",
+    "nome": "Ruben",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/324.jpg"
+  },
+  {
+    "numero": "325",
+    "nome": "Miguelito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/325.jpg"
+  },
+  {
+    "numero": "326",
+    "nome": "Junas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/326.jpg"
+  },
+  {
+    "numero": "327",
+    "nome": "Evandro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/327.jpg"
+  },
+  {
+    "numero": "328",
+    "nome": "Gama",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/328.jpg"
+  },
+  {
+    "numero": "329",
+    "nome": "Ronny",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/329.jpg"
+  },
+  {
+    "numero": "330",
+    "nome": "Mora",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/330.jpg"
+  },
+  {
+    "numero": "331",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/331.jpg"
+  },
+  {
+    "numero": "332",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/332.jpg"
+  },
+  {
+    "numero": "333",
+    "nome": "Joao Pinto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/333.jpg"
+  },
+  {
+    "numero": "334",
+    "nome": "Rochemback",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/334.jpg"
+  },
+  {
+    "numero": "335",
+    "nome": "Ricardo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/335.jpg"
+  },
+  {
+    "numero": "336",
+    "nome": "Mario Sergio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/336.jpg"
+  },
+  {
+    "numero": "337",
+    "nome": "Beto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/337.jpg"
+  },
+  {
+    "numero": "338",
+    "nome": "Anderson Polga",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/338.jpg"
+  },
+  {
+    "numero": "339",
+    "nome": "Hugo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/339.jpg"
+  },
+  {
+    "numero": "340",
+    "nome": "Rui Jorge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/340.jpg"
+  },
+  {
+    "numero": "341",
+    "nome": "Tello",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/341.jpg"
+  },
+  {
+    "numero": "342",
+    "nome": "Rochemback",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/342.jpg"
+  },
+  {
+    "numero": "343",
+    "nome": "Paulo Bento",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/343.jpg"
+  },
+  {
+    "numero": "344",
+    "nome": "Carlos Martins",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/344.jpg"
+  },
+  {
+    "numero": "345",
+    "nome": "Pedro Barbosa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/345.jpg"
+  },
+  {
+    "numero": "346",
+    "nome": "Clayton",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/346.jpg"
+  },
+  {
+    "numero": "347",
+    "nome": "Luis Filipe",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/347.jpg"
+  },
+  {
+    "numero": "348",
+    "nome": "Custodio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/348.jpg"
+  },
+  {
+    "numero": "349",
+    "nome": "Joao Pinto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/349.jpg"
+  },
+  {
+    "numero": "350",
+    "nome": "Niculae",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/350.jpg"
+  },
+  {
+    "numero": "351",
+    "nome": "Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/351.jpg"
+  },
+  {
+    "numero": "352",
+    "nome": "Tiago",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/352.jpg"
+  },
+  {
+    "numero": "353",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/353.jpg"
+  },
+  {
+    "numero": "354",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/354.jpg"
+  },
+  {
+    "numero": "355",
+    "nome": "Maciel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/355.jpg"
+  },
+  {
+    "numero": "356",
+    "nome": "Alhandra",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/356.jpg"
+  },
+  {
+    "numero": "357",
+    "nome": "Helton",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/357.jpg"
+  },
+  {
+    "numero": "358",
+    "nome": "Bilro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/358.jpg"
+  },
+  {
+    "numero": "359",
+    "nome": "Paulo Duarte",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/359.jpg"
+  },
+  {
+    "numero": "360",
+    "nome": "Gabriel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/360.jpg"
+  },
+  {
+    "numero": "361",
+    "nome": "Laranjeiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/361.jpg"
+  },
+  {
+    "numero": "362",
+    "nome": "Joao Paulo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/362.jpg"
+  },
+  {
+    "numero": "363",
+    "nome": "Edson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/363.jpg"
+  },
+  {
+    "numero": "364",
+    "nome": "Paulo Gomes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/364.jpg"
+  },
+  {
+    "numero": "365",
+    "nome": "Sergio Gameiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/365.jpg"
+  },
+  {
+    "numero": "366",
+    "nome": "Joao Manuel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/366.jpg"
+  },
+  {
+    "numero": "367",
+    "nome": "Peter",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/367.jpg"
+  },
+  {
+    "numero": "368",
+    "nome": "Maciel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/368.jpg"
+  },
+  {
+    "numero": "369",
+    "nome": "Caico",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/369.jpg"
+  },
+  {
+    "numero": "370",
+    "nome": "Alhandra",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/370.jpg"
+  },
+  {
+    "numero": "371",
+    "nome": "Douala",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/371.jpg"
+  },
+  {
+    "numero": "372",
+    "nome": "Ludemar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/372.jpg"
+  },
+  {
+    "numero": "373",
+    "nome": "Freddy",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/373.jpg"
+  },
+  {
+    "numero": "374",
+    "nome": "Quievreux",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/374.jpg"
+  },
+  {
+    "numero": "375",
+    "nome": "Emblema",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/375.jpg"
+  },
+  {
+    "numero": "376",
+    "nome": "Equipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/376.jpg"
+  },
+  {
+    "numero": "377",
+    "nome": "Nuno Assis",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/377.jpg"
+  },
+  {
+    "numero": "378",
+    "nome": "Bruno Alves",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/378.jpg"
+  },
+  {
+    "numero": "379",
+    "nome": "Palatsi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/379.jpg"
+  },
+  {
+    "numero": "380",
+    "nome": "Bessa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/380.jpg"
+  },
+  {
+    "numero": "381",
+    "nome": "Moreno",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/381.jpg"
+  },
+  {
+    "numero": "381bis",
+    "nome": "Manuel José",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/381bis.jpg"
+  },
+  {
+    "numero": "382",
+    "nome": "Bruno Alves",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/382.jpg"
+  },
+  {
+    "numero": "383",
+    "nome": "Marco",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/383.jpg"
+  },
+  {
+    "numero": "384",
+    "nome": "Rogerio Matias",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/384.jpg"
+  },
+  {
+    "numero": "385",
+    "nome": "Rubens Junior",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/385.jpg"
+  },
+  {
+    "numero": "386",
+    "nome": "Rui Ferreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/386.jpg"
+  },
+  {
+    "numero": "387",
+    "nome": "Flavio Meireles",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/387.jpg"
+  },
+  {
+    "numero": "388",
+    "nome": "Hugo Cunha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/388.jpg"
+  },
+  {
+    "numero": "389",
+    "nome": "Afonso Martins",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/389.jpg"
+  },
+  {
+    "numero": "390",
+    "nome": "Fangueiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/390.jpg"
+  },
+  {
+    "numero": "391",
+    "nome": "Guga",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/391.jpg"
+  },
+  {
+    "numero": "392",
+    "nome": "Nuno Assis",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/392.jpg"
+  },
+  {
+    "numero": "393",
+    "nome": "Rafael",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/393.jpg"
+  },
+  {
+    "numero": "394",
+    "nome": "Romeu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/394.jpg"
+  },
+  {
+    "numero": "395",
+    "nome": "Djurdjevic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/395.jpg"
+  },
+  {
+    "numero": "396",
+    "nome": "Miguel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/396.jpg"
+  },
+  {
+    "numero": "397",
+    "nome": "Dionattan (Académica)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/397.jpg"
+  },
+  {
+    "numero": "398",
+    "nome": "José Roberto (Alverca)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/398.jpg"
+  },
+  {
+    "numero": "399",
+    "nome": "Whelliton (Beira Mar)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/399.jpg"
+  },
+  {
+    "numero": "400",
+    "nome": "João Paulo (Beira Mar)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/400.jpg"
+  },
+  {
+    "numero": "401",
+    "nome": "Wijnhard (Beira Mar)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/401.jpg"
+  },
+  {
+    "numero": "402",
+    "nome": "Luisão (Benfica)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/402.jpg"
+  },
+  {
+    "numero": "403",
+    "nome": "João Pereira (Benfica)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/403.jpg"
+  },
+  {
+    "numero": "404",
+    "nome": "Fary (Boavista)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/404.jpg"
+  },
+  {
+    "numero": "405",
+    "nome": "Vanzini (Braga)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/405.jpg"
+  },
+  {
+    "numero": "406",
+    "nome": "Wooter (Braga)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/406.jpg"
+  },
+  {
+    "numero": "407",
+    "nome": "Mauro Almeida (Estrella de Amadora)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/407.jpg"
+  },
+  {
+    "numero": "408",
+    "nome": "Júlio César (Estrella da Amadora)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/408.jpg"
+  },
+  {
+    "numero": "409",
+    "nome": "Ferreira (Gil Vicente)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/409.jpg"
+  },
+  {
+    "numero": "410",
+    "nome": "Marcelo Carioca (Marítimo)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/410.jpg"
+  },
+  {
+    "numero": "411",
+    "nome": "Manoel (Moreirense)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/411.jpg"
+  },
+  {
+    "numero": "412",
+    "nome": "Mário Carlos (Nacional)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/412.jpg"
+  },
+  {
+    "numero": "413",
+    "nome": "Ricardo Fernandes (Porto)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/413.jpg"
+  },
+  {
+    "numero": "414",
+    "nome": "Hugo Almeida (Porto)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/414.jpg"
+  },
+  {
+    "numero": "415",
+    "nome": "Paulo César (Rio Ave)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/415.jpg"
+  },
+  {
+    "numero": "416",
+    "nome": "Miguel Garcia (Sporting)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/416.jpg"
+  },
+  {
+    "numero": "417",
+    "nome": "Lourenço (Sporting)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/417.jpg"
+  },
+  {
+    "numero": "418",
+    "nome": "Liedson (Sporting)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/418.jpg"
+  },
+  {
+    "numero": "419",
+    "nome": "Oliveira (U.Leiria)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/419.jpg"
+  },
+  {
+    "numero": "420",
+    "nome": "Peixe (U.Leiria)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/420.jpg"
+  },
+  {
+    "numero": "421",
+    "nome": "Filipe Teixeira (U.Leiria)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/421.jpg"
+  },
+  {
+    "numero": "422",
+    "nome": "Ednilson (V.Guimarães)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/422.jpg"
+  },
+  {
+    "numero": "423",
+    "nome": "João Tomás (V.Guimarães)",
+    "tenho": true,
+    "especial": false,
+    "clube": "Últimas Aquisições",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2003 2004/423.jpg"
+  }
+]

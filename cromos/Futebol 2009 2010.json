@@ -1,2837 +1,3647 @@
 [
   {
     "numero": "1",
-    "nome": "Cromo 1",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Academica",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/1.jpg"
   },
   {
     "numero": "2",
-    "nome": "Cromo 2",
+    "nome": "Equipa",
     "tenho": true,
     "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/2.jpg"
   },
   {
     "numero": "3",
-    "nome": "Cromo 3",
+    "nome": "Ricardo",
     "tenho": true,
     "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/3.jpg"
   },
   {
     "numero": "4",
-    "nome": "Cromo 4",
+    "nome": "Pedrinho",
     "tenho": true,
     "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/4.jpg"
   },
   {
     "numero": "5",
-    "nome": "Cromo 5",
+    "nome": "Pedro Costa",
     "tenho": true,
     "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/5.jpg"
   },
   {
     "numero": "6",
-    "nome": "Cromo 6",
+    "nome": "Orlando",
     "tenho": true,
     "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/6.jpg"
   },
   {
     "numero": "7",
-    "nome": "Cromo 7",
+    "nome": "Amoreirinha",
     "tenho": true,
     "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/7.jpg"
   },
   {
     "numero": "8",
-    "nome": "Cromo 8",
+    "nome": "Luis Nunes",
     "tenho": true,
     "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/8.jpg"
   },
   {
     "numero": "9",
-    "nome": "Cromo 9",
+    "nome": "Helder Cabral",
     "tenho": true,
     "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/9.jpg"
   },
   {
     "numero": "10",
-    "nome": "Cromo 10",
+    "nome": "Paulo Sergio",
     "tenho": true,
     "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/10.jpg"
   },
   {
     "numero": "11",
-    "nome": "Cromo 11",
+    "nome": "Cris",
     "tenho": true,
     "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/11.jpg"
   },
   {
     "numero": "12",
-    "nome": "Cromo 12",
+    "nome": "Bruno Amaro",
     "tenho": true,
     "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/12.jpg"
   },
   {
     "numero": "13",
-    "nome": "Cromo 13",
+    "nome": "Miguel Pedro",
     "tenho": true,
     "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/13.jpg"
   },
   {
     "numero": "14",
-    "nome": "Cromo 14",
+    "nome": "Tiero",
     "tenho": true,
     "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/14.jpg"
   },
   {
     "numero": "15",
-    "nome": "Cromo 15",
+    "nome": "Bru",
     "tenho": true,
     "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/15.jpg"
   },
   {
     "numero": "16",
-    "nome": "Cromo 16",
+    "nome": "Andre Fontes",
     "tenho": true,
     "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/16.jpg"
   },
   {
     "numero": "17",
-    "nome": "Cromo 17",
+    "nome": "Miguel Fidalgo",
     "tenho": true,
     "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/17.jpg"
   },
   {
     "numero": "18",
-    "nome": "Cromo 18",
+    "nome": "Lito",
     "tenho": true,
     "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/18.jpg"
   },
   {
     "numero": "19",
-    "nome": "Cromo 19",
+    "nome": "Sougou",
     "tenho": true,
     "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/19.jpg"
   },
   {
     "numero": "20",
-    "nome": "Cromo 20",
+    "nome": "Rui Nereu",
     "tenho": true,
     "especial": false,
+    "clube": "Academica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/20.jpg"
   },
   {
     "numero": "21",
-    "nome": "Cromo 21",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/21.jpg"
   },
   {
     "numero": "22",
-    "nome": "Cromo 22",
+    "nome": "Equipa",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/22.jpg"
   },
   {
     "numero": "23",
-    "nome": "Cromo 23",
+    "nome": "Assis",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/23.jpg"
   },
   {
     "numero": "24",
-    "nome": "Cromo 24",
+    "nome": "Candido Costa",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/24.jpg"
   },
   {
     "numero": "25",
-    "nome": "Cromo 25",
+    "nome": "Devic",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/25.jpg"
   },
   {
     "numero": "26",
-    "nome": "Cromo 26",
+    "nome": "Diakite",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/26.jpg"
   },
   {
     "numero": "27",
-    "nome": "Cromo 27",
+    "nome": "Rodrigo Arroz",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/27.jpg"
   },
   {
     "numero": "28",
-    "nome": "Cromo 28",
+    "nome": "Diego",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/28.jpg"
   },
   {
     "numero": "29",
-    "nome": "Cromo 29",
+    "nome": "Andre Pires",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/29.jpg"
   },
   {
     "numero": "30",
-    "nome": "Cromo 30",
+    "nome": "Celestino",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/30.jpg"
   },
   {
+    "numero": "30-bis",
+    "nome": "Gomez",
+    "tenho": true,
+    "especial": true,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2009 2010/30-bis.jpg"
+  },
+  {
     "numero": "31",
-    "nome": "Cromo 31",
+    "nome": "Fellipe Bastos",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/31.jpg"
   },
   {
     "numero": "32",
-    "nome": "Cromo 32",
+    "nome": "Mano",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/32.jpg"
   },
   {
     "numero": "33",
-    "nome": "Cromo 33",
+    "nome": "Ivan",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/33.jpg"
   },
   {
     "numero": "34",
-    "nome": "Cromo 34",
+    "nome": "Ze Pedro",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/34.jpg"
   },
   {
     "numero": "35",
-    "nome": "Cromo 35",
+    "nome": "Barge",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/35.jpg"
   },
   {
     "numero": "36",
-    "nome": "Cromo 36",
+    "nome": "Fredy",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/36.jpg"
   },
   {
     "numero": "37",
-    "nome": "Cromo 37",
+    "nome": "Yontcha",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/37.jpg"
   },
   {
     "numero": "38",
-    "nome": "Cromo 38",
+    "nome": "Igor",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/38.jpg"
   },
   {
     "numero": "39",
-    "nome": "Cromo 39",
+    "nome": "Romario",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/39.jpg"
   },
   {
     "numero": "40",
-    "nome": "Cromo 40",
+    "nome": "Nelson",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/40.jpg"
   },
   {
     "numero": "41",
-    "nome": "Cromo 41",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/41.jpg"
   },
   {
     "numero": "42",
-    "nome": "Cromo 42",
+    "nome": "Equipa",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/42.jpg"
   },
   {
     "numero": "43",
-    "nome": "Cromo 43",
+    "nome": "Quim",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/43.jpg"
   },
   {
     "numero": "44",
-    "nome": "Cromo 44",
+    "nome": "Maxi Pereira",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/44.jpg"
   },
   {
     "numero": "45",
-    "nome": "Cromo 45",
+    "nome": "Luisao",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/45.jpg"
   },
   {
     "numero": "46",
-    "nome": "Cromo 46",
+    "nome": "Sidnei",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/46.jpg"
   },
   {
     "numero": "47",
-    "nome": "Cromo 47",
+    "nome": "Miguel Vitor",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/47.jpg"
   },
   {
     "numero": "48",
-    "nome": "Cromo 48",
+    "nome": "David Luiz",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/48.jpg"
   },
   {
     "numero": "49",
-    "nome": "Cromo 49",
+    "nome": "Cesar Peixoto",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/49.jpg"
   },
   {
     "numero": "50",
-    "nome": "Cromo 50",
+    "nome": "Javi Garcia",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/50.jpg"
   },
   {
     "numero": "51",
-    "nome": "Cromo 51",
+    "nome": "Ramires",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/51.jpg"
   },
   {
     "numero": "52",
-    "nome": "Cromo 52",
+    "nome": "Carlos Martins",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/52.jpg"
   },
   {
     "numero": "53",
-    "nome": "Cromo 53",
+    "nome": "Ruben Amorim",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/53.jpg"
   },
   {
     "numero": "54",
-    "nome": "Cromo 54",
+    "nome": "Pablo Aimar",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/54.jpg"
   },
   {
     "numero": "55",
-    "nome": "Cromo 55",
+    "nome": "Angel Di Maria",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/55.jpg"
   },
   {
     "numero": "56",
-    "nome": "Cromo 56",
+    "nome": "Javier Saviola",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/56.jpg"
   },
   {
     "numero": "57",
-    "nome": "Cromo 57",
+    "nome": "Oscar Cardozo",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/57.jpg"
   },
   {
     "numero": "58",
-    "nome": "Cromo 58",
+    "nome": "Keirrison",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/58.jpg"
   },
   {
     "numero": "59",
-    "nome": "Cromo 59",
+    "nome": "Nuno Gomes",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/59.jpg"
   },
   {
     "numero": "60",
-    "nome": "Cromo 60",
+    "nome": "Moreira",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/60.jpg"
   },
   {
     "numero": "61",
-    "nome": "Cromo 61",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/61.jpg"
   },
   {
     "numero": "62",
-    "nome": "Cromo 62",
+    "nome": "Equipa",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/62.jpg"
   },
   {
     "numero": "63",
-    "nome": "Cromo 63",
+    "nome": "Eduardo",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/63.jpg"
   },
   {
     "numero": "64",
-    "nome": "Cromo 64",
+    "nome": "Joao Pereira",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/64.jpg"
   },
   {
     "numero": "65",
-    "nome": "Cromo 65",
+    "nome": "Frechaut",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/65.jpg"
   },
   {
+    "numero": "65-bis",
+    "nome": "Moises",
+    "tenho": true,
+    "especial": true,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2009 2010/65-bis.jpg"
+  },
+  {
     "numero": "66",
-    "nome": "Cromo 66",
+    "nome": "Alberto Rodríguez",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/66.jpg"
   },
   {
     "numero": "67",
-    "nome": "Cromo 67",
+    "nome": "Paulao",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/67.jpg"
   },
   {
     "numero": "68",
-    "nome": "Cromo 68",
+    "nome": "Ney",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/68.jpg"
   },
   {
     "numero": "69",
-    "nome": "Cromo 69",
+    "nome": "Evaldo",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/69.jpg"
   },
   {
     "numero": "70",
-    "nome": "Cromo 70",
+    "nome": "Vandinho",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/70.jpg"
   },
   {
     "numero": "71",
-    "nome": "Cromo 71",
+    "nome": "Fernando Alexandre",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/71.jpg"
   },
   {
+    "numero": "71-bis",
+    "nome": "Madrid",
+    "tenho": true,
+    "especial": true,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2009 2010/71-bis.jpg"
+  },
+  {
     "numero": "72",
-    "nome": "Cromo 72",
+    "nome": "Matheus",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/72.jpg"
   },
   {
     "numero": "73",
-    "nome": "Cromo 73",
+    "nome": "Mossoro",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/73.jpg"
   },
   {
     "numero": "74",
-    "nome": "Cromo 74",
+    "nome": "Hugo Viana",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/74.jpg"
   },
   {
     "numero": "75",
-    "nome": "Cromo 75",
+    "nome": "Alan",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/75.jpg"
   },
   {
     "numero": "76",
-    "nome": "Cromo 76",
+    "nome": "Diogo Valente",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/76.jpg"
   },
   {
     "numero": "77",
-    "nome": "Cromo 77",
+    "nome": "Paulo Cesar",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/77.jpg"
   },
   {
     "numero": "78",
-    "nome": "Cromo 78",
+    "nome": "Meyong",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/78.jpg"
   },
   {
     "numero": "79",
-    "nome": "Cromo 79",
+    "nome": "Yazalde",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/79.jpg"
   },
   {
     "numero": "80",
-    "nome": "Cromo 80",
+    "nome": "Kieszek",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/80.jpg"
   },
   {
     "numero": "81",
-    "nome": "Cromo 81",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Leixoes",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/81.jpg"
   },
   {
     "numero": "82",
-    "nome": "Cromo 82",
+    "nome": "Equipa",
     "tenho": true,
     "especial": false,
+    "clube": "Leixoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/82.jpg"
   },
   {
     "numero": "83",
-    "nome": "Cromo 83",
+    "nome": "Diego",
     "tenho": true,
     "especial": false,
+    "clube": "Leixoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/83.jpg"
   },
   {
     "numero": "84",
-    "nome": "Cromo 84",
+    "nome": "Sony",
     "tenho": true,
     "especial": false,
+    "clube": "Leixoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/84.jpg"
   },
   {
     "numero": "85",
-    "nome": "Cromo 85",
+    "nome": "Nuno Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Leixoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/85.jpg"
   },
   {
     "numero": "86",
-    "nome": "Cromo 86",
+    "nome": "Tucker",
     "tenho": true,
     "especial": false,
+    "clube": "Leixoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/86.jpg"
   },
   {
     "numero": "87",
-    "nome": "Cromo 87",
+    "nome": "Joel",
     "tenho": true,
     "especial": false,
+    "clube": "Leixoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/87.jpg"
   },
   {
     "numero": "88",
-    "nome": "Cromo 88",
+    "nome": "Laranjeiro",
     "tenho": true,
     "especial": false,
+    "clube": "Leixoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/88.jpg"
   },
   {
     "numero": "89",
-    "nome": "Cromo 89",
+    "nome": "Nelson",
     "tenho": true,
     "especial": false,
+    "clube": "Leixoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/89.jpg"
   },
   {
     "numero": "90",
-    "nome": "Cromo 90",
+    "nome": "Trombeta",
     "tenho": true,
     "especial": false,
+    "clube": "Leixoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/90.jpg"
   },
   {
     "numero": "91",
-    "nome": "Cromo 91",
+    "nome": "Ruben",
     "tenho": true,
     "especial": false,
+    "clube": "Leixoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/91.jpg"
   },
   {
     "numero": "92",
-    "nome": "Cromo 92",
+    "nome": "Paulo Tavares",
     "tenho": true,
     "especial": false,
+    "clube": "Leixoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/92.jpg"
   },
   {
     "numero": "93",
-    "nome": "Cromo 93",
+    "nome": "Seabra",
     "tenho": true,
     "especial": false,
+    "clube": "Leixoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/93.jpg"
   },
   {
     "numero": "94",
-    "nome": "Cromo 94",
+    "nome": "Braga",
     "tenho": true,
     "especial": false,
+    "clube": "Leixoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/94.jpg"
   },
   {
     "numero": "95",
-    "nome": "Cromo 95",
+    "nome": "Hugo Morais",
     "tenho": true,
     "especial": false,
+    "clube": "Leixoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/95.jpg"
   },
   {
     "numero": "96",
-    "nome": "Cromo 96",
+    "nome": "Bruno Gallo",
     "tenho": true,
     "especial": false,
+    "clube": "Leixoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/96.jpg"
   },
   {
     "numero": "97",
-    "nome": "Cromo 97",
+    "nome": "Ze Manel",
     "tenho": true,
     "especial": false,
+    "clube": "Leixoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/97.jpg"
   },
   {
     "numero": "98",
-    "nome": "Cromo 98",
+    "nome": "Faioli",
     "tenho": true,
     "especial": false,
+    "clube": "Leixoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/98.jpg"
   },
   {
     "numero": "99",
-    "nome": "Cromo 99",
+    "nome": "Pouga",
     "tenho": true,
     "especial": false,
+    "clube": "Leixoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/99.jpg"
   },
   {
     "numero": "100",
-    "nome": "Cromo 100",
+    "nome": "Berger",
     "tenho": true,
     "especial": false,
+    "clube": "Leixoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/100.jpg"
   },
   {
+    "numero": "100-bis",
+    "nome": "Fonseca",
+    "tenho": true,
+    "especial": true,
+    "clube": "Leixoes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2009 2010/100-bis.jpg"
+  },
+  {
     "numero": "101",
-    "nome": "Cromo 101",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Maritimo",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/101.jpg"
   },
   {
     "numero": "102",
-    "nome": "Cromo 102",
+    "nome": "Equipa",
     "tenho": true,
     "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/102.jpg"
   },
   {
     "numero": "103",
-    "nome": "Cromo 103",
+    "nome": "Pecanha",
     "tenho": true,
     "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/103.jpg"
   },
   {
     "numero": "104",
-    "nome": "Cromo 104",
+    "nome": "Paulo Jorge",
     "tenho": true,
     "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/104.jpg"
   },
   {
     "numero": "105",
-    "nome": "Cromo 105",
+    "nome": "Robson",
     "tenho": true,
     "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/105.jpg"
   },
   {
     "numero": "106",
-    "nome": "Cromo 106",
+    "nome": "Joao Guilherme",
     "tenho": true,
     "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/106.jpg"
   },
   {
     "numero": "107",
-    "nome": "Cromo 107",
+    "nome": "Fernando",
     "tenho": true,
     "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/107.jpg"
   },
   {
+    "numero": "107-bis",
+    "nome": "Fernando Cardozo",
+    "tenho": true,
+    "especial": true,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2009 2010/107-bis.jpg"
+  },
+  {
     "numero": "108",
-    "nome": "Cromo 108",
+    "nome": "Luis Olim",
     "tenho": true,
     "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/108.jpg"
   },
   {
     "numero": "109",
-    "nome": "Cromo 109",
+    "nome": "Taka",
     "tenho": true,
     "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/109.jpg"
   },
   {
+    "numero": "109-bis",
+    "nome": "Briguel",
+    "tenho": true,
+    "especial": true,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2009 2010/109-bis.jpg"
+  },
+  {
     "numero": "110",
-    "nome": "Cromo 110",
+    "nome": "Olberdam",
     "tenho": true,
     "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/110.jpg"
   },
   {
     "numero": "111",
-    "nome": "Cromo 111",
+    "nome": "Bruno",
     "tenho": true,
     "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/111.jpg"
   },
   {
     "numero": "112",
-    "nome": "Cromo 112",
+    "nome": "Marcinho",
     "tenho": true,
     "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/112.jpg"
   },
   {
     "numero": "113",
-    "nome": "Cromo 113",
+    "nome": "Joao Luiz",
     "tenho": true,
     "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/113.jpg"
   },
   {
+    "numero": "113-bis",
+    "nome": "Miguelito",
+    "tenho": true,
+    "especial": true,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2009 2010/113-bis.jpg"
+  },
+  {
     "numero": "114",
-    "nome": "Cromo 114",
+    "nome": "Pitbull",
     "tenho": true,
     "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/114.jpg"
   },
   {
     "numero": "115",
-    "nome": "Cromo 115",
+    "nome": "Djalma",
     "tenho": true,
     "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/115.jpg"
   },
   {
     "numero": "116",
-    "nome": "Cromo 116",
+    "nome": "Manu",
     "tenho": true,
     "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/116.jpg"
   },
   {
     "numero": "117",
-    "nome": "Cromo 117",
+    "nome": "Ytalo",
     "tenho": true,
     "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/117.jpg"
   },
   {
+    "numero": "117-bis",
+    "nome": "Kleber",
+    "tenho": true,
+    "especial": true,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2009 2010/117-bis.jpg"
+  },
+  {
     "numero": "118",
-    "nome": "Cromo 118",
+    "nome": "Kanu",
     "tenho": true,
     "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/118.jpg"
   },
   {
     "numero": "119",
-    "nome": "Cromo 119",
+    "nome": "Baba",
     "tenho": true,
     "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/119.jpg"
   },
   {
     "numero": "120",
-    "nome": "Cromo 120",
+    "nome": "Marcelo",
     "tenho": true,
     "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/120.jpg"
   },
   {
     "numero": "121",
-    "nome": "Cromo 121",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Nacional",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/121.jpg"
   },
   {
     "numero": "122",
-    "nome": "Cromo 122",
+    "nome": "Equipa",
     "tenho": true,
     "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/122.jpg"
   },
   {
     "numero": "123",
-    "nome": "Cromo 123",
+    "nome": "Bracalli",
     "tenho": true,
     "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/123.jpg"
   },
   {
     "numero": "124",
-    "nome": "Cromo 124",
+    "nome": "Patacas",
     "tenho": true,
     "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/124.jpg"
   },
   {
     "numero": "125",
-    "nome": "Cromo 125",
+    "nome": "Felipe Lopes",
     "tenho": true,
     "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/125.jpg"
   },
   {
     "numero": "126",
-    "nome": "Cromo 126",
+    "nome": "Tomasevic",
     "tenho": true,
     "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/126.jpg"
   },
   {
+    "numero": "126-bis",
+    "nome": "Halliche",
+    "tenho": true,
+    "especial": true,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2009 2010/126-bis.jpg"
+  },
+  {
     "numero": "127",
-    "nome": "Cromo 127",
+    "nome": "Cleber",
     "tenho": true,
     "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/127.jpg"
   },
   {
     "numero": "128",
-    "nome": "Cromo 128",
+    "nome": "Clebao",
     "tenho": true,
     "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/128.jpg"
   },
   {
     "numero": "129",
-    "nome": "Cromo 129",
+    "nome": "Wellington",
     "tenho": true,
     "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/129.jpg"
   },
   {
     "numero": "130",
-    "nome": "Cromo 130",
+    "nome": "Abdou",
     "tenho": true,
     "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/130.jpg"
   },
   {
     "numero": "131",
-    "nome": "Cromo 131",
+    "nome": "Luis Alberto",
     "tenho": true,
     "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/131.jpg"
   },
   {
     "numero": "132",
-    "nome": "Cromo 132",
+    "nome": "Joao Aurelio",
     "tenho": true,
     "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/132.jpg"
   },
   {
     "numero": "133",
-    "nome": "Cromo 133",
+    "nome": "Ruben Micael",
     "tenho": true,
     "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/133.jpg"
   },
   {
     "numero": "134",
-    "nome": "Cromo 134",
+    "nome": "Leandro Salino",
     "tenho": true,
     "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/134.jpg"
   },
   {
     "numero": "135",
-    "nome": "Cromo 135",
+    "nome": "Filipe da Costa",
     "tenho": true,
     "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/135.jpg"
   },
   {
+    "numero": "135-bis",
+    "nome": "Marco Airosa",
+    "tenho": true,
+    "especial": true,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2009 2010/135-bis.jpg"
+  },
+  {
     "numero": "136",
-    "nome": "Cromo 136",
+    "nome": "Pecnik",
     "tenho": true,
     "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/136.jpg"
   },
   {
     "numero": "137",
-    "nome": "Cromo 137",
+    "nome": "Mateus",
     "tenho": true,
     "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/137.jpg"
   },
   {
     "numero": "138",
-    "nome": "Cromo 138",
+    "nome": "Rodrigo",
     "tenho": true,
     "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/138.jpg"
   },
   {
     "numero": "139",
-    "nome": "Cromo 139",
+    "nome": "Anselmo",
     "tenho": true,
     "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/139.jpg"
   },
   {
     "numero": "140",
-    "nome": "Cromo 140",
+    "nome": "Elisson",
     "tenho": true,
     "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/140.jpg"
   },
   {
     "numero": "141",
-    "nome": "Cromo 141",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Naval",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/141.jpg"
   },
   {
     "numero": "142",
-    "nome": "Cromo 142",
+    "nome": "Equipa",
     "tenho": true,
     "especial": false,
+    "clube": "Naval",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/142.jpg"
   },
   {
     "numero": "143",
-    "nome": "Cromo 143",
+    "nome": "Peiser",
     "tenho": true,
     "especial": false,
+    "clube": "Naval",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/143.jpg"
   },
   {
     "numero": "144",
-    "nome": "Cromo 144",
+    "nome": "Carlitos",
     "tenho": true,
     "especial": false,
+    "clube": "Naval",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/144.jpg"
   },
   {
     "numero": "145",
-    "nome": "Cromo 145",
+    "nome": "Rannow",
     "tenho": true,
     "especial": false,
+    "clube": "Naval",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/145.jpg"
   },
   {
     "numero": "146",
-    "nome": "Cromo 146",
+    "nome": "Lupede",
     "tenho": true,
     "especial": false,
+    "clube": "Naval",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/146.jpg"
   },
   {
     "numero": "147",
-    "nome": "Cromo 147",
+    "nome": "Diego",
     "tenho": true,
     "especial": false,
+    "clube": "Naval",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/147.jpg"
   },
   {
     "numero": "148",
-    "nome": "Cromo 148",
+    "nome": "Real",
     "tenho": true,
     "especial": false,
+    "clube": "Naval",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/148.jpg"
   },
   {
     "numero": "149",
-    "nome": "Cromo 149",
+    "nome": "Daniel Cruz",
     "tenho": true,
     "especial": false,
+    "clube": "Naval",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/149.jpg"
   },
   {
     "numero": "150",
-    "nome": "Cromo 150",
+    "nome": "Godemeche",
     "tenho": true,
     "especial": false,
+    "clube": "Naval",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/150.jpg"
   },
   {
     "numero": "151",
-    "nome": "Cromo 151",
+    "nome": "Lazaroni",
     "tenho": true,
     "especial": false,
+    "clube": "Naval",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/151.jpg"
   },
   {
     "numero": "152",
-    "nome": "Cromo 152",
+    "nome": "Marinho",
     "tenho": true,
     "especial": false,
+    "clube": "Naval",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/152.jpg"
   },
   {
     "numero": "153",
-    "nome": "Cromo 153",
+    "nome": "Camora",
     "tenho": true,
     "especial": false,
+    "clube": "Naval",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/153.jpg"
   },
   {
     "numero": "154",
-    "nome": "Cromo 154",
+    "nome": "Davide",
     "tenho": true,
     "especial": false,
+    "clube": "Naval",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/154.jpg"
   },
   {
     "numero": "155",
-    "nome": "Cromo 155",
+    "nome": "Bolivia",
     "tenho": true,
     "especial": false,
+    "clube": "Naval",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/155.jpg"
   },
   {
     "numero": "156",
-    "nome": "Cromo 156",
+    "nome": "Bellagra",
     "tenho": true,
     "especial": false,
+    "clube": "Naval",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/156.jpg"
   },
   {
     "numero": "157",
-    "nome": "Cromo 157",
+    "nome": "Michel Simplicio",
     "tenho": true,
     "especial": false,
+    "clube": "Naval",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/157.jpg"
   },
   {
     "numero": "158",
-    "nome": "Cromo 158",
+    "nome": "Alex Hauw",
     "tenho": true,
     "especial": false,
+    "clube": "Naval",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/158.jpg"
   },
   {
     "numero": "159",
-    "nome": "Cromo 159",
+    "nome": "Tandia",
     "tenho": true,
     "especial": false,
+    "clube": "Naval",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/159.jpg"
   },
   {
     "numero": "160",
-    "nome": "Cromo 160",
+    "nome": "Jorge Baptista",
     "tenho": true,
     "especial": false,
+    "clube": "Naval",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/160.jpg"
   },
   {
     "numero": "161",
-    "nome": "Cromo 161",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Olhanense",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/161.jpg"
   },
   {
     "numero": "162",
-    "nome": "Cromo 162",
+    "nome": "Equipa",
     "tenho": true,
     "especial": false,
+    "clube": "Olhanense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/162.jpg"
   },
   {
     "numero": "163",
-    "nome": "Cromo 163",
+    "nome": "Ventura",
     "tenho": true,
     "especial": false,
+    "clube": "Olhanense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/163.jpg"
   },
   {
     "numero": "164",
-    "nome": "Cromo 164",
+    "nome": "Miguel Garcia",
     "tenho": true,
     "especial": false,
+    "clube": "Olhanense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/164.jpg"
   },
   {
     "numero": "165",
-    "nome": "Cromo 165",
+    "nome": "Joao Gonçalves",
     "tenho": true,
     "especial": false,
+    "clube": "Olhanense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/165.jpg"
   },
   {
     "numero": "166",
-    "nome": "Cromo 166",
+    "nome": "Sandro",
     "tenho": true,
     "especial": false,
+    "clube": "Olhanense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/166.jpg"
   },
   {
     "numero": "167",
-    "nome": "Cromo 167",
+    "nome": "Anselmo",
     "tenho": true,
     "especial": false,
+    "clube": "Olhanense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/167.jpg"
   },
   {
     "numero": "168",
-    "nome": "Cromo 168",
+    "nome": "Stephane",
     "tenho": true,
     "especial": false,
+    "clube": "Olhanense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/168.jpg"
   },
   {
     "numero": "169",
-    "nome": "Cromo 169",
+    "nome": "Carlos Fernandes",
     "tenho": true,
     "especial": false,
+    "clube": "Olhanense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/169.jpg"
   },
   {
     "numero": "170",
-    "nome": "Cromo 170",
+    "nome": "Castro",
     "tenho": true,
     "especial": false,
+    "clube": "Olhanense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/170.jpg"
   },
   {
     "numero": "171",
-    "nome": "Cromo 171",
+    "nome": "Tengarrinha",
     "tenho": true,
     "especial": false,
+    "clube": "Olhanense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/171.jpg"
   },
   {
     "numero": "172",
-    "nome": "Cromo 172",
+    "nome": "Rui Baiao",
     "tenho": true,
     "especial": false,
+    "clube": "Olhanense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/172.jpg"
   },
   {
     "numero": "173",
-    "nome": "Cromo 173",
+    "nome": "Messi",
     "tenho": true,
     "especial": false,
+    "clube": "Olhanense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/173.jpg"
   },
   {
     "numero": "174",
-    "nome": "Cromo 174",
+    "nome": "Rui Duarte",
     "tenho": true,
     "especial": false,
+    "clube": "Olhanense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/174.jpg"
   },
   {
     "numero": "175",
-    "nome": "Cromo 175",
+    "nome": "Guga",
     "tenho": true,
     "especial": false,
+    "clube": "Olhanense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/175.jpg"
   },
   {
     "numero": "176",
-    "nome": "Cromo 176",
+    "nome": "Ukra",
     "tenho": true,
     "especial": false,
+    "clube": "Olhanense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/176.jpg"
   },
   {
     "numero": "177",
-    "nome": "Cromo 177",
+    "nome": "Zequinha",
     "tenho": true,
     "especial": false,
+    "clube": "Olhanense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/177.jpg"
   },
   {
     "numero": "178",
-    "nome": "Cromo 178",
+    "nome": "Toy",
     "tenho": true,
     "especial": false,
+    "clube": "Olhanense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/178.jpg"
   },
   {
     "numero": "179",
-    "nome": "Cromo 179",
+    "nome": "Djalmir",
     "tenho": true,
     "especial": false,
+    "clube": "Olhanense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/179.jpg"
   },
   {
     "numero": "180",
-    "nome": "Cromo 180",
+    "nome": "Bruno Verissimo",
     "tenho": true,
     "especial": false,
+    "clube": "Olhanense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/180.jpg"
   },
   {
     "numero": "181",
-    "nome": "Cromo 181",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Pacos de Ferreira",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/181.jpg"
   },
   {
     "numero": "182",
-    "nome": "Cromo 182",
+    "nome": "Equipa",
     "tenho": true,
     "especial": false,
+    "clube": "Pacos de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/182.jpg"
   },
   {
     "numero": "183",
-    "nome": "Cromo 183",
+    "nome": "Cassio",
     "tenho": true,
     "especial": false,
+    "clube": "Pacos de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/183.jpg"
   },
   {
     "numero": "184",
-    "nome": "Cromo 184",
+    "nome": "Filipe Anunciacao",
     "tenho": true,
     "especial": false,
+    "clube": "Pacos de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/184.jpg"
   },
   {
     "numero": "185",
-    "nome": "Cromo 185",
+    "nome": "Pedro Queiros",
     "tenho": true,
     "especial": false,
+    "clube": "Pacos de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/185.jpg"
   },
   {
     "numero": "186",
-    "nome": "Cromo 186",
+    "nome": "Ricardo",
     "tenho": true,
     "especial": false,
+    "clube": "Pacos de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/186.jpg"
   },
   {
     "numero": "187",
-    "nome": "Cromo 187",
+    "nome": "Ozeia",
     "tenho": true,
     "especial": false,
+    "clube": "Pacos de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/187.jpg"
   },
   {
     "numero": "188",
-    "nome": "Cromo 188",
+    "nome": "Kelly",
     "tenho": true,
     "especial": false,
+    "clube": "Pacos de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/188.jpg"
   },
   {
     "numero": "189",
-    "nome": "Cromo 189",
+    "nome": "Jorginho",
     "tenho": true,
     "especial": false,
+    "clube": "Pacos de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/189.jpg"
   },
   {
     "numero": "190",
-    "nome": "Cromo 190",
+    "nome": "Pedrinha",
     "tenho": true,
     "especial": false,
+    "clube": "Pacos de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/190.jpg"
   },
   {
     "numero": "191",
-    "nome": "Cromo 191",
+    "nome": "Leonel Olimpio",
     "tenho": true,
     "especial": false,
+    "clube": "Pacos de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/191.jpg"
   },
   {
     "numero": "192",
-    "nome": "Cromo 192",
+    "nome": "Cristiano",
     "tenho": true,
     "especial": false,
+    "clube": "Pacos de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/192.jpg"
   },
   {
     "numero": "193",
-    "nome": "Cromo 193",
+    "nome": "Carlitos",
     "tenho": true,
     "especial": false,
+    "clube": "Pacos de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/193.jpg"
   },
   {
     "numero": "194",
-    "nome": "Cromo 194",
+    "nome": "Baiano",
     "tenho": true,
     "especial": false,
+    "clube": "Pacos de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/194.jpg"
   },
   {
     "numero": "195",
-    "nome": "Cromo 195",
+    "nome": "Manuel Jose",
     "tenho": true,
     "especial": false,
+    "clube": "Pacos de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/195.jpg"
   },
   {
     "numero": "196",
-    "nome": "Cromo 196",
+    "nome": "Paulo Sousa",
     "tenho": true,
     "especial": false,
+    "clube": "Pacos de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/196.jpg"
   },
   {
     "numero": "197",
-    "nome": "Cromo 197",
+    "nome": "William",
     "tenho": true,
     "especial": false,
+    "clube": "Pacos de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/197.jpg"
   },
   {
     "numero": "198",
-    "nome": "Cromo 198",
+    "nome": "Mario Rondon",
     "tenho": true,
     "especial": false,
+    "clube": "Pacos de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/198.jpg"
   },
   {
     "numero": "199",
-    "nome": "Cromo 199",
+    "nome": "Romeu Torres",
     "tenho": true,
     "especial": false,
+    "clube": "Pacos de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/199.jpg"
   },
   {
     "numero": "200",
-    "nome": "Cromo 200",
+    "nome": "Coelho",
     "tenho": true,
     "especial": false,
+    "clube": "Pacos de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/200.jpg"
   },
   {
     "numero": "201",
-    "nome": "Cromo 201",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/201.jpg"
   },
   {
     "numero": "202",
-    "nome": "Cromo 202",
+    "nome": "Equipa",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/202.jpg"
   },
   {
     "numero": "203",
-    "nome": "Cromo 203",
+    "nome": "Helton",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/203.jpg"
   },
   {
     "numero": "204",
-    "nome": "Cromo 204",
+    "nome": "Jorge Fucile",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/204.jpg"
   },
   {
     "numero": "205",
-    "nome": "Cromo 205",
+    "nome": "Tomas Costa",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/205.jpg"
   },
   {
+    "numero": "205-bis",
+    "nome": "Cristian Sapunaru",
+    "tenho": true,
+    "especial": true,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2009 2010/205-bis.jpg"
+  },
+  {
     "numero": "206",
-    "nome": "Cromo 206",
+    "nome": "Bruno Alves",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/206.jpg"
   },
   {
     "numero": "207",
-    "nome": "Cromo 207",
+    "nome": "Rolando",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/207.jpg"
   },
   {
     "numero": "208",
-    "nome": "Cromo 208",
+    "nome": "Nuno Andre Coelho",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/208.jpg"
   },
   {
     "numero": "209",
-    "nome": "Cromo 209",
+    "nome": "Alvaro Pereira",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/209.jpg"
   },
   {
     "numero": "210",
-    "nome": "Cromo 210",
+    "nome": "Fernando",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/210.jpg"
   },
   {
     "numero": "211",
-    "nome": "Cromo 211",
+    "nome": "Sebastian Prediger",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/211.jpg"
   },
   {
+    "numero": "211-bis",
+    "nome": "Fredy Guarin",
+    "tenho": true,
+    "especial": true,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2009 2010/211-bis.jpg"
+  },
+  {
     "numero": "212",
-    "nome": "Cromo 212",
+    "nome": "Raul Meireles",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/212.jpg"
   },
   {
     "numero": "213",
-    "nome": "Cromo 213",
+    "nome": "Silvestre Varela",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/213.jpg"
   },
   {
     "numero": "214",
-    "nome": "Cromo 214",
+    "nome": "Fernando Belluschi",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/214.jpg"
   },
   {
     "numero": "215",
-    "nome": "Cromo 215",
+    "nome": "Mariano Gonzalez",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/215.jpg"
   },
   {
     "numero": "216",
-    "nome": "Cromo 216",
+    "nome": "Cristian Rodríguez",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/216.jpg"
   },
   {
     "numero": "217",
-    "nome": "Cromo 217",
+    "nome": "Hulk",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/217.jpg"
   },
   {
     "numero": "218",
-    "nome": "Cromo 218",
+    "nome": "Radamel Falcao",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/218.jpg"
   },
   {
     "numero": "219",
-    "nome": "Cromo 219",
+    "nome": "Ernesto Farias",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/219.jpg"
   },
   {
     "numero": "220",
-    "nome": "Cromo 220",
+    "nome": "Beto",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/220.jpg"
   },
   {
+    "numero": "220-bis",
+    "nome": "Nuno",
+    "tenho": true,
+    "especial": true,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2009 2010/220-bis.jpg"
+  },
+  {
     "numero": "221",
-    "nome": "Cromo 221",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/221.jpg"
   },
   {
     "numero": "222",
-    "nome": "Cromo 222",
+    "nome": "Equipa",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/222.jpg"
   },
   {
     "numero": "223",
-    "nome": "Cromo 223",
+    "nome": "Carlos",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/223.jpg"
   },
   {
     "numero": "224",
-    "nome": "Cromo 224",
+    "nome": "Ze Gomes",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/224.jpg"
   },
   {
     "numero": "225",
-    "nome": "Cromo 225",
+    "nome": "Gaspar",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/225.jpg"
   },
   {
     "numero": "226",
-    "nome": "Cromo 226",
+    "nome": "Bruno Mendes",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/226.jpg"
   },
   {
     "numero": "227",
-    "nome": "Cromo 227",
+    "nome": "Fabio Faria",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/227.jpg"
   },
   {
     "numero": "228",
-    "nome": "Cromo 228",
+    "nome": "Jeferson",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/228.jpg"
   },
   {
     "numero": "229",
-    "nome": "Cromo 229",
+    "nome": "Silvio",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/229.jpg"
   },
   {
     "numero": "230",
-    "nome": "Cromo 230",
+    "nome": "Ricardo Chaves",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/230.jpg"
   },
   {
     "numero": "231",
-    "nome": "Cromo 231",
+    "nome": "Wires",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/231.jpg"
   },
   {
     "numero": "232",
-    "nome": "Cromo 232",
+    "nome": "Vitor Gomes",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/232.jpg"
   },
   {
     "numero": "233",
-    "nome": "Cromo 233",
+    "nome": "Adriano",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/233.jpg"
   },
   {
     "numero": "234",
-    "nome": "Cromo 234",
+    "nome": "Andre Vilas Boas",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/234.jpg"
   },
   {
     "numero": "235",
-    "nome": "Cromo 235",
+    "nome": "Tarantini",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/235.jpg"
   },
   {
     "numero": "236",
-    "nome": "Cromo 236",
+    "nome": "Bruno Gama",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/236.jpg"
   },
   {
     "numero": "237",
-    "nome": "Cromo 237",
+    "nome": "Chidi",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/237.jpg"
   },
   {
     "numero": "238",
-    "nome": "Cromo 238",
+    "nome": "Joao Tomas",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/238.jpg"
   },
   {
     "numero": "239",
-    "nome": "Cromo 239",
+    "nome": "Sidnei",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/239.jpg"
   },
   {
     "numero": "240",
-    "nome": "Cromo 240",
+    "nome": "Pedro Trigueira",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/240.jpg"
   },
   {
     "numero": "241",
-    "nome": "Cromo 241",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/241.jpg"
   },
   {
     "numero": "242",
-    "nome": "Cromo 242",
+    "nome": "Equipa",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/242.jpg"
   },
   {
     "numero": "243",
-    "nome": "Cromo 243",
+    "nome": "Rui Patricio",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/243.jpg"
   },
   {
     "numero": "244",
-    "nome": "Cromo 244",
+    "nome": "Abel",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/244.jpg"
   },
   {
     "numero": "245",
-    "nome": "Cromo 245",
+    "nome": "Pedro Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/245.jpg"
   },
   {
     "numero": "246",
-    "nome": "Cromo 246",
+    "nome": "Tonel",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/246.jpg"
   },
   {
     "numero": "247",
-    "nome": "Cromo 247",
+    "nome": "Anderson Polga",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/247.jpg"
   },
   {
     "numero": "248",
-    "nome": "Cromo 248",
+    "nome": "Daniel Carriço",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/248.jpg"
   },
   {
     "numero": "249",
-    "nome": "Cromo 249",
+    "nome": "Marco Caneira",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/249.jpg"
   },
   {
     "numero": "250",
-    "nome": "Cromo 250",
+    "nome": "Miguel Veloso",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/250.jpg"
   },
   {
     "numero": "251",
-    "nome": "Cromo 251",
+    "nome": "Fabio Rochemback",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/251.jpg"
   },
   {
+    "numero": "251-bis",
+    "nome": "Adrien Silva",
+    "tenho": true,
+    "especial": true,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2009 2010/251-bis.jpg"
+  },
+  {
     "numero": "252",
-    "nome": "Cromo 252",
+    "nome": "Joao Moutinho",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/252.jpg"
   },
   {
     "numero": "253",
-    "nome": "Cromo 253",
+    "nome": "Bruno Pereirinha",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/253.jpg"
   },
   {
     "numero": "254",
-    "nome": "Cromo 254",
+    "nome": "Matias Fernandez",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/254.jpg"
   },
   {
     "numero": "255",
-    "nome": "Cromo 255",
+    "nome": "Simon Vukcevic",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/255.jpg"
   },
   {
     "numero": "256",
-    "nome": "Cromo 256",
+    "nome": "Yannick Djalo",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/256.jpg"
   },
   {
     "numero": "257",
-    "nome": "Cromo 257",
+    "nome": "Liedson",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/257.jpg"
   },
   {
     "numero": "258",
-    "nome": "Cromo 258",
+    "nome": "Helder Postiga",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/258.jpg"
   },
   {
     "numero": "259",
-    "nome": "Cromo 259",
+    "nome": "Felipe Caicedo",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/259.jpg"
   },
   {
     "numero": "260",
-    "nome": "Cromo 260",
+    "nome": "Tiago",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/260.jpg"
   },
   {
     "numero": "261",
-    "nome": "Cromo 261",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/261.jpg"
   },
   {
     "numero": "262",
-    "nome": "Cromo 262",
+    "nome": "Equipa",
     "tenho": true,
     "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/262.jpg"
   },
   {
     "numero": "263",
-    "nome": "Cromo 263",
+    "nome": "Thiago Leal",
     "tenho": true,
     "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/263.jpg"
   },
   {
     "numero": "264",
-    "nome": "Cromo 264",
+    "nome": "Hugo Gomes",
     "tenho": true,
     "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/264.jpg"
   },
   {
     "numero": "265",
-    "nome": "Cromo 265",
+    "nome": "Mamadu Tall",
     "tenho": true,
     "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/265.jpg"
   },
   {
     "numero": "266",
-    "nome": "Cromo 266",
+    "nome": "Bruno Miguel",
     "tenho": true,
     "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/266.jpg"
   },
   {
     "numero": "267",
-    "nome": "Cromo 267",
+    "nome": "Hammes",
     "tenho": true,
     "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/267.jpg"
   },
   {
     "numero": "268",
-    "nome": "Cromo 268",
+    "nome": "Vitor Moreno",
     "tenho": true,
     "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/268.jpg"
   },
   {
     "numero": "269",
-    "nome": "Cromo 269",
+    "nome": "Diego Gaucho",
     "tenho": true,
     "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/269.jpg"
   },
   {
     "numero": "270",
-    "nome": "Cromo 270",
+    "nome": "Stelvio",
     "tenho": true,
     "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/270.jpg"
   },
   {
     "numero": "271",
-    "nome": "Cromo 271",
+    "nome": "Andre Santos",
     "tenho": true,
     "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/271.jpg"
   },
   {
     "numero": "272",
-    "nome": "Cromo 272",
+    "nome": "Pedro Cervantes",
     "tenho": true,
     "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/272.jpg"
   },
   {
     "numero": "273",
-    "nome": "Cromo 273",
+    "nome": "Marco Soares",
     "tenho": true,
     "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/273.jpg"
   },
   {
     "numero": "274",
-    "nome": "Cromo 274",
+    "nome": "Ouattara",
     "tenho": true,
     "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/274.jpg"
   },
   {
     "numero": "275",
-    "nome": "Cromo 275",
+    "nome": "Pateiro",
     "tenho": true,
     "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/275.jpg"
   },
   {
     "numero": "276",
-    "nome": "Cromo 276",
+    "nome": "Silas",
     "tenho": true,
     "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/276.jpg"
   },
   {
     "numero": "277",
-    "nome": "Cromo 277",
+    "nome": "Alberto",
     "tenho": true,
     "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/277.jpg"
   },
   {
     "numero": "278",
-    "nome": "Cromo 278",
+    "nome": "Cassio",
     "tenho": true,
     "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/278.jpg"
   },
   {
     "numero": "279",
-    "nome": "Cromo 279",
+    "nome": "Carlao",
     "tenho": true,
     "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/279.jpg"
   },
   {
     "numero": "280",
-    "nome": "Cromo 280",
+    "nome": "Djurcic",
     "tenho": true,
     "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/280.jpg"
   },
   {
     "numero": "281",
-    "nome": "Cromo 281",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/281.jpg"
   },
   {
     "numero": "282",
-    "nome": "Cromo 282",
+    "nome": "Equipa",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/282.jpg"
   },
   {
     "numero": "283",
-    "nome": "Cromo 283",
+    "nome": "Nilson",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/283.jpg"
   },
   {
     "numero": "284",
-    "nome": "Cromo 284",
+    "nome": "Andrezinho",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/284.jpg"
   },
   {
     "numero": "285",
-    "nome": "Cromo 285",
+    "nome": "Sereno",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/285.jpg"
   },
   {
     "numero": "286",
-    "nome": "Cromo 286",
+    "nome": "Moreno",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/286.jpg"
   },
   {
     "numero": "287",
-    "nome": "Cromo 287",
+    "nome": "Alencar",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/287.jpg"
   },
   {
     "numero": "288",
-    "nome": "Cromo 288",
+    "nome": "Mendieta",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/288.jpg"
   },
   {
     "numero": "289",
-    "nome": "Cromo 289",
+    "nome": "Milhazes",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/289.jpg"
   },
   {
     "numero": "290",
-    "nome": "Cromo 290",
+    "nome": "Flavio Meireles",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/290.jpg"
   },
   {
     "numero": "291",
-    "nome": "Cromo 291",
+    "nome": "Joao Alves",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/291.jpg"
   },
   {
     "numero": "292",
-    "nome": "Cromo 292",
+    "nome": "Rui Miguel",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/292.jpg"
   },
   {
+    "numero": "292-bis",
+    "nome": "Carlitos",
+    "tenho": true,
+    "especial": true,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2009 2010/292-bis.jpg"
+  },
+  {
     "numero": "293",
-    "nome": "Cromo 293",
+    "nome": "Custodio",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/293.jpg"
   },
   {
+    "numero": "293-bis",
+    "nome": "Desmarets",
+    "tenho": true,
+    "especial": true,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2009 2010/293-bis.jpg"
+  },
+  {
     "numero": "294",
-    "nome": "Cromo 294",
+    "nome": "Nuno Assis",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/294.jpg"
   },
   {
     "numero": "295",
-    "nome": "Cromo 295",
+    "nome": "Jorge Gonçalves",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/295.jpg"
   },
   {
     "numero": "296",
-    "nome": "Cromo 296",
+    "nome": "Marquinho",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/296.jpg"
   },
   {
     "numero": "297",
-    "nome": "Cromo 297",
+    "nome": "Tiago Targino",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/297.jpg"
   },
   {
     "numero": "298",
-    "nome": "Cromo 298",
+    "nome": "Douglas",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/298.jpg"
   },
   {
     "numero": "299",
-    "nome": "Cromo 299",
+    "nome": "Roberto",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/299.jpg"
   },
   {
     "numero": "300",
-    "nome": "Cromo 300",
+    "nome": "Serginho",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/300.jpg"
   },
   {
     "numero": "301",
-    "nome": "Cromo 301",
+    "nome": "Emblema",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/301.jpg"
   },
   {
     "numero": "302",
-    "nome": "Cromo 302",
+    "nome": "Equipa",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/302.jpg"
   },
   {
     "numero": "303",
-    "nome": "Cromo 303",
+    "nome": "Mario Felgueras",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/303.jpg"
   },
   {
     "numero": "304",
-    "nome": "Cromo 304",
+    "nome": "Alan",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/304.jpg"
   },
   {
     "numero": "305",
-    "nome": "Cromo 305",
+    "nome": "Andre Pinto",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/305.jpg"
   },
   {
     "numero": "306",
-    "nome": "Cromo 306",
+    "nome": "Djikine",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/306.jpg"
   },
   {
     "numero": "307",
-    "nome": "Cromo 307",
+    "nome": "Sandro",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/307.jpg"
   },
   {
     "numero": "308",
-    "nome": "Cromo 308",
+    "nome": "Ruben Lima",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/308.jpg"
   },
   {
     "numero": "309",
-    "nome": "Cromo 309",
+    "nome": "Brigues",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/309.jpg"
   },
   {
     "numero": "310",
-    "nome": "Cromo 310",
+    "nome": "Kazmierczak",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/310.jpg"
   },
   {
+    "numero": "310-bis",
+    "nome": "Bruno Ribeiro",
+    "tenho": true,
+    "especial": true,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2009 2010/310-bis.jpg"
+  },
+  {
     "numero": "311",
-    "nome": "Cromo 311",
+    "nome": "Bruno Monteiro",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/311.jpg"
   },
   {
     "numero": "312",
-    "nome": "Cromo 312",
+    "nome": "Regula",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/312.jpg"
   },
   {
     "numero": "313",
-    "nome": "Cromo 313",
+    "nome": "Adul",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/313.jpg"
   },
   {
     "numero": "314",
-    "nome": "Cromo 314",
+    "nome": "Luis Carlos",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/314.jpg"
   },
   {
     "numero": "315",
-    "nome": "Cromo 315",
+    "nome": "Vasco Varao",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/315.jpg"
   },
   {
     "numero": "316",
-    "nome": "Cromo 316",
+    "nome": "Helder Barbosa",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/316.jpg"
   },
   {
     "numero": "317",
-    "nome": "Cromo 317",
+    "nome": "Keita",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/317.jpg"
   },
   {
     "numero": "318",
-    "nome": "Cromo 318",
+    "nome": "Rui Fonte",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/318.jpg"
   },
   {
     "numero": "319",
-    "nome": "Cromo 319",
+    "nome": "Lourenco",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/319.jpg"
   },
   {
     "numero": "320",
-    "nome": "Cromo 320",
+    "nome": "Matos",
     "tenho": true,
     "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/320.jpg"
   },
   {
     "numero": "321",
-    "nome": "Cromo 321",
+    "nome": "Pablo Aimar (Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Craques",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/321.jpg"
   },
   {
     "numero": "322",
-    "nome": "Cromo 322",
+    "nome": "Fernando Belluschi (Porto)",
     "tenho": true,
     "especial": false,
+    "clube": "Craques",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/322.jpg"
   },
   {
     "numero": "323",
-    "nome": "Cromo 323",
+    "nome": "Bruno Alves(Porto)",
     "tenho": true,
     "especial": false,
+    "clube": "Craques",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/323.jpg"
   },
   {
     "numero": "324",
-    "nome": "Cromo 324",
+    "nome": "Felipe Caicedo (Sporting)",
     "tenho": true,
     "especial": false,
+    "clube": "Craques",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/324.jpg"
   },
   {
     "numero": "325",
-    "nome": "Cromo 325",
+    "nome": "Hulk(Porto)",
     "tenho": true,
     "especial": false,
+    "clube": "Craques",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/325.jpg"
   },
   {
     "numero": "326",
-    "nome": "Cromo 326",
+    "nome": "Angel Di Maria (Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Craques",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/326.jpg"
   },
   {
     "numero": "327",
-    "nome": "Cromo 327",
+    "nome": "Djalma(Maritimo)",
     "tenho": true,
     "especial": false,
+    "clube": "Craques",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/327.jpg"
   },
   {
     "numero": "328",
-    "nome": "Cromo 328",
+    "nome": "Douglas(Vitoria Guimaraes)",
     "tenho": true,
     "especial": false,
+    "clube": "Craques",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/328.jpg"
   },
   {
     "numero": "329",
-    "nome": "Cromo 329",
+    "nome": "Joao Alves(Vitoria Guimaraes)",
     "tenho": true,
     "especial": false,
+    "clube": "Craques",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/329.jpg"
   },
   {
     "numero": "330",
-    "nome": "Cromo 330",
+    "nome": "Joao Moutinho(Sporting)",
     "tenho": true,
     "especial": false,
+    "clube": "Craques",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/330.jpg"
   },
   {
     "numero": "331",
-    "nome": "Cromo 331",
+    "nome": "Joao Pereira(Braga)",
     "tenho": true,
     "especial": false,
+    "clube": "Craques",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/331.jpg"
   },
   {
     "numero": "332",
-    "nome": "Cromo 332",
+    "nome": "Liedson(Sporting)",
     "tenho": true,
     "especial": false,
+    "clube": "Craques",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/332.jpg"
   },
   {
     "numero": "333",
-    "nome": "Cromo 333",
+    "nome": "Matias Fernandez (Sporting)",
     "tenho": true,
     "especial": false,
+    "clube": "Craques",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/333.jpg"
   },
   {
     "numero": "334",
-    "nome": "Cromo 334",
+    "nome": "Nuno Gomes(Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Craques",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/334.jpg"
   },
   {
     "numero": "335",
-    "nome": "Cromo 335",
+    "nome": "Raul Meireles(Porto)",
     "tenho": true,
     "especial": false,
+    "clube": "Craques",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/335.jpg"
   },
   {
     "numero": "336",
-    "nome": "Cromo 336",
+    "nome": "Javier Saviola (Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Craques",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2009 2010/336.jpg"
   },
   {
     "numero": "337",
-    "nome": "Cromo 337",
+    "nome": "Adrien Silva(Sporting)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Jovens",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/337.jpg"
   },
   {
     "numero": "338",
-    "nome": "Cromo 338",
+    "nome": "Daniel Carriço (Sporting)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Jovens",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/338.jpg"
   },
   {
     "numero": "339",
-    "nome": "Cromo 339",
+    "nome": "Castro(Olhanense)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Jovens",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/339.jpg"
   },
   {
     "numero": "340",
-    "nome": "Cromo 340",
+    "nome": "Fabio Coentrao(Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Jovens",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/340.jpg"
   },
   {
     "numero": "341",
-    "nome": "Cromo 341",
+    "nome": "Helder Barbosa(Vitoria Setubal)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Jovens",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/341.jpg"
   },
   {
     "numero": "342",
-    "nome": "Cromo 342",
+    "nome": "Mano(Belenenses)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Jovens",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/342.jpg"
   },
   {
     "numero": "343",
-    "nome": "Cromo 343",
+    "nome": "Miguel Vitor(Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Jovens",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/343.jpg"
   },
   {
     "numero": "344",
-    "nome": "Cromo 344",
+    "nome": "Pereirinha(Sporting)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Jovens",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/344.jpg"
   },
   {
     "numero": "345",
-    "nome": "Cromo 345",
+    "nome": "Rabiola(Olhanense)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Jovens",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/345.jpg"
   },
   {
     "numero": "346",
-    "nome": "Cromo 346",
+    "nome": "Regula(Vitoria Setubal)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Jovens",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/346.jpg"
   },
   {
     "numero": "347",
-    "nome": "Cromo 347",
+    "nome": "Ruben Amorim(Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Jovens",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/347.jpg"
   },
   {
     "numero": "348",
-    "nome": "Cromo 348",
+    "nome": "Ruben Lima(Vitoria Setubal)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Jovens",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/348.jpg"
   },
   {
     "numero": "349",
-    "nome": "Cromo 349",
+    "nome": "Ruben Micael(Nacional)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Jovens",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/349.jpg"
   },
   {
     "numero": "350",
-    "nome": "Cromo 350",
+    "nome": "Silvestre Varela(Porto)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Jovens",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/350.jpg"
   },
   {
     "numero": "351",
-    "nome": "Cromo 351",
+    "nome": "Yannick Djalo(Sporting)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Jovens",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/351.jpg"
   },
   {
     "numero": "352",
-    "nome": "Cromo 352",
+    "nome": "Yazalde(Braga)",
     "tenho": true,
     "especial": false,
+    "clube": "Top Jovens",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/352.jpg"
   },
   {
     "numero": "353",
-    "nome": "Cromo 353",
+    "nome": "Nuno Coelho(Academica)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/353.jpg"
   },
   {
     "numero": "354",
-    "nome": "Cromo 354",
+    "nome": "Joao Ribeiro(Academica)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/354.jpg"
   },
   {
     "numero": "355",
-    "nome": "Cromo 355",
+    "nome": "Beto(Belenenses)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/355.jpg"
   },
   {
     "numero": "356",
-    "nome": "Cromo 356",
+    "nome": "Tiago Gomes(Belenenses)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/356.jpg"
   },
   {
     "numero": "357",
-    "nome": "Cromo 357",
+    "nome": "Freddy Adu(Belenenses)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/357.jpg"
   },
   {
     "numero": "358",
-    "nome": "Cromo 358",
+    "nome": "Julio Cesar(Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/358.jpg"
   },
   {
     "numero": "359",
-    "nome": "Cromo 359",
+    "nome": "Felipe Menezes(Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/359.jpg"
   },
   {
     "numero": "360",
-    "nome": "Cromo 360",
+    "nome": "Fabio Coentrao(Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/360.jpg"
   },
   {
     "numero": "361",
-    "nome": "Cromo 361",
+    "nome": "Weldon(Benfica)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/361.jpg"
   },
   {
     "numero": "362",
-    "nome": "Cromo 362",
+    "nome": "Adriano(Braga)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/362.jpg"
   },
   {
     "numero": "363",
-    "nome": "Cromo 363",
+    "nome": "Fernando Alexandre(Leixoes)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/363.jpg"
   },
   {
     "numero": "364",
-    "nome": "Cromo 364",
+    "nome": "Miguel Angelo(Maritimo)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/364.jpg"
   },
   {
     "numero": "365",
-    "nome": "Cromo 365",
+    "nome": "Roberto Sousa(Maritimo)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/365.jpg"
   },
   {
     "numero": "366",
-    "nome": "Cromo 366",
+    "nome": "Pacheco(Nacional)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/366.jpg"
   },
   {
     "numero": "367",
-    "nome": "Cromo 367",
+    "nome": "Amuneke(Nacional)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/367.jpg"
   },
   {
     "numero": "368",
-    "nome": "Cromo 368",
+    "nome": "Edgar Costa(Nacional)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/368.jpg"
   },
   {
     "numero": "369",
-    "nome": "Cromo 369",
+    "nome": "Edgar Silva(Nacional)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/369.jpg"
   },
   {
     "numero": "370",
-    "nome": "Cromo 370",
+    "nome": "N'Kake(Naval)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/370.jpg"
   },
   {
     "numero": "371",
-    "nome": "Cromo 371",
+    "nome": "Kerrouche(Naval)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/371.jpg"
   },
   {
     "numero": "372",
-    "nome": "Cromo 372",
+    "nome": "Paulo Sergio(Olhanense)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/372.jpg"
   },
   {
     "numero": "373",
-    "nome": "Cromo 373",
+    "nome": "Rabiola(Olhanense)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/373.jpg"
   },
   {
     "numero": "374",
-    "nome": "Cromo 374",
+    "nome": "Leandrinho(Pacos de Ferreira)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/374.jpg"
   },
   {
     "numero": "375",
-    "nome": "Cromo 375",
+    "nome": "Miguel Lopes(Porto)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/375.jpg"
   },
   {
     "numero": "376",
-    "nome": "Cromo 376",
+    "nome": "Maicon(Porto)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/376.jpg"
   },
   {
     "numero": "377",
-    "nome": "Cromo 377",
+    "nome": "Diego Valeri (Porto)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/377.jpg"
   },
   {
     "numero": "378",
-    "nome": "Cromo 378",
+    "nome": "Orlando Sa(Porto)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/378.jpg"
   },
   {
     "numero": "379",
-    "nome": "Cromo 379",
+    "nome": "Bruno Fogaca(Rio Ave)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/379.jpg"
   },
   {
     "numero": "380",
-    "nome": "Cromo 380",
+    "nome": "Andre Marques(Sporting)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/380.jpg"
   },
   {
     "numero": "381",
-    "nome": "Cromo 381",
+    "nome": "Angulo(Sporting)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/381.jpg"
   },
   {
     "numero": "382",
-    "nome": "Cromo 382",
+    "nome": "Saleiro(Sporting)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/382.jpg"
   },
   {
     "numero": "383",
-    "nome": "Cromo 383",
+    "nome": "Ronny(Uniao Leiria)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/383.jpg"
   },
   {
     "numero": "384",
-    "nome": "Cromo 384",
+    "nome": "Kalaba(Uniao Leiria)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/384.jpg"
   },
   {
     "numero": "385",
-    "nome": "Cromo 385",
+    "nome": "Tiago Luis(Uniao Leiria)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/385.jpg"
   },
   {
     "numero": "386",
-    "nome": "Cromo 386",
+    "nome": "Alex(Vitoria Guimaraes)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/386.jpg"
   },
   {
     "numero": "387",
-    "nome": "Cromo 387",
+    "nome": "Ivo Pinto(Vitoria Setubal)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/387.jpg"
   },
   {
     "numero": "388",
-    "nome": "Cromo 388",
+    "nome": "Guilherme(Vitoria Setubal)",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisicoes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2009 2010/388.jpg"
-  },
-  {
-    "numero": "389",
-    "nome": "Cromo 389",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2009 2010/389.jpg"
-  },
-  {
-    "numero": "390",
-    "nome": "Cromo 390",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2009 2010/390.jpg"
-  },
-  {
-    "numero": "391",
-    "nome": "Cromo 391",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2009 2010/391.jpg"
-  },
-  {
-    "numero": "392",
-    "nome": "Cromo 392",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2009 2010/392.jpg"
-  },
-  {
-    "numero": "393",
-    "nome": "Cromo 393",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2009 2010/393.jpg"
-  },
-  {
-    "numero": "394",
-    "nome": "Cromo 394",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2009 2010/394.jpg"
-  },
-  {
-    "numero": "395",
-    "nome": "Cromo 395",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2009 2010/395.jpg"
-  },
-  {
-    "numero": "396",
-    "nome": "Cromo 396",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2009 2010/396.jpg"
-  },
-  {
-    "numero": "397",
-    "nome": "Cromo 397",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2009 2010/397.jpg"
-  },
-  {
-    "numero": "398",
-    "nome": "Cromo 398",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2009 2010/398.jpg"
-  },
-  {
-    "numero": "399",
-    "nome": "Cromo 399",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2009 2010/399.jpg"
-  },
-  {
-    "numero": "400",
-    "nome": "Cromo 400",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2009 2010/400.jpg"
-  },
-  {
-    "numero": "401",
-    "nome": "Cromo 401",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2009 2010/401.jpg"
-  },
-  {
-    "numero": "402",
-    "nome": "Cromo 402",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2009 2010/402.jpg"
-  },
-  {
-    "numero": "403",
-    "nome": "Cromo 403",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2009 2010/403.jpg"
-  },
-  {
-    "numero": "404",
-    "nome": "Cromo 404",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2009 2010/404.jpg"
-  },
-  {
-    "numero": "405",
-    "nome": "Cromo 405",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2009 2010/405.jpg"
   }
 ]

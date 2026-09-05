@@ -1,2648 +1,3242 @@
 [
   {
-    "numero": "A",
-    "nome": "A",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/Sporting.jpg"
-  },
-  {
     "numero": "1",
-    "nome": "Cromo 1",
+    "nome": "Peter Schmeichel",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/1.jpg"
   },
   {
     "numero": "2",
-    "nome": "Cromo 2",
+    "nome": "Cesar Prates",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/2.jpg"
   },
   {
     "numero": "3",
-    "nome": "Cromo 3",
+    "nome": "Beto",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/3.jpg"
   },
   {
     "numero": "4",
-    "nome": "Cromo 4",
+    "nome": "Dimas",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/4.jpg"
   },
   {
     "numero": "5",
-    "nome": "Cromo 5",
+    "nome": "Andre Cruz",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/5.jpg"
   },
   {
     "numero": "6",
-    "nome": "Cromo 6",
+    "nome": "Rui Jorge",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/6.jpg"
   },
   {
     "numero": "7",
-    "nome": "Cromo 7",
+    "nome": "Paulo Bento",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/7.jpg"
   },
   {
     "numero": "8",
-    "nome": "Cromo 8",
+    "nome": "Delfim",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/8.jpg"
   },
   {
     "numero": "9",
-    "nome": "Cromo 9",
+    "nome": "Edmilson",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/9.jpg"
   },
   {
     "numero": "10",
-    "nome": "Cromo 10",
+    "nome": "Pedro Barbosa",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/10.jpg"
   },
   {
     "numero": "11",
-    "nome": "Cromo 11",
+    "nome": "Sa Pinto",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/11.jpg"
   },
   {
     "numero": "12",
-    "nome": "Cromo 12",
+    "nome": "Tonito",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/12.jpg"
   },
   {
     "numero": "13",
-    "nome": "Cromo 13",
+    "nome": "Bino",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/13.jpg"
   },
   {
     "numero": "14",
-    "nome": "Cromo 14",
+    "nome": "Acosta",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/14.jpg"
   },
   {
     "numero": "15",
-    "nome": "Cromo 15",
+    "nome": "Iordanov",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/15.jpg"
   },
   {
     "numero": "16",
-    "nome": "Cromo 16",
+    "nome": "Joao Pinto",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/16.jpg"
   },
   {
     "numero": "17",
-    "nome": "Cromo 17",
+    "nome": "Horvath",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/17.jpg"
   },
   {
     "numero": "18",
-    "nome": "Cromo 18",
+    "nome": "Nelson",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/18.jpg"
   },
   {
-    "numero": "B",
-    "nome": "B",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/Porto.jpg"
-  },
-  {
     "numero": "19",
-    "nome": "Cromo 19",
+    "nome": "Vitor Baia",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/19.jpg"
   },
   {
     "numero": "20",
-    "nome": "Cromo 20",
+    "nome": "Nélson",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/20.jpg"
   },
   {
     "numero": "21",
-    "nome": "Cromo 21",
+    "nome": "Jorge Costa",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/21.jpg"
   },
   {
     "numero": "22",
-    "nome": "Cromo 22",
+    "nome": "Aloisio",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/22.jpg"
   },
   {
     "numero": "23",
-    "nome": "Cromo 23",
+    "nome": "Ricardo Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/23.jpg"
   },
   {
     "numero": "24",
-    "nome": "Cromo 24",
+    "nome": "Jorge Andrade",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/24.jpg"
   },
   {
     "numero": "25",
-    "nome": "Cromo 25",
+    "nome": "Paulinho Santos",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/25.jpg"
   },
   {
     "numero": "26",
-    "nome": "Cromo 26",
+    "nome": "Deco",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/26.jpg"
   },
   {
     "numero": "27",
-    "nome": "Cromo 27",
+    "nome": "Drulovic",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/27.jpg"
   },
   {
     "numero": "28",
-    "nome": "Cromo 28",
+    "nome": "Capucho",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/28.jpg"
   },
   {
     "numero": "29",
-    "nome": "Cromo 29",
+    "nome": "Paredes",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/29.jpg"
   },
   {
     "numero": "30",
-    "nome": "Cromo 30",
+    "nome": "Alenitchev",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/30.jpg"
   },
   {
     "numero": "31",
-    "nome": "Cromo 31",
+    "nome": "Domingos",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/31.jpg"
   },
   {
     "numero": "32",
-    "nome": "Cromo 32",
+    "nome": "Chainho",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/32.jpg"
   },
   {
     "numero": "33",
-    "nome": "Cromo 33",
+    "nome": "Rubens Junior",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/33.jpg"
   },
   {
     "numero": "34",
-    "nome": "Cromo 34",
+    "nome": "Candido",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/34.jpg"
   },
   {
     "numero": "35",
-    "nome": "Cromo 35",
+    "nome": "Clayton",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/35.jpg"
   },
   {
     "numero": "36",
-    "nome": "Cromo 36",
+    "nome": "Sergei Ovchinnikov",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/36.jpg"
   },
   {
-    "numero": "C",
-    "nome": "C",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/Benfica.jpg"
-  },
-  {
     "numero": "37",
-    "nome": "Cromo 37",
+    "nome": "Enke",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/37.jpg"
   },
   {
     "numero": "38",
-    "nome": "Cromo 38",
+    "nome": "Fernando Meira",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/38.jpg"
   },
   {
     "numero": "39",
-    "nome": "Cromo 39",
+    "nome": "Paulo Madeira",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/39.jpg"
   },
   {
     "numero": "40",
-    "nome": "Cromo 40",
+    "nome": "Ronaldo",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/40.jpg"
   },
   {
     "numero": "41",
-    "nome": "Cromo 41",
+    "nome": "Sergio Nunes",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/41.jpg"
   },
   {
     "numero": "42",
-    "nome": "Cromo 42",
+    "nome": "Karel Poborsky",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/42.jpg"
   },
   {
     "numero": "43",
-    "nome": "Cromo 43",
+    "nome": "Calado",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/43.jpg"
   },
   {
     "numero": "44",
-    "nome": "Cromo 44",
+    "nome": "Kandaurov",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/44.jpg"
   },
   {
     "numero": "45",
-    "nome": "Cromo 45",
+    "nome": "Maniche",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/45.jpg"
   },
   {
     "numero": "46",
-    "nome": "Cromo 46",
+    "nome": "Chano",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/46.jpg"
   },
   {
     "numero": "47",
-    "nome": "Cromo 47",
+    "nome": "Marchena",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/47.jpg"
   },
   {
     "numero": "48",
-    "nome": "Cromo 48",
+    "nome": "Carlitos",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/48.jpg"
   },
   {
     "numero": "49",
-    "nome": "Cromo 49",
+    "nome": "Joao Tomas",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/49.jpg"
   },
   {
     "numero": "50",
-    "nome": "Cromo 50",
+    "nome": "Rojas",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/50.jpg"
   },
   {
     "numero": "51",
-    "nome": "Cromo 51",
+    "nome": "Van Hooijdonk",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/51.jpg"
   },
   {
     "numero": "52",
-    "nome": "Cromo 52",
+    "nome": "Sabry",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/52.jpg"
   },
   {
     "numero": "53",
-    "nome": "Cromo 53",
+    "nome": "Miguel",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/53.jpg"
   },
   {
     "numero": "54",
-    "nome": "Cromo 54",
+    "nome": "Bossio",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/54.jpg"
   },
   {
-    "numero": "D",
-    "nome": "D",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/Boavista.jpg"
-  },
-  {
     "numero": "55",
-    "nome": "Cromo 55",
+    "nome": "William",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/55.jpg"
   },
   {
     "numero": "56",
-    "nome": "Cromo 56",
+    "nome": "Rui Oscar",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/56.jpg"
   },
   {
     "numero": "57",
-    "nome": "Cromo 57",
+    "nome": "Litos",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/57.jpg"
   },
   {
     "numero": "58",
-    "nome": "Cromo 58",
+    "nome": "Pedro Emanuel",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/58.jpg"
   },
   {
     "numero": "59",
-    "nome": "Cromo 59",
+    "nome": "Jorge Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/59.jpg"
   },
   {
     "numero": "60",
-    "nome": "Cromo 60",
+    "nome": "Rui Bento",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/60.jpg"
   },
   {
     "numero": "61",
-    "nome": "Cromo 61",
+    "nome": "Gouveia",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/61.jpg"
   },
   {
     "numero": "62",
-    "nome": "Cromo 62",
+    "nome": "Martelinho",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/62.jpg"
   },
   {
     "numero": "63",
-    "nome": "Cromo 63",
+    "nome": "Jorge Couto",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/63.jpg"
   },
   {
     "numero": "64",
-    "nome": "Cromo 64",
+    "nome": "Whellinton",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/64.jpg"
   },
   {
     "numero": "65",
-    "nome": "Cromo 65",
+    "nome": "Demétrios",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/65.jpg"
   },
   {
     "numero": "66",
-    "nome": "Cromo 66",
+    "nome": "Emanuel",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/66.jpg"
   },
   {
     "numero": "67",
-    "nome": "Cromo 67",
+    "nome": "Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/67.jpg"
   },
   {
     "numero": "68",
-    "nome": "Cromo 68",
+    "nome": "Rogério",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/68.jpg"
   },
   {
     "numero": "69",
-    "nome": "Cromo 69",
+    "nome": "Sanchez",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/69.jpg"
   },
   {
     "numero": "70",
-    "nome": "Cromo 70",
+    "nome": "Quevedo",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/70.jpg"
   },
   {
     "numero": "71",
-    "nome": "Cromo 71",
+    "nome": "Duda",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/71.jpg"
   },
   {
     "numero": "72",
-    "nome": "Cromo 72",
+    "nome": "Ricardo",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/72.jpg"
   },
   {
-    "numero": "E",
-    "nome": "E",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/Gil Vicente.jpg"
-  },
-  {
     "numero": "73",
-    "nome": "Cromo 73",
+    "nome": "Figurinha 73",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/73.jpg"
   },
   {
     "numero": "74",
-    "nome": "Cromo 74",
+    "nome": "Figurinha 74",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/74.jpg"
   },
   {
     "numero": "75",
-    "nome": "Cromo 75",
+    "nome": "Figurinha 75",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/75.jpg"
   },
   {
     "numero": "76",
-    "nome": "Cromo 76",
+    "nome": "Paulo César",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/76.jpg"
   },
   {
     "numero": "77",
-    "nome": "Cromo 77",
+    "nome": "Figurinha 77",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/77.jpg"
   },
   {
     "numero": "78",
-    "nome": "Cromo 78",
+    "nome": "Figurinha 78",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/78.jpg"
   },
   {
     "numero": "79",
-    "nome": "Cromo 79",
+    "nome": "Figurinha 79",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/79.jpg"
   },
   {
     "numero": "80",
-    "nome": "Cromo 80",
+    "nome": "Figurinha 80",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/80.jpg"
   },
   {
     "numero": "81",
-    "nome": "Cromo 81",
+    "nome": "Figurinha 81",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/81.jpg"
   },
   {
     "numero": "82",
-    "nome": "Cromo 82",
+    "nome": "Sadjo",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/82.jpg"
   },
   {
     "numero": "83",
-    "nome": "Cromo 83",
+    "nome": "Sergio Lomba",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/83.jpg"
   },
   {
     "numero": "84",
-    "nome": "Cromo 84",
+    "nome": "Andre",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/84.jpg"
   },
   {
     "numero": "85",
-    "nome": "Cromo 85",
+    "nome": "Bessa",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/85.jpg"
   },
   {
     "numero": "86",
-    "nome": "Cromo 86",
+    "nome": "Deo",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/86.jpg"
   },
   {
     "numero": "87",
-    "nome": "Cromo 87",
+    "nome": "Vitor Vieira",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/87.jpg"
   },
   {
     "numero": "88",
-    "nome": "Cromo 88",
+    "nome": "Lemos",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/88.jpg"
   },
   {
     "numero": "89",
-    "nome": "Cromo 89",
+    "nome": "Ivo Afonso",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/89.jpg"
   },
   {
     "numero": "90",
-    "nome": "Cromo 90",
+    "nome": "Adriano",
     "tenho": true,
     "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/90.jpg"
   },
   {
-    "numero": "F",
-    "nome": "F",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/Maritimo.jpg"
-  },
-  {
     "numero": "91",
-    "nome": "Cromo 91",
+    "nome": "Gilmar",
     "tenho": true,
     "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/91.jpg"
   },
   {
     "numero": "92",
-    "nome": "Cromo 92",
+    "nome": "Figurinha 92",
     "tenho": true,
     "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/92.jpg"
   },
   {
     "numero": "93",
-    "nome": "Cromo 93",
+    "nome": "Figurinha 93",
     "tenho": true,
     "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/93.jpg"
   },
   {
     "numero": "94",
-    "nome": "Cromo 94",
+    "nome": "Figurinha 94",
     "tenho": true,
     "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/94.jpg"
   },
   {
     "numero": "95",
-    "nome": "Cromo 95",
+    "nome": "Figurinha 95",
     "tenho": true,
     "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/95.jpg"
   },
   {
     "numero": "96",
-    "nome": "Cromo 96",
+    "nome": "Figurinha 96",
     "tenho": true,
     "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/96.jpg"
   },
   {
     "numero": "97",
-    "nome": "Cromo 97",
+    "nome": "Figurinha 97",
     "tenho": true,
     "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/97.jpg"
   },
   {
     "numero": "98",
-    "nome": "Cromo 98",
+    "nome": "Figurinha 98",
     "tenho": true,
     "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/98.jpg"
   },
   {
     "numero": "99",
-    "nome": "Cromo 99",
+    "nome": "Bakero",
     "tenho": true,
     "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/99.jpg"
   },
   {
     "numero": "100",
-    "nome": "Cromo 100",
+    "nome": "Dani Diaz",
     "tenho": true,
     "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/100.jpg"
   },
   {
     "numero": "101",
-    "nome": "Cromo 101",
+    "nome": "Jokanovic",
     "tenho": true,
     "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/101.jpg"
   },
   {
     "numero": "102",
-    "nome": "Cromo 102",
+    "nome": "Figurinha 102",
     "tenho": true,
     "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/102.jpg"
   },
   {
     "numero": "103",
-    "nome": "Cromo 103",
+    "nome": "Paulo Sérgio",
     "tenho": true,
     "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/103.jpg"
   },
   {
     "numero": "104",
-    "nome": "Cromo 104",
+    "nome": "Illiev",
     "tenho": true,
     "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/104.jpg"
   },
   {
     "numero": "105",
-    "nome": "Cromo 105",
+    "nome": "Sumudica",
     "tenho": true,
     "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/105.jpg"
   },
   {
     "numero": "106",
-    "nome": "Cromo 106",
+    "nome": "Figurinha 106",
     "tenho": true,
     "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/106.jpg"
   },
   {
     "numero": "107",
-    "nome": "Cromo 107",
+    "nome": "Figurinha 107",
     "tenho": true,
     "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/107.jpg"
   },
   {
     "numero": "108",
-    "nome": "Cromo 108",
+    "nome": "Figurinha 108",
     "tenho": true,
     "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/108.jpg"
   },
   {
-    "numero": "G",
-    "nome": "G",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/Guimaraes.jpg"
-  },
-  {
     "numero": "109",
-    "nome": "Cromo 109",
+    "nome": "Figurinha 109",
     "tenho": true,
     "especial": false,
+    "clube": "Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/109.jpg"
   },
   {
     "numero": "110",
-    "nome": "Cromo 110",
+    "nome": "Figurinha 110",
     "tenho": true,
     "especial": false,
+    "clube": "Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/110.jpg"
   },
   {
     "numero": "111",
-    "nome": "Cromo 111",
+    "nome": "Figurinha 111",
     "tenho": true,
     "especial": false,
+    "clube": "Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/111.jpg"
   },
   {
     "numero": "112",
-    "nome": "Cromo 112",
+    "nome": "Figurinha 112",
     "tenho": true,
     "especial": false,
+    "clube": "Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/112.jpg"
   },
   {
     "numero": "113",
-    "nome": "Cromo 113",
+    "nome": "Figurinha 113",
     "tenho": true,
     "especial": false,
+    "clube": "Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/113.jpg"
   },
   {
     "numero": "114",
-    "nome": "Cromo 114",
+    "nome": "Figurinha 114",
     "tenho": true,
     "especial": false,
+    "clube": "Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/114.jpg"
   },
   {
     "numero": "115",
-    "nome": "Cromo 115",
+    "nome": "Soderstrom",
     "tenho": true,
     "especial": false,
+    "clube": "Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/115.jpg"
   },
   {
     "numero": "116",
-    "nome": "Cromo 116",
+    "nome": "Figurinha 116",
     "tenho": true,
     "especial": false,
+    "clube": "Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/116.jpg"
   },
   {
     "numero": "117",
-    "nome": "Cromo 117",
+    "nome": "Figurinha 117",
     "tenho": true,
     "especial": false,
+    "clube": "Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/117.jpg"
   },
   {
     "numero": "118",
-    "nome": "Cromo 118",
+    "nome": "Figurinha 118",
     "tenho": true,
     "especial": false,
+    "clube": "Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/118.jpg"
   },
   {
     "numero": "119",
-    "nome": "Cromo 119",
+    "nome": "Figurinha 119",
     "tenho": true,
     "especial": false,
+    "clube": "Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/119.jpg"
   },
   {
     "numero": "120",
-    "nome": "Cromo 120",
+    "nome": "Figurinha 120",
     "tenho": true,
     "especial": false,
+    "clube": "Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/120.jpg"
   },
   {
     "numero": "121",
-    "nome": "Cromo 121",
+    "nome": "William",
     "tenho": true,
     "especial": false,
+    "clube": "Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/121.jpg"
   },
   {
     "numero": "122",
-    "nome": "Cromo 122",
+    "nome": "Preto",
     "tenho": true,
     "especial": false,
+    "clube": "Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/122.jpg"
   },
   {
     "numero": "123",
-    "nome": "Cromo 123",
+    "nome": "Figurinha 123",
     "tenho": true,
     "especial": false,
+    "clube": "Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/123.jpg"
   },
   {
     "numero": "124",
-    "nome": "Cromo 124",
+    "nome": "Figurinha 124",
     "tenho": true,
     "especial": false,
+    "clube": "Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/124.jpg"
   },
   {
     "numero": "125",
-    "nome": "Cromo 125",
+    "nome": "Carlos",
     "tenho": true,
     "especial": false,
+    "clube": "Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/125.jpg"
   },
   {
     "numero": "126",
-    "nome": "Cromo 126",
+    "nome": "Figurinha 126",
     "tenho": true,
     "especial": false,
+    "clube": "Guimaraes",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/126.jpg"
   },
   {
-    "numero": "H",
-    "nome": "H",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/Estrela.jpg"
-  },
-  {
     "numero": "127",
-    "nome": "Cromo 127",
+    "nome": "Figurinha 127",
     "tenho": true,
     "especial": false,
+    "clube": "Estrela da Amadora",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/127.jpg"
   },
   {
     "numero": "128",
-    "nome": "Cromo 128",
+    "nome": "Figurinha 128",
     "tenho": true,
     "especial": false,
+    "clube": "Estrela da Amadora",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/128.jpg"
   },
   {
     "numero": "129",
-    "nome": "Cromo 129",
+    "nome": "Figurinha 129",
     "tenho": true,
     "especial": false,
+    "clube": "Estrela da Amadora",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/129.jpg"
   },
   {
     "numero": "130",
-    "nome": "Cromo 130",
+    "nome": "Figurinha 130",
     "tenho": true,
     "especial": false,
+    "clube": "Estrela da Amadora",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/130.jpg"
   },
   {
     "numero": "131",
-    "nome": "Cromo 131",
+    "nome": "Figurinha 131",
     "tenho": true,
     "especial": false,
+    "clube": "Estrela da Amadora",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/131.jpg"
   },
   {
     "numero": "132",
-    "nome": "Cromo 132",
+    "nome": "Figurinha 132",
     "tenho": true,
     "especial": false,
+    "clube": "Estrela da Amadora",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/132.jpg"
   },
   {
     "numero": "133",
-    "nome": "Cromo 133",
+    "nome": "Figurinha 133",
     "tenho": true,
     "especial": false,
+    "clube": "Estrela da Amadora",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/133.jpg"
   },
   {
     "numero": "134",
-    "nome": "Cromo 134",
+    "nome": "Figurinha 134",
     "tenho": true,
     "especial": false,
+    "clube": "Estrela da Amadora",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/134.jpg"
   },
   {
     "numero": "135",
-    "nome": "Cromo 135",
+    "nome": "Figurinha 135",
     "tenho": true,
     "especial": false,
+    "clube": "Estrela da Amadora",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/135.jpg"
   },
   {
     "numero": "136",
-    "nome": "Cromo 136",
+    "nome": "Fonseca",
     "tenho": true,
     "especial": false,
+    "clube": "Estrela da Amadora",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/136.jpg"
   },
   {
     "numero": "137",
-    "nome": "Cromo 137",
+    "nome": "Cadete",
     "tenho": true,
     "especial": false,
+    "clube": "Estrela da Amadora",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/137.jpg"
   },
   {
     "numero": "138",
-    "nome": "Cromo 138",
+    "nome": "Figurinha 138",
     "tenho": true,
     "especial": false,
+    "clube": "Estrela da Amadora",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/138.jpg"
   },
   {
     "numero": "139",
-    "nome": "Cromo 139",
+    "nome": "Gilberto",
     "tenho": true,
     "especial": false,
+    "clube": "Estrela da Amadora",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/139.jpg"
   },
   {
     "numero": "140",
-    "nome": "Cromo 140",
+    "nome": "Figurinha 140",
     "tenho": true,
     "especial": false,
+    "clube": "Estrela da Amadora",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/140.jpg"
   },
   {
     "numero": "141",
-    "nome": "Cromo 141",
+    "nome": "Gaúcho",
     "tenho": true,
     "especial": false,
+    "clube": "Estrela da Amadora",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/141.jpg"
   },
   {
     "numero": "142",
-    "nome": "Cromo 142",
+    "nome": "Figurinha 142",
     "tenho": true,
     "especial": false,
+    "clube": "Estrela da Amadora",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/142.jpg"
   },
   {
     "numero": "143",
-    "nome": "Cromo 143",
+    "nome": "Figurinha 143",
     "tenho": true,
     "especial": false,
+    "clube": "Estrela da Amadora",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/143.jpg"
   },
   {
     "numero": "144",
-    "nome": "Cromo 144",
+    "nome": "Figurinha 144",
     "tenho": true,
     "especial": false,
+    "clube": "Estrela da Amadora",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/144.jpg"
   },
   {
-    "numero": "I",
-    "nome": "I",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/Braga.jpg"
-  },
-  {
     "numero": "145",
-    "nome": "Cromo 145",
+    "nome": "Quim",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/145.jpg"
   },
   {
     "numero": "146",
-    "nome": "Cromo 146",
+    "nome": "Jose Nuno",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/146.jpg"
   },
   {
     "numero": "147",
-    "nome": "Cromo 147",
+    "nome": "Rodrigo",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/147.jpg"
   },
   {
     "numero": "148",
-    "nome": "Cromo 148",
+    "nome": "Andrade",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/148.jpg"
   },
   {
     "numero": "149",
-    "nome": "Cromo 149",
+    "nome": "Idalecio",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/149.jpg"
   },
   {
     "numero": "150",
-    "nome": "Cromo 150",
+    "nome": "Odair",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/150.jpg"
   },
   {
     "numero": "151",
-    "nome": "Cromo 151",
+    "nome": "Artur Jorge",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/151.jpg"
   },
   {
     "numero": "152",
-    "nome": "Cromo 152",
+    "nome": "Mozer",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/152.jpg"
   },
   {
     "numero": "153",
-    "nome": "Cromo 153",
+    "nome": "Jordao",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/153.jpg"
   },
   {
     "numero": "154",
-    "nome": "Cromo 154",
+    "nome": "Castanheira",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/154.jpg"
   },
   {
     "numero": "155",
-    "nome": "Cromo 155",
+    "nome": "Barroso",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/155.jpg"
   },
   {
     "numero": "156",
-    "nome": "Cromo 156",
+    "nome": "Toni",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/156.jpg"
   },
   {
     "numero": "157",
-    "nome": "Cromo 157",
+    "nome": "Edmilson",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/157.jpg"
   },
   {
     "numero": "158",
-    "nome": "Cromo 158",
+    "nome": "Riva",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/158.jpg"
   },
   {
     "numero": "159",
-    "nome": "Cromo 159",
+    "nome": "Luis Filipe",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/159.jpg"
   },
   {
     "numero": "160",
-    "nome": "Cromo 160",
+    "nome": "Luis Miguel",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/160.jpg"
   },
   {
     "numero": "161",
-    "nome": "Cromo 161",
+    "nome": "Feher",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/161.jpg"
   },
   {
     "numero": "162",
-    "nome": "Cromo 162",
+    "nome": "Paulo Morais",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/162.jpg"
   },
   {
-    "numero": "J",
-    "nome": "J",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/Leiria.jpg"
-  },
-  {
     "numero": "163",
-    "nome": "Cromo 163",
+    "nome": "Costinha",
     "tenho": true,
     "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/163.jpg"
   },
   {
     "numero": "164",
-    "nome": "Cromo 164",
+    "nome": "Bilro",
     "tenho": true,
     "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/164.jpg"
   },
   {
     "numero": "165",
-    "nome": "Cromo 165",
+    "nome": "Joao Manuel",
     "tenho": true,
     "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/165.jpg"
   },
   {
     "numero": "166",
-    "nome": "Cromo 166",
+    "nome": "Nuno Valente",
     "tenho": true,
     "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/166.jpg"
   },
   {
     "numero": "167",
-    "nome": "Cromo 167",
+    "nome": "Paulo Duarte",
     "tenho": true,
     "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/167.jpg"
   },
   {
     "numero": "168",
-    "nome": "Cromo 168",
+    "nome": "Luis Vouzela",
     "tenho": true,
     "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/168.jpg"
   },
   {
     "numero": "169",
-    "nome": "Cromo 169",
+    "nome": "Tiago",
     "tenho": true,
     "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/169.jpg"
   },
   {
     "numero": "170",
-    "nome": "Cromo 170",
+    "nome": "Zezinho",
     "tenho": true,
     "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/170.jpg"
   },
   {
     "numero": "171",
-    "nome": "Cromo 171",
+    "nome": "Cedric",
     "tenho": true,
     "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/171.jpg"
   },
   {
     "numero": "172",
-    "nome": "Cromo 172",
+    "nome": "Paulo Alves",
     "tenho": true,
     "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/172.jpg"
   },
   {
     "numero": "173",
-    "nome": "Cromo 173",
+    "nome": "Renato",
     "tenho": true,
     "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/173.jpg"
   },
   {
     "numero": "174",
-    "nome": "Cromo 174",
+    "nome": "Luis Carlos",
     "tenho": true,
     "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/174.jpg"
   },
   {
     "numero": "175",
-    "nome": "Cromo 175",
+    "nome": "Leao",
     "tenho": true,
     "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/175.jpg"
   },
   {
     "numero": "176",
-    "nome": "Cromo 176",
+    "nome": "Duah",
     "tenho": true,
     "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/176.jpg"
   },
   {
     "numero": "177",
-    "nome": "Cromo 177",
+    "nome": "Derlei",
     "tenho": true,
     "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/177.jpg"
   },
   {
     "numero": "178",
-    "nome": "Cromo 178",
+    "nome": "Dinda",
     "tenho": true,
     "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/178.jpg"
   },
   {
     "numero": "179",
-    "nome": "Cromo 179",
+    "nome": "Krpan",
     "tenho": true,
     "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/179.jpg"
   },
   {
     "numero": "180",
-    "nome": "Cromo 180",
+    "nome": "Baptista",
     "tenho": true,
     "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/180.jpg"
   },
   {
-    "numero": "K",
-    "nome": "K",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/Alverca.jpg"
-  },
-  {
     "numero": "181",
-    "nome": "Cromo 181",
+    "nome": "Figurinha 181",
     "tenho": true,
     "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/181.jpg"
   },
   {
     "numero": "182",
-    "nome": "Cromo 182",
+    "nome": "Figurinha 182",
     "tenho": true,
     "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/182.jpg"
   },
   {
     "numero": "183",
-    "nome": "Cromo 183",
+    "nome": "Figurinha 183",
     "tenho": true,
     "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/183.jpg"
   },
   {
     "numero": "184",
-    "nome": "Cromo 184",
+    "nome": "Ricardo Carvalho",
     "tenho": true,
     "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/184.jpg"
   },
   {
     "numero": "185",
-    "nome": "Cromo 185",
+    "nome": "Figurinha 185",
     "tenho": true,
     "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/185.jpg"
   },
   {
     "numero": "186",
-    "nome": "Cromo 186",
+    "nome": "Figurinha 186",
     "tenho": true,
     "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/186.jpg"
   },
   {
     "numero": "187",
-    "nome": "Cromo 187",
+    "nome": "Figurinha 187",
     "tenho": true,
     "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/187.jpg"
   },
   {
     "numero": "188",
-    "nome": "Cromo 188",
+    "nome": "Figurinha 188",
     "tenho": true,
     "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/188.jpg"
   },
   {
     "numero": "189",
-    "nome": "Cromo 189",
+    "nome": "Figurinha 189",
     "tenho": true,
     "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/189.jpg"
   },
   {
     "numero": "190",
-    "nome": "Cromo 190",
+    "nome": "Milinkovic",
     "tenho": true,
     "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/190.jpg"
   },
   {
     "numero": "191",
-    "nome": "Cromo 191",
+    "nome": "Caju",
     "tenho": true,
     "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/191.jpg"
   },
   {
     "numero": "192",
-    "nome": "Cromo 192",
+    "nome": "Pedro Martins",
     "tenho": true,
     "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/192.jpg"
   },
   {
     "numero": "193",
-    "nome": "Cromo 193",
+    "nome": "Figurinha 193",
     "tenho": true,
     "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/193.jpg"
   },
   {
     "numero": "194",
-    "nome": "Cromo 194",
+    "nome": "Figurinha 194",
     "tenho": true,
     "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/194.jpg"
   },
   {
     "numero": "195",
-    "nome": "Cromo 195",
+    "nome": "Figurinha 195",
     "tenho": true,
     "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/195.jpg"
   },
   {
     "numero": "196",
-    "nome": "Cromo 196",
+    "nome": "Figurinha 196",
     "tenho": true,
     "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/196.jpg"
   },
   {
     "numero": "197",
-    "nome": "Cromo 197",
+    "nome": "Chiquinho Conde",
     "tenho": true,
     "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/197.jpg"
   },
   {
     "numero": "198",
-    "nome": "Cromo 198",
+    "nome": "Figurinha 198",
     "tenho": true,
     "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/198.jpg"
   },
   {
-    "numero": "L",
-    "nome": "L",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/Belenenses.jpg"
-  },
-  {
     "numero": "199",
-    "nome": "Cromo 199",
+    "nome": "Marco Aurélio",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/199.jpg"
   },
   {
     "numero": "200",
-    "nome": "Cromo 200",
+    "nome": "Figurinha 200",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/200.jpg"
   },
   {
     "numero": "201",
-    "nome": "Cromo 201",
+    "nome": "Filgueira",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/201.jpg"
   },
   {
     "numero": "202",
-    "nome": "Cromo 202",
+    "nome": "Figurinha 202",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/202.jpg"
   },
   {
     "numero": "203",
-    "nome": "Cromo 203",
+    "nome": "Figurinha 203",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/203.jpg"
   },
   {
     "numero": "204",
-    "nome": "Cromo 204",
+    "nome": "Figurinha 204",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/204.jpg"
   },
   {
     "numero": "205",
-    "nome": "Cromo 205",
+    "nome": "Litos",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/205.jpg"
   },
   {
     "numero": "206",
-    "nome": "Cromo 206",
+    "nome": "Figurinha 206",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/206.jpg"
   },
   {
     "numero": "207",
-    "nome": "Cromo 207",
+    "nome": "Figurinha 207",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/207.jpg"
   },
   {
     "numero": "208",
-    "nome": "Cromo 208",
+    "nome": "Figurinha 208",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/208.jpg"
   },
   {
     "numero": "209",
-    "nome": "Cromo 209",
+    "nome": "Eliel",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/209.jpg"
   },
   {
     "numero": "210",
-    "nome": "Cromo 210",
+    "nome": "Seba",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/210.jpg"
   },
   {
     "numero": "211",
-    "nome": "Cromo 211",
+    "nome": "Figurinha 211",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/211.jpg"
   },
   {
     "numero": "212",
-    "nome": "Cromo 212",
+    "nome": "Figurinha 212",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/212.jpg"
   },
   {
     "numero": "213",
-    "nome": "Cromo 213",
+    "nome": "Verona",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/213.jpg"
   },
   {
     "numero": "214",
-    "nome": "Cromo 214",
+    "nome": "Marcao",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/214.jpg"
   },
   {
     "numero": "215",
-    "nome": "Cromo 215",
+    "nome": "Guga",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/215.jpg"
   },
   {
     "numero": "216",
-    "nome": "Cromo 216",
+    "nome": "Figurinha 216",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/216.jpg"
   },
   {
-    "numero": "M",
-    "nome": "M",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/Campomaiorense.jpg"
-  },
-  {
     "numero": "217",
-    "nome": "Cromo 217",
+    "nome": "Poleksic",
     "tenho": true,
     "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/217.jpg"
   },
   {
     "numero": "218",
-    "nome": "Cromo 218",
+    "nome": "Figurinha 218",
     "tenho": true,
     "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/218.jpg"
   },
   {
     "numero": "219",
-    "nome": "Cromo 219",
+    "nome": "Figurinha 219",
     "tenho": true,
     "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/219.jpg"
   },
   {
     "numero": "220",
-    "nome": "Cromo 220",
+    "nome": "Figurinha 220",
     "tenho": true,
     "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/220.jpg"
   },
   {
     "numero": "221",
-    "nome": "Cromo 221",
+    "nome": "Figurinha 221",
     "tenho": true,
     "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/221.jpg"
   },
   {
     "numero": "222",
-    "nome": "Cromo 222",
+    "nome": "Figurinha 222",
     "tenho": true,
     "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/222.jpg"
   },
   {
     "numero": "223",
-    "nome": "Cromo 223",
+    "nome": "Figurinha 223",
     "tenho": true,
     "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/223.jpg"
   },
   {
     "numero": "224",
-    "nome": "Cromo 224",
+    "nome": "Figurinha 224",
     "tenho": true,
     "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/224.jpg"
   },
   {
     "numero": "225",
-    "nome": "Cromo 225",
+    "nome": "Figurinha 225",
     "tenho": true,
     "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/225.jpg"
   },
   {
     "numero": "226",
-    "nome": "Cromo 226",
+    "nome": "Figurinha 226",
     "tenho": true,
     "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/226.jpg"
   },
   {
     "numero": "227",
-    "nome": "Cromo 227",
+    "nome": "Figurinha 227",
     "tenho": true,
     "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/227.jpg"
   },
   {
     "numero": "228",
-    "nome": "Cromo 228",
+    "nome": "Figurinha 228",
     "tenho": true,
     "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/228.jpg"
   },
   {
     "numero": "229",
-    "nome": "Cromo 229",
+    "nome": "Figurinha 229",
     "tenho": true,
     "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/229.jpg"
   },
   {
     "numero": "230",
-    "nome": "Cromo 230",
+    "nome": "Figurinha 230",
     "tenho": true,
     "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/230.jpg"
   },
   {
     "numero": "231",
-    "nome": "Cromo 231",
+    "nome": "Figurinha 231",
     "tenho": true,
     "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/231.jpg"
   },
   {
     "numero": "232",
-    "nome": "Cromo 232",
+    "nome": "Figurinha 232",
     "tenho": true,
     "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/232.jpg"
   },
   {
     "numero": "233",
-    "nome": "Cromo 233",
+    "nome": "Figurinha 233",
     "tenho": true,
     "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/233.jpg"
   },
   {
     "numero": "234",
-    "nome": "Cromo 234",
+    "nome": "Figurinha 234",
     "tenho": true,
     "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/234.jpg"
   },
   {
-    "numero": "N",
-    "nome": "N",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/Farense.jpg"
-  },
-  {
     "numero": "235",
-    "nome": "Cromo 235",
+    "nome": "Figurinha 235",
     "tenho": true,
     "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/235.jpg"
   },
   {
     "numero": "236",
-    "nome": "Cromo 236",
+    "nome": "Figurinha 236",
     "tenho": true,
     "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/236.jpg"
   },
   {
     "numero": "237",
-    "nome": "Cromo 237",
+    "nome": "Figurinha 237",
     "tenho": true,
     "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/237.jpg"
   },
   {
     "numero": "238",
-    "nome": "Cromo 238",
+    "nome": "Figurinha 238",
     "tenho": true,
     "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/238.jpg"
   },
   {
     "numero": "239",
-    "nome": "Cromo 239",
+    "nome": "Rodri",
     "tenho": true,
     "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/239.jpg"
   },
   {
     "numero": "240",
-    "nome": "Cromo 240",
+    "nome": "Besirovic",
     "tenho": true,
     "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/240.jpg"
   },
   {
     "numero": "241",
-    "nome": "Cromo 241",
+    "nome": "Figurinha 241",
     "tenho": true,
     "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/241.jpg"
   },
   {
     "numero": "242",
-    "nome": "Cromo 242",
+    "nome": "Hassan",
     "tenho": true,
     "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/242.jpg"
   },
   {
     "numero": "243",
-    "nome": "Cromo 243",
+    "nome": "Figurinha 243",
     "tenho": true,
     "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/243.jpg"
   },
   {
     "numero": "244",
-    "nome": "Cromo 244",
+    "nome": "Figurinha 244",
     "tenho": true,
     "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/244.jpg"
   },
   {
     "numero": "245",
-    "nome": "Cromo 245",
+    "nome": "Paulo Sérgio",
     "tenho": true,
     "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/245.jpg"
   },
   {
     "numero": "246",
-    "nome": "Cromo 246",
+    "nome": "Figurinha 246",
     "tenho": true,
     "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/246.jpg"
   },
   {
     "numero": "247",
-    "nome": "Cromo 247",
+    "nome": "Figurinha 247",
     "tenho": true,
     "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/247.jpg"
   },
   {
     "numero": "248",
-    "nome": "Cromo 248",
+    "nome": "Figurinha 248",
     "tenho": true,
     "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/248.jpg"
   },
   {
     "numero": "249",
-    "nome": "Cromo 249",
+    "nome": "Figurinha 249",
     "tenho": true,
     "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/249.jpg"
   },
   {
     "numero": "250",
-    "nome": "Cromo 250",
+    "nome": "Djordevic",
     "tenho": true,
     "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/250.jpg"
   },
   {
     "numero": "251",
-    "nome": "Cromo 251",
+    "nome": "Figurinha 251",
     "tenho": true,
     "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/251.jpg"
   },
   {
     "numero": "252",
-    "nome": "Cromo 252",
+    "nome": "Figurinha 252",
     "tenho": true,
     "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/252.jpg"
   },
   {
-    "numero": "O",
-    "nome": "O",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/Salgueiros.jpg"
-  },
-  {
     "numero": "253",
-    "nome": "Cromo 253",
+    "nome": "Figurinha 253",
     "tenho": true,
     "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/253.jpg"
   },
   {
     "numero": "254",
-    "nome": "Cromo 254",
+    "nome": "Figurinha 254",
     "tenho": true,
     "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/254.jpg"
   },
   {
     "numero": "255",
-    "nome": "Cromo 255",
+    "nome": "Figurinha 255",
     "tenho": true,
     "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/255.jpg"
   },
   {
     "numero": "256",
-    "nome": "Cromo 256",
+    "nome": "Figurinha 256",
     "tenho": true,
     "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/256.jpg"
   },
   {
     "numero": "257",
-    "nome": "Cromo 257",
+    "nome": "Figurinha 257",
     "tenho": true,
     "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/257.jpg"
   },
   {
     "numero": "258",
-    "nome": "Cromo 258",
+    "nome": "Figurinha 258",
     "tenho": true,
     "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/258.jpg"
   },
   {
     "numero": "259",
-    "nome": "Cromo 259",
+    "nome": "Figurinha 259",
     "tenho": true,
     "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/259.jpg"
   },
   {
     "numero": "260",
-    "nome": "Cromo 260",
+    "nome": "Figurinha 260",
     "tenho": true,
     "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/260.jpg"
   },
   {
     "numero": "261",
-    "nome": "Cromo 261",
+    "nome": "Figurinha 261",
     "tenho": true,
     "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/261.jpg"
   },
   {
     "numero": "262",
-    "nome": "Cromo 262",
+    "nome": "Figurinha 262",
     "tenho": true,
     "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/262.jpg"
   },
   {
     "numero": "263",
-    "nome": "Cromo 263",
+    "nome": "Figurinha 263",
     "tenho": true,
     "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/263.jpg"
   },
   {
     "numero": "264",
-    "nome": "Cromo 264",
+    "nome": "Figurinha 264",
     "tenho": true,
     "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/264.jpg"
   },
   {
     "numero": "265",
-    "nome": "Cromo 265",
+    "nome": "Figurinha 265",
     "tenho": true,
     "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/265.jpg"
   },
   {
     "numero": "266",
-    "nome": "Cromo 266",
+    "nome": "Figurinha 266",
     "tenho": true,
     "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/266.jpg"
   },
   {
     "numero": "267",
-    "nome": "Cromo 267",
+    "nome": "Figurinha 267",
     "tenho": true,
     "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/267.jpg"
   },
   {
     "numero": "268",
-    "nome": "Cromo 268",
+    "nome": "Figurinha 268",
     "tenho": true,
     "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/268.jpg"
   },
   {
     "numero": "269",
-    "nome": "Cromo 269",
+    "nome": "Figurinha 269",
     "tenho": true,
     "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/269.jpg"
   },
   {
     "numero": "270",
-    "nome": "Cromo 270",
+    "nome": "Figurinha 270",
     "tenho": true,
     "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/270.jpg"
   },
   {
-    "numero": "P",
-    "nome": "P",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/Paços.jpg"
-  },
-  {
     "numero": "271",
-    "nome": "Cromo 271",
+    "nome": "Figurinha 271",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/271.jpg"
   },
   {
     "numero": "272",
-    "nome": "Cromo 272",
+    "nome": "Figurinha 272",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/272.jpg"
   },
   {
     "numero": "273",
-    "nome": "Cromo 273",
+    "nome": "Figurinha 273",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/273.jpg"
   },
   {
     "numero": "274",
-    "nome": "Cromo 274",
+    "nome": "Figurinha 274",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/274.jpg"
   },
   {
     "numero": "275",
-    "nome": "Cromo 275",
+    "nome": "Figurinha 275",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/275.jpg"
   },
   {
     "numero": "276",
-    "nome": "Cromo 276",
+    "nome": "Figurinha 276",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/276.jpg"
   },
   {
     "numero": "277",
-    "nome": "Cromo 277",
+    "nome": "Figurinha 277",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/277.jpg"
   },
   {
     "numero": "278",
-    "nome": "Cromo 278",
+    "nome": "Figurinha 278",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/278.jpg"
   },
   {
     "numero": "279",
-    "nome": "Cromo 279",
+    "nome": "Figurinha 279",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/279.jpg"
   },
   {
     "numero": "280",
-    "nome": "Cromo 280",
+    "nome": "Figurinha 280",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/280.jpg"
   },
   {
     "numero": "281",
-    "nome": "Cromo 281",
+    "nome": "Figurinha 281",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/281.jpg"
   },
   {
     "numero": "282",
-    "nome": "Cromo 282",
+    "nome": "Figurinha 282",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/282.jpg"
   },
   {
     "numero": "283",
-    "nome": "Cromo 283",
+    "nome": "Figurinha 283",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/283.jpg"
   },
   {
     "numero": "284",
-    "nome": "Cromo 284",
+    "nome": "Figurinha 284",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/284.jpg"
   },
   {
     "numero": "285",
-    "nome": "Cromo 285",
+    "nome": "Figurinha 285",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/285.jpg"
   },
   {
     "numero": "286",
-    "nome": "Cromo 286",
+    "nome": "Figurinha 286",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/286.jpg"
   },
   {
     "numero": "287",
-    "nome": "Cromo 287",
+    "nome": "Figurinha 287",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/287.jpg"
   },
   {
     "numero": "288",
-    "nome": "Cromo 288",
+    "nome": "Figurinha 288",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/288.jpg"
   },
   {
-    "numero": "Q",
-    "nome": "Q",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/Beira Mar.jpg"
-  },
-  {
     "numero": "289",
-    "nome": "Cromo 289",
+    "nome": "Palatsi",
     "tenho": true,
     "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/289.jpg"
   },
   {
     "numero": "290",
-    "nome": "Cromo 290",
+    "nome": "Figurinha 290",
     "tenho": true,
     "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/290.jpg"
   },
   {
     "numero": "291",
-    "nome": "Cromo 291",
+    "nome": "Figurinha 291",
     "tenho": true,
     "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/291.jpg"
   },
   {
     "numero": "292",
-    "nome": "Cromo 292",
+    "nome": "Figurinha 292",
     "tenho": true,
     "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/292.jpg"
   },
   {
     "numero": "293",
-    "nome": "Cromo 293",
+    "nome": "Figurinha 293",
     "tenho": true,
     "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/293.jpg"
   },
   {
     "numero": "294",
-    "nome": "Cromo 294",
+    "nome": "Figurinha 294",
     "tenho": true,
     "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/294.jpg"
   },
   {
     "numero": "295",
-    "nome": "Cromo 295",
+    "nome": "Figurinha 295",
     "tenho": true,
     "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/295.jpg"
   },
   {
     "numero": "296",
-    "nome": "Cromo 296",
+    "nome": "Figurinha 296",
     "tenho": true,
     "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/296.jpg"
   },
   {
     "numero": "297",
-    "nome": "Cromo 297",
+    "nome": "Figurinha 297",
     "tenho": true,
     "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/297.jpg"
   },
   {
     "numero": "298",
-    "nome": "Cromo 298",
+    "nome": "Figurinha 298",
     "tenho": true,
     "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/298.jpg"
   },
   {
     "numero": "299",
-    "nome": "Cromo 299",
+    "nome": "Figurinha 299",
     "tenho": true,
     "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/299.jpg"
   },
   {
     "numero": "300",
-    "nome": "Cromo 300",
+    "nome": "Figurinha 300",
     "tenho": true,
     "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/300.jpg"
   },
   {
     "numero": "301",
-    "nome": "Cromo 301",
+    "nome": "Figurinha 301",
     "tenho": true,
     "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/301.jpg"
   },
   {
     "numero": "302",
-    "nome": "Cromo 302",
+    "nome": "Figurinha 302",
     "tenho": true,
     "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/302.jpg"
   },
   {
     "numero": "303",
-    "nome": "Cromo 303",
+    "nome": "Cilio",
     "tenho": true,
     "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/303.jpg"
   },
   {
     "numero": "304",
-    "nome": "Cromo 304",
+    "nome": "Figurinha 304",
     "tenho": true,
     "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/304.jpg"
   },
   {
     "numero": "305",
-    "nome": "Cromo 305",
+    "nome": "Figurinha 305",
     "tenho": true,
     "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/305.jpg"
   },
   {
     "numero": "306",
-    "nome": "Cromo 306",
+    "nome": "Figurinha 306",
     "tenho": true,
     "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/306.jpg"
   },
   {
-    "numero": "R",
-    "nome": "R",
-    "tenho": true,
-    "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/Aves.jpg"
-  },
-  {
     "numero": "307",
-    "nome": "Cromo 307",
+    "nome": "Figurinha 307",
     "tenho": true,
     "especial": false,
+    "clube": "Desportivo das Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/307.jpg"
   },
   {
     "numero": "308",
-    "nome": "Cromo 308",
+    "nome": "Figurinha 308",
     "tenho": true,
     "especial": false,
+    "clube": "Desportivo das Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/308.jpg"
   },
   {
     "numero": "309",
-    "nome": "Cromo 309",
+    "nome": "Figurinha 309",
     "tenho": true,
     "especial": false,
+    "clube": "Desportivo das Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/309.jpg"
   },
   {
     "numero": "310",
-    "nome": "Cromo 310",
+    "nome": "Figurinha 310",
     "tenho": true,
     "especial": false,
+    "clube": "Desportivo das Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/310.jpg"
   },
   {
     "numero": "311",
-    "nome": "Cromo 311",
+    "nome": "Figurinha 311",
     "tenho": true,
     "especial": false,
+    "clube": "Desportivo das Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/311.jpg"
   },
   {
     "numero": "312",
-    "nome": "Cromo 312",
+    "nome": "Figurinha 312",
     "tenho": true,
     "especial": false,
+    "clube": "Desportivo das Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/312.jpg"
   },
   {
     "numero": "313",
-    "nome": "Cromo 313",
+    "nome": "Figurinha 313",
     "tenho": true,
     "especial": false,
+    "clube": "Desportivo das Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/313.jpg"
   },
   {
     "numero": "314",
-    "nome": "Cromo 314",
+    "nome": "Nilton",
     "tenho": true,
     "especial": false,
+    "clube": "Desportivo das Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/314.jpg"
   },
   {
     "numero": "315",
-    "nome": "Cromo 315",
+    "nome": "Figurinha 315",
     "tenho": true,
     "especial": false,
+    "clube": "Desportivo das Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/315.jpg"
   },
   {
     "numero": "316",
-    "nome": "Cromo 316",
+    "nome": "Douala",
     "tenho": true,
     "especial": false,
+    "clube": "Desportivo das Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/316.jpg"
   },
   {
     "numero": "317",
-    "nome": "Cromo 317",
+    "nome": "Figurinha 317",
     "tenho": true,
     "especial": false,
+    "clube": "Desportivo das Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/317.jpg"
   },
   {
     "numero": "318",
-    "nome": "Cromo 318",
+    "nome": "Figurinha 318",
     "tenho": true,
     "especial": false,
+    "clube": "Desportivo das Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/318.jpg"
   },
   {
     "numero": "319",
-    "nome": "Cromo 319",
+    "nome": "Figurinha 319",
     "tenho": true,
     "especial": false,
+    "clube": "Desportivo das Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/319.jpg"
   },
   {
     "numero": "320",
-    "nome": "Cromo 320",
+    "nome": "Figurinha 320",
     "tenho": true,
     "especial": false,
+    "clube": "Desportivo das Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/320.jpg"
   },
   {
     "numero": "321",
-    "nome": "Cromo 321",
+    "nome": "Figurinha 321",
     "tenho": true,
     "especial": false,
+    "clube": "Desportivo das Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/321.jpg"
   },
   {
     "numero": "322",
-    "nome": "Cromo 322",
+    "nome": "Figurinha 322",
     "tenho": true,
     "especial": false,
+    "clube": "Desportivo das Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/322.jpg"
   },
   {
     "numero": "323",
-    "nome": "Cromo 323",
+    "nome": "Figurinha 323",
     "tenho": true,
     "especial": false,
+    "clube": "Desportivo das Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/323.jpg"
   },
   {
     "numero": "324",
-    "nome": "Cromo 324",
+    "nome": "Figurinha 324",
     "tenho": true,
     "especial": false,
+    "clube": "Desportivo das Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/324.jpg"
   },
   {
     "numero": "325",
-    "nome": "Cromo 325",
+    "nome": "Vitor Baia",
     "tenho": true,
     "especial": false,
+    "clube": "Seleccao",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/325.jpg"
   },
   {
     "numero": "326",
-    "nome": "Cromo 326",
+    "nome": "Secretario",
     "tenho": true,
     "especial": false,
+    "clube": "Seleccao",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/326.jpg"
   },
   {
     "numero": "327",
-    "nome": "Cromo 327",
+    "nome": "Jorge Costa",
     "tenho": true,
     "especial": false,
+    "clube": "Seleccao",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/327.jpg"
   },
   {
     "numero": "328",
-    "nome": "Cromo 328",
+    "nome": "Fernando Couto",
     "tenho": true,
     "especial": false,
+    "clube": "Seleccao",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/328.jpg"
   },
   {
     "numero": "329",
-    "nome": "Cromo 329",
+    "nome": "Dimas",
     "tenho": true,
     "especial": false,
+    "clube": "Seleccao",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/329.jpg"
   },
   {
     "numero": "330",
-    "nome": "Cromo 330",
+    "nome": "Beto",
     "tenho": true,
     "especial": false,
+    "clube": "Seleccao",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/330.jpg"
   },
   {
     "numero": "331",
-    "nome": "Cromo 331",
+    "nome": "Vidigal",
     "tenho": true,
     "especial": false,
+    "clube": "Seleccao",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/331.jpg"
   },
   {
     "numero": "332",
-    "nome": "Cromo 332",
+    "nome": "Paulo Sousa",
     "tenho": true,
     "especial": false,
+    "clube": "Seleccao",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/332.jpg"
   },
   {
     "numero": "333",
-    "nome": "Cromo 333",
+    "nome": "Paulo Bento",
     "tenho": true,
     "especial": false,
+    "clube": "Seleccao",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/333.jpg"
   },
   {
     "numero": "334",
-    "nome": "Cromo 334",
+    "nome": "Abel Xavier",
     "tenho": true,
     "especial": false,
+    "clube": "Seleccao",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/334.jpg"
   },
   {
     "numero": "335",
-    "nome": "Cromo 335",
+    "nome": "Luís Figo",
     "tenho": true,
     "especial": false,
+    "clube": "Seleccao",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/335.jpg"
   },
   {
     "numero": "336",
-    "nome": "Cromo 336",
+    "nome": "Rui Costa",
     "tenho": true,
     "especial": false,
+    "clube": "Seleccao",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/336.jpg"
   },
   {
     "numero": "337",
-    "nome": "Cromo 337",
+    "nome": "Capucho",
     "tenho": true,
     "especial": false,
+    "clube": "Seleccao",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/337.jpg"
   },
   {
     "numero": "338",
-    "nome": "Cromo 338",
+    "nome": "Joao Pinto",
     "tenho": true,
     "especial": false,
+    "clube": "Seleccao",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/338.jpg"
   },
   {
     "numero": "339",
-    "nome": "Cromo 339",
+    "nome": "Sa Pinto",
     "tenho": true,
     "especial": false,
+    "clube": "Seleccao",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/339.jpg"
   },
   {
     "numero": "340",
-    "nome": "Cromo 340",
+    "nome": "Sergio Conceicao",
     "tenho": true,
     "especial": false,
+    "clube": "Seleccao",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/340.jpg"
   },
   {
     "numero": "341",
-    "nome": "Cromo 341",
+    "nome": "Nuno Gomes",
     "tenho": true,
     "especial": false,
+    "clube": "Seleccao",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/341.jpg"
   },
   {
     "numero": "342",
-    "nome": "Cromo 342",
+    "nome": "Pedro Espinha",
     "tenho": true,
     "especial": false,
+    "clube": "Seleccao",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2000 2001/342.jpg"
   },
   {
-    "numero": "343",
-    "nome": "Cromo 343",
+    "numero": "A",
+    "nome": "Emblema Sporting",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/343.jpg"
+    "clube": "Emblemas",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2000 2001/A.jpg"
   },
   {
-    "numero": "344",
-    "nome": "Cromo 344",
+    "numero": "B",
+    "nome": "Emblema Porto",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/344.jpg"
+    "clube": "Emblemas",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2000 2001/B.jpg"
   },
   {
-    "numero": "345",
-    "nome": "Cromo 345",
+    "numero": "C",
+    "nome": "Emblema Benfica",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/345.jpg"
+    "clube": "Emblemas",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2000 2001/C.jpg"
   },
   {
-    "numero": "346",
-    "nome": "Cromo 346",
+    "numero": "D",
+    "nome": "Emblema Boavista",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/346.jpg"
+    "clube": "Emblemas",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2000 2001/D.jpg"
   },
   {
-    "numero": "347",
-    "nome": "Cromo 347",
+    "numero": "E",
+    "nome": "Emblema Gil Vicente",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/347.jpg"
+    "clube": "Emblemas",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2000 2001/E.jpg"
   },
   {
-    "numero": "348",
-    "nome": "Cromo 348",
+    "numero": "F",
+    "nome": "Emblema Maritimo",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/348.jpg"
+    "clube": "Emblemas",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2000 2001/F.jpg"
   },
   {
-    "numero": "349",
-    "nome": "Cromo 349",
+    "numero": "G",
+    "nome": "Emblema Guimarães",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/349.jpg"
+    "clube": "Emblemas",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2000 2001/G.jpg"
   },
   {
-    "numero": "350",
-    "nome": "Cromo 350",
+    "numero": "H",
+    "nome": "Emblema Estrela da Amadora",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/350.jpg"
+    "clube": "Emblemas",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2000 2001/H.jpg"
   },
   {
-    "numero": "351",
-    "nome": "Cromo 351",
+    "numero": "I",
+    "nome": "Emblema Braga",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/351.jpg"
+    "clube": "Emblemas",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2000 2001/I.jpg"
   },
   {
-    "numero": "352",
-    "nome": "Cromo 352",
+    "numero": "J",
+    "nome": "Emblema União de Leiria",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/352.jpg"
+    "clube": "Emblemas",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2000 2001/J.jpg"
   },
   {
-    "numero": "353",
-    "nome": "Cromo 353",
+    "numero": "K",
+    "nome": "Emblema Alverca",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/353.jpg"
+    "clube": "Emblemas",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2000 2001/K.jpg"
   },
   {
-    "numero": "354",
-    "nome": "Cromo 354",
+    "numero": "L",
+    "nome": "Emblema Belenenses",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/354.jpg"
+    "clube": "Emblemas",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2000 2001/L.jpg"
   },
   {
-    "numero": "355",
-    "nome": "Cromo 355",
+    "numero": "M",
+    "nome": "Emblema Campomaiorense",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/355.jpg"
+    "clube": "Emblemas",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2000 2001/M.jpg"
   },
   {
-    "numero": "356",
-    "nome": "Cromo 356",
+    "numero": "N",
+    "nome": "Emblema Farense",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/356.jpg"
+    "clube": "Emblemas",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2000 2001/N.jpg"
   },
   {
-    "numero": "357",
-    "nome": "Cromo 357",
+    "numero": "O",
+    "nome": "Emblema Salgueiros",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/357.jpg"
+    "clube": "Emblemas",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2000 2001/O.jpg"
   },
   {
-    "numero": "358",
-    "nome": "Cromo 358",
+    "numero": "P",
+    "nome": "Emblema Paços de Ferreira",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/358.jpg"
+    "clube": "Emblemas",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2000 2001/P.jpg"
   },
   {
-    "numero": "359",
-    "nome": "Cromo 359",
+    "numero": "Q",
+    "nome": "Emblema Beira Mar",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/359.jpg"
+    "clube": "Emblemas",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2000 2001/Q.jpg"
   },
   {
-    "numero": "360",
-    "nome": "Cromo 360",
+    "numero": "R",
+    "nome": "Emblema Desportivo das Aves",
     "tenho": true,
     "especial": false,
-    "imagem": "images/capas/Futebol 2000 2001/360.jpg"
+    "clube": "Emblemas",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 2000 2001/R.jpg"
   }
 ]

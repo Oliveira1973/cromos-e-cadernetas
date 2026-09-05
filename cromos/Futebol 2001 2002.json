@@ -1,0 +1,3998 @@
+[
+  {
+    "numero": "1",
+    "nome": "Club Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/1.jpg"
+  },
+  {
+    "numero": "2",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/2.jpg"
+  },
+  {
+    "numero": "3",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/3.jpg"
+  },
+  {
+    "numero": "4",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/4.jpg"
+  },
+  {
+    "numero": "5",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/5.jpg"
+  },
+  {
+    "numero": "6",
+    "nome": "Yannick",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/6.jpg"
+  },
+  {
+    "numero": "7",
+    "nome": "Paviot",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/7.jpg"
+  },
+  {
+    "numero": "8",
+    "nome": "Verissimo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/8.jpg"
+  },
+  {
+    "numero": "9",
+    "nome": "Gaspar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/9.jpg"
+  },
+  {
+    "numero": "10",
+    "nome": "Marco Alemida",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/10.jpg"
+  },
+  {
+    "numero": "11",
+    "nome": "Jose Antonio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/11.jpg"
+  },
+  {
+    "numero": "12",
+    "nome": "Torrao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/12.jpg"
+  },
+  {
+    "numero": "13",
+    "nome": "Ramires",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/13.jpg"
+  },
+  {
+    "numero": "14",
+    "nome": "Ronald Garcia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/14.jpg"
+  },
+  {
+    "numero": "15",
+    "nome": "Tinaia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/15.jpg"
+  },
+  {
+    "numero": "16",
+    "nome": "Rui Borges",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/16.jpg"
+  },
+  {
+    "numero": "17",
+    "nome": "Poejo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/17.jpg"
+  },
+  {
+    "numero": "18",
+    "nome": "Anderson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/18.jpg"
+  },
+  {
+    "numero": "19",
+    "nome": "Zarate",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/19.jpg"
+  },
+  {
+    "numero": "20",
+    "nome": "Caju",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/20.jpg"
+  },
+  {
+    "numero": "21",
+    "nome": "Quinzinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/21.jpg"
+  },
+  {
+    "numero": "22",
+    "nome": "Claudio Campos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/22.jpg"
+  },
+  {
+    "numero": "23",
+    "nome": "Ernesto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/23.jpg"
+  },
+  {
+    "numero": "24",
+    "nome": "Club Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/24.jpg"
+  },
+  {
+    "numero": "25",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/25.jpg"
+  },
+  {
+    "numero": "26",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/26.jpg"
+  },
+  {
+    "numero": "27",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/27.jpg"
+  },
+  {
+    "numero": "28",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/28.jpg"
+  },
+  {
+    "numero": "29",
+    "nome": "Avelino",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/29.jpg"
+  },
+  {
+    "numero": "30",
+    "nome": "Jorge Neves",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/30.jpg"
+  },
+  {
+    "numero": "31",
+    "nome": "Lobao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/31.jpg"
+  },
+  {
+    "numero": "32",
+    "nome": "Vitor Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/32.jpg"
+  },
+  {
+    "numero": "33",
+    "nome": "Filipe",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/33.jpg"
+  },
+  {
+    "numero": "34",
+    "nome": "Cristiano",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/34.jpg"
+  },
+  {
+    "numero": "35",
+    "nome": "Hugo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/35.jpg"
+  },
+  {
+    "numero": "36",
+    "nome": "Fusco",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/36.jpg"
+  },
+  {
+    "numero": "37",
+    "nome": "Ribeiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/37.jpg"
+  },
+  {
+    "numero": "38",
+    "nome": "Luis Manuel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/38.jpg"
+  },
+  {
+    "numero": "39",
+    "nome": "Bruno Ribeiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/39.jpg"
+  },
+  {
+    "numero": "40",
+    "nome": "Fernando Aguiar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/40.jpg"
+  },
+  {
+    "numero": "41",
+    "nome": "Gamboa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/41.jpg"
+  },
+  {
+    "numero": "42",
+    "nome": "Juninho Petrolina",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/42.jpg"
+  },
+  {
+    "numero": "43",
+    "nome": "Fary",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/43.jpg"
+  },
+  {
+    "numero": "44",
+    "nome": "Cilio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/44.jpg"
+  },
+  {
+    "numero": "45",
+    "nome": "Rui Dolores",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/45.jpg"
+  },
+  {
+    "numero": "46",
+    "nome": "Nuno Santos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Beira Mar",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/46.jpg"
+  },
+  {
+    "numero": "47",
+    "nome": "Club Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/47.jpg"
+  },
+  {
+    "numero": "48",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/48.jpg"
+  },
+  {
+    "numero": "49",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/49.jpg"
+  },
+  {
+    "numero": "50",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/50.jpg"
+  },
+  {
+    "numero": "51",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/51.jpg"
+  },
+  {
+    "numero": "52",
+    "nome": "Enke",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/52.jpg"
+  },
+  {
+    "numero": "53",
+    "nome": "Cabral",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/53.jpg"
+  },
+  {
+    "numero": "54",
+    "nome": "Argel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/54.jpg"
+  },
+  {
+    "numero": "55",
+    "nome": "Julio Cesar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/55.jpg"
+  },
+  {
+    "numero": "56",
+    "nome": "Joao Pinto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/56.jpg"
+  },
+  {
+    "numero": "57",
+    "nome": "Pesaresi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/57.jpg"
+  },
+  {
+    "numero": "58",
+    "nome": "Fernando Meira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/58.jpg"
+  },
+  {
+    "numero": "59",
+    "nome": "Ednilson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/59.jpg"
+  },
+  {
+    "numero": "60",
+    "nome": "Porfirio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/60.jpg"
+  },
+  {
+    "numero": "61",
+    "nome": "Andersson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/61.jpg"
+  },
+  {
+    "numero": "62",
+    "nome": "Simao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/62.jpg"
+  },
+  {
+    "numero": "63",
+    "nome": "Miguel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/63.jpg"
+  },
+  {
+    "numero": "64",
+    "nome": "Zahovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/64.jpg"
+  },
+  {
+    "numero": "65",
+    "nome": "Drulovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/65.jpg"
+  },
+  {
+    "numero": "66",
+    "nome": "Mantorras",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/66.jpg"
+  },
+  {
+    "numero": "67",
+    "nome": "Sokota",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/67.jpg"
+  },
+  {
+    "numero": "68",
+    "nome": "Joao Tomas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/68.jpg"
+  },
+  {
+    "numero": "69",
+    "nome": "Moreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/69.jpg"
+  },
+  {
+    "numero": "70",
+    "nome": "Club Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/70.jpg"
+  },
+  {
+    "numero": "71",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/71.jpg"
+  },
+  {
+    "numero": "72",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/72.jpg"
+  },
+  {
+    "numero": "73",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/73.jpg"
+  },
+  {
+    "numero": "74",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/74.jpg"
+  },
+  {
+    "numero": "75",
+    "nome": "Ricardo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/75.jpg"
+  },
+  {
+    "numero": "76",
+    "nome": "Frechaut",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/76.jpg"
+  },
+  {
+    "numero": "77",
+    "nome": "Rui Oscar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/77.jpg"
+  },
+  {
+    "numero": "78",
+    "nome": "Pedro Emanuel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/78.jpg"
+  },
+  {
+    "numero": "79",
+    "nome": "Jorge Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/79.jpg"
+  },
+  {
+    "numero": "80",
+    "nome": "Mario Loja",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/80.jpg"
+  },
+  {
+    "numero": "81",
+    "nome": "Paulo Turra",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/81.jpg"
+  },
+  {
+    "numero": "82",
+    "nome": "Quevedo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/82.jpg"
+  },
+  {
+    "numero": "83",
+    "nome": "Petit",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/83.jpg"
+  },
+  {
+    "numero": "84",
+    "nome": "Glauber",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/84.jpg"
+  },
+  {
+    "numero": "85",
+    "nome": "Pedrosa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/85.jpg"
+  },
+  {
+    "numero": "86",
+    "nome": "Sanchez",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/86.jpg"
+  },
+  {
+    "numero": "87",
+    "nome": "Martelinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/87.jpg"
+  },
+  {
+    "numero": "88",
+    "nome": "Jorge Couto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/88.jpg"
+  },
+  {
+    "numero": "89",
+    "nome": "Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/89.jpg"
+  },
+  {
+    "numero": "90",
+    "nome": "Marcio Santos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/90.jpg"
+  },
+  {
+    "numero": "91",
+    "nome": "Duda",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/91.jpg"
+  },
+  {
+    "numero": "92",
+    "nome": "William",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/92.jpg"
+  },
+  {
+    "numero": "93",
+    "nome": "Club Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/93.jpg"
+  },
+  {
+    "numero": "94",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/94.jpg"
+  },
+  {
+    "numero": "95",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/95.jpg"
+  },
+  {
+    "numero": "96",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/96.jpg"
+  },
+  {
+    "numero": "97",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/97.jpg"
+  },
+  {
+    "numero": "98",
+    "nome": "Quim",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/98.jpg"
+  },
+  {
+    "numero": "99",
+    "nome": "Jose Nuno",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/99.jpg"
+  },
+  {
+    "numero": "100",
+    "nome": "Ricardo Rocha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/100.jpg"
+  },
+  {
+    "numero": "101",
+    "nome": "Artur Jorge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/101.jpg"
+  },
+  {
+    "numero": "102",
+    "nome": "Idalecio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/102.jpg"
+  },
+  {
+    "numero": "103",
+    "nome": "Tito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/103.jpg"
+  },
+  {
+    "numero": "104",
+    "nome": "Barroso",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/104.jpg"
+  },
+  {
+    "numero": "105",
+    "nome": "Tiago Mendes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/105.jpg"
+  },
+  {
+    "numero": "106",
+    "nome": "Puma",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/106.jpg"
+  },
+  {
+    "numero": "107",
+    "nome": "Ze Roberto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/107.jpg"
+  },
+  {
+    "numero": "108",
+    "nome": "bakero",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/108.jpg"
+  },
+  {
+    "numero": "109",
+    "nome": "Castanheira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/109.jpg"
+  },
+  {
+    "numero": "110",
+    "nome": "Severini",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/110.jpg"
+  },
+  {
+    "numero": "111",
+    "nome": "Abiodum",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/111.jpg"
+  },
+  {
+    "numero": "112",
+    "nome": "Edmilson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/112.jpg"
+  },
+  {
+    "numero": "113",
+    "nome": "Miran",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/113.jpg"
+  },
+  {
+    "numero": "114",
+    "nome": "Riva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/114.jpg"
+  },
+  {
+    "numero": "115",
+    "nome": "Rui Correia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/115.jpg"
+  },
+  {
+    "numero": "116",
+    "nome": "Club Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/116.jpg"
+  },
+  {
+    "numero": "117",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/117.jpg"
+  },
+  {
+    "numero": "118",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/118.jpg"
+  },
+  {
+    "numero": "119",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/119.jpg"
+  },
+  {
+    "numero": "120",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/120.jpg"
+  },
+  {
+    "numero": "121",
+    "nome": "Mijanovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/121.jpg"
+  },
+  {
+    "numero": "122",
+    "nome": "Roberto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/122.jpg"
+  },
+  {
+    "numero": "123",
+    "nome": "Hugo Gomes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/123.jpg"
+  },
+  {
+    "numero": "124",
+    "nome": "Herrera",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/124.jpg"
+  },
+  {
+    "numero": "125",
+    "nome": "Carlos Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/125.jpg"
+  },
+  {
+    "numero": "126",
+    "nome": "Porto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/126.jpg"
+  },
+  {
+    "numero": "127",
+    "nome": "Carlos Fernandes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/127.jpg"
+  },
+  {
+    "numero": "128",
+    "nome": "Laranjo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/128.jpg"
+  },
+  {
+    "numero": "129",
+    "nome": "Sabugo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/129.jpg"
+  },
+  {
+    "numero": "130",
+    "nome": "Rodri",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/130.jpg"
+  },
+  {
+    "numero": "131",
+    "nome": "Djurdjevic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/131.jpg"
+  },
+  {
+    "numero": "132",
+    "nome": "Cavaco",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/132.jpg"
+  },
+  {
+    "numero": "133",
+    "nome": "Caniggia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/133.jpg"
+  },
+  {
+    "numero": "134",
+    "nome": "Paulo Ferreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/134.jpg"
+  },
+  {
+    "numero": "135",
+    "nome": "Patrick",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/135.jpg"
+  },
+  {
+    "numero": "136",
+    "nome": "Hassan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/136.jpg"
+  },
+  {
+    "numero": "137",
+    "nome": "Everson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/137.jpg"
+  },
+  {
+    "numero": "138",
+    "nome": "Raul Iglesias",
+    "tenho": true,
+    "especial": false,
+    "clube": "Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/138.jpg"
+  },
+  {
+    "numero": "139",
+    "nome": "Club Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/139.jpg"
+  },
+  {
+    "numero": "140",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/140.jpg"
+  },
+  {
+    "numero": "141",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/141.jpg"
+  },
+  {
+    "numero": "142",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/142.jpg"
+  },
+  {
+    "numero": "143",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/143.jpg"
+  },
+  {
+    "numero": "144",
+    "nome": "Paulo Jorge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/144.jpg"
+  },
+  {
+    "numero": "145",
+    "nome": "Rui Guerreiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/145.jpg"
+  },
+  {
+    "numero": "146",
+    "nome": "Carlos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/146.jpg"
+  },
+  {
+    "numero": "147",
+    "nome": "Lemos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/147.jpg"
+  },
+  {
+    "numero": "148",
+    "nome": "Sergio Lomba",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/148.jpg"
+  },
+  {
+    "numero": "149",
+    "nome": "Ivo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/149.jpg"
+  },
+  {
+    "numero": "150",
+    "nome": "Ali",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/150.jpg"
+  },
+  {
+    "numero": "151",
+    "nome": "Nilton",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/151.jpg"
+  },
+  {
+    "numero": "152",
+    "nome": "Ricardo Nascimento",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/152.jpg"
+  },
+  {
+    "numero": "153",
+    "nome": "Casquilha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/153.jpg"
+  },
+  {
+    "numero": "154",
+    "nome": "Ricardo Fernandes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/154.jpg"
+  },
+  {
+    "numero": "155",
+    "nome": "Sergio Gameiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/155.jpg"
+  },
+  {
+    "numero": "156",
+    "nome": "Maky",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/156.jpg"
+  },
+  {
+    "numero": "157",
+    "nome": "Douala",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/157.jpg"
+  },
+  {
+    "numero": "158",
+    "nome": "Paulo Alves",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/158.jpg"
+  },
+  {
+    "numero": "159",
+    "nome": "Manoel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/159.jpg"
+  },
+  {
+    "numero": "160",
+    "nome": "Marco Nuno",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/160.jpg"
+  },
+  {
+    "numero": "161",
+    "nome": "Adriano",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/161.jpg"
+  },
+  {
+    "numero": "162",
+    "nome": "Club Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/162.jpg"
+  },
+  {
+    "numero": "163",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/163.jpg"
+  },
+  {
+    "numero": "164",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/164.jpg"
+  },
+  {
+    "numero": "165",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/165.jpg"
+  },
+  {
+    "numero": "166",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/166.jpg"
+  },
+  {
+    "numero": "167",
+    "nome": "Costinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/167.jpg"
+  },
+  {
+    "numero": "168",
+    "nome": "Bilro",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/168.jpg"
+  },
+  {
+    "numero": "169",
+    "nome": "Eder",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/169.jpg"
+  },
+  {
+    "numero": "170",
+    "nome": "Paulo Duarte",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/170.jpg"
+  },
+  {
+    "numero": "171",
+    "nome": "Renato",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/171.jpg"
+  },
+  {
+    "numero": "172",
+    "nome": "Nuno Mendes",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/172.jpg"
+  },
+  {
+    "numero": "173",
+    "nome": "Nuno Valente",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/173.jpg"
+  },
+  {
+    "numero": "174",
+    "nome": "Tiago",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/174.jpg"
+  },
+  {
+    "numero": "175",
+    "nome": "Leao",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/175.jpg"
+  },
+  {
+    "numero": "176",
+    "nome": "Joao Manuel",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/176.jpg"
+  },
+  {
+    "numero": "177",
+    "nome": "Vouzela",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/177.jpg"
+  },
+  {
+    "numero": "178",
+    "nome": "Derlei",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/178.jpg"
+  },
+  {
+    "numero": "179",
+    "nome": "Zezinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/179.jpg"
+  },
+  {
+    "numero": "180",
+    "nome": "Maciel",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/180.jpg"
+  },
+  {
+    "numero": "181",
+    "nome": "Duah",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/181.jpg"
+  },
+  {
+    "numero": "182",
+    "nome": "Jacques",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/182.jpg"
+  },
+  {
+    "numero": "183",
+    "nome": "To Ze",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/183.jpg"
+  },
+  {
+    "numero": "184",
+    "nome": "Baptista",
+    "tenho": true,
+    "especial": false,
+    "clube": "U. Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/184.jpg"
+  },
+  {
+    "numero": "185",
+    "nome": "Club Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/185.jpg"
+  },
+  {
+    "numero": "186",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/186.jpg"
+  },
+  {
+    "numero": "187",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/187.jpg"
+  },
+  {
+    "numero": "188",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/188.jpg"
+  },
+  {
+    "numero": "189",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/189.jpg"
+  },
+  {
+    "numero": "190",
+    "nome": "Gilmar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/190.jpg"
+  },
+  {
+    "numero": "191",
+    "nome": "Lino",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/191.jpg"
+  },
+  {
+    "numero": "192",
+    "nome": "Paulo Sergio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/192.jpg"
+  },
+  {
+    "numero": "193",
+    "nome": "van der Gaag",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/193.jpg"
+  },
+  {
+    "numero": "194",
+    "nome": "Jorge Soares",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/194.jpg"
+  },
+  {
+    "numero": "195",
+    "nome": "Eusebio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/195.jpg"
+  },
+  {
+    "numero": "196",
+    "nome": "Kenedy",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/196.jpg"
+  },
+  {
+    "numero": "197",
+    "nome": "Musa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/197.jpg"
+  },
+  {
+    "numero": "198",
+    "nome": "Zeca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/198.jpg"
+  },
+  {
+    "numero": "199",
+    "nome": "Bruno",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/199.jpg"
+  },
+  {
+    "numero": "200",
+    "nome": "Albertino",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/200.jpg"
+  },
+  {
+    "numero": "201",
+    "nome": "Fabio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/201.jpg"
+  },
+  {
+    "numero": "202",
+    "nome": "Iliev",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/202.jpg"
+  },
+  {
+    "numero": "203",
+    "nome": "Dinda",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/203.jpg"
+  },
+  {
+    "numero": "204",
+    "nome": "Quim",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/204.jpg"
+  },
+  {
+    "numero": "205",
+    "nome": "Andre",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/205.jpg"
+  },
+  {
+    "numero": "206",
+    "nome": "Gaucho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/206.jpg"
+  },
+  {
+    "numero": "207",
+    "nome": "Nelson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritmo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/207.jpg"
+  },
+  {
+    "numero": "208",
+    "nome": "Club Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/208.jpg"
+  },
+  {
+    "numero": "209",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/209.jpg"
+  },
+  {
+    "numero": "210",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/210.jpg"
+  },
+  {
+    "numero": "211",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/211.jpg"
+  },
+  {
+    "numero": "212",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/212.jpg"
+  },
+  {
+    "numero": "213",
+    "nome": "Marco Aurelio",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/213.jpg"
+  },
+  {
+    "numero": "214",
+    "nome": "Mora",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/214.jpg"
+  },
+  {
+    "numero": "215",
+    "nome": "Filgueira",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/215.jpg"
+  },
+  {
+    "numero": "216",
+    "nome": "Wilson",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/216.jpg"
+  },
+  {
+    "numero": "217",
+    "nome": "Jair",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/217.jpg"
+  },
+  {
+    "numero": "218",
+    "nome": "Gerson",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/218.jpg"
+  },
+  {
+    "numero": "219",
+    "nome": "Pedro Henriques",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/219.jpg"
+  },
+  {
+    "numero": "220",
+    "nome": "Lito",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/220.jpg"
+  },
+  {
+    "numero": "221",
+    "nome": "Jose Fabio",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/221.jpg"
+  },
+  {
+    "numero": "222",
+    "nome": "Marco Paulo",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/222.jpg"
+  },
+  {
+    "numero": "223",
+    "nome": "Tuck",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/223.jpg"
+  },
+  {
+    "numero": "224",
+    "nome": "Franklim",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/224.jpg"
+  },
+  {
+    "numero": "225",
+    "nome": "Neca",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/225.jpg"
+  },
+  {
+    "numero": "226",
+    "nome": "Marcao",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/226.jpg"
+  },
+  {
+    "numero": "227",
+    "nome": "Cafu",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/227.jpg"
+  },
+  {
+    "numero": "228",
+    "nome": "Seba",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/228.jpg"
+  },
+  {
+    "numero": "229",
+    "nome": "Verona",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/229.jpg"
+  },
+  {
+    "numero": "230",
+    "nome": "Luis Ferreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "OS Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/230.jpg"
+  },
+  {
+    "numero": "231",
+    "nome": "Club Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/231.jpg"
+  },
+  {
+    "numero": "232",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/232.jpg"
+  },
+  {
+    "numero": "233",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/233.jpg"
+  },
+  {
+    "numero": "234",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/234.jpg"
+  },
+  {
+    "numero": "235",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/235.jpg"
+  },
+  {
+    "numero": "236",
+    "nome": "Pedro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/236.jpg"
+  },
+  {
+    "numero": "237",
+    "nome": "Paulito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/237.jpg"
+  },
+  {
+    "numero": "238",
+    "nome": "Joao Armando",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/238.jpg"
+  },
+  {
+    "numero": "239",
+    "nome": "Aldaberto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/239.jpg"
+  },
+  {
+    "numero": "240",
+    "nome": "Filo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/240.jpg"
+  },
+  {
+    "numero": "241",
+    "nome": "Ze Nando",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/241.jpg"
+  },
+  {
+    "numero": "242",
+    "nome": "Everaldo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/242.jpg"
+  },
+  {
+    "numero": "243",
+    "nome": "Leo Oliveira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/243.jpg"
+  },
+  {
+    "numero": "244",
+    "nome": "Paulo Sousa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/244.jpg"
+  },
+  {
+    "numero": "245",
+    "nome": "Ze Manel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/245.jpg"
+  },
+  {
+    "numero": "246",
+    "nome": "Mauricio K.",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/246.jpg"
+  },
+  {
+    "numero": "247",
+    "nome": "Pedrinha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/247.jpg"
+  },
+  {
+    "numero": "248",
+    "nome": "Beto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/248.jpg"
+  },
+  {
+    "numero": "249",
+    "nome": "Carlos Carneiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/249.jpg"
+  },
+  {
+    "numero": "250",
+    "nome": "Mauro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/250.jpg"
+  },
+  {
+    "numero": "251",
+    "nome": "Jurandir",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/251.jpg"
+  },
+  {
+    "numero": "252",
+    "nome": "Leonardo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/252.jpg"
+  },
+  {
+    "numero": "253",
+    "nome": "Pinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Pacos Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/253.jpg"
+  },
+  {
+    "numero": "254",
+    "nome": "Club Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/254.jpg"
+  },
+  {
+    "numero": "255",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/255.jpg"
+  },
+  {
+    "numero": "256",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/256.jpg"
+  },
+  {
+    "numero": "257",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/257.jpg"
+  },
+  {
+    "numero": "258",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/258.jpg"
+  },
+  {
+    "numero": "259",
+    "nome": "Ovchinikov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/259.jpg"
+  },
+  {
+    "numero": "260",
+    "nome": "Ibarra",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/260.jpg"
+  },
+  {
+    "numero": "261",
+    "nome": "Secretario",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/261.jpg"
+  },
+  {
+    "numero": "262",
+    "nome": "Jorge Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/262.jpg"
+  },
+  {
+    "numero": "263",
+    "nome": "Ricardo Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/263.jpg"
+  },
+  {
+    "numero": "264",
+    "nome": "Jorge Andrade",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/264.jpg"
+  },
+  {
+    "numero": "265",
+    "nome": "Mario Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/265.jpg"
+  },
+  {
+    "numero": "266",
+    "nome": "Paredes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/266.jpg"
+  },
+  {
+    "numero": "267",
+    "nome": "Costinha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/267.jpg"
+  },
+  {
+    "numero": "268",
+    "nome": "Quintana",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/268.jpg"
+  },
+  {
+    "numero": "269",
+    "nome": "Capucho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/269.jpg"
+  },
+  {
+    "numero": "270",
+    "nome": "Candido Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/270.jpg"
+  },
+  {
+    "numero": "271",
+    "nome": "Clayton",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/271.jpg"
+  },
+  {
+    "numero": "272",
+    "nome": "Deco",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/272.jpg"
+  },
+  {
+    "numero": "273",
+    "nome": "Alenitchev",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/273.jpg"
+  },
+  {
+    "numero": "274",
+    "nome": "Pena",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/274.jpg"
+  },
+  {
+    "numero": "275",
+    "nome": "Esnaider",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/275.jpg"
+  },
+  {
+    "numero": "276",
+    "nome": "Vitor Baia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/276.jpg"
+  },
+  {
+    "numero": "277",
+    "nome": "Club Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/277.jpg"
+  },
+  {
+    "numero": "278",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/278.jpg"
+  },
+  {
+    "numero": "279",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/279.jpg"
+  },
+  {
+    "numero": "280",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/280.jpg"
+  },
+  {
+    "numero": "281",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/281.jpg"
+  },
+  {
+    "numero": "282",
+    "nome": "To Ferreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/282.jpg"
+  },
+  {
+    "numero": "283",
+    "nome": "Bodunha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/283.jpg"
+  },
+  {
+    "numero": "284",
+    "nome": "Ricardo Fernandes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/284.jpg"
+  },
+  {
+    "numero": "285",
+    "nome": "Emerson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/285.jpg"
+  },
+  {
+    "numero": "286",
+    "nome": "Nandinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/286.jpg"
+  },
+  {
+    "numero": "287",
+    "nome": "Carlos Ferreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/287.jpg"
+  },
+  {
+    "numero": "288",
+    "nome": "Rui Ferreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/288.jpg"
+  },
+  {
+    "numero": "289",
+    "nome": "Masi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/289.jpg"
+  },
+  {
+    "numero": "290",
+    "nome": "Carrasqueira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/290.jpg"
+  },
+  {
+    "numero": "291",
+    "nome": "Marco Claudio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/291.jpg"
+  },
+  {
+    "numero": "292",
+    "nome": "Marco Freitas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/292.jpg"
+  },
+  {
+    "numero": "293",
+    "nome": "Ernesto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/293.jpg"
+  },
+  {
+    "numero": "294",
+    "nome": "Litera",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/294.jpg"
+  },
+  {
+    "numero": "295",
+    "nome": "Edu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/295.jpg"
+  },
+  {
+    "numero": "296",
+    "nome": "Joao Pedro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/296.jpg"
+  },
+  {
+    "numero": "297",
+    "nome": "Armando",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/297.jpg"
+  },
+  {
+    "numero": "298",
+    "nome": "Basilio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/298.jpg"
+  },
+  {
+    "numero": "299",
+    "nome": "Ivo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/299.jpg"
+  },
+  {
+    "numero": "300",
+    "nome": "Club Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/300.jpg"
+  },
+  {
+    "numero": "301",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/301.jpg"
+  },
+  {
+    "numero": "302",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/302.jpg"
+  },
+  {
+    "numero": "303",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/303.jpg"
+  },
+  {
+    "numero": "304",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/304.jpg"
+  },
+  {
+    "numero": "305",
+    "nome": "Jorge Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/305.jpg"
+  },
+  {
+    "numero": "306",
+    "nome": "Portela",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/306.jpg"
+  },
+  {
+    "numero": "307",
+    "nome": "Rui Gregorio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/307.jpg"
+  },
+  {
+    "numero": "308",
+    "nome": "Kali",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/308.jpg"
+  },
+  {
+    "numero": "309",
+    "nome": "Sandro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/309.jpg"
+  },
+  {
+    "numero": "310",
+    "nome": "Telmo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/310.jpg"
+  },
+  {
+    "numero": "311",
+    "nome": "Leal",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/311.jpg"
+  },
+  {
+    "numero": "312",
+    "nome": "Paiva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/312.jpg"
+  },
+  {
+    "numero": "313",
+    "nome": "Miner",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/313.jpg"
+  },
+  {
+    "numero": "314",
+    "nome": "Vitor Vieira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/314.jpg"
+  },
+  {
+    "numero": "315",
+    "nome": "Figueredo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/315.jpg"
+  },
+  {
+    "numero": "316",
+    "nome": "Barrigana",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/316.jpg"
+  },
+  {
+    "numero": "317",
+    "nome": "Hanuch",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/317.jpg"
+  },
+  {
+    "numero": "318",
+    "nome": "Brandao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/318.jpg"
+  },
+  {
+    "numero": "319",
+    "nome": "Toni",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/319.jpg"
+  },
+  {
+    "numero": "320",
+    "nome": "George",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/320.jpg"
+  },
+  {
+    "numero": "321",
+    "nome": "Glaedson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/321.jpg"
+  },
+  {
+    "numero": "322",
+    "nome": "Du",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/322.jpg"
+  },
+  {
+    "numero": "323",
+    "nome": "Club Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/323.jpg"
+  },
+  {
+    "numero": "324",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/324.jpg"
+  },
+  {
+    "numero": "325",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/325.jpg"
+  },
+  {
+    "numero": "326",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/326.jpg"
+  },
+  {
+    "numero": "327",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/327.jpg"
+  },
+  {
+    "numero": "328",
+    "nome": "Nelson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/328.jpg"
+  },
+  {
+    "numero": "329",
+    "nome": "Cesar Pirates",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/329.jpg"
+  },
+  {
+    "numero": "330",
+    "nome": "Beto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/330.jpg"
+  },
+  {
+    "numero": "331",
+    "nome": "Andre Cruz",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/331.jpg"
+  },
+  {
+    "numero": "332",
+    "nome": "Rui Jorge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/332.jpg"
+  },
+  {
+    "numero": "333",
+    "nome": "Dimas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/333.jpg"
+  },
+  {
+    "numero": "334",
+    "nome": "Rui Bento",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/334.jpg"
+  },
+  {
+    "numero": "335",
+    "nome": "Horvath",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/335.jpg"
+  },
+  {
+    "numero": "336",
+    "nome": "Paulo Bento",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/336.jpg"
+  },
+  {
+    "numero": "337",
+    "nome": "Sa Pinto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/337.jpg"
+  },
+  {
+    "numero": "338",
+    "nome": "Luis Filipe",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/338.jpg"
+  },
+  {
+    "numero": "339",
+    "nome": "Tello",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/339.jpg"
+  },
+  {
+    "numero": "340",
+    "nome": "Pedro Barbosa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/340.jpg"
+  },
+  {
+    "numero": "341",
+    "nome": "Joao Pinto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/341.jpg"
+  },
+  {
+    "numero": "342",
+    "nome": "Quaresma",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/342.jpg"
+  },
+  {
+    "numero": "343",
+    "nome": "Niculae",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/343.jpg"
+  },
+  {
+    "numero": "344",
+    "nome": "Spehar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/344.jpg"
+  },
+  {
+    "numero": "345",
+    "nome": "Tiago",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/345.jpg"
+  },
+  {
+    "numero": "346",
+    "nome": "Club Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/346.jpg"
+  },
+  {
+    "numero": "347",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/347.jpg"
+  },
+  {
+    "numero": "348",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/348.jpg"
+  },
+  {
+    "numero": "349",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/349.jpg"
+  },
+  {
+    "numero": "350",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/350.jpg"
+  },
+  {
+    "numero": "351",
+    "nome": "Hilario",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/351.jpg"
+  },
+  {
+    "numero": "352",
+    "nome": "Paulo Filipe",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/352.jpg"
+  },
+  {
+    "numero": "353",
+    "nome": "Alexandre",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/353.jpg"
+  },
+  {
+    "numero": "354",
+    "nome": "Paulo Sergio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/354.jpg"
+  },
+  {
+    "numero": "355",
+    "nome": "Sergio Carvalho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/355.jpg"
+  },
+  {
+    "numero": "356",
+    "nome": "Mariano",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/356.jpg"
+  },
+  {
+    "numero": "357",
+    "nome": "Rodlofo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/357.jpg"
+  },
+  {
+    "numero": "358",
+    "nome": "Margarido",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/358.jpg"
+  },
+  {
+    "numero": "359",
+    "nome": "Gilmar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/359.jpg"
+  },
+  {
+    "numero": "360",
+    "nome": "Vitor Manuel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/360.jpg"
+  },
+  {
+    "numero": "361",
+    "nome": "Paulo Piedade",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/361.jpg"
+  },
+  {
+    "numero": "362",
+    "nome": "Fumo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/362.jpg"
+  },
+  {
+    "numero": "363",
+    "nome": "Moises",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/363.jpg"
+  },
+  {
+    "numero": "364",
+    "nome": "Marco Freitas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/364.jpg"
+  },
+  {
+    "numero": "365",
+    "nome": "Mendonca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/365.jpg"
+  },
+  {
+    "numero": "366",
+    "nome": "Toni Vidigal",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/366.jpg"
+  },
+  {
+    "numero": "367",
+    "nome": "Prokopenko",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/367.jpg"
+  },
+  {
+    "numero": "368",
+    "nome": "Litos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/368.jpg"
+  },
+  {
+    "numero": "369",
+    "nome": "Club Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/369.jpg"
+  },
+  {
+    "numero": "370",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/370.jpg"
+  },
+  {
+    "numero": "371",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/371.jpg"
+  },
+  {
+    "numero": "372",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/372.jpg"
+  },
+  {
+    "numero": "373",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/373.jpg"
+  },
+  {
+    "numero": "374",
+    "nome": "Palatsi",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/374.jpg"
+  },
+  {
+    "numero": "375",
+    "nome": "Abel",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/375.jpg"
+  },
+  {
+    "numero": "376",
+    "nome": "Bessa",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/376.jpg"
+  },
+  {
+    "numero": "377",
+    "nome": "William",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/377.jpg"
+  },
+  {
+    "numero": "378",
+    "nome": "Rabarivony",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/378.jpg"
+  },
+  {
+    "numero": "379",
+    "nome": "Rogerio Matias",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/379.jpg"
+  },
+  {
+    "numero": "380",
+    "nome": "Cleber",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/380.jpg"
+  },
+  {
+    "numero": "381",
+    "nome": "Pedro Mendes",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/381.jpg"
+  },
+  {
+    "numero": "382",
+    "nome": "Andre",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/382.jpg"
+  },
+  {
+    "numero": "383",
+    "nome": "Jorge Duarte",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/383.jpg"
+  },
+  {
+    "numero": "384",
+    "nome": "Guga",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/384.jpg"
+  },
+  {
+    "numero": "385",
+    "nome": "Fangeiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/385.jpg"
+  },
+  {
+    "numero": "386",
+    "nome": "Nuno Assis",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/386.jpg"
+  },
+  {
+    "numero": "387",
+    "nome": "Sion",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/387.jpg"
+  },
+  {
+    "numero": "388",
+    "nome": "Laelson",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/388.jpg"
+  },
+  {
+    "numero": "389",
+    "nome": "Romeu",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/389.jpg"
+  },
+  {
+    "numero": "390",
+    "nome": "Paulo Cesar",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/390.jpg"
+  },
+  {
+    "numero": "391",
+    "nome": "Tomic",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/391.jpg"
+  },
+  {
+    "numero": "392",
+    "nome": "Club Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/392.jpg"
+  },
+  {
+    "numero": "393",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/393.jpg"
+  },
+  {
+    "numero": "394",
+    "nome": "Stadium",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/394.jpg"
+  },
+  {
+    "numero": "395",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/395.jpg"
+  },
+  {
+    "numero": "396",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/396.jpg"
+  },
+  {
+    "numero": "397",
+    "nome": "Candido Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/397.jpg"
+  },
+  {
+    "numero": "398",
+    "nome": "Paulo Ferreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/398.jpg"
+  },
+  {
+    "numero": "399",
+    "nome": "Eliseu",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/399.jpg"
+  },
+  {
+    "numero": "400",
+    "nome": "Hugo Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/400.jpg"
+  },
+  {
+    "numero": "401",
+    "nome": "Marcal",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/401.jpg"
+  },
+  {
+    "numero": "402",
+    "nome": "Rui Andre",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/402.jpg"
+  },
+  {
+    "numero": "403",
+    "nome": "Fernando Mendes",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/403.jpg"
+  },
+  {
+    "numero": "404",
+    "nome": "Marco Ferreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/404.jpg"
+  },
+  {
+    "numero": "405",
+    "nome": "Ico",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/405.jpg"
+  },
+  {
+    "numero": "406",
+    "nome": "Helio",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/406.jpg"
+  },
+  {
+    "numero": "407",
+    "nome": "Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/407.jpg"
+  },
+  {
+    "numero": "408",
+    "nome": "Sandro",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/408.jpg"
+  },
+  {
+    "numero": "409",
+    "nome": "Jean Paulista",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/409.jpg"
+  },
+  {
+    "numero": "410",
+    "nome": "Meyong",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/410.jpg"
+  },
+  {
+    "numero": "411",
+    "nome": "Evandro",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/411.jpg"
+  },
+  {
+    "numero": "412",
+    "nome": "Jorginho",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/412.jpg"
+  },
+  {
+    "numero": "413",
+    "nome": "Hugo Henrique",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/413.jpg"
+  },
+  {
+    "numero": "414",
+    "nome": "Marco Tabuas",
+    "tenho": true,
+    "especial": false,
+    "clube": "V. Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/414.jpg"
+  },
+  {
+    "numero": "415",
+    "nome": "Club Emblem",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/415.jpg"
+  },
+  {
+    "numero": "416",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/416.jpg"
+  },
+  {
+    "numero": "417",
+    "nome": "Team photo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/417.jpg"
+  },
+  {
+    "numero": "418",
+    "nome": "Antonio Oliveira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/418.jpg"
+  },
+  {
+    "numero": "419",
+    "nome": "Vitor Baia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/419.jpg"
+  },
+  {
+    "numero": "420",
+    "nome": "Ricardo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/420.jpg"
+  },
+  {
+    "numero": "421",
+    "nome": "Quim",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/421.jpg"
+  },
+  {
+    "numero": "422",
+    "nome": "Secretario",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/422.jpg"
+  },
+  {
+    "numero": "423",
+    "nome": "Abel Xavier",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/423.jpg"
+  },
+  {
+    "numero": "424",
+    "nome": "Fernando Meira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/424.jpg"
+  },
+  {
+    "numero": "425",
+    "nome": "Beto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/425.jpg"
+  },
+  {
+    "numero": "426",
+    "nome": "Jorge Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/426.jpg"
+  },
+  {
+    "numero": "427",
+    "nome": "Fernando Couto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/427.jpg"
+  },
+  {
+    "numero": "428",
+    "nome": "Rui Jorge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/428.jpg"
+  },
+  {
+    "numero": "429",
+    "nome": "Frechaut",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/429.jpg"
+  },
+  {
+    "numero": "430",
+    "nome": "Petit",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/430.jpg"
+  },
+  {
+    "numero": "431",
+    "nome": "Paulo Bento",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/431.jpg"
+  },
+  {
+    "numero": "432",
+    "nome": "Paulo Sousa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/432.jpg"
+  },
+  {
+    "numero": "433",
+    "nome": "Costinha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/433.jpg"
+  },
+  {
+    "numero": "434",
+    "nome": "Vidigal",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/434.jpg"
+  },
+  {
+    "numero": "435",
+    "nome": "Luis Figo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/435.jpg"
+  },
+  {
+    "numero": "436",
+    "nome": "Sergio Conceicao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/436.jpg"
+  },
+  {
+    "numero": "437",
+    "nome": "Rui Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/437.jpg"
+  },
+  {
+    "numero": "438",
+    "nome": "Capucho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/438.jpg"
+  },
+  {
+    "numero": "439",
+    "nome": "Pedro Barbosa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/439.jpg"
+  },
+  {
+    "numero": "440",
+    "nome": "Sa Pinto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/440.jpg"
+  },
+  {
+    "numero": "441",
+    "nome": "Joao Pinto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/441.jpg"
+  },
+  {
+    "numero": "442",
+    "nome": "Pauleta",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/442.jpg"
+  },
+  {
+    "numero": "443",
+    "nome": "Nuno Gomes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/443.jpg"
+  },
+  {
+    "numero": "444",
+    "nome": "Joao Tomas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Selecao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2001 2002/444.jpg"
+  }
+]

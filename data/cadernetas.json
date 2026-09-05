@@ -655,5 +655,41 @@
     "totalCromos": 324,
     "capa": "images/capas/Futebol 1999 2000.jpg",
     "tema": "Liga Portuguesa"
+  },
+  {
+    "id": "Futebol 2001 2002",
+    "nome": "Futebol 2001 2002",
+    "editora": "Panini",
+    "ano": 2001,
+    "totalCromos": 444,
+    "capa": "images/capas/Futebol 2001 2002.jpg",
+    "tema": "Liga Portuguesa"
+  },
+  {
+    "id": "Futebol 2002 2003",
+    "nome": "Futebol 2002 2003",
+    "editora": "Panini",
+    "ano": 2002,
+    "totalCromos": 438,
+    "capa": "images/capas/Futebol 2002 2003.jpg",
+    "tema": "Liga Portuguesa"
+  },
+  {
+    "id": "Futebol 2003 2004",
+    "nome": "Futebol 2003 2004",
+    "editora": "Panini",
+    "ano": 2003,
+    "totalCromos": 431,
+    "capa": "images/capas/Futebol 2003 2004.jpg",
+    "tema": "Liga Portuguesa"
+  },
+  {
+    "id": "Futebol 2004 2005",
+    "nome": "Futebol 2004 2005",
+    "editora": "Panini",
+    "ano": 2004,
+    "totalCromos": 474,
+    "capa": "images/capas/Futebol 2004 2005.jpg",
+    "tema": "Liga Portuguesa"
   }
 ]
