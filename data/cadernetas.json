@@ -619,5 +619,41 @@
     "totalCromos": 1112,
     "capa": "images/capas/WC 2026.jpg",
     "tema": "Mundiais"
+  },
+  {
+    "id": "Futebol 96 97",
+    "nome": "Futebol 96 97",
+    "editora": "Panini",
+    "ano": 1996,
+    "totalCromos": 401,
+    "capa": "images/capas/Futebol 96 97.jpg",
+    "tema": "Liga Portuguesa"
+  },
+  {
+    "id": "Futebol 97 98",
+    "nome": "Futebol 97 98",
+    "editora": "Panini",
+    "ano": 1997,
+    "totalCromos": 338,
+    "capa": "images/capas/Futebol 97 98.jpg",
+    "tema": "Liga Portuguesa"
+  },
+  {
+    "id": "Futebol 98 99",
+    "nome": "Futebol 98 99",
+    "editora": "Panini",
+    "ano": 1998,
+    "totalCromos": 338,
+    "capa": "images/capas/Futebol 98 99.jpg",
+    "tema": "Liga Portuguesa"
+  },
+  {
+    "id": "Futebol 1999 2000",
+    "nome": "Futebol 1999 2000",
+    "editora": "Panini",
+    "ano": 1999,
+    "totalCromos": 324,
+    "capa": "images/capas/Futebol 1999 2000.jpg",
+    "tema": "Liga Portuguesa"
   }
 ]

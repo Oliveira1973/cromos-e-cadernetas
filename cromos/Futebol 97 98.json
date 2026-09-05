@@ -1,0 +1,3043 @@
+[
+  {
+    "numero": "1",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica de Coimbra",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 97 98/1.jpg"
+  },
+  {
+    "numero": "2",
+    "nome": "Pedro Roma",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica de Coimbra",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/2.jpg"
+  },
+  {
+    "numero": "3",
+    "nome": "Sergio Cruz",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica de Coimbra",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/3.jpg"
+  },
+  {
+    "numero": "4",
+    "nome": "Paulao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica de Coimbra",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/4.jpg"
+  },
+  {
+    "numero": "5",
+    "nome": "Abazai",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica de Coimbra",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/5.jpg"
+  },
+  {
+    "numero": "6",
+    "nome": "Rocha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica de Coimbra",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/6.jpg"
+  },
+  {
+    "numero": "7",
+    "nome": "To Sa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica de Coimbra",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/7.jpg"
+  },
+  {
+    "numero": "8",
+    "nome": "Mounir",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica de Coimbra",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/8.jpg"
+  },
+  {
+    "numero": "9",
+    "nome": "Ze Nando",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica de Coimbra",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/9.jpg"
+  },
+  {
+    "numero": "10",
+    "nome": "Rui Campos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica de Coimbra",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/10.jpg"
+  },
+  {
+    "numero": "11",
+    "nome": "Mickey",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica de Coimbra",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/11.jpg"
+  },
+  {
+    "numero": "12",
+    "nome": "Joao Tomas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica de Coimbra",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/12.jpg"
+  },
+  {
+    "numero": "13",
+    "nome": "Febras",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica de Coimbra",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/13.jpg"
+  },
+  {
+    "numero": "14",
+    "nome": "Mito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica de Coimbra",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/14.jpg"
+  },
+  {
+    "numero": "15",
+    "nome": "Reginaldo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica de Coimbra",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/15.jpg"
+  },
+  {
+    "numero": "16",
+    "nome": "Akwa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica de Coimbra",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/16.jpg"
+  },
+  {
+    "numero": "17",
+    "nome": "Joao Pires",
+    "tenho": true,
+    "especial": false,
+    "clube": "Académica de Coimbra",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/17.jpg"
+  },
+  {
+    "numero": "18",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Os Belenenses",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 97 98/18.jpg"
+  },
+  {
+    "numero": "19",
+    "nome": "Valente",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Os Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/19.jpg"
+  },
+  {
+    "numero": "20",
+    "nome": "Caetano",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Os Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/20.jpg"
+  },
+  {
+    "numero": "21",
+    "nome": "Filgueira",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Os Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/21.jpg"
+  },
+  {
+    "numero": "22",
+    "nome": "Barny",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Os Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/22.jpg"
+  },
+  {
+    "numero": "23",
+    "nome": "Fertout",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Os Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/23.jpg"
+  },
+  {
+    "numero": "24",
+    "nome": "Tonanha",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Os Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/24.jpg"
+  },
+  {
+    "numero": "25",
+    "nome": "M'Jid",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Os Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/25.jpg"
+  },
+  {
+    "numero": "26",
+    "nome": "Lito",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Os Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/26.jpg"
+  },
+  {
+    "numero": "27",
+    "nome": "Quim",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Os Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/27.jpg"
+  },
+  {
+    "numero": "28",
+    "nome": "Petkov",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Os Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/28.jpg"
+  },
+  {
+    "numero": "29",
+    "nome": "Kokoshvili",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Os Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/29.jpg"
+  },
+  {
+    "numero": "30",
+    "nome": "J. Paulo Brito",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Os Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/30.jpg"
+  },
+  {
+    "numero": "31",
+    "nome": "Salam Sow",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Os Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/31.jpg"
+  },
+  {
+    "numero": "32",
+    "nome": "Addo",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Os Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/32.jpg"
+  },
+  {
+    "numero": "33",
+    "nome": "Gerson",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Os Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/33.jpg"
+  },
+  {
+    "numero": "34",
+    "nome": "Andrade",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Os Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/34.jpg"
+  },
+  {
+    "numero": "35",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 97 98/35.jpg"
+  },
+  {
+    "numero": "36",
+    "nome": "Preud'Homme",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/36.jpg"
+  },
+  {
+    "numero": "37",
+    "nome": "Tahar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/37.jpg"
+  },
+  {
+    "numero": "38",
+    "nome": "Jorge Soares",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/38.jpg"
+  },
+  {
+    "numero": "39",
+    "nome": "Hadrioui",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/39.jpg"
+  },
+  {
+    "numero": "40",
+    "nome": "Taument",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/40.jpg"
+  },
+  {
+    "numero": "41",
+    "nome": "Edgar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/41.jpg"
+  },
+  {
+    "numero": "42",
+    "nome": "Gamarra",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/42.jpg"
+  },
+  {
+    "numero": "43",
+    "nome": "Ronaldo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/43.jpg"
+  },
+  {
+    "numero": "44",
+    "nome": "Tiago",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/44.jpg"
+  },
+  {
+    "numero": "45",
+    "nome": "Calado",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/45.jpg"
+  },
+  {
+    "numero": "46",
+    "nome": "Joao Pinto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/46.jpg"
+  },
+  {
+    "numero": "47",
+    "nome": "Jordao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/47.jpg"
+  },
+  {
+    "numero": "48",
+    "nome": "Sanchez",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/48.jpg"
+  },
+  {
+    "numero": "49",
+    "nome": "Nuno Gomes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/49.jpg"
+  },
+  {
+    "numero": "50",
+    "nome": "Paulo Madeira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/50.jpg"
+  },
+  {
+    "numero": "51",
+    "nome": "Paulo Nunes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/51.jpg"
+  },
+  {
+    "numero": "52",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 97 98/52.jpg"
+  },
+  {
+    "numero": "53",
+    "nome": "Ricardo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/53.jpg"
+  },
+  {
+    "numero": "54",
+    "nome": "Simic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/54.jpg"
+  },
+  {
+    "numero": "55",
+    "nome": "Jorge Couto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/55.jpg"
+  },
+  {
+    "numero": "56",
+    "nome": "Litos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/56.jpg"
+  },
+  {
+    "numero": "57",
+    "nome": "Isaias",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/57.jpg"
+  },
+  {
+    "numero": "58",
+    "nome": "Timofte",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/58.jpg"
+  },
+  {
+    "numero": "59",
+    "nome": "Mario Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/59.jpg"
+  },
+  {
+    "numero": "60",
+    "nome": "Paulo Sousa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/60.jpg"
+  },
+  {
+    "numero": "61",
+    "nome": "Rui Bento",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/61.jpg"
+  },
+  {
+    "numero": "62",
+    "nome": "Tavares",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/62.jpg"
+  },
+  {
+    "numero": "63",
+    "nome": "Helder",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/63.jpg"
+  },
+  {
+    "numero": "64",
+    "nome": "Jaime Alves",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/64.jpg"
+  },
+  {
+    "numero": "65",
+    "nome": "Luis Carlos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/65.jpg"
+  },
+  {
+    "numero": "66",
+    "nome": "Ayew Kwane",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/66.jpg"
+  },
+  {
+    "numero": "67",
+    "nome": "Rui Miguel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/67.jpg"
+  },
+  {
+    "numero": "68",
+    "nome": "Latapy",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/68.jpg"
+  },
+  {
+    "numero": "69",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 97 98/69.jpg"
+  },
+  {
+    "numero": "70",
+    "nome": "Wozniak",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/70.jpg"
+  },
+  {
+    "numero": "71",
+    "nome": "Jose Nuno A.",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/71.jpg"
+  },
+  {
+    "numero": "72",
+    "nome": "Artur Jorge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/72.jpg"
+  },
+  {
+    "numero": "73",
+    "nome": "Bruno",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/73.jpg"
+  },
+  {
+    "numero": "74",
+    "nome": "Baltasar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/74.jpg"
+  },
+  {
+    "numero": "75",
+    "nome": "Sergio Duarte",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/75.jpg"
+  },
+  {
+    "numero": "76",
+    "nome": "Joao Pinto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/76.jpg"
+  },
+  {
+    "numero": "77",
+    "nome": "Karoglan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/77.jpg"
+  },
+  {
+    "numero": "78",
+    "nome": "Tonino",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/78.jpg"
+  },
+  {
+    "numero": "79",
+    "nome": "Formoso",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/79.jpg"
+  },
+  {
+    "numero": "80",
+    "nome": "Lino",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/80.jpg"
+  },
+  {
+    "numero": "81",
+    "nome": "Carlitos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/81.jpg"
+  },
+  {
+    "numero": "82",
+    "nome": "Rodriago",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/82.jpg"
+  },
+  {
+    "numero": "83",
+    "nome": "Idalecio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/83.jpg"
+  },
+  {
+    "numero": "84",
+    "nome": "Mozer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/84.jpg"
+  },
+  {
+    "numero": "85",
+    "nome": "Gamboa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/85.jpg"
+  },
+  {
+    "numero": "86",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 97 98/86.jpg"
+  },
+  {
+    "numero": "87",
+    "nome": "Madureira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/87.jpg"
+  },
+  {
+    "numero": "88",
+    "nome": "Leonel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/88.jpg"
+  },
+  {
+    "numero": "89",
+    "nome": "Eurico",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/89.jpg"
+  },
+  {
+    "numero": "90",
+    "nome": "Nuno Luis",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/90.jpg"
+  },
+  {
+    "numero": "91",
+    "nome": "Basilio Marques",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/91.jpg"
+  },
+  {
+    "numero": "92",
+    "nome": "Luis Miguel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/92.jpg"
+  },
+  {
+    "numero": "93",
+    "nome": "Vitor Manuel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/93.jpg"
+  },
+  {
+    "numero": "94",
+    "nome": "Sousa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/94.jpg"
+  },
+  {
+    "numero": "95",
+    "nome": "Joel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/95.jpg"
+  },
+  {
+    "numero": "96",
+    "nome": "Laelson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/96.jpg"
+  },
+  {
+    "numero": "97",
+    "nome": "Gallardo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/97.jpg"
+  },
+  {
+    "numero": "98",
+    "nome": "Vincze",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/98.jpg"
+  },
+  {
+    "numero": "99",
+    "nome": "Jorge Ferreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/99.jpg"
+  },
+  {
+    "numero": "100",
+    "nome": "Mohammed",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/100.jpg"
+  },
+  {
+    "numero": "101",
+    "nome": "Jorginho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/101.jpg"
+  },
+  {
+    "numero": "102",
+    "nome": "Branquinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/102.jpg"
+  },
+  {
+    "numero": "103",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Chaves",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 97 98/103.jpg"
+  },
+  {
+    "numero": "104",
+    "nome": "Luis Vasco",
+    "tenho": true,
+    "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/104.jpg"
+  },
+  {
+    "numero": "105",
+    "nome": "Hilario",
+    "tenho": true,
+    "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/105.jpg"
+  },
+  {
+    "numero": "106",
+    "nome": "Paulo Alexandre",
+    "tenho": true,
+    "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/106.jpg"
+  },
+  {
+    "numero": "107",
+    "nome": "Vieira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/107.jpg"
+  },
+  {
+    "numero": "108",
+    "nome": "Raul",
+    "tenho": true,
+    "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/108.jpg"
+  },
+  {
+    "numero": "109",
+    "nome": "Putnik",
+    "tenho": true,
+    "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/109.jpg"
+  },
+  {
+    "numero": "110",
+    "nome": "Dani Diaz",
+    "tenho": true,
+    "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/110.jpg"
+  },
+  {
+    "numero": "111",
+    "nome": "Sabou",
+    "tenho": true,
+    "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/111.jpg"
+  },
+  {
+    "numero": "112",
+    "nome": "Toninho Cruz",
+    "tenho": true,
+    "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/112.jpg"
+  },
+  {
+    "numero": "113",
+    "nome": "Vojkovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/113.jpg"
+  },
+  {
+    "numero": "114",
+    "nome": "Miner",
+    "tenho": true,
+    "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/114.jpg"
+  },
+  {
+    "numero": "115",
+    "nome": "Tonino",
+    "tenho": true,
+    "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/115.jpg"
+  },
+  {
+    "numero": "116",
+    "nome": "Matute",
+    "tenho": true,
+    "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/116.jpg"
+  },
+  {
+    "numero": "117",
+    "nome": "Milinkovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/117.jpg"
+  },
+  {
+    "numero": "118",
+    "nome": "Lewis",
+    "tenho": true,
+    "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/118.jpg"
+  },
+  {
+    "numero": "119",
+    "nome": "Vitor Vieira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/119.jpg"
+  },
+  {
+    "numero": "120",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Estrela da Amadora",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 97 98/120.jpg"
+  },
+  {
+    "numero": "121",
+    "nome": "Ivkovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Estrela da Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/121.jpg"
+  },
+  {
+    "numero": "122",
+    "nome": "Leal",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Estrela da Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/122.jpg"
+  },
+  {
+    "numero": "123",
+    "nome": "Fonseca",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Estrela da Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/123.jpg"
+  },
+  {
+    "numero": "124",
+    "nome": "Rodlofo",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Estrela da Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/124.jpg"
+  },
+  {
+    "numero": "125",
+    "nome": "Bodelon",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Estrela da Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/125.jpg"
+  },
+  {
+    "numero": "126",
+    "nome": "Mario Jorge",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Estrela da Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/126.jpg"
+  },
+  {
+    "numero": "127",
+    "nome": "Raul Oliveira",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Estrela da Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/127.jpg"
+  },
+  {
+    "numero": "128",
+    "nome": "Mauro Airez",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Estrela da Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/128.jpg"
+  },
+  {
+    "numero": "129",
+    "nome": "Gaucho",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Estrela da Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/129.jpg"
+  },
+  {
+    "numero": "130",
+    "nome": "Velic",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Estrela da Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/130.jpg"
+  },
+  {
+    "numero": "131",
+    "nome": "Paulo Ferreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Estrela da Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/131.jpg"
+  },
+  {
+    "numero": "132",
+    "nome": "Chainho",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Estrela da Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/132.jpg"
+  },
+  {
+    "numero": "133",
+    "nome": "Jose Carlos",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Estrela da Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/133.jpg"
+  },
+  {
+    "numero": "134",
+    "nome": "Renato",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Estrela da Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/134.jpg"
+  },
+  {
+    "numero": "135",
+    "nome": "Rebelo",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Estrela da Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/135.jpg"
+  },
+  {
+    "numero": "136",
+    "nome": "Rui Neves",
+    "tenho": true,
+    "especial": false,
+    "clube": "C.F. Estrela da Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/136.jpg"
+  },
+  {
+    "numero": "137",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "S.C. Farense",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 97 98/137.jpg"
+  },
+  {
+    "numero": "138",
+    "nome": "Marco Aurelio",
+    "tenho": true,
+    "especial": false,
+    "clube": "S.C. Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/138.jpg"
+  },
+  {
+    "numero": "139",
+    "nome": "Mauro Soares",
+    "tenho": true,
+    "especial": false,
+    "clube": "S.C. Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/139.jpg"
+  },
+  {
+    "numero": "140",
+    "nome": "Besirovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "S.C. Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/140.jpg"
+  },
+  {
+    "numero": "141",
+    "nome": "Pedro Miguel",
+    "tenho": true,
+    "especial": false,
+    "clube": "S.C. Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/141.jpg"
+  },
+  {
+    "numero": "142",
+    "nome": "Paixao",
+    "tenho": true,
+    "especial": false,
+    "clube": "S.C. Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/142.jpg"
+  },
+  {
+    "numero": "143",
+    "nome": "Hassan",
+    "tenho": true,
+    "especial": false,
+    "clube": "S.C. Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/143.jpg"
+  },
+  {
+    "numero": "144",
+    "nome": "Carlos Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "S.C. Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/144.jpg"
+  },
+  {
+    "numero": "145",
+    "nome": "Hajry",
+    "tenho": true,
+    "especial": false,
+    "clube": "S.C. Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/145.jpg"
+  },
+  {
+    "numero": "146",
+    "nome": "Marco Nuno",
+    "tenho": true,
+    "especial": false,
+    "clube": "S.C. Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/146.jpg"
+  },
+  {
+    "numero": "147",
+    "nome": "Ramos",
+    "tenho": true,
+    "especial": false,
+    "clube": "S.C. Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/147.jpg"
+  },
+  {
+    "numero": "148",
+    "nome": "Djukic",
+    "tenho": true,
+    "especial": false,
+    "clube": "S.C. Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/148.jpg"
+  },
+  {
+    "numero": "149",
+    "nome": "Camilo",
+    "tenho": true,
+    "especial": false,
+    "clube": "S.C. Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/149.jpg"
+  },
+  {
+    "numero": "150",
+    "nome": "Miguel Serodio",
+    "tenho": true,
+    "especial": false,
+    "clube": "S.C. Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/150.jpg"
+  },
+  {
+    "numero": "151",
+    "nome": "Punisic",
+    "tenho": true,
+    "especial": false,
+    "clube": "S.C. Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/151.jpg"
+  },
+  {
+    "numero": "152",
+    "nome": "Acacio",
+    "tenho": true,
+    "especial": false,
+    "clube": "S.C. Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/152.jpg"
+  },
+  {
+    "numero": "153",
+    "nome": "Eugenio",
+    "tenho": true,
+    "especial": false,
+    "clube": "S.C. Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/153.jpg"
+  },
+  {
+    "numero": "154",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 97 98/154.jpg"
+  },
+  {
+    "numero": "155",
+    "nome": "Rui Correia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/155.jpg"
+  },
+  {
+    "numero": "156",
+    "nome": "Rui Barros",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/156.jpg"
+  },
+  {
+    "numero": "157",
+    "nome": "Zahovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/157.jpg"
+  },
+  {
+    "numero": "158",
+    "nome": "Fernando Mendes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/158.jpg"
+  },
+  {
+    "numero": "159",
+    "nome": "Aloisio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/159.jpg"
+  },
+  {
+    "numero": "160",
+    "nome": "Barroso",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/160.jpg"
+  },
+  {
+    "numero": "161",
+    "nome": "Artur",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/161.jpg"
+  },
+  {
+    "numero": "162",
+    "nome": "Rui Jorge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/162.jpg"
+  },
+  {
+    "numero": "163",
+    "nome": "Joao M. Pinto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/163.jpg"
+  },
+  {
+    "numero": "164",
+    "nome": "Jorge Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/164.jpg"
+  },
+  {
+    "numero": "165",
+    "nome": "Paulinho Santos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/165.jpg"
+  },
+  {
+    "numero": "166",
+    "nome": "Folha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/166.jpg"
+  },
+  {
+    "numero": "167",
+    "nome": "Drulovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/167.jpg"
+  },
+  {
+    "numero": "168",
+    "nome": "Jardel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/168.jpg"
+  },
+  {
+    "numero": "169",
+    "nome": "Sergio Conceicao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/169.jpg"
+  },
+  {
+    "numero": "170",
+    "nome": "Capucho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/170.jpg"
+  },
+  {
+    "numero": "171",
+    "nome": "Vitor Baia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/171.jpg"
+  },
+  {
+    "numero": "172",
+    "nome": "Fernando Couto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/172.jpg"
+  },
+  {
+    "numero": "173",
+    "nome": "Jorge Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/173.jpg"
+  },
+  {
+    "numero": "174",
+    "nome": "Helder",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/174.jpg"
+  },
+  {
+    "numero": "175",
+    "nome": "Dimas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/175.jpg"
+  },
+  {
+    "numero": "176",
+    "nome": "Paulinho Santos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/176.jpg"
+  },
+  {
+    "numero": "177",
+    "nome": "Luis Figo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/177.jpg"
+  },
+  {
+    "numero": "178",
+    "nome": "Rui Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/178.jpg"
+  },
+  {
+    "numero": "179",
+    "nome": "Oceano",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/179.jpg"
+  },
+  {
+    "numero": "180",
+    "nome": "Joao Pinto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/180.jpg"
+  },
+  {
+    "numero": "181",
+    "nome": "Pedro Barbosa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/181.jpg"
+  },
+  {
+    "numero": "182",
+    "nome": "Domingos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/182.jpg"
+  },
+  {
+    "numero": "183",
+    "nome": "Paulo Sousa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/183.jpg"
+  },
+  {
+    "numero": "184",
+    "nome": "Sergio Conceicao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/184.jpg"
+  },
+  {
+    "numero": "185",
+    "nome": "Pauleta",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/185.jpg"
+  },
+  {
+    "numero": "186",
+    "nome": "Dani",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/186.jpg"
+  },
+  {
+    "numero": "187",
+    "nome": "Vitor Baia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/187.jpg"
+  },
+  {
+    "numero": "188",
+    "nome": "Fernando Couto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/188.jpg"
+  },
+  {
+    "numero": "189",
+    "nome": "Jorge Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/189.jpg"
+  },
+  {
+    "numero": "190",
+    "nome": "Helder",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/190.jpg"
+  },
+  {
+    "numero": "191",
+    "nome": "Dimas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/191.jpg"
+  },
+  {
+    "numero": "192",
+    "nome": "Paulinho Santos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/192.jpg"
+  },
+  {
+    "numero": "193",
+    "nome": "Luis Figo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/193.jpg"
+  },
+  {
+    "numero": "194",
+    "nome": "Rui Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/194.jpg"
+  },
+  {
+    "numero": "195",
+    "nome": "Oceano",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/195.jpg"
+  },
+  {
+    "numero": "196",
+    "nome": "Joao Pinto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/196.jpg"
+  },
+  {
+    "numero": "197",
+    "nome": "Pedro Barbosa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/197.jpg"
+  },
+  {
+    "numero": "198",
+    "nome": "Domingos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/198.jpg"
+  },
+  {
+    "numero": "199",
+    "nome": "Paulo Sousa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/199.jpg"
+  },
+  {
+    "numero": "200",
+    "nome": "Sergio Conceicao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/200.jpg"
+  },
+  {
+    "numero": "201",
+    "nome": "Pauleta",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/201.jpg"
+  },
+  {
+    "numero": "202",
+    "nome": "Dani",
+    "tenho": true,
+    "especial": false,
+    "clube": "Portugal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/202.jpg"
+  },
+  {
+    "numero": "203",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria S.C.",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 97 98/203.jpg"
+  },
+  {
+    "numero": "204",
+    "nome": "Neno",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria S.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/204.jpg"
+  },
+  {
+    "numero": "205",
+    "nome": "Marco",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria S.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/205.jpg"
+  },
+  {
+    "numero": "206",
+    "nome": "Milovanovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria S.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/206.jpg"
+  },
+  {
+    "numero": "207",
+    "nome": "Alexandre",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria S.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/207.jpg"
+  },
+  {
+    "numero": "208",
+    "nome": "Marcio Theodoro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria S.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/208.jpg"
+  },
+  {
+    "numero": "209",
+    "nome": "Jose Carlos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria S.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/209.jpg"
+  },
+  {
+    "numero": "210",
+    "nome": "Tito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria S.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/210.jpg"
+  },
+  {
+    "numero": "211",
+    "nome": "Vitor Paneira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria S.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/211.jpg"
+  },
+  {
+    "numero": "212",
+    "nome": "Gilmar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria S.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/212.jpg"
+  },
+  {
+    "numero": "213",
+    "nome": "Edmilson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria S.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/213.jpg"
+  },
+  {
+    "numero": "214",
+    "nome": "Filipe",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria S.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/214.jpg"
+  },
+  {
+    "numero": "215",
+    "nome": "Riva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria S.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/215.jpg"
+  },
+  {
+    "numero": "216",
+    "nome": "Fernando Meira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria S.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/216.jpg"
+  },
+  {
+    "numero": "217",
+    "nome": "Arley",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria S.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/217.jpg"
+  },
+  {
+    "numero": "218",
+    "nome": "Ricardo Lopes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria S.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/218.jpg"
+  },
+  {
+    "numero": "219",
+    "nome": "Paiva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria S.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/219.jpg"
+  },
+  {
+    "numero": "220",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Leça F.C.",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 97 98/220.jpg"
+  },
+  {
+    "numero": "221",
+    "nome": "Vladan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Leça F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/221.jpg"
+  },
+  {
+    "numero": "222",
+    "nome": "Franco",
+    "tenho": true,
+    "especial": false,
+    "clube": "Leça F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/222.jpg"
+  },
+  {
+    "numero": "223",
+    "nome": "Armando",
+    "tenho": true,
+    "especial": false,
+    "clube": "Leça F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/223.jpg"
+  },
+  {
+    "numero": "224",
+    "nome": "Sergio Pedro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Leça F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/224.jpg"
+  },
+  {
+    "numero": "225",
+    "nome": "Constantino",
+    "tenho": true,
+    "especial": false,
+    "clube": "Leça F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/225.jpg"
+  },
+  {
+    "numero": "226",
+    "nome": "Cristovao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Leça F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/226.jpg"
+  },
+  {
+    "numero": "227",
+    "nome": "Mesquita",
+    "tenho": true,
+    "especial": false,
+    "clube": "Leça F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/227.jpg"
+  },
+  {
+    "numero": "228",
+    "nome": "Noverca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Leça F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/228.jpg"
+  },
+  {
+    "numero": "229",
+    "nome": "Alfaia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Leça F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/229.jpg"
+  },
+  {
+    "numero": "230",
+    "nome": "Ze Da Rocha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Leça F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/230.jpg"
+  },
+  {
+    "numero": "231",
+    "nome": "Nando",
+    "tenho": true,
+    "especial": false,
+    "clube": "Leça F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/231.jpg"
+  },
+  {
+    "numero": "232",
+    "nome": "Serifo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Leça F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/232.jpg"
+  },
+  {
+    "numero": "233",
+    "nome": "Toze",
+    "tenho": true,
+    "especial": false,
+    "clube": "Leça F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/233.jpg"
+  },
+  {
+    "numero": "234",
+    "nome": "Jefferson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Leça F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/234.jpg"
+  },
+  {
+    "numero": "235",
+    "nome": "Loinaz",
+    "tenho": true,
+    "especial": false,
+    "clube": "Leça F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/235.jpg"
+  },
+  {
+    "numero": "236",
+    "nome": "Baia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Leça F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/236.jpg"
+  },
+  {
+    "numero": "237",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 97 98/237.jpg"
+  },
+  {
+    "numero": "238",
+    "nome": "van der Straeten",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/238.jpg"
+  },
+  {
+    "numero": "239",
+    "nome": "Zeca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/239.jpg"
+  },
+  {
+    "numero": "240",
+    "nome": "Bino",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/240.jpg"
+  },
+  {
+    "numero": "241",
+    "nome": "Mauricio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/241.jpg"
+  },
+  {
+    "numero": "242",
+    "nome": "Carlos Jorge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/242.jpg"
+  },
+  {
+    "numero": "243",
+    "nome": "Rui Oscar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/243.jpg"
+  },
+  {
+    "numero": "244",
+    "nome": "Cabral",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/244.jpg"
+  },
+  {
+    "numero": "245",
+    "nome": "Herivelto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/245.jpg"
+  },
+  {
+    "numero": "246",
+    "nome": "Alexandre",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/246.jpg"
+  },
+  {
+    "numero": "247",
+    "nome": "Asselman",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/247.jpg"
+  },
+  {
+    "numero": "248",
+    "nome": "Jokanovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/248.jpg"
+  },
+  {
+    "numero": "249",
+    "nome": "Pedro Paulo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/249.jpg"
+  },
+  {
+    "numero": "250",
+    "nome": "Ricardo Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/250.jpg"
+  },
+  {
+    "numero": "251",
+    "nome": "Romeu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/251.jpg"
+  },
+  {
+    "numero": "252",
+    "nome": "Albertino",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/252.jpg"
+  },
+  {
+    "numero": "253",
+    "nome": "Fonseca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/253.jpg"
+  },
+  {
+    "numero": "254",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 97 98/254.jpg"
+  },
+  {
+    "numero": "255",
+    "nome": "To Luis",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/255.jpg"
+  },
+  {
+    "numero": "256",
+    "nome": "Martins",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/256.jpg"
+  },
+  {
+    "numero": "257",
+    "nome": "Marcos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/257.jpg"
+  },
+  {
+    "numero": "258",
+    "nome": "Baica",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/258.jpg"
+  },
+  {
+    "numero": "259",
+    "nome": "Emanuel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/259.jpg"
+  },
+  {
+    "numero": "260",
+    "nome": "Peu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/260.jpg"
+  },
+  {
+    "numero": "261",
+    "nome": "Coentrao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/261.jpg"
+  },
+  {
+    "numero": "262",
+    "nome": "Nito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/262.jpg"
+  },
+  {
+    "numero": "263",
+    "nome": "Nenad",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/263.jpg"
+  },
+  {
+    "numero": "264",
+    "nome": "Camberra",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/264.jpg"
+  },
+  {
+    "numero": "265",
+    "nome": "Paulo L. Pereira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/265.jpg"
+  },
+  {
+    "numero": "266",
+    "nome": "Nelo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/266.jpg"
+  },
+  {
+    "numero": "267",
+    "nome": "Sergio China",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/267.jpg"
+  },
+  {
+    "numero": "268",
+    "nome": "Gama",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/268.jpg"
+  },
+  {
+    "numero": "269",
+    "nome": "Dibo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/269.jpg"
+  },
+  {
+    "numero": "270",
+    "nome": "Quinzinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/270.jpg"
+  },
+  {
+    "numero": "271",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 97 98/271.jpg"
+  },
+  {
+    "numero": "272",
+    "nome": "Silvinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/272.jpg"
+  },
+  {
+    "numero": "273",
+    "nome": "Chico Fonseca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/273.jpg"
+  },
+  {
+    "numero": "274",
+    "nome": "Pedro Paulo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/274.jpg"
+  },
+  {
+    "numero": "275",
+    "nome": "Abilio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/275.jpg"
+  },
+  {
+    "numero": "276",
+    "nome": "Leao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/276.jpg"
+  },
+  {
+    "numero": "277",
+    "nome": "Paulinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/277.jpg"
+  },
+  {
+    "numero": "278",
+    "nome": "Semedo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/278.jpg"
+  },
+  {
+    "numero": "279",
+    "nome": "F. Almeida",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/279.jpg"
+  },
+  {
+    "numero": "280",
+    "nome": "Nandinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/280.jpg"
+  },
+  {
+    "numero": "281",
+    "nome": "Toni",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/281.jpg"
+  },
+  {
+    "numero": "282",
+    "nome": "Artur J. Vicente",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/282.jpg"
+  },
+  {
+    "numero": "283",
+    "nome": "Vinha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/283.jpg"
+  },
+  {
+    "numero": "284",
+    "nome": "Zoran",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/284.jpg"
+  },
+  {
+    "numero": "285",
+    "nome": "Renato",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/285.jpg"
+  },
+  {
+    "numero": "286",
+    "nome": "Cau",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/286.jpg"
+  },
+  {
+    "numero": "287",
+    "nome": "Lino",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/287.jpg"
+  },
+  {
+    "numero": "288",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 97 98/288.jpg"
+  },
+  {
+    "numero": "289",
+    "nome": "De Wilde",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/289.jpg"
+  },
+  {
+    "numero": "290",
+    "nome": "Hadji",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/290.jpg"
+  },
+  {
+    "numero": "291",
+    "nome": "Beto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/291.jpg"
+  },
+  {
+    "numero": "292",
+    "nome": "Saber",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/292.jpg"
+  },
+  {
+    "numero": "293",
+    "nome": "Marco Aurelio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/293.jpg"
+  },
+  {
+    "numero": "294",
+    "nome": "Vidigal",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/294.jpg"
+  },
+  {
+    "numero": "295",
+    "nome": "Pedrosa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/295.jpg"
+  },
+  {
+    "numero": "296",
+    "nome": "Oceano",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/296.jpg"
+  },
+  {
+    "numero": "297",
+    "nome": "Pedro Martins",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/297.jpg"
+  },
+  {
+    "numero": "298",
+    "nome": "Pedro Barbosa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/298.jpg"
+  },
+  {
+    "numero": "299",
+    "nome": "Iordanov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/299.jpg"
+  },
+  {
+    "numero": "300",
+    "nome": "Paulo Alves",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/300.jpg"
+  },
+  {
+    "numero": "301",
+    "nome": "Afonso Martins",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/301.jpg"
+  },
+  {
+    "numero": "302",
+    "nome": "Lang",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/302.jpg"
+  },
+  {
+    "numero": "303",
+    "nome": "Carlos Miguel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/303.jpg"
+  },
+  {
+    "numero": "304",
+    "nome": "Leandro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/304.jpg"
+  },
+  {
+    "numero": "305",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria F.C.",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 97 98/305.jpg"
+  },
+  {
+    "numero": "306",
+    "nome": "Nuno Santos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/306.jpg"
+  },
+  {
+    "numero": "307",
+    "nome": "Figueiredo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/307.jpg"
+  },
+  {
+    "numero": "308",
+    "nome": "Quim",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/308.jpg"
+  },
+  {
+    "numero": "309",
+    "nome": "Carlos Manuel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/309.jpg"
+  },
+  {
+    "numero": "310",
+    "nome": "Frechaut",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/310.jpg"
+  },
+  {
+    "numero": "311",
+    "nome": "Mamede",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/311.jpg"
+  },
+  {
+    "numero": "312",
+    "nome": "Paulo Filipe",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/312.jpg"
+  },
+  {
+    "numero": "313",
+    "nome": "Rui Carlos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/313.jpg"
+  },
+  {
+    "numero": "314",
+    "nome": "Mario Loja",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/314.jpg"
+  },
+  {
+    "numero": "315",
+    "nome": "Paulo Ribeiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/315.jpg"
+  },
+  {
+    "numero": "316",
+    "nome": "Jose Rui",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/316.jpg"
+  },
+  {
+    "numero": "317",
+    "nome": "Helio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/317.jpg"
+  },
+  {
+    "numero": "318",
+    "nome": "Amaral",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/318.jpg"
+  },
+  {
+    "numero": "319",
+    "nome": "Kassoumov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/319.jpg"
+  },
+  {
+    "numero": "320",
+    "nome": "Tonito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/320.jpg"
+  },
+  {
+    "numero": "321",
+    "nome": "Chipenda",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria F.C.",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/321.jpg"
+  },
+  {
+    "numero": "322",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 97 98/322.jpg"
+  },
+  {
+    "numero": "323",
+    "nome": "Brasard",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/323.jpg"
+  },
+  {
+    "numero": "324",
+    "nome": "Mariano",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/324.jpg"
+  },
+  {
+    "numero": "325",
+    "nome": "Luisao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/325.jpg"
+  },
+  {
+    "numero": "326",
+    "nome": "Sergio Lavos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/326.jpg"
+  },
+  {
+    "numero": "327",
+    "nome": "Rui Alberto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/327.jpg"
+  },
+  {
+    "numero": "328",
+    "nome": "Quim Machado",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/328.jpg"
+  },
+  {
+    "numero": "329",
+    "nome": "Marcos Severo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/329.jpg"
+  },
+  {
+    "numero": "330",
+    "nome": "Pedro Renato",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/330.jpg"
+  },
+  {
+    "numero": "331",
+    "nome": "Cristiano",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/331.jpg"
+  },
+  {
+    "numero": "332",
+    "nome": "Lito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/332.jpg"
+  },
+  {
+    "numero": "333",
+    "nome": "Alexandre",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/333.jpg"
+  },
+  {
+    "numero": "334",
+    "nome": "Slagalo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/334.jpg"
+  },
+  {
+    "numero": "335",
+    "nome": "Miranda",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/335.jpg"
+  },
+  {
+    "numero": "336",
+    "nome": "Paulo Piedade",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/336.jpg"
+  },
+  {
+    "numero": "337",
+    "nome": "Lino",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 97 98/337.jpg"
+  },
+  {
+    "numero": "338",
+    "nome": "Zacarias",
+    "tenho": true,
+    "especial": false,
+    "clube": "Varzim",
+    "imagem": "images/capas/Futebol 97 98/338.jpg"
+  }
+]

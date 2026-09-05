@@ -1,0 +1,2918 @@
+[
+  {
+    "numero": "1",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "FC Porto",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/1.jpg"
+  },
+  {
+    "numero": "2",
+    "nome": "Vitor Baia",
+    "tenho": true,
+    "especial": false,
+    "clube": "FC Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/2.jpg"
+  },
+  {
+    "numero": "3",
+    "nome": "Secretario",
+    "tenho": true,
+    "especial": false,
+    "clube": "FC Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/3.jpg"
+  },
+  {
+    "numero": "4",
+    "nome": "Jorge Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "FC Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/4.jpg"
+  },
+  {
+    "numero": "5",
+    "nome": "Aloisio",
+    "tenho": true,
+    "especial": false,
+    "clube": "FC Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/5.jpg"
+  },
+  {
+    "numero": "6",
+    "nome": "Esqueadinha",
+    "tenho": true,
+    "especial": false,
+    "clube": "FC Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/6.jpg"
+  },
+  {
+    "numero": "7",
+    "nome": "Peixe",
+    "tenho": true,
+    "especial": false,
+    "clube": "FC Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/7.jpg"
+  },
+  {
+    "numero": "8",
+    "nome": "Paulinho Santos",
+    "tenho": true,
+    "especial": false,
+    "clube": "FC Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/8.jpg"
+  },
+  {
+    "numero": "9",
+    "nome": "Deco",
+    "tenho": true,
+    "especial": false,
+    "clube": "FC Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/9.jpg"
+  },
+  {
+    "numero": "10",
+    "nome": "Drulovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "FC Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/10.jpg"
+  },
+  {
+    "numero": "11",
+    "nome": "Capuchio",
+    "tenho": true,
+    "especial": false,
+    "clube": "FC Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/11.jpg"
+  },
+  {
+    "numero": "12",
+    "nome": "Alessandro",
+    "tenho": true,
+    "especial": false,
+    "clube": "FC Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/12.jpg"
+  },
+  {
+    "numero": "13",
+    "nome": "Jardel",
+    "tenho": true,
+    "especial": false,
+    "clube": "FC Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/13.jpg"
+  },
+  {
+    "numero": "14",
+    "nome": "Domingos",
+    "tenho": true,
+    "especial": false,
+    "clube": "FC Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/14.jpg"
+  },
+  {
+    "numero": "15",
+    "nome": "Argel",
+    "tenho": true,
+    "especial": false,
+    "clube": "FC Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/15.jpg"
+  },
+  {
+    "numero": "16",
+    "nome": "Rubens Junioa",
+    "tenho": true,
+    "especial": false,
+    "clube": "FC Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/16.jpg"
+  },
+  {
+    "numero": "17",
+    "nome": "Ricardo Sousa",
+    "tenho": true,
+    "especial": false,
+    "clube": "FC Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/17.jpg"
+  },
+  {
+    "numero": "18",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/18.jpg"
+  },
+  {
+    "numero": "19",
+    "nome": "William",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/19.jpg"
+  },
+  {
+    "numero": "20",
+    "nome": "Paulo Sousa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/20.jpg"
+  },
+  {
+    "numero": "21",
+    "nome": "Litos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/21.jpg"
+  },
+  {
+    "numero": "22",
+    "nome": "Pedro Emanuel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/22.jpg"
+  },
+  {
+    "numero": "23",
+    "nome": "Mario Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/23.jpg"
+  },
+  {
+    "numero": "24",
+    "nome": "Rui Bento",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/24.jpg"
+  },
+  {
+    "numero": "25",
+    "nome": "Timofte",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/25.jpg"
+  },
+  {
+    "numero": "26",
+    "nome": "Augustine",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/26.jpg"
+  },
+  {
+    "numero": "27",
+    "nome": "Jorge Couto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/27.jpg"
+  },
+  {
+    "numero": "28",
+    "nome": "Gilmar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/28.jpg"
+  },
+  {
+    "numero": "29",
+    "nome": "Luis Manuel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/29.jpg"
+  },
+  {
+    "numero": "30",
+    "nome": "Emanuel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/30.jpg"
+  },
+  {
+    "numero": "31",
+    "nome": "Carlos Alberto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/31.jpg"
+  },
+  {
+    "numero": "32",
+    "nome": "Pedro Martins",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/32.jpg"
+  },
+  {
+    "numero": "33",
+    "nome": "Moreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/33.jpg"
+  },
+  {
+    "numero": "34",
+    "nome": "Quevedo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/34.jpg"
+  },
+  {
+    "numero": "35",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/35.jpg"
+  },
+  {
+    "numero": "36",
+    "nome": "Enke",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/36.jpg"
+  },
+  {
+    "numero": "37",
+    "nome": "Tahaa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/37.jpg"
+  },
+  {
+    "numero": "38",
+    "nome": "Paulo Madeira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/38.jpg"
+  },
+  {
+    "numero": "39",
+    "nome": "Ronaldo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/39.jpg"
+  },
+  {
+    "numero": "40",
+    "nome": "Sergio Nunes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/40.jpg"
+  },
+  {
+    "numero": "41",
+    "nome": "Karel Poborsky",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/41.jpg"
+  },
+  {
+    "numero": "42",
+    "nome": "Calado",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/42.jpg"
+  },
+  {
+    "numero": "43",
+    "nome": "Kandaurov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/43.jpg"
+  },
+  {
+    "numero": "44",
+    "nome": "Vbruno Basto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/44.jpg"
+  },
+  {
+    "numero": "45",
+    "nome": "Chano",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/45.jpg"
+  },
+  {
+    "numero": "46",
+    "nome": "Luis Carlos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/46.jpg"
+  },
+  {
+    "numero": "47",
+    "nome": "Joao Pinto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/47.jpg"
+  },
+  {
+    "numero": "48",
+    "nome": "Nuno Gomes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/48.jpg"
+  },
+  {
+    "numero": "49",
+    "nome": "Aojas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/49.jpg"
+  },
+  {
+    "numero": "50",
+    "nome": "Andrade",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/50.jpg"
+  },
+  {
+    "numero": "51",
+    "nome": "Cadete",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/51.jpg"
+  },
+  {
+    "numero": "52",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/52.jpg"
+  },
+  {
+    "numero": "53",
+    "nome": "Peter Schmeichel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/53.jpg"
+  },
+  {
+    "numero": "54",
+    "nome": "Saber",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/54.jpg"
+  },
+  {
+    "numero": "55",
+    "nome": "Beto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/55.jpg"
+  },
+  {
+    "numero": "56",
+    "nome": "Quiroga",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/56.jpg"
+  },
+  {
+    "numero": "57",
+    "nome": "Marcos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/57.jpg"
+  },
+  {
+    "numero": "58",
+    "nome": "Rui Jorge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/58.jpg"
+  },
+  {
+    "numero": "59",
+    "nome": "Duchea",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/59.jpg"
+  },
+  {
+    "numero": "60",
+    "nome": "Delfim",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/60.jpg"
+  },
+  {
+    "numero": "61",
+    "nome": "Edmilson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/61.jpg"
+  },
+  {
+    "numero": "62",
+    "nome": "Pedro Barbosa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/62.jpg"
+  },
+  {
+    "numero": "63",
+    "nome": "Ayew",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/63.jpg"
+  },
+  {
+    "numero": "64",
+    "nome": "Tonito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/64.jpg"
+  },
+  {
+    "numero": "65",
+    "nome": "Kapan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/65.jpg"
+  },
+  {
+    "numero": "66",
+    "nome": "Acosta",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/66.jpg"
+  },
+  {
+    "numero": "67",
+    "nome": "Ioadanov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/67.jpg"
+  },
+  {
+    "numero": "68",
+    "nome": "Quim Berto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Lisbon",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/68.jpg"
+  },
+  {
+    "numero": "69",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/69.jpg"
+  },
+  {
+    "numero": "70",
+    "nome": "Marco Tabuas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/70.jpg"
+  },
+  {
+    "numero": "71",
+    "nome": "Jose Rui",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/71.jpg"
+  },
+  {
+    "numero": "72",
+    "nome": "Quim Berto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/72.jpg"
+  },
+  {
+    "numero": "73",
+    "nome": "Mario Loja",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/73.jpg"
+  },
+  {
+    "numero": "74",
+    "nome": "Paulo Filipe",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/74.jpg"
+  },
+  {
+    "numero": "75",
+    "nome": "Pedro Henriques",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/75.jpg"
+  },
+  {
+    "numero": "76",
+    "nome": "Rui Carlos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/76.jpg"
+  },
+  {
+    "numero": "77",
+    "nome": "Frechaut",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/77.jpg"
+  },
+  {
+    "numero": "78",
+    "nome": "Carlos Manuel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/78.jpg"
+  },
+  {
+    "numero": "79",
+    "nome": "Helio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/79.jpg"
+  },
+  {
+    "numero": "80",
+    "nome": "Mamede",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/80.jpg"
+  },
+  {
+    "numero": "81",
+    "nome": "Chiquinho Conde",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/81.jpg"
+  },
+  {
+    "numero": "82",
+    "nome": "Maki",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/82.jpg"
+  },
+  {
+    "numero": "83",
+    "nome": "Semedo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/83.jpg"
+  },
+  {
+    "numero": "84",
+    "nome": "Carmo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/84.jpg"
+  },
+  {
+    "numero": "85",
+    "nome": "Chipenda",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Setubal",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/85.jpg"
+  },
+  {
+    "numero": "86",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/86.jpg"
+  },
+  {
+    "numero": "87",
+    "nome": "Miroslav",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/87.jpg"
+  },
+  {
+    "numero": "88",
+    "nome": "Bilao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/88.jpg"
+  },
+  {
+    "numero": "89",
+    "nome": "Joao Manuel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/89.jpg"
+  },
+  {
+    "numero": "90",
+    "nome": "Morgado",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/90.jpg"
+  },
+  {
+    "numero": "91",
+    "nome": "Paulo Durate",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/91.jpg"
+  },
+  {
+    "numero": "92",
+    "nome": "Luis Vouzela",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/92.jpg"
+  },
+  {
+    "numero": "93",
+    "nome": "Hugo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/93.jpg"
+  },
+  {
+    "numero": "94",
+    "nome": "ezinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/94.jpg"
+  },
+  {
+    "numero": "95",
+    "nome": "Herivelto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/95.jpg"
+  },
+  {
+    "numero": "96",
+    "nome": "Alfredo Boia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/96.jpg"
+  },
+  {
+    "numero": "97",
+    "nome": "Renato",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/97.jpg"
+  },
+  {
+    "numero": "98",
+    "nome": "Nuno Valente",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/98.jpg"
+  },
+  {
+    "numero": "99",
+    "nome": "Leao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/99.jpg"
+  },
+  {
+    "numero": "100",
+    "nome": "Duah",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/100.jpg"
+  },
+  {
+    "numero": "101",
+    "nome": "Derlei",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/101.jpg"
+  },
+  {
+    "numero": "102",
+    "nome": "Dinda",
+    "tenho": true,
+    "especial": false,
+    "clube": "Uniao Leiria",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/102.jpg"
+  },
+  {
+    "numero": "103",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/103.jpg"
+  },
+  {
+    "numero": "104",
+    "nome": "Pedro Espinha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/104.jpg"
+  },
+  {
+    "numero": "105",
+    "nome": "Alexandre",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/105.jpg"
+  },
+  {
+    "numero": "106",
+    "nome": "Marcio Theodoao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/106.jpg"
+  },
+  {
+    "numero": "107",
+    "nome": "Tito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/107.jpg"
+  },
+  {
+    "numero": "108",
+    "nome": "Paulo Gomes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/108.jpg"
+  },
+  {
+    "numero": "109",
+    "nome": "Paiva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/109.jpg"
+  },
+  {
+    "numero": "110",
+    "nome": "Soderstrom",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/110.jpg"
+  },
+  {
+    "numero": "111",
+    "nome": "Riva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/111.jpg"
+  },
+  {
+    "numero": "112",
+    "nome": "Evaldo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/112.jpg"
+  },
+  {
+    "numero": "113",
+    "nome": "Fernando Meira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/113.jpg"
+  },
+  {
+    "numero": "114",
+    "nome": "Carlos Manuel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/114.jpg"
+  },
+  {
+    "numero": "115",
+    "nome": "Edmilson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/115.jpg"
+  },
+  {
+    "numero": "116",
+    "nome": "Brandao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/116.jpg"
+  },
+  {
+    "numero": "117",
+    "nome": "Fonseca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/117.jpg"
+  },
+  {
+    "numero": "118",
+    "nome": "Jairson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/118.jpg"
+  },
+  {
+    "numero": "119",
+    "nome": "Nandinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Vitoria Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/119.jpg"
+  },
+  {
+    "numero": "120",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Est. Amadora",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/120.jpg"
+  },
+  {
+    "numero": "121",
+    "nome": "Tiago",
+    "tenho": true,
+    "especial": false,
+    "clube": "Est. Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/121.jpg"
+  },
+  {
+    "numero": "122",
+    "nome": "Rui Neves",
+    "tenho": true,
+    "especial": false,
+    "clube": "Est. Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/122.jpg"
+  },
+  {
+    "numero": "123",
+    "nome": "Leal",
+    "tenho": true,
+    "especial": false,
+    "clube": "Est. Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/123.jpg"
+  },
+  {
+    "numero": "124",
+    "nome": "Aebelo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Est. Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/124.jpg"
+  },
+  {
+    "numero": "125",
+    "nome": "Raul Oliveira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Est. Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/125.jpg"
+  },
+  {
+    "numero": "126",
+    "nome": "Jose Carlos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Est. Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/126.jpg"
+  },
+  {
+    "numero": "127",
+    "nome": "Pedro Simoes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Est. Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/127.jpg"
+  },
+  {
+    "numero": "128",
+    "nome": "Jorge Andrade",
+    "tenho": true,
+    "especial": false,
+    "clube": "Est. Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/128.jpg"
+  },
+  {
+    "numero": "129",
+    "nome": "Lazaro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Est. Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/129.jpg"
+  },
+  {
+    "numero": "130",
+    "nome": "Stenio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Est. Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/130.jpg"
+  },
+  {
+    "numero": "131",
+    "nome": "Lewis",
+    "tenho": true,
+    "especial": false,
+    "clube": "Est. Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/131.jpg"
+  },
+  {
+    "numero": "132",
+    "nome": "Vitor Vieira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Est. Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/132.jpg"
+  },
+  {
+    "numero": "133",
+    "nome": "Gilberto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Est. Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/133.jpg"
+  },
+  {
+    "numero": "134",
+    "nome": "Gaucho II",
+    "tenho": true,
+    "especial": false,
+    "clube": "Est. Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/134.jpg"
+  },
+  {
+    "numero": "135",
+    "nome": "Gaucho I",
+    "tenho": true,
+    "especial": false,
+    "clube": "Est. Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/135.jpg"
+  },
+  {
+    "numero": "136",
+    "nome": "Serginho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Est. Amadora",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/136.jpg"
+  },
+  {
+    "numero": "137",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Braga",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/137.jpg"
+  },
+  {
+    "numero": "138",
+    "nome": "Quim",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/138.jpg"
+  },
+  {
+    "numero": "139",
+    "nome": "Jose Nuno",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/139.jpg"
+  },
+  {
+    "numero": "140",
+    "nome": "Lino",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/140.jpg"
+  },
+  {
+    "numero": "141",
+    "nome": "Cabral",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/141.jpg"
+  },
+  {
+    "numero": "142",
+    "nome": "Idalecio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/142.jpg"
+  },
+  {
+    "numero": "143",
+    "nome": "Odaia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/143.jpg"
+  },
+  {
+    "numero": "144",
+    "nome": "Artur Jorge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/144.jpg"
+  },
+  {
+    "numero": "145",
+    "nome": "Mozea",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/145.jpg"
+  },
+  {
+    "numero": "146",
+    "nome": "Jordao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/146.jpg"
+  },
+  {
+    "numero": "147",
+    "nome": "Castanheira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/147.jpg"
+  },
+  {
+    "numero": "148",
+    "nome": "Barroso",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/148.jpg"
+  },
+  {
+    "numero": "149",
+    "nome": "Toni",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/149.jpg"
+  },
+  {
+    "numero": "150",
+    "nome": "Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/150.jpg"
+  },
+  {
+    "numero": "151",
+    "nome": "Bruno",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/151.jpg"
+  },
+  {
+    "numero": "152",
+    "nome": "Jean Paulista",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/152.jpg"
+  },
+  {
+    "numero": "153",
+    "nome": "Luis Miguel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/153.jpg"
+  },
+  {
+    "numero": "154",
+    "nome": "Roberto Luis Gaspar Deus",
+    "tenho": true,
+    "especial": false,
+    "clube": "As Estrelas do Record",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/154.jpg"
+  },
+  {
+    "numero": "155",
+    "nome": "Carlos Jorge Camacho",
+    "tenho": true,
+    "especial": false,
+    "clube": "As Estrelas do Record",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/155.jpg"
+  },
+  {
+    "numero": "156",
+    "nome": "Francisco Q Cone Jr",
+    "tenho": true,
+    "especial": false,
+    "clube": "As Estrelas do Record",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/156.jpg"
+  },
+  {
+    "numero": "157",
+    "nome": "Demetrios Montanini",
+    "tenho": true,
+    "especial": false,
+    "clube": "As Estrelas do Record",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/157.jpg"
+  },
+  {
+    "numero": "158",
+    "nome": "Aldo Pedro Duscher",
+    "tenho": true,
+    "especial": false,
+    "clube": "As Estrelas do Record",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/158.jpg"
+  },
+  {
+    "numero": "159",
+    "nome": "Edmilson Dias de Lucena",
+    "tenho": true,
+    "especial": false,
+    "clube": "As Estrelas do Record",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/159.jpg"
+  },
+  {
+    "numero": "160",
+    "nome": "Elpidio Pereira da Silva Filho",
+    "tenho": true,
+    "especial": false,
+    "clube": "As Estrelas do Record",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/160.jpg"
+  },
+  {
+    "numero": "161",
+    "nome": "Fernando Manuel Mendes",
+    "tenho": true,
+    "especial": false,
+    "clube": "As Estrelas do Record",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/161.jpg"
+  },
+  {
+    "numero": "162",
+    "nome": "Mario Jardel Almeida",
+    "tenho": true,
+    "especial": false,
+    "clube": "As Estrelas do Record",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/162.jpg"
+  },
+  {
+    "numero": "163",
+    "nome": "Joao Manuel Vieira Pinto",
+    "tenho": true,
+    "especial": false,
+    "clube": "As Estrelas do Record",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/163.jpg"
+  },
+  {
+    "numero": "164",
+    "nome": "Jorge Paulo Costa Almeida",
+    "tenho": true,
+    "especial": false,
+    "clube": "As Estrelas do Record",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/164.jpg"
+  },
+  {
+    "numero": "165",
+    "nome": "Jose Martins Leal",
+    "tenho": true,
+    "especial": false,
+    "clube": "As Estrelas do Record",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/165.jpg"
+  },
+  {
+    "numero": "166",
+    "nome": "Nuno Miguel Soares P Ribeiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "As Estrelas do Record",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/166.jpg"
+  },
+  {
+    "numero": "167",
+    "nome": "Peter Schmeichel",
+    "tenho": true,
+    "especial": false,
+    "clube": "As Estrelas do Record",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/167.jpg"
+  },
+  {
+    "numero": "168",
+    "nome": "Karel Poborsky",
+    "tenho": true,
+    "especial": false,
+    "clube": "As Estrelas do Record",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/168.jpg"
+  },
+  {
+    "numero": "169",
+    "nome": "Ion Tinofte",
+    "tenho": true,
+    "especial": false,
+    "clube": "As Estrelas do Record",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/169.jpg"
+  },
+  {
+    "numero": "170",
+    "nome": "Vitor Manuel Martins Baia",
+    "tenho": true,
+    "especial": false,
+    "clube": "As Estrelas do Record",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/170.jpg"
+  },
+  {
+    "numero": "171",
+    "nome": "William Andem",
+    "tenho": true,
+    "especial": false,
+    "clube": "As Estrelas do Record",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/171.jpg"
+  },
+  {
+    "numero": "172",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/172.jpg"
+  },
+  {
+    "numero": "173",
+    "nome": "Van Der Straten",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/173.jpg"
+  },
+  {
+    "numero": "174",
+    "nome": "Rui Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/174.jpg"
+  },
+  {
+    "numero": "175",
+    "nome": "Carlos Jorge Camacho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/175.jpg"
+  },
+  {
+    "numero": "176",
+    "nome": "Jorge Soares",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/176.jpg"
+  },
+  {
+    "numero": "177",
+    "nome": "Albertino",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/177.jpg"
+  },
+  {
+    "numero": "178",
+    "nome": "Eusebio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/178.jpg"
+  },
+  {
+    "numero": "179",
+    "nome": "Mariano",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/179.jpg"
+  },
+  {
+    "numero": "180",
+    "nome": "Zeca",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/180.jpg"
+  },
+  {
+    "numero": "181",
+    "nome": "Asselman",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/181.jpg"
+  },
+  {
+    "numero": "182",
+    "nome": "Dani Diaz",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/182.jpg"
+  },
+  {
+    "numero": "183",
+    "nome": "Jokanovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/183.jpg"
+  },
+  {
+    "numero": "184",
+    "nome": "Joao Q Pinto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/184.jpg"
+  },
+  {
+    "numero": "185",
+    "nome": "Bruno",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/185.jpg"
+  },
+  {
+    "numero": "186",
+    "nome": "Iliev",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/186.jpg"
+  },
+  {
+    "numero": "187",
+    "nome": "Sumudica",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/187.jpg"
+  },
+  {
+    "numero": "188",
+    "nome": "Nuno Afonso",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/188.jpg"
+  },
+  {
+    "numero": "189",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Farense",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/189.jpg"
+  },
+  {
+    "numero": "190",
+    "nome": "Mijanovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/190.jpg"
+  },
+  {
+    "numero": "191",
+    "nome": "Diego",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/191.jpg"
+  },
+  {
+    "numero": "192",
+    "nome": "Carlos Fernandes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/192.jpg"
+  },
+  {
+    "numero": "193",
+    "nome": "Miguel Serodio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/193.jpg"
+  },
+  {
+    "numero": "194",
+    "nome": "Haury",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/194.jpg"
+  },
+  {
+    "numero": "195",
+    "nome": "Besiaovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/195.jpg"
+  },
+  {
+    "numero": "196",
+    "nome": "Cavaco",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/196.jpg"
+  },
+  {
+    "numero": "197",
+    "nome": "Hassan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/197.jpg"
+  },
+  {
+    "numero": "198",
+    "nome": "Carlos Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/198.jpg"
+  },
+  {
+    "numero": "199",
+    "nome": "Nuno Campos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/199.jpg"
+  },
+  {
+    "numero": "200",
+    "nome": "Paulo Sergio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/200.jpg"
+  },
+  {
+    "numero": "201",
+    "nome": "King",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/201.jpg"
+  },
+  {
+    "numero": "202",
+    "nome": "Vitor Manuel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/202.jpg"
+  },
+  {
+    "numero": "203",
+    "nome": "Tulipa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/203.jpg"
+  },
+  {
+    "numero": "204",
+    "nome": "Eugenio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/204.jpg"
+  },
+  {
+    "numero": "205",
+    "nome": "Pedro Miguel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Sporting Farense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/205.jpg"
+  },
+  {
+    "numero": "206",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/206.jpg"
+  },
+  {
+    "numero": "207",
+    "nome": "Jorge Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/207.jpg"
+  },
+  {
+    "numero": "208",
+    "nome": "Pedros Reis",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/208.jpg"
+  },
+  {
+    "numero": "209",
+    "nome": "Paulinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/209.jpg"
+  },
+  {
+    "numero": "210",
+    "nome": "Jorge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/210.jpg"
+  },
+  {
+    "numero": "211",
+    "nome": "Renato",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/211.jpg"
+  },
+  {
+    "numero": "212",
+    "nome": "Nelson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/212.jpg"
+  },
+  {
+    "numero": "213",
+    "nome": "Ademia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/213.jpg"
+  },
+  {
+    "numero": "214",
+    "nome": "Ramos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/214.jpg"
+  },
+  {
+    "numero": "215",
+    "nome": "Rui Ferreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/215.jpg"
+  },
+  {
+    "numero": "216",
+    "nome": "Toninho Cruz",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/216.jpg"
+  },
+  {
+    "numero": "217",
+    "nome": "Edu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/217.jpg"
+  },
+  {
+    "numero": "218",
+    "nome": "Paquito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/218.jpg"
+  },
+  {
+    "numero": "219",
+    "nome": "Fernando Almeida",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/219.jpg"
+  },
+  {
+    "numero": "220",
+    "nome": "Filipe Candido",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/220.jpg"
+  },
+  {
+    "numero": "221",
+    "nome": "Basilio Almeida",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/221.jpg"
+  },
+  {
+    "numero": "222",
+    "nome": "Carlos Ferreira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Salgueiros",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/222.jpg"
+  },
+  {
+    "numero": "223",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/223.jpg"
+  },
+  {
+    "numero": "224",
+    "nome": "Poleksic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/224.jpg"
+  },
+  {
+    "numero": "225",
+    "nome": "Rene Rivas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/225.jpg"
+  },
+  {
+    "numero": "226",
+    "nome": "Mickey",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/226.jpg"
+  },
+  {
+    "numero": "227",
+    "nome": "Hugo Cunha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/227.jpg"
+  },
+  {
+    "numero": "228",
+    "nome": "Beke",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/228.jpg"
+  },
+  {
+    "numero": "229",
+    "nome": "Sousa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/229.jpg"
+  },
+  {
+    "numero": "230",
+    "nome": "Poejo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/230.jpg"
+  },
+  {
+    "numero": "231",
+    "nome": "Jorginho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/231.jpg"
+  },
+  {
+    "numero": "232",
+    "nome": "Arley",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/232.jpg"
+  },
+  {
+    "numero": "233",
+    "nome": "Rogerio Matias",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/233.jpg"
+  },
+  {
+    "numero": "234",
+    "nome": "Torrao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/234.jpg"
+  },
+  {
+    "numero": "235",
+    "nome": "Cao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/235.jpg"
+  },
+  {
+    "numero": "236",
+    "nome": "Mario Jorge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/236.jpg"
+  },
+  {
+    "numero": "237",
+    "nome": "Wellington",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/237.jpg"
+  },
+  {
+    "numero": "238",
+    "nome": "Demetrios",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/238.jpg"
+  },
+  {
+    "numero": "239",
+    "nome": "Lealson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Campomaiorense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/239.jpg"
+  },
+  {
+    "numero": "240",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/240.jpg"
+  },
+  {
+    "numero": "241",
+    "nome": "Ovchinikov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/241.jpg"
+  },
+  {
+    "numero": "242",
+    "nome": "Abel Silva",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/242.jpg"
+  },
+  {
+    "numero": "243",
+    "nome": "Hugo Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/243.jpg"
+  },
+  {
+    "numero": "244",
+    "nome": "Kulkov",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/244.jpg"
+  },
+  {
+    "numero": "245",
+    "nome": "Nelson Morais",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/245.jpg"
+  },
+  {
+    "numero": "246",
+    "nome": "Jamir",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/246.jpg"
+  },
+  {
+    "numero": "247",
+    "nome": "Diogo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/247.jpg"
+  },
+  {
+    "numero": "248",
+    "nome": "Sousa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/248.jpg"
+  },
+  {
+    "numero": "249",
+    "nome": "Minea",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/249.jpg"
+  },
+  {
+    "numero": "250",
+    "nome": "Milinkovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/250.jpg"
+  },
+  {
+    "numero": "251",
+    "nome": "Caju",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/251.jpg"
+  },
+  {
+    "numero": "252",
+    "nome": "Filipe Azevedo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/252.jpg"
+  },
+  {
+    "numero": "253",
+    "nome": "Rui Borges",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/253.jpg"
+  },
+  {
+    "numero": "254",
+    "nome": "Ramires",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/254.jpg"
+  },
+  {
+    "numero": "255",
+    "nome": "Verissimo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/255.jpg"
+  },
+  {
+    "numero": "256",
+    "nome": "Capuchio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Alverca",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/256.jpg"
+  },
+  {
+    "numero": "257",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/257.jpg"
+  },
+  {
+    "numero": "258",
+    "nome": "To Luis",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/258.jpg"
+  },
+  {
+    "numero": "259",
+    "nome": "Ramando",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/259.jpg"
+  },
+  {
+    "numero": "260",
+    "nome": "Martins",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/260.jpg"
+  },
+  {
+    "numero": "261",
+    "nome": "Peu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/261.jpg"
+  },
+  {
+    "numero": "262",
+    "nome": "Nito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/262.jpg"
+  },
+  {
+    "numero": "263",
+    "nome": "Sergio China",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/263.jpg"
+  },
+  {
+    "numero": "264",
+    "nome": "Sandao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/264.jpg"
+  },
+  {
+    "numero": "265",
+    "nome": "Aleacio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/265.jpg"
+  },
+  {
+    "numero": "266",
+    "nome": "P. Lima Pereira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/266.jpg"
+  },
+  {
+    "numero": "267",
+    "nome": "Niquinha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/267.jpg"
+  },
+  {
+    "numero": "268",
+    "nome": "Gama",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/268.jpg"
+  },
+  {
+    "numero": "269",
+    "nome": "Chicabala",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/269.jpg"
+  },
+  {
+    "numero": "270",
+    "nome": "Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/270.jpg"
+  },
+  {
+    "numero": "271",
+    "nome": "Artur Jorge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/271.jpg"
+  },
+  {
+    "numero": "272",
+    "nome": "Hugo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/272.jpg"
+  },
+  {
+    "numero": "273",
+    "nome": "Andre Jacare",
+    "tenho": true,
+    "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/273.jpg"
+  },
+  {
+    "numero": "274",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/274.jpg"
+  },
+  {
+    "numero": "275",
+    "nome": "Rufai",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/275.jpg"
+  },
+  {
+    "numero": "276",
+    "nome": "Rui Guerreiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/276.jpg"
+  },
+  {
+    "numero": "277",
+    "nome": "Carlos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/277.jpg"
+  },
+  {
+    "numero": "278",
+    "nome": "Auri",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/278.jpg"
+  },
+  {
+    "numero": "279",
+    "nome": "Ze Nando",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/279.jpg"
+  },
+  {
+    "numero": "280",
+    "nome": "Dinis",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/280.jpg"
+  },
+  {
+    "numero": "281",
+    "nome": "Matias",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/281.jpg"
+  },
+  {
+    "numero": "282",
+    "nome": "Casquilha",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/282.jpg"
+  },
+  {
+    "numero": "283",
+    "nome": "Pedro Santos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/283.jpg"
+  },
+  {
+    "numero": "284",
+    "nome": "Fangueiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/284.jpg"
+  },
+  {
+    "numero": "285",
+    "nome": "Sergio Lomba",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/285.jpg"
+  },
+  {
+    "numero": "286",
+    "nome": "Guga",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/286.jpg"
+  },
+  {
+    "numero": "287",
+    "nome": "Tavares",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/287.jpg"
+  },
+  {
+    "numero": "288",
+    "nome": "Ricardo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/288.jpg"
+  },
+  {
+    "numero": "289",
+    "nome": "Petit",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/289.jpg"
+  },
+  {
+    "numero": "290",
+    "nome": "Lemos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/290.jpg"
+  },
+  {
+    "numero": "291",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/291.jpg"
+  },
+  {
+    "numero": "292",
+    "nome": "Marco Aurelio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/292.jpg"
+  },
+  {
+    "numero": "293",
+    "nome": "Fernando Mendes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/293.jpg"
+  },
+  {
+    "numero": "294",
+    "nome": "Filgueira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/294.jpg"
+  },
+  {
+    "numero": "295",
+    "nome": "Jose Carlos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/295.jpg"
+  },
+  {
+    "numero": "296",
+    "nome": "Wilson",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/296.jpg"
+  },
+  {
+    "numero": "297",
+    "nome": "Rui Gregorio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/297.jpg"
+  },
+  {
+    "numero": "298",
+    "nome": "Lito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/298.jpg"
+  },
+  {
+    "numero": "299",
+    "nome": "Tuch",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/299.jpg"
+  },
+  {
+    "numero": "300",
+    "nome": "Pedro Estrela",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/300.jpg"
+  },
+  {
+    "numero": "301",
+    "nome": "JP Brito",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/301.jpg"
+  },
+  {
+    "numero": "302",
+    "nome": "Doda",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/302.jpg"
+  },
+  {
+    "numero": "303",
+    "nome": "Seba",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/303.jpg"
+  },
+  {
+    "numero": "304",
+    "nome": "Cafu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/304.jpg"
+  },
+  {
+    "numero": "305",
+    "nome": "Gouveia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/305.jpg"
+  },
+  {
+    "numero": "306",
+    "nome": "Baltazar",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/306.jpg"
+  },
+  {
+    "numero": "307",
+    "nome": "Renato",
+    "tenho": true,
+    "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/307.jpg"
+  },
+  {
+    "numero": "308",
+    "nome": "Badge",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "foil",
+    "imagem": "images/capas/Futebol 1999 2000/308.jpg"
+  },
+  {
+    "numero": "309",
+    "nome": "Madureira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/309.jpg"
+  },
+  {
+    "numero": "310",
+    "nome": "Patacas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/310.jpg"
+  },
+  {
+    "numero": "311",
+    "nome": "Luis Miguel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/311.jpg"
+  },
+  {
+    "numero": "312",
+    "nome": "Sergio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/312.jpg"
+  },
+  {
+    "numero": "313",
+    "nome": "Telmo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/313.jpg"
+  },
+  {
+    "numero": "314",
+    "nome": "Luis Carlos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/314.jpg"
+  },
+  {
+    "numero": "315",
+    "nome": "Sergio Gameiro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/315.jpg"
+  },
+  {
+    "numero": "316",
+    "nome": "Clayton",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/316.jpg"
+  },
+  {
+    "numero": "317",
+    "nome": "Figueiredo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/317.jpg"
+  },
+  {
+    "numero": "318",
+    "nome": "Gamboa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/318.jpg"
+  },
+  {
+    "numero": "319",
+    "nome": "Wanderley",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/319.jpg"
+  },
+  {
+    "numero": "320",
+    "nome": "Amaral",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/320.jpg"
+  },
+  {
+    "numero": "321",
+    "nome": "Sergio Pedro",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/321.jpg"
+  },
+  {
+    "numero": "322",
+    "nome": "George",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/322.jpg"
+  },
+  {
+    "numero": "323",
+    "nome": "Barrigana",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/323.jpg"
+  },
+  {
+    "numero": "324",
+    "nome": "Claudio Abreu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Santa Clara",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 1999 2000/324.jpg"
+  }
+]
