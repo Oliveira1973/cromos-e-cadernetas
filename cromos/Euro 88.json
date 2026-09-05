@@ -184,7 +184,7 @@
     "nome": "Munchen",
     "tenho": true,
     "especial": false,
-    "clube": "City",
+    "clube": "Stadium / City",
     "tipo": "-",
     "imagem": "images/capas/Euro 88/21.jpg"
   },
@@ -193,7 +193,7 @@
     "nome": "Munchen - Olympiastadion",
     "tenho": true,
     "especial": false,
-    "clube": "Stadium",
+    "clube": "Stadium / City",
     "tipo": "-",
     "imagem": "images/capas/Euro 88/22.jpg"
   },
@@ -202,7 +202,7 @@
     "nome": "Dusseldorf",
     "tenho": true,
     "especial": false,
-    "clube": "City",
+    "clube": "Stadium / City",
     "tipo": "-",
     "imagem": "images/capas/Euro 88/23.jpg"
   },
@@ -211,7 +211,7 @@
     "nome": "Dusseldorf - Rheinstadion",
     "tenho": true,
     "especial": false,
-    "clube": "Stadium",
+    "clube": "Stadium / City",
     "tipo": "-",
     "imagem": "images/capas/Euro 88/24.jpg"
   },
@@ -220,7 +220,7 @@
     "nome": "Frankfurt",
     "tenho": true,
     "especial": false,
-    "clube": "City",
+    "clube": "Stadium / City",
     "tipo": "-",
     "imagem": "images/capas/Euro 88/25.jpg"
   },
@@ -229,7 +229,7 @@
     "nome": "Frankfurt - Waldstadion",
     "tenho": true,
     "especial": false,
-    "clube": "Stadium",
+    "clube": "Stadium / City",
     "tipo": "-",
     "imagem": "images/capas/Euro 88/26.jpg"
   },
@@ -238,7 +238,7 @@
     "nome": "Gelsenkirchen",
     "tenho": true,
     "especial": false,
-    "clube": "City",
+    "clube": "Stadium / City",
     "tipo": "-",
     "imagem": "images/capas/Euro 88/27.jpg"
   },
@@ -247,7 +247,7 @@
     "nome": "Gelsenkirchen",
     "tenho": true,
     "especial": false,
-    "clube": "Stadium",
+    "clube": "Stadium / City",
     "tipo": "-",
     "imagem": "images/capas/Euro 88/28.jpg"
   },
@@ -256,7 +256,7 @@
     "nome": "Hamburg",
     "tenho": true,
     "especial": false,
-    "clube": "City",
+    "clube": "Stadium / City",
     "tipo": "-",
     "imagem": "images/capas/Euro 88/29.jpg"
   },
@@ -265,7 +265,7 @@
     "nome": "Hamburg",
     "tenho": true,
     "especial": false,
-    "clube": "Stadium",
+    "clube": "Stadium / City",
     "tipo": "-",
     "imagem": "images/capas/Euro 88/30.jpg"
   },
@@ -274,7 +274,7 @@
     "nome": "Hannover",
     "tenho": true,
     "especial": false,
-    "clube": "City",
+    "clube": "Stadium / City",
     "tipo": "-",
     "imagem": "images/capas/Euro 88/31.jpg"
   },
@@ -283,7 +283,7 @@
     "nome": "Hannover",
     "tenho": true,
     "especial": false,
-    "clube": "Stadium",
+    "clube": "Stadium / City",
     "tipo": "-",
     "imagem": "images/capas/Euro 88/32.jpg"
   },
@@ -292,7 +292,7 @@
     "nome": "Koln",
     "tenho": true,
     "especial": false,
-    "clube": "City",
+    "clube": "Stadium / City",
     "tipo": "-",
     "imagem": "images/capas/Euro 88/33.jpg"
   },
@@ -301,7 +301,7 @@
     "nome": "Koln - Mungersdorfer Stadion",
     "tenho": true,
     "especial": false,
-    "clube": "Stadium",
+    "clube": "Stadium / City",
     "tipo": "-",
     "imagem": "images/capas/Euro 88/34.jpg"
   },
@@ -310,7 +310,7 @@
     "nome": "Stuttgart",
     "tenho": true,
     "especial": false,
-    "clube": "City",
+    "clube": "Stadium / City",
     "tipo": "-",
     "imagem": "images/capas/Euro 88/35.jpg"
   },
@@ -319,7 +319,7 @@
     "nome": "Stuttgart - Neckarstadion",
     "tenho": true,
     "especial": false,
-    "clube": "Stadium",
+    "clube": "Stadium / City",
     "tipo": "-",
     "imagem": "images/capas/Euro 88/36.jpg"
   },
