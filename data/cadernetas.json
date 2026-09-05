@@ -691,5 +691,14 @@
     "totalCromos": 474,
     "capa": "images/capas/Futebol 2004 2005.jpg",
     "tema": "Liga Portuguesa"
+  },
+  {
+    "id": "Nacional 82 83",
+    "nome": "Nacional 82 83",
+    "editora": "Mabilgráfica",
+    "ano": 1982,
+    "totalCromos": 192,
+    "capa": "images/capas/Nacional 82 83.jpg",
+    "tema": "Liga Portuguesa"
   }
 ]
