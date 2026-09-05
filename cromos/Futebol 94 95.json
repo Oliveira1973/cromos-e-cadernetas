@@ -1,28 +1,28 @@
 [
   {
     "numero": "1",
-    "nome": "Badge",
+    "nome": "Portuguese Football Federation",
     "tenho": true,
     "especial": false,
-    "clube": "Portuguese Football Federation",
+    "clube": "Badge",
     "tipo": "foil",
     "imagem": "images/capas/Futebol 94 95/1.jpg"
   },
   {
     "numero": "2",
-    "nome": "Badge",
+    "nome": "Portuguese Liga",
     "tenho": true,
     "especial": false,
-    "clube": "Portuguese Liga",
+    "clube": "Badge",
     "tipo": "foil",
     "imagem": "images/capas/Futebol 94 95/2.jpg"
   },
   {
     "numero": "3",
-    "nome": "Badge",
+    "nome": "SJPF",
     "tenho": true,
     "especial": false,
-    "clube": "SJPF",
+    "clube": "Badge",
     "tipo": "foil",
     "imagem": "images/capas/Futebol 94 95/3.jpg"
   },
