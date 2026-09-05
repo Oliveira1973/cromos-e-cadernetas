@@ -1,3978 +1,4607 @@
 [
   {
     "numero": "1",
-    "nome": "Cromo 1",
+    "nome": "Panini Commemorative Stamp",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/1.jpg"
   },
   {
     "numero": "2",
-    "nome": "Cromo 2",
+    "nome": "UEFA Fair Play",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
     "imagem": "images/capas/Euro 2008/2.jpg"
   },
   {
     "numero": "3",
-    "nome": "Cromo 3",
+    "nome": "Trophy",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/3.jpg"
   },
   {
     "numero": "4",
-    "nome": "Cromo 4",
+    "nome": "Official Logo",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/4.jpg"
   },
   {
     "numero": "5",
-    "nome": "Cromo 5",
+    "nome": "Official Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Introduction",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/5.jpg"
   },
   {
     "numero": "6",
-    "nome": "Cromo 6",
+    "nome": "Wien",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/6.jpg"
   },
   {
     "numero": "7",
-    "nome": "Cromo 7",
+    "nome": "Innsbruck - Tirol",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/7.jpg"
   },
   {
     "numero": "8",
-    "nome": "Cromo 8",
+    "nome": "Salzburg",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/8.jpg"
   },
   {
     "numero": "9",
-    "nome": "Cromo 9",
+    "nome": "Klagenfurt",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/9.jpg"
   },
   {
     "numero": "10",
-    "nome": "Cromo 10",
+    "nome": "Basel",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/10.jpg"
   },
   {
     "numero": "11",
-    "nome": "Cromo 11",
+    "nome": "Bern",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/11.jpg"
   },
   {
     "numero": "12",
-    "nome": "Cromo 12",
+    "nome": "Zürich",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/12.jpg"
   },
   {
     "numero": "13",
-    "nome": "Cromo 13",
+    "nome": "Genève",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/13.jpg"
   },
   {
     "numero": "14",
-    "nome": "Cromo 14",
+    "nome": "Wien - Ernst-Happel Stadion",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/14.jpg"
   },
   {
     "numero": "15",
-    "nome": "Cromo 15",
+    "nome": "Wien - Ernst-Happel Stadion",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/15.jpg"
   },
   {
     "numero": "16",
-    "nome": "Cromo 16",
+    "nome": "Wien",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/16.jpg"
   },
   {
     "numero": "17",
-    "nome": "Cromo 17",
+    "nome": "Wien",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/17.jpg"
   },
   {
     "numero": "18",
-    "nome": "Cromo 18",
+    "nome": "Salzburg - Stadion Salzburg Wals-Siezenheim",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/18.jpg"
   },
   {
     "numero": "19",
-    "nome": "Cromo 19",
+    "nome": "Salzburg - Stadion Salzburg Wals-Siezenheim",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/19.jpg"
   },
   {
     "numero": "20",
-    "nome": "Cromo 20",
+    "nome": "Salzburg",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/20.jpg"
   },
   {
     "numero": "21",
-    "nome": "Cromo 21",
+    "nome": "Salzburg",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/21.jpg"
   },
   {
     "numero": "22",
-    "nome": "Cromo 22",
+    "nome": "Innsbruck-Tirol - Stadion Tivoli NEU",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/22.jpg"
   },
   {
     "numero": "23",
-    "nome": "Cromo 23",
+    "nome": "Innsbruck-Tirol - Stadion Tivoli NEU",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/23.jpg"
   },
   {
     "numero": "24",
-    "nome": "Cromo 24",
+    "nome": "Innsbruck-Tirol",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/24.jpg"
   },
   {
     "numero": "25",
-    "nome": "Cromo 25",
+    "nome": "Innsbruck-Tirol",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/25.jpg"
   },
   {
     "numero": "26",
-    "nome": "Cromo 26",
+    "nome": "Klagenfurt - Wörthersee Stadion",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/26.jpg"
   },
   {
     "numero": "27",
-    "nome": "Cromo 27",
+    "nome": "Klagenfurt - Wörthersee Stadion",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/27.jpg"
   },
   {
     "numero": "28",
-    "nome": "Cromo 28",
+    "nome": "Klagenfurt",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/28.jpg"
   },
   {
     "numero": "29",
-    "nome": "Cromo 29",
+    "nome": "Klagenfurt",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/29.jpg"
   },
   {
     "numero": "30",
-    "nome": "Cromo 30",
+    "nome": "Basel - St. Jakob-Park",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/30.jpg"
   },
   {
     "numero": "31",
-    "nome": "Cromo 31",
+    "nome": "Basel - St. Jakob-Park",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/31.jpg"
   },
   {
     "numero": "32",
-    "nome": "Cromo 32",
+    "nome": "Basel",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/32.jpg"
   },
   {
     "numero": "33",
-    "nome": "Cromo 33",
+    "nome": "Basel",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/33.jpg"
   },
   {
     "numero": "34",
-    "nome": "Cromo 34",
+    "nome": "Zürich - Letzigrund Stadion",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/34.jpg"
   },
   {
     "numero": "35",
-    "nome": "Cromo 35",
+    "nome": "Zürich - Letzigrund Stadion",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/35.jpg"
   },
   {
     "numero": "36",
-    "nome": "Cromo 36",
+    "nome": "Zürich",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/36.jpg"
   },
   {
     "numero": "37",
-    "nome": "Cromo 37",
+    "nome": "Zürich",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/37.jpg"
   },
   {
     "numero": "38",
-    "nome": "Cromo 38",
+    "nome": "Bern - Stade De Suisse Wankdorf",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/38.jpg"
   },
   {
     "numero": "39",
-    "nome": "Cromo 39",
+    "nome": "Bern - Stade De Suisse Wankdorf",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/39.jpg"
   },
   {
     "numero": "40",
-    "nome": "Cromo 40",
+    "nome": "Bern",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/40.jpg"
   },
   {
     "numero": "41",
-    "nome": "Cromo 41",
+    "nome": "Bern",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/41.jpg"
   },
   {
     "numero": "42",
-    "nome": "Cromo 42",
+    "nome": "Genève - Stade de Genève",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/42.jpg"
   },
   {
     "numero": "43",
-    "nome": "Cromo 43",
+    "nome": "Genève - Stade de Genève",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/43.jpg"
   },
   {
     "numero": "44",
-    "nome": "Cromo 44",
+    "nome": "Genève",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/44.jpg"
   },
   {
     "numero": "45",
-    "nome": "Cromo 45",
+    "nome": "Genève",
     "tenho": true,
     "especial": false,
+    "clube": "Venues and Stadiums",
     "imagem": "images/capas/Euro 2008/45.jpg"
   },
   {
     "numero": "46",
-    "nome": "Cromo 46",
+    "nome": "Official Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/46.jpg"
   },
   {
     "numero": "47",
-    "nome": "Cromo 47",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/47.jpg"
   },
   {
     "numero": "48",
-    "nome": "Cromo 48",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/48.jpg"
   },
   {
     "numero": "49",
-    "nome": "Cromo 49",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/49.jpg"
   },
   {
     "numero": "50",
-    "nome": "Cromo 50",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/50.jpg"
   },
   {
     "numero": "51",
-    "nome": "Cromo 51",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/51.jpg"
   },
   {
     "numero": "52",
-    "nome": "Cromo 52",
+    "nome": "Diego Benaglio",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/52.jpg"
   },
   {
     "numero": "53",
-    "nome": "Cromo 53",
+    "nome": "Philipp Degen",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/53.jpg"
   },
   {
     "numero": "54",
-    "nome": "Cromo 54",
+    "nome": "Philippe Senderos",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/54.jpg"
   },
   {
     "numero": "55",
-    "nome": "Cromo 55",
+    "nome": "Johan Djourou",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/55.jpg"
   },
   {
     "numero": "56",
-    "nome": "Cromo 56",
+    "nome": "Stephane Grichting",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/56.jpg"
   },
   {
     "numero": "57",
-    "nome": "Cromo 57",
+    "nome": "Stephan Lichtsteiner",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/57.jpg"
   },
   {
     "numero": "58",
-    "nome": "Cromo 58",
+    "nome": "Christoph Spycher",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/58.jpg"
   },
   {
     "numero": "59",
-    "nome": "Cromo 59",
+    "nome": "Ludovic Magnin",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/59.jpg"
   },
   {
     "numero": "60",
-    "nome": "Cromo 60",
+    "nome": "Mario Eggimann",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/60.jpg"
   },
   {
     "numero": "60x",
-    "nome": "Cromo 60x",
+    "nome": "Patrick Muller",
     "tenho": true,
     "especial": true,
+    "clube": "Helvetia",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/60x.jpg"
   },
   {
     "numero": "61",
-    "nome": "Cromo 61",
+    "nome": "Gelson Fernandes",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/61.jpg"
   },
   {
     "numero": "62",
-    "nome": "Cromo 62",
+    "nome": "Valon Behrami",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/62.jpg"
   },
   {
     "numero": "63",
-    "nome": "Cromo 63",
+    "nome": "Gökhan Inler",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/63.jpg"
   },
   {
     "numero": "64",
-    "nome": "Cromo 64",
+    "nome": "Hakan Yakin",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/64.jpg"
   },
   {
     "numero": "65",
-    "nome": "Cromo 65",
+    "nome": "Tranquillo Barnetta",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/65.jpg"
   },
   {
     "numero": "66",
-    "nome": "Cromo 66",
+    "nome": "Xavier Margairaz",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/66.jpg"
   },
   {
     "numero": "66x",
-    "nome": "Cromo 66x",
+    "nome": "Ricardo Cabanas",
     "tenho": true,
     "especial": true,
+    "clube": "Helvetia",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/66x.jpg"
   },
   {
     "numero": "67",
-    "nome": "Cromo 67",
+    "nome": "Daniel Gygax",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/67.jpg"
   },
   {
     "numero": "68",
-    "nome": "Cromo 68",
+    "nome": "Johan Vonlanthen",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/68.jpg"
   },
   {
     "numero": "69",
-    "nome": "Cromo 69",
+    "nome": "Alexander Frei",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/69.jpg"
   },
   {
     "numero": "70",
-    "nome": "Cromo 70",
+    "nome": "Marco Streller",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/70.jpg"
   },
   {
     "numero": "71",
-    "nome": "Cromo 71",
+    "nome": "Pascal Zuberbühler",
     "tenho": true,
     "especial": false,
+    "clube": "Helvetia",
     "imagem": "images/capas/Euro 2008/71.jpg"
   },
   {
     "numero": "72",
-    "nome": "Cromo 72",
+    "nome": "Official Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/72.jpg"
   },
   {
     "numero": "73",
-    "nome": "Cromo 73",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/73.jpg"
   },
   {
     "numero": "74",
-    "nome": "Cromo 74",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/74.jpg"
   },
   {
     "numero": "75",
-    "nome": "Cromo 75",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/75.jpg"
   },
   {
     "numero": "76",
-    "nome": "Cromo 76",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/76.jpg"
   },
   {
     "numero": "77",
-    "nome": "Cromo 77",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/77.jpg"
   },
   {
     "numero": "78",
-    "nome": "Cromo 78",
+    "nome": "Petr Cech",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/78.jpg"
   },
   {
     "numero": "79",
-    "nome": "Cromo 79",
+    "nome": "Zdenek Grygera",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/79.jpg"
   },
   {
     "numero": "80",
-    "nome": "Cromo 80",
+    "nome": "Martin Jiranek",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/80.jpg"
   },
   {
     "numero": "80x",
-    "nome": "Cromo 80x",
+    "nome": "Michal Kadlec",
     "tenho": true,
     "especial": true,
+    "clube": "Ceska Republika",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/80x.jpg"
   },
   {
     "numero": "81",
-    "nome": "Cromo 81",
+    "nome": "Tomas Hübschman",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/81.jpg"
   },
   {
     "numero": "81x",
-    "nome": "Cromo 81x",
+    "nome": "Zdenek Pospech",
     "tenho": true,
     "especial": true,
+    "clube": "Ceska Republika",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/81x.jpg"
   },
   {
     "numero": "82",
-    "nome": "Cromo 82",
+    "nome": "Tomas Ujfalusi",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/82.jpg"
   },
   {
     "numero": "83",
-    "nome": "Cromo 83",
+    "nome": "David Rozehnal",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/83.jpg"
   },
   {
     "numero": "84",
-    "nome": "Cromo 84",
+    "nome": "Marek Jankulovski",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/84.jpg"
   },
   {
     "numero": "85",
-    "nome": "Cromo 85",
+    "nome": "Radoslav Kovac",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/85.jpg"
   },
   {
     "numero": "86",
-    "nome": "Cromo 86",
+    "nome": "Tomas Galasek",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/86.jpg"
   },
   {
     "numero": "87",
-    "nome": "Cromo 87",
+    "nome": "Tomas Sivok",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/87.jpg"
   },
   {
     "numero": "88",
-    "nome": "Cromo 88",
+    "nome": "David Jarolim",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/88.jpg"
   },
   {
     "numero": "89",
-    "nome": "Cromo 89",
+    "nome": "Jaroslav Plasil",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/89.jpg"
   },
   {
     "numero": "90",
-    "nome": "Cromo 90",
+    "nome": "Jan Polak",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/90.jpg"
   },
   {
     "numero": "91",
-    "nome": "Cromo 91",
+    "nome": "Tomas Rosicky",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/91.jpg"
   },
   {
     "numero": "91x",
-    "nome": "Cromo 91x",
+    "nome": "Marek Matejovsky",
     "tenho": true,
     "especial": true,
+    "clube": "Ceska Republika",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/91x.jpg"
   },
   {
     "numero": "92",
-    "nome": "Cromo 92",
+    "nome": "Marek Kulic",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/92.jpg"
   },
   {
     "numero": "92x",
-    "nome": "Cromo 92x",
+    "nome": "Martin Fenin",
     "tenho": true,
     "especial": true,
+    "clube": "Ceska Republika",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/92x.jpg"
   },
   {
     "numero": "93",
-    "nome": "Cromo 93",
+    "nome": "Libor Sionko",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/93.jpg"
   },
   {
     "numero": "94",
-    "nome": "Cromo 94",
+    "nome": "Jiri Stajner",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/94.jpg"
   },
   {
     "numero": "94x",
-    "nome": "Cromo 94x",
+    "nome": "Vaclav Sverkos",
     "tenho": true,
     "especial": true,
+    "clube": "Ceska Republika",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/94x.jpg"
   },
   {
     "numero": "95",
-    "nome": "Cromo 95",
+    "nome": "Milan Baros",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/95.jpg"
   },
   {
     "numero": "96",
-    "nome": "Cromo 96",
+    "nome": "Jan Koller",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/96.jpg"
   },
   {
     "numero": "97",
-    "nome": "Cromo 97",
+    "nome": "Jaromir Blazek",
     "tenho": true,
     "especial": false,
+    "clube": "Ceska Republika",
     "imagem": "images/capas/Euro 2008/97.jpg"
   },
   {
     "numero": "98",
-    "nome": "Cromo 98",
+    "nome": "Official Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/98.jpg"
   },
   {
     "numero": "99",
-    "nome": "Cromo 99",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/99.jpg"
   },
   {
     "numero": "100",
-    "nome": "Cromo 100",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/100.jpg"
   },
   {
     "numero": "101",
-    "nome": "Cromo 101",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/101.jpg"
   },
   {
     "numero": "102",
-    "nome": "Cromo 102",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/102.jpg"
   },
   {
     "numero": "103",
-    "nome": "Cromo 103",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/103.jpg"
   },
   {
     "numero": "104",
-    "nome": "Cromo 104",
+    "nome": "Ricardo",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/104.jpg"
   },
   {
     "numero": "105",
-    "nome": "Cromo 105",
+    "nome": "Ricardo Carvalho",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/105.jpg"
   },
   {
     "numero": "106",
-    "nome": "Cromo 106",
+    "nome": "Pepe",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/106.jpg"
   },
   {
     "numero": "107",
-    "nome": "Cromo 107",
+    "nome": "Fernando Meira",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/107.jpg"
   },
   {
     "numero": "108",
-    "nome": "Cromo 108",
+    "nome": "Paulo Ferreira",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/108.jpg"
   },
   {
     "numero": "109",
-    "nome": "Cromo 109",
+    "nome": "Miguel",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/109.jpg"
   },
   {
     "numero": "110",
-    "nome": "Cromo 110",
+    "nome": "Bruno Alves",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/110.jpg"
   },
   {
     "numero": "111",
-    "nome": "Cromo 111",
+    "nome": "Bosingwa",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/111.jpg"
   },
   {
     "numero": "112",
-    "nome": "Cromo 112",
+    "nome": "Miguel Veloso",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/112.jpg"
   },
   {
     "numero": "113",
-    "nome": "Cromo 113",
+    "nome": "Petit",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/113.jpg"
   },
   {
     "numero": "114",
-    "nome": "Cromo 114",
+    "nome": "Tiago Mendes",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/114.jpg"
   },
   {
     "numero": "114x",
-    "nome": "Cromo 114x",
+    "nome": "Joao Moutinho",
     "tenho": true,
     "especial": true,
+    "clube": "Portugal",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/114x.jpg"
   },
   {
     "numero": "115",
-    "nome": "Cromo 115",
+    "nome": "Maniche",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/115.jpg"
   },
   {
     "numero": "115x",
-    "nome": "Cromo 115x",
+    "nome": "Raul Meireles",
     "tenho": true,
     "especial": true,
+    "clube": "Portugal",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/115x.jpg"
   },
   {
     "numero": "116",
-    "nome": "Cromo 116",
+    "nome": "Deco",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/116.jpg"
   },
   {
     "numero": "117",
-    "nome": "Cromo 117",
+    "nome": "Nani",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/117.jpg"
   },
   {
     "numero": "118",
-    "nome": "Cromo 118",
+    "nome": "Quaresma",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/118.jpg"
   },
   {
     "numero": "119",
-    "nome": "Cromo 119",
+    "nome": "Simão",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/119.jpg"
   },
   {
     "numero": "120",
-    "nome": "Cromo 120",
+    "nome": "Cristiano Ronaldo",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/120.jpg"
   },
   {
     "numero": "121",
-    "nome": "Cromo 121",
+    "nome": "Hugo Almeida",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/121.jpg"
   },
   {
     "numero": "122",
-    "nome": "Cromo 122",
+    "nome": "Nuno Gomes",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/122.jpg"
   },
   {
     "numero": "123",
-    "nome": "Cromo 123",
+    "nome": "Quim",
     "tenho": true,
     "especial": false,
+    "clube": "Portugal",
     "imagem": "images/capas/Euro 2008/123.jpg"
   },
   {
     "numero": "124",
-    "nome": "Cromo 124",
+    "nome": "Official Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/124.jpg"
   },
   {
     "numero": "125",
-    "nome": "Cromo 125",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/125.jpg"
   },
   {
     "numero": "126",
-    "nome": "Cromo 126",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/126.jpg"
   },
   {
     "numero": "127",
-    "nome": "Cromo 127",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/127.jpg"
   },
   {
     "numero": "128",
-    "nome": "Cromo 128",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/128.jpg"
   },
   {
     "numero": "129",
-    "nome": "Cromo 129",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/129.jpg"
   },
   {
     "numero": "130",
-    "nome": "Cromo 130",
+    "nome": "Volkan Demirel",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/130.jpg"
   },
   {
     "numero": "131",
-    "nome": "Cromo 131",
+    "nome": "Servet Cetin",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/131.jpg"
   },
   {
     "numero": "132",
-    "nome": "Cromo 132",
+    "nome": "Gökhan Zan",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/132.jpg"
   },
   {
     "numero": "133",
-    "nome": "Cromo 133",
+    "nome": "Emre Asik",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/133.jpg"
   },
   {
     "numero": "134",
-    "nome": "Cromo 134",
+    "nome": "Gökhan Gönül",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/134.jpg"
   },
   {
     "numero": "134x",
-    "nome": "Cromo 134x",
+    "nome": "Sabri Sarioglu",
     "tenho": true,
     "especial": true,
+    "clube": "Türkiye",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/134x.jpg"
   },
   {
     "numero": "135",
-    "nome": "Cromo 135",
+    "nome": "Hakan Balta",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/135.jpg"
   },
   {
     "numero": "136",
-    "nome": "Cromo 136",
+    "nome": "Ibrahim Üzülmez",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/136.jpg"
   },
   {
     "numero": "136x",
-    "nome": "Cromo 136x",
+    "nome": "Ugur Boral",
     "tenho": true,
     "especial": true,
+    "clube": "Türkiye",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/136x.jpg"
   },
   {
     "numero": "137",
-    "nome": "Cromo 137",
+    "nome": "Arda Turan",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/137.jpg"
   },
   {
     "numero": "138",
-    "nome": "Cromo 138",
+    "nome": "Mehmet Aurelio",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/138.jpg"
   },
   {
     "numero": "139",
-    "nome": "Cromo 139",
+    "nome": "Hamit Altintop",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/139.jpg"
   },
   {
     "numero": "140",
-    "nome": "Cromo 140",
+    "nome": "Emre Belözoglu",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/140.jpg"
   },
   {
     "numero": "141",
-    "nome": "Cromo 141",
+    "nome": "Tümer Metin",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/141.jpg"
   },
   {
     "numero": "142",
-    "nome": "Cromo 142",
+    "nome": "Yildiray Bastürk",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/142.jpg"
   },
   {
     "numero": "142x",
-    "nome": "Cromo 142x",
+    "nome": "Mehmet Topal",
     "tenho": true,
     "especial": true,
+    "clube": "Türkiye",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/142x.jpg"
   },
   {
     "numero": "143",
-    "nome": "Cromo 143",
+    "nome": "Gökdeniz Karadeniz",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/143.jpg"
   },
   {
     "numero": "144",
-    "nome": "Cromo 144",
+    "nome": "Tuncay Sanli",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/144.jpg"
   },
   {
     "numero": "145",
-    "nome": "Cromo 145",
+    "nome": "Semih Sentürk",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/145.jpg"
   },
   {
     "numero": "146",
-    "nome": "Cromo 146",
+    "nome": "Nihat Kahveci",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/146.jpg"
   },
   {
     "numero": "147",
-    "nome": "Cromo 147",
+    "nome": "Gökhan Ünal",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/147.jpg"
   },
   {
     "numero": "147x",
-    "nome": "Cromo 147x",
+    "nome": "Kazim Kazim",
     "tenho": true,
     "especial": true,
+    "clube": "Türkiye",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/147x.jpg"
   },
   {
     "numero": "148",
-    "nome": "Cromo 148",
+    "nome": "Hakan Sükür",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/148.jpg"
   },
   {
     "numero": "148x",
-    "nome": "Cromo 148x",
+    "nome": "Mevlut Erding",
     "tenho": true,
     "especial": true,
+    "clube": "Türkiye",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/148x.jpg"
   },
   {
     "numero": "149",
-    "nome": "Cromo 149",
+    "nome": "Rüstü Reçber",
     "tenho": true,
     "especial": false,
+    "clube": "Türkiye",
     "imagem": "images/capas/Euro 2008/149.jpg"
   },
   {
     "numero": "150",
-    "nome": "Cromo 150",
+    "nome": "Official Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/150.jpg"
   },
   {
     "numero": "151",
-    "nome": "Cromo 151",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/151.jpg"
   },
   {
     "numero": "152",
-    "nome": "Cromo 152",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/152.jpg"
   },
   {
     "numero": "153",
-    "nome": "Cromo 153",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/153.jpg"
   },
   {
     "numero": "154",
-    "nome": "Cromo 154",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/154.jpg"
   },
   {
     "numero": "155",
-    "nome": "Cromo 155",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/155.jpg"
   },
   {
     "numero": "156",
-    "nome": "Cromo 156",
+    "nome": "Alexander Manninger",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/156.jpg"
   },
   {
     "numero": "157",
-    "nome": "Cromo 157",
+    "nome": "Emanuel Pogatetz",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/157.jpg"
   },
   {
     "numero": "158",
-    "nome": "Cromo 158",
+    "nome": "Franz Schiemer",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/158.jpg"
   },
   {
     "numero": "159",
-    "nome": "Cromo 159",
+    "nome": "Sebastian Prödl",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/159.jpg"
   },
   {
     "numero": "160",
-    "nome": "Cromo 160",
+    "nome": "Martin Hiden",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/160.jpg"
   },
   {
     "numero": "161",
-    "nome": "Cromo 161",
+    "nome": "György Garics",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/161.jpg"
   },
   {
     "numero": "162",
-    "nome": "Cromo 162",
+    "nome": "Ronald Gercaliu",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/162.jpg"
   },
   {
     "numero": "163",
-    "nome": "Cromo 163",
+    "nome": "Martin Stranzl",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/163.jpg"
   },
   {
     "numero": "164",
-    "nome": "Cromo 164",
+    "nome": "Joachim Standfest",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/164.jpg"
   },
   {
     "numero": "165",
-    "nome": "Cromo 165",
+    "nome": "Christoph Leitgeb",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/165.jpg"
   },
   {
     "numero": "166",
-    "nome": "Cromo 166",
+    "nome": "Yüksel Sariyar",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/166.jpg"
   },
   {
     "numero": "167",
-    "nome": "Cromo 167",
+    "nome": "Thomas Prager",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/167.jpg"
   },
   {
     "numero": "168",
-    "nome": "Cromo 168",
+    "nome": "Veli Kavlak",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/168.jpg"
   },
   {
     "numero": "169",
-    "nome": "Cromo 169",
+    "nome": "Rene Aufhauser",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/169.jpg"
   },
   {
     "numero": "170",
-    "nome": "Cromo 170",
+    "nome": "Andreas Ivanschitz",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/170.jpg"
   },
   {
     "numero": "171",
-    "nome": "Cromo 171",
+    "nome": "Roland Linz",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/171.jpg"
   },
   {
     "numero": "172",
-    "nome": "Cromo 172",
+    "nome": "Roman Kienast",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/172.jpg"
   },
   {
     "numero": "173",
-    "nome": "Cromo 173",
+    "nome": "Martin Harnik",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/173.jpg"
   },
   {
     "numero": "174",
-    "nome": "Cromo 174",
+    "nome": "Sanel Kuljic",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/174.jpg"
   },
   {
     "numero": "175",
-    "nome": "Cromo 175",
+    "nome": "Jürgen Macho",
     "tenho": true,
     "especial": false,
+    "clube": "Österreich",
     "imagem": "images/capas/Euro 2008/175.jpg"
   },
   {
     "numero": "176",
-    "nome": "Cromo 176",
+    "nome": "Official Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/176.jpg"
   },
   {
     "numero": "177",
-    "nome": "Cromo 177",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/177.jpg"
   },
   {
     "numero": "178",
-    "nome": "Cromo 178",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/178.jpg"
   },
   {
     "numero": "179",
-    "nome": "Cromo 179",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/179.jpg"
   },
   {
     "numero": "180",
-    "nome": "Cromo 180",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/180.jpg"
   },
   {
     "numero": "181",
-    "nome": "Cromo 181",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/181.jpg"
   },
   {
     "numero": "182",
-    "nome": "Cromo 182",
+    "nome": "Stipe Pletikosa",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/182.jpg"
   },
   {
     "numero": "183",
-    "nome": "Cromo 183",
+    "nome": "Josip Simunic",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/183.jpg"
   },
   {
     "numero": "184",
-    "nome": "Cromo 184",
+    "nome": "Dario Simic",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/184.jpg"
   },
   {
     "numero": "185",
-    "nome": "Cromo 185",
+    "nome": "Vedran Corluka",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/185.jpg"
   },
   {
     "numero": "186",
-    "nome": "Cromo 186",
+    "nome": "Robert Kovac",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/186.jpg"
   },
   {
     "numero": "187",
-    "nome": "Cromo 187",
+    "nome": "Dario Knezevic",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/187.jpg"
   },
   {
     "numero": "188",
-    "nome": "Cromo 188",
+    "nome": "Jurica Vranjes",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/188.jpg"
   },
   {
     "numero": "189",
-    "nome": "Cromo 189",
+    "nome": "Marko Babic",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/189.jpg"
   },
   {
     "numero": "190",
-    "nome": "Cromo 190",
+    "nome": "Niko Kovac",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/190.jpg"
   },
   {
     "numero": "191",
-    "nome": "Cromo 191",
+    "nome": "Darijo Srna",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/191.jpg"
   },
   {
     "numero": "192",
-    "nome": "Cromo 192",
+    "nome": "Ivan Rakitic",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/192.jpg"
   },
   {
     "numero": "193",
-    "nome": "Cromo 193",
+    "nome": "Niko Kranjcar",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/193.jpg"
   },
   {
     "numero": "194",
-    "nome": "Cromo 194",
+    "nome": "Luka Modric",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/194.jpg"
   },
   {
     "numero": "195",
-    "nome": "Cromo 195",
+    "nome": "Jerko Leko",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/195.jpg"
   },
   {
     "numero": "196",
-    "nome": "Cromo 196",
+    "nome": "Ivan Klasnic",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/196.jpg"
   },
   {
     "numero": "197",
-    "nome": "Cromo 197",
+    "nome": "Bosko Balaban",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/197.jpg"
   },
   {
     "numero": "198",
-    "nome": "Cromo 198",
+    "nome": "Ivica Olic",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/198.jpg"
   },
   {
     "numero": "199",
-    "nome": "Cromo 199",
+    "nome": "Igor Budan",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/199.jpg"
   },
   {
     "numero": "200",
-    "nome": "Cromo 200",
+    "nome": "Mladen Petric",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/200.jpg"
   },
   {
     "numero": "201",
-    "nome": "Cromo 201",
+    "nome": "Vedran Runje",
     "tenho": true,
     "especial": false,
+    "clube": "Hrvatska",
     "imagem": "images/capas/Euro 2008/201.jpg"
   },
   {
     "numero": "202",
-    "nome": "Cromo 202",
+    "nome": "Official Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/202.jpg"
   },
   {
     "numero": "203",
-    "nome": "Cromo 203",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/203.jpg"
   },
   {
     "numero": "204",
-    "nome": "Cromo 204",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/204.jpg"
   },
   {
     "numero": "205",
-    "nome": "Cromo 205",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/205.jpg"
   },
   {
     "numero": "206",
-    "nome": "Cromo 206",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/206.jpg"
   },
   {
     "numero": "207",
-    "nome": "Cromo 207",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/207.jpg"
   },
   {
     "numero": "208",
-    "nome": "Cromo 208",
+    "nome": "Jens Lehmann",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/208.jpg"
   },
   {
     "numero": "209",
-    "nome": "Cromo 209",
+    "nome": "Per Mertesacker",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/209.jpg"
   },
   {
     "numero": "210",
-    "nome": "Cromo 210",
+    "nome": "Christoph Metzelder",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/210.jpg"
   },
   {
     "numero": "211",
-    "nome": "Cromo 211",
+    "nome": "Clemens Fritz",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/211.jpg"
   },
   {
     "numero": "212",
-    "nome": "Cromo 212",
+    "nome": "Arne Friedrich",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/212.jpg"
   },
   {
     "numero": "213",
-    "nome": "Cromo 213",
+    "nome": "Marcell Jansen",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/213.jpg"
   },
   {
     "numero": "214",
-    "nome": "Cromo 214",
+    "nome": "Philipp Lahm",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/214.jpg"
   },
   {
     "numero": "215",
-    "nome": "Cromo 215",
+    "nome": "Torsten Frings",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/215.jpg"
   },
   {
     "numero": "216",
-    "nome": "Cromo 216",
+    "nome": "Bernd Schneider",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/216.jpg"
   },
   {
     "numero": "217",
-    "nome": "Cromo 217",
+    "nome": "Simon Rolfes",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/217.jpg"
   },
   {
     "numero": "218",
-    "nome": "Cromo 218",
+    "nome": "Tim Borowski",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/218.jpg"
   },
   {
     "numero": "219",
-    "nome": "Cromo 219",
+    "nome": "Roberto Hilbert",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/219.jpg"
   },
   {
     "numero": "220",
-    "nome": "Cromo 220",
+    "nome": "Bastian Schweinsteiger",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/220.jpg"
   },
   {
     "numero": "221",
-    "nome": "Cromo 221",
+    "nome": "Michael Ballack",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/221.jpg"
   },
   {
     "numero": "222",
-    "nome": "Cromo 222",
+    "nome": "Thomas Hitzlsperger",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/222.jpg"
   },
   {
     "numero": "223",
-    "nome": "Cromo 223",
+    "nome": "Lukas Podolski",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/223.jpg"
   },
   {
     "numero": "224",
-    "nome": "Cromo 224",
+    "nome": "Mario Gomez",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/224.jpg"
   },
   {
     "numero": "225",
-    "nome": "Cromo 225",
+    "nome": "Miroslav Klose",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/225.jpg"
   },
   {
     "numero": "226",
-    "nome": "Cromo 226",
+    "nome": "Kevin Kuranyi",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/226.jpg"
   },
   {
     "numero": "227",
-    "nome": "Cromo 227",
+    "nome": "Timo Hildebrand",
     "tenho": true,
     "especial": false,
+    "clube": "Deutschland",
     "imagem": "images/capas/Euro 2008/227.jpg"
   },
   {
     "numero": "228",
-    "nome": "Cromo 228",
+    "nome": "Official Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/228.jpg"
   },
   {
     "numero": "229",
-    "nome": "Cromo 229",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/229.jpg"
   },
   {
     "numero": "230",
-    "nome": "Cromo 230",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/230.jpg"
   },
   {
     "numero": "231",
-    "nome": "Cromo 231",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/231.jpg"
   },
   {
     "numero": "232",
-    "nome": "Cromo 232",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/232.jpg"
   },
   {
     "numero": "233",
-    "nome": "Cromo 233",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/233.jpg"
   },
   {
     "numero": "234",
-    "nome": "Cromo 234",
+    "nome": "Artur Boruc",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/234.jpg"
   },
   {
     "numero": "235",
-    "nome": "Cromo 235",
+    "nome": "Dariusz Dudka",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/235.jpg"
   },
   {
     "numero": "236",
-    "nome": "Cromo 236",
+    "nome": "Mariusz Jop",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/236.jpg"
   },
   {
     "numero": "237",
-    "nome": "Cromo 237",
+    "nome": "Jacek Bak",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/237.jpg"
   },
   {
     "numero": "238",
-    "nome": "Cromo 238",
+    "nome": "Marcin Wasilewski",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/238.jpg"
   },
   {
     "numero": "239",
-    "nome": "Cromo 239",
+    "nome": "Michal Zewlakow",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/239.jpg"
   },
   {
     "numero": "240",
-    "nome": "Cromo 240",
+    "nome": "Pawel Golanski",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/240.jpg"
   },
   {
     "numero": "240x",
-    "nome": "Cromo 240x",
+    "nome": "Pawel Golanski",
     "tenho": true,
     "especial": true,
+    "clube": "Polska",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/240x.jpg"
   },
   {
     "numero": "241",
-    "nome": "Cromo 241",
+    "nome": "Jakub Blaszczykowski",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/241.jpg"
   },
   {
     "numero": "242",
-    "nome": "Cromo 242",
+    "nome": "Jacek Krzynowek",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/242.jpg"
   },
   {
     "numero": "243",
-    "nome": "Cromo 243",
+    "nome": "Mariusz Lewandowski",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/243.jpg"
   },
   {
     "numero": "244",
-    "nome": "Cromo 244",
+    "nome": "Grzegorz Bronowicki",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/244.jpg"
   },
   {
     "numero": "244x",
-    "nome": "Cromo 244x",
+    "nome": "Lukasz Gargula",
     "tenho": true,
     "especial": true,
+    "clube": "Polska",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/244x.jpg"
   },
   {
     "numero": "245",
-    "nome": "Cromo 245",
+    "nome": "Kamil Kosowski",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/245.jpg"
   },
   {
     "numero": "245x",
-    "nome": "Cromo 245x",
+    "nome": "Rafal Murawski",
     "tenho": true,
     "especial": true,
+    "clube": "Polska",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/245x.jpg"
   },
   {
     "numero": "246",
-    "nome": "Cromo 246",
+    "nome": "Wojciech Lobodzinski",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/246.jpg"
   },
   {
     "numero": "247",
-    "nome": "Cromo 247",
+    "nome": "Euzebiusz Smolarek",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/247.jpg"
   },
   {
     "numero": "248",
-    "nome": "Cromo 248",
+    "nome": "Artur Wichniarek",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/248.jpg"
   },
   {
     "numero": "248x",
-    "nome": "Cromo 248x",
+    "nome": "Roger Guerreiro",
     "tenho": true,
     "especial": true,
+    "clube": "Polska",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/248x.jpg"
   },
   {
     "numero": "249",
-    "nome": "Cromo 249",
+    "nome": "Ireneusz Jelen",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/249.jpg"
   },
   {
     "numero": "249x",
-    "nome": "Cromo 249x",
+    "nome": "Marek Saganowski",
     "tenho": true,
     "especial": true,
+    "clube": "Polska",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/249x.jpg"
   },
   {
     "numero": "250",
-    "nome": "Cromo 250",
+    "nome": "Radoslaw Matusiak",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/250.jpg"
   },
   {
     "numero": "250x",
-    "nome": "Cromo 250x",
+    "nome": "Tomasz Zahorski",
     "tenho": true,
     "especial": true,
+    "clube": "Polska",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/250x.jpg"
   },
   {
     "numero": "251",
-    "nome": "Cromo 251",
+    "nome": "Maciej Zurawski",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/251.jpg"
   },
   {
     "numero": "252",
-    "nome": "Cromo 252",
+    "nome": "Grzegorz Rasiak",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/252.jpg"
   },
   {
     "numero": "252x",
-    "nome": "Cromo 252x",
+    "nome": "Lukasz Piszczek",
     "tenho": true,
     "especial": true,
+    "clube": "Polska",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/252x.jpg"
   },
   {
     "numero": "253",
-    "nome": "Cromo 253",
+    "nome": "Lukasz Fabianski",
     "tenho": true,
     "especial": false,
+    "clube": "Polska",
     "imagem": "images/capas/Euro 2008/253.jpg"
   },
   {
     "numero": "254",
-    "nome": "Cromo 254",
+    "nome": "Official Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/254.jpg"
   },
   {
     "numero": "255",
-    "nome": "Cromo 255",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/255.jpg"
   },
   {
     "numero": "256",
-    "nome": "Cromo 256",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/256.jpg"
   },
   {
     "numero": "257",
-    "nome": "Cromo 257",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/257.jpg"
   },
   {
     "numero": "258",
-    "nome": "Cromo 258",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/258.jpg"
   },
   {
     "numero": "259",
-    "nome": "Cromo 259",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/259.jpg"
   },
   {
     "numero": "260",
-    "nome": "Cromo 260",
+    "nome": "Edwin van der Sar",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/260.jpg"
   },
   {
     "numero": "261",
-    "nome": "Cromo 261",
+    "nome": "Andre Ooijer",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/261.jpg"
   },
   {
     "numero": "262",
-    "nome": "Cromo 262",
+    "nome": "Wilfred Bouma",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/262.jpg"
   },
   {
     "numero": "263",
-    "nome": "Cromo 263",
+    "nome": "Joris Mathijsen",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/263.jpg"
   },
   {
     "numero": "264",
-    "nome": "Cromo 264",
+    "nome": "John Heitinga",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/264.jpg"
   },
   {
     "numero": "265",
-    "nome": "Cromo 265",
+    "nome": "Giovanni van Bronckhorst",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/265.jpg"
   },
   {
     "numero": "266",
-    "nome": "Cromo 266",
+    "nome": "Demy de Zeeuw",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/266.jpg"
   },
   {
     "numero": "267",
-    "nome": "Cromo 267",
+    "nome": "Ibrahim Afellay",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/267.jpg"
   },
   {
     "numero": "268",
-    "nome": "Cromo 268",
+    "nome": "Rafael van der Vaart",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/268.jpg"
   },
   {
     "numero": "269",
-    "nome": "Cromo 269",
+    "nome": "Wesley Sneijder",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/269.jpg"
   },
   {
     "numero": "270",
-    "nome": "Cromo 270",
+    "nome": "Clarence Seedorf",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/270.jpg"
   },
   {
     "numero": "271",
-    "nome": "Cromo 271",
+    "nome": "Arjen Robben",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/271.jpg"
   },
   {
     "numero": "272",
-    "nome": "Cromo 272",
+    "nome": "Ryan Babel",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/272.jpg"
   },
   {
     "numero": "273",
-    "nome": "Cromo 273",
+    "nome": "Klaas-Jan Huntelaar",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/273.jpg"
   },
   {
     "numero": "274",
-    "nome": "Cromo 274",
+    "nome": "Ruud van Nistelrooy",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/274.jpg"
   },
   {
     "numero": "275",
-    "nome": "Cromo 275",
+    "nome": "Jan Vennegoor Of Hesselink",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/275.jpg"
   },
   {
     "numero": "276",
-    "nome": "Cromo 276",
+    "nome": "Robin van Persie",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/276.jpg"
   },
   {
     "numero": "277",
-    "nome": "Cromo 277",
+    "nome": "Maarten Stekelenburg",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/277.jpg"
   },
   {
     "numero": "278",
-    "nome": "Cromo 278",
+    "nome": "Nederland",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/278.jpg"
   },
   {
     "numero": "279",
-    "nome": "Cromo 279",
+    "nome": "Nederland",
     "tenho": true,
     "especial": false,
+    "clube": "Nederland",
     "imagem": "images/capas/Euro 2008/279.jpg"
   },
   {
     "numero": "280",
-    "nome": "Cromo 280",
+    "nome": "Official Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/280.jpg"
   },
   {
     "numero": "281",
-    "nome": "Cromo 281",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/281.jpg"
   },
   {
     "numero": "282",
-    "nome": "Cromo 282",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/282.jpg"
   },
   {
     "numero": "283",
-    "nome": "Cromo 283",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/283.jpg"
   },
   {
     "numero": "284",
-    "nome": "Cromo 284",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/284.jpg"
   },
   {
     "numero": "285",
-    "nome": "Cromo 285",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/285.jpg"
   },
   {
     "numero": "286",
-    "nome": "Cromo 286",
+    "nome": "Gianluigi Buffon",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/286.jpg"
   },
   {
     "numero": "287",
-    "nome": "Cromo 287",
+    "nome": "Fabio Cannavaro",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/287.jpg"
   },
   {
     "numero": "287x",
-    "nome": "Cromo 287x",
+    "nome": "Antonio Cassano",
     "tenho": true,
     "especial": true,
+    "clube": "Italia",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/287x.jpg"
   },
   {
     "numero": "288",
-    "nome": "Cromo 288",
+    "nome": "Christian Panucci",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/288.jpg"
   },
   {
     "numero": "289",
-    "nome": "Cromo 289",
+    "nome": "Marco Materazzi",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/289.jpg"
   },
   {
     "numero": "290",
-    "nome": "Cromo 290",
+    "nome": "Andrea Barzagli",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/290.jpg"
   },
   {
     "numero": "291",
-    "nome": "Cromo 291",
+    "nome": "Fabio Grosso",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/291.jpg"
   },
   {
     "numero": "292",
-    "nome": "Cromo 292",
+    "nome": "Massimo Oddo",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/292.jpg"
   },
   {
     "numero": "292x",
-    "nome": "Cromo 292x",
+    "nome": "Giorgio Chiellini",
     "tenho": true,
     "especial": true,
+    "clube": "Italia",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/292x.jpg"
   },
   {
     "numero": "293",
-    "nome": "Cromo 293",
+    "nome": "Gianluca Zambrotta",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/293.jpg"
   },
   {
     "numero": "294",
-    "nome": "Cromo 294",
+    "nome": "Massimo Ambrosini",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/294.jpg"
   },
   {
     "numero": "295",
-    "nome": "Cromo 295",
+    "nome": "Gennaro Gattuso",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/295.jpg"
   },
   {
     "numero": "296",
-    "nome": "Cromo 296",
+    "nome": "Simone Perrotta",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/296.jpg"
   },
   {
     "numero": "297",
-    "nome": "Cromo 297",
+    "nome": "Daniele De Rossi",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/297.jpg"
   },
   {
     "numero": "298",
-    "nome": "Cromo 298",
+    "nome": "Andrea Pirlo",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/298.jpg"
   },
   {
     "numero": "299",
-    "nome": "Cromo 299",
+    "nome": "Mauro Camoranesi",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/299.jpg"
   },
   {
     "numero": "300",
-    "nome": "Cromo 300",
+    "nome": "Fabio Quagliarella",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/300.jpg"
   },
   {
     "numero": "301",
-    "nome": "Cromo 301",
+    "nome": "Luca Toni",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/301.jpg"
   },
   {
     "numero": "302",
-    "nome": "Cromo 302",
+    "nome": "Antonio Di Natale",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/302.jpg"
   },
   {
     "numero": "303",
-    "nome": "Cromo 303",
+    "nome": "Alessandro Del Piero",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/303.jpg"
   },
   {
     "numero": "304",
-    "nome": "Cromo 304",
+    "nome": "Vincenzo Iaquinta",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/304.jpg"
   },
   {
     "numero": "304x",
-    "nome": "Cromo 304x",
+    "nome": "Alessandro Gamberini",
     "tenho": true,
     "especial": true,
+    "clube": "Italia",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/304x.jpg"
   },
   {
     "numero": "305",
-    "nome": "Cromo 305",
+    "nome": "Marco Amelia",
     "tenho": true,
     "especial": false,
+    "clube": "Italia",
     "imagem": "images/capas/Euro 2008/305.jpg"
   },
   {
     "numero": "306",
-    "nome": "Cromo 306",
+    "nome": "Official Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/306.jpg"
   },
   {
     "numero": "307",
-    "nome": "Cromo 307",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/307.jpg"
   },
   {
     "numero": "308",
-    "nome": "Cromo 308",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/308.jpg"
   },
   {
     "numero": "309",
-    "nome": "Cromo 309",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/309.jpg"
   },
   {
     "numero": "310",
-    "nome": "Cromo 310",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/310.jpg"
   },
   {
     "numero": "311",
-    "nome": "Cromo 311",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/311.jpg"
   },
   {
     "numero": "312",
-    "nome": "Cromo 312",
+    "nome": "Bogdan Lobont",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/312.jpg"
   },
   {
     "numero": "313",
-    "nome": "Cromo 313",
+    "nome": "George Ogararu",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/313.jpg"
   },
   {
     "numero": "314",
-    "nome": "Cromo 314",
+    "nome": "Razvan Rat",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/314.jpg"
   },
   {
     "numero": "315",
-    "nome": "Cromo 315",
+    "nome": "Dorin Goian",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/315.jpg"
   },
   {
     "numero": "316",
-    "nome": "Cromo 316",
+    "nome": "Cosmin Contra",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/316.jpg"
   },
   {
     "numero": "317",
-    "nome": "Cromo 317",
+    "nome": "Mirel Radoi",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/317.jpg"
   },
   {
     "numero": "318",
-    "nome": "Cromo 318",
+    "nome": "Gabriel Tamas",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/318.jpg"
   },
   {
     "numero": "319",
-    "nome": "Cromo 319",
+    "nome": "Cristian Chivu",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/319.jpg"
   },
   {
     "numero": "320",
-    "nome": "Cromo 320",
+    "nome": "Paul Codrea",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/320.jpg"
   },
   {
     "numero": "321",
-    "nome": "Cromo 321",
+    "nome": "Ovidiu Petre",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/321.jpg"
   },
   {
     "numero": "322",
-    "nome": "Cromo 322",
+    "nome": "Banel Nicolita",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/322.jpg"
   },
   {
     "numero": "323",
-    "nome": "Cromo 323",
+    "nome": "Florentin Petre",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/323.jpg"
   },
   {
     "numero": "324",
-    "nome": "Cromo 324",
+    "nome": "Razvan Cocis",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/324.jpg"
   },
   {
     "numero": "325",
-    "nome": "Cromo 325",
+    "nome": "Laurentiu Rosu",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/325.jpg"
   },
   {
     "numero": "326",
-    "nome": "Cromo 326",
+    "nome": "Nicolae Dica",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/326.jpg"
   },
   {
     "numero": "327",
-    "nome": "Cromo 327",
+    "nome": "Adrian Mutu",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/327.jpg"
   },
   {
     "numero": "328",
-    "nome": "Cromo 328",
+    "nome": "Ianis Zicu",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/328.jpg"
   },
   {
     "numero": "329",
-    "nome": "Cromo 329",
+    "nome": "Ciprian Marica",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/329.jpg"
   },
   {
     "numero": "330",
-    "nome": "Cromo 330",
+    "nome": "Daniel Niculae",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/330.jpg"
   },
   {
     "numero": "331",
-    "nome": "Cromo 331",
+    "nome": "Danut Coman",
     "tenho": true,
     "especial": false,
+    "clube": "Romania",
     "imagem": "images/capas/Euro 2008/331.jpg"
   },
   {
     "numero": "332",
-    "nome": "Cromo 332",
+    "nome": "Official Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/332.jpg"
   },
   {
     "numero": "333",
-    "nome": "Cromo 333",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/333.jpg"
   },
   {
     "numero": "334",
-    "nome": "Cromo 334",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/334.jpg"
   },
   {
     "numero": "335",
-    "nome": "Cromo 335",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/335.jpg"
   },
   {
     "numero": "336",
-    "nome": "Cromo 336",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/336.jpg"
   },
   {
     "numero": "337",
-    "nome": "Cromo 337",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "France",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/337.jpg"
   },
   {
     "numero": "338",
-    "nome": "Cromo 338",
+    "nome": "Gregory Coupet",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/338.jpg"
   },
   {
     "numero": "339",
-    "nome": "Cromo 339",
+    "nome": "Lilian Thuram",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/339.jpg"
   },
   {
     "numero": "340",
-    "nome": "Cromo 340",
+    "nome": "William Gallas",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/340.jpg"
   },
   {
     "numero": "341",
-    "nome": "Cromo 341",
+    "nome": "Eric Abidal",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/341.jpg"
   },
   {
     "numero": "342",
-    "nome": "Cromo 342",
+    "nome": "Patrice Evra",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/342.jpg"
   },
   {
     "numero": "343",
-    "nome": "Cromo 343",
+    "nome": "Willy Sagnol",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/343.jpg"
   },
   {
     "numero": "344",
-    "nome": "Cromo 344",
+    "nome": "Bacary Sagna",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/344.jpg"
   },
   {
     "numero": "344x",
-    "nome": "Cromo 344x",
+    "nome": "Jean-Alain Boumsong",
     "tenho": true,
     "especial": true,
+    "clube": "France",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/344x.jpg"
   },
   {
     "numero": "345",
-    "nome": "Cromo 345",
+    "nome": "Lassana Diarra",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/345.jpg"
   },
   {
     "numero": "346",
-    "nome": "Cromo 346",
+    "nome": "Claude Makelele",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/346.jpg"
   },
   {
     "numero": "347",
-    "nome": "Cromo 347",
+    "nome": "Patrick Vieira",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/347.jpg"
   },
   {
     "numero": "348",
-    "nome": "Cromo 348",
+    "nome": "Jeremy Toulalan",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/348.jpg"
   },
   {
     "numero": "349",
-    "nome": "Cromo 349",
+    "nome": "Samir Nasri",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/349.jpg"
   },
   {
     "numero": "350",
-    "nome": "Cromo 350",
+    "nome": "Florent Malouda",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/350.jpg"
   },
   {
     "numero": "351",
-    "nome": "Cromo 351",
+    "nome": "Franck Ribery",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/351.jpg"
   },
   {
     "numero": "352",
-    "nome": "Cromo 352",
+    "nome": "Hatem Ben Arfa",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/352.jpg"
   },
   {
     "numero": "352x",
-    "nome": "Cromo 352x",
+    "nome": "Bafetimbi Gomis",
     "tenho": true,
     "especial": true,
+    "clube": "France",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/352x.jpg"
   },
   {
     "numero": "353",
-    "nome": "Cromo 353",
+    "nome": "Sidney Govou",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/353.jpg"
   },
   {
     "numero": "354",
-    "nome": "Cromo 354",
+    "nome": "Karim Benzema",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/354.jpg"
   },
   {
     "numero": "355",
-    "nome": "Cromo 355",
+    "nome": "Thierry Henry",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/355.jpg"
   },
   {
     "numero": "356",
-    "nome": "Cromo 356",
+    "nome": "Nicolas Anelka",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/356.jpg"
   },
   {
     "numero": "357",
-    "nome": "Cromo 357",
+    "nome": "Mickaёl Landreau",
     "tenho": true,
     "especial": false,
+    "clube": "France",
     "imagem": "images/capas/Euro 2008/357.jpg"
   },
   {
     "numero": "357x",
-    "nome": "Cromo 357x",
+    "nome": "Sebastien Frey",
     "tenho": true,
     "especial": true,
+    "clube": "France",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/357x.jpg"
   },
   {
     "numero": "358",
-    "nome": "Cromo 358",
+    "nome": "Official Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/358.jpg"
   },
   {
     "numero": "359",
-    "nome": "Cromo 359",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/359.jpg"
   },
   {
     "numero": "360",
-    "nome": "Cromo 360",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/360.jpg"
   },
   {
     "numero": "361",
-    "nome": "Cromo 361",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/361.jpg"
   },
   {
     "numero": "362",
-    "nome": "Cromo 362",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/362.jpg"
   },
   {
     "numero": "363",
-    "nome": "Cromo 363",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/363.jpg"
   },
   {
     "numero": "364",
-    "nome": "Cromo 364",
+    "nome": "Antonios Nikopolidis",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/364.jpg"
   },
   {
     "numero": "365",
-    "nome": "Cromo 365",
+    "nome": "Traianos Dellas",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/365.jpg"
   },
   {
     "numero": "366",
-    "nome": "Cromo 366",
+    "nome": "Christos Patsatzoglou",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/366.jpg"
   },
   {
     "numero": "367",
-    "nome": "Cromo 367",
+    "nome": "Georgios Seitaridis",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/367.jpg"
   },
   {
     "numero": "368",
-    "nome": "Cromo 368",
+    "nome": "Sotirios Kyrgiakos",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/368.jpg"
   },
   {
     "numero": "369",
-    "nome": "Cromo 369",
+    "nome": "Paraskevas Antzas",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/369.jpg"
   },
   {
     "numero": "370",
-    "nome": "Cromo 370",
+    "nome": "Panagiotis Fyssas",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/370.jpg"
   },
   {
     "numero": "371",
-    "nome": "Cromo 371",
+    "nome": "Vasilis Torosidis",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/371.jpg"
   },
   {
     "numero": "372",
-    "nome": "Cromo 372",
+    "nome": "Alexandros Tziolis",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/372.jpg"
   },
   {
     "numero": "373",
-    "nome": "Cromo 373",
+    "nome": "Stelios Giannakopoulos",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/373.jpg"
   },
   {
     "numero": "374",
-    "nome": "Cromo 374",
+    "nome": "Angelos Basinas",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/374.jpg"
   },
   {
     "numero": "375",
-    "nome": "Cromo 375",
+    "nome": "Kostas Katsouranis",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/375.jpg"
   },
   {
     "numero": "376",
-    "nome": "Cromo 376",
+    "nome": "Giorgos Karagounis",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/376.jpg"
   },
   {
     "numero": "377",
-    "nome": "Cromo 377",
+    "nome": "Nikos Liberopoulos",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/377.jpg"
   },
   {
     "numero": "378",
-    "nome": "Cromo 378",
+    "nome": "Ioannis Amanatidis",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/378.jpg"
   },
   {
     "numero": "379",
-    "nome": "Cromo 379",
+    "nome": "Dimitris Salpingidis",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/379.jpg"
   },
   {
     "numero": "380",
-    "nome": "Cromo 380",
+    "nome": "Georgios Samaras",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/380.jpg"
   },
   {
     "numero": "381",
-    "nome": "Cromo 381",
+    "nome": "Theofanis Gekas",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/381.jpg"
   },
   {
     "numero": "382",
-    "nome": "Cromo 382",
+    "nome": "Angelos Charisteas",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/382.jpg"
   },
   {
     "numero": "383",
-    "nome": "Cromo 383",
+    "nome": "Konstantinos Chalkias",
     "tenho": true,
     "especial": false,
+    "clube": "Hellas",
     "imagem": "images/capas/Euro 2008/383.jpg"
   },
   {
     "numero": "384",
-    "nome": "Cromo 384",
+    "nome": "Official Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/384.jpg"
   },
   {
     "numero": "385",
-    "nome": "Cromo 385",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/385.jpg"
   },
   {
     "numero": "386",
-    "nome": "Cromo 386",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/386.jpg"
   },
   {
     "numero": "387",
-    "nome": "Cromo 387",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/387.jpg"
   },
   {
     "numero": "388",
-    "nome": "Cromo 388",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/388.jpg"
   },
   {
     "numero": "389",
-    "nome": "Cromo 389",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/389.jpg"
   },
   {
     "numero": "390",
-    "nome": "Cromo 390",
+    "nome": "Andreas Isaksson",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/390.jpg"
   },
   {
     "numero": "391",
-    "nome": "Cromo 391",
+    "nome": "Olof Mellberg",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/391.jpg"
   },
   {
     "numero": "392",
-    "nome": "Cromo 392",
+    "nome": "Matias Concha",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/392.jpg"
   },
   {
     "numero": "393",
-    "nome": "Cromo 393",
+    "nome": "Erik Edman",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/393.jpg"
   },
   {
     "numero": "394",
-    "nome": "Cromo 394",
+    "nome": "Daniel Majstorovic",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/394.jpg"
   },
   {
     "numero": "395",
-    "nome": "Cromo 395",
+    "nome": "Petter Hansson",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/395.jpg"
   },
   {
     "numero": "396",
-    "nome": "Cromo 396",
+    "nome": "Mikael Nilsson",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/396.jpg"
   },
   {
     "numero": "397",
-    "nome": "Cromo 397",
+    "nome": "Niclas Alexandersson",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/397.jpg"
   },
   {
     "numero": "398",
-    "nome": "Cromo 398",
+    "nome": "Daniel Andersson",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/398.jpg"
   },
   {
     "numero": "399",
-    "nome": "Cromo 399",
+    "nome": "Tobias Linderoth",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/399.jpg"
   },
   {
     "numero": "400",
-    "nome": "Cromo 400",
+    "nome": "Christian Wilhelmsson",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/400.jpg"
   },
   {
     "numero": "401",
-    "nome": "Cromo 401",
+    "nome": "Anders Svensson",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/401.jpg"
   },
   {
     "numero": "402",
-    "nome": "Cromo 402",
+    "nome": "Kim Källström",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/402.jpg"
   },
   {
     "numero": "403",
-    "nome": "Cromo 403",
+    "nome": "Fredrik Ljungberg",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/403.jpg"
   },
   {
     "numero": "404",
-    "nome": "Cromo 404",
+    "nome": "Kennedy Bakircioglü",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/404.jpg"
   },
   {
     "numero": "405",
-    "nome": "Cromo 405",
+    "nome": "Johan Elmander",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/405.jpg"
   },
   {
     "numero": "406",
-    "nome": "Cromo 406",
+    "nome": "Zlatan Ibrahimovic",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/406.jpg"
   },
   {
     "numero": "407",
-    "nome": "Cromo 407",
+    "nome": "Marcus Allbäck",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/407.jpg"
   },
   {
     "numero": "408",
-    "nome": "Cromo 408",
+    "nome": "Markus Rosenberg",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/408.jpg"
   },
   {
     "numero": "409",
-    "nome": "Cromo 409",
+    "nome": "Rami Shaaban",
     "tenho": true,
     "especial": false,
+    "clube": "Sverige",
     "imagem": "images/capas/Euro 2008/409.jpg"
   },
   {
     "numero": "410",
-    "nome": "Cromo 410",
+    "nome": "Official Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/410.jpg"
   },
   {
     "numero": "411",
-    "nome": "Cromo 411",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/411.jpg"
   },
   {
     "numero": "412",
-    "nome": "Cromo 412",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/412.jpg"
   },
   {
     "numero": "413",
-    "nome": "Cromo 413",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/413.jpg"
   },
   {
     "numero": "414",
-    "nome": "Cromo 414",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/414.jpg"
   },
   {
     "numero": "415",
-    "nome": "Cromo 415",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "España",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/415.jpg"
   },
   {
     "numero": "416",
-    "nome": "Cromo 416",
+    "nome": "Iker Casillas",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/416.jpg"
   },
   {
     "numero": "417",
-    "nome": "Cromo 417",
+    "nome": "Carles Puyol",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/417.jpg"
   },
   {
     "numero": "418",
-    "nome": "Cromo 418",
+    "nome": "Pablo Ibañez",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/418.jpg"
   },
   {
     "numero": "418x",
-    "nome": "Cromo 418x",
+    "nome": "Raul Albiol",
     "tenho": true,
     "especial": true,
+    "clube": "España",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/418x.jpg"
   },
   {
     "numero": "419",
-    "nome": "Cromo 419",
+    "nome": "Carlos Marchena",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/419.jpg"
   },
   {
     "numero": "420",
-    "nome": "Cromo 420",
+    "nome": "Sergio Ramos",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/420.jpg"
   },
   {
     "numero": "421",
-    "nome": "Cromo 421",
+    "nome": "Joan Capdevila",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/421.jpg"
   },
   {
     "numero": "422",
-    "nome": "Cromo 422",
+    "nome": "Mariano Pernia",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/422.jpg"
   },
   {
     "numero": "422x",
-    "nome": "Cromo 422x",
+    "nome": "Fernando Navarro",
     "tenho": true,
     "especial": true,
+    "clube": "España",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/422x.jpg"
   },
   {
     "numero": "423",
-    "nome": "Cromo 423",
+    "nome": "David Albelda",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/423.jpg"
   },
   {
     "numero": "423x",
-    "nome": "Cromo 423x",
+    "nome": "Ruben de la Red",
     "tenho": true,
     "especial": true,
+    "clube": "España",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/423x.jpg"
   },
   {
     "numero": "424",
-    "nome": "Cromo 424",
+    "nome": "Xavi Hernandez",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/424.jpg"
   },
   {
     "numero": "425",
-    "nome": "Cromo 425",
+    "nome": "Marcos Senna",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/425.jpg"
   },
   {
     "numero": "426",
-    "nome": "Cromo 426",
+    "nome": "Xabi Alonso",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/426.jpg"
   },
   {
     "numero": "427",
-    "nome": "Cromo 427",
+    "nome": "Cesc Fabregas",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/427.jpg"
   },
   {
     "numero": "428",
-    "nome": "Cromo 428",
+    "nome": "Andres Iniesta",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/428.jpg"
   },
   {
     "numero": "429",
-    "nome": "Cromo 429",
+    "nome": "Joaquin Sanchez",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/429.jpg"
   },
   {
     "numero": "429x",
-    "nome": "Cromo 429x",
+    "nome": "Santi Cazorla",
     "tenho": true,
     "especial": true,
+    "clube": "España",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/429x.jpg"
   },
   {
     "numero": "430",
-    "nome": "Cromo 430",
+    "nome": "David Silva",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/430.jpg"
   },
   {
     "numero": "431",
-    "nome": "Cromo 431",
+    "nome": "Albert Riera",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/431.jpg"
   },
   {
     "numero": "431x",
-    "nome": "Cromo 431x",
+    "nome": "Sergio Garcia",
     "tenho": true,
     "especial": true,
+    "clube": "España",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/431x.jpg"
   },
   {
     "numero": "432",
-    "nome": "Cromo 432",
+    "nome": "Raul Tamudo",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/432.jpg"
   },
   {
     "numero": "432x",
-    "nome": "Cromo 432x",
+    "nome": "Daniel Guiza",
     "tenho": true,
     "especial": true,
+    "clube": "España",
+    "tipo": "International / Update",
     "imagem": "images/capas/Euro 2008/432x.jpg"
   },
   {
     "numero": "433",
-    "nome": "Cromo 433",
+    "nome": "David Villa",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/433.jpg"
   },
   {
     "numero": "434",
-    "nome": "Cromo 434",
+    "nome": "Fernando Torres",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/434.jpg"
   },
   {
     "numero": "435",
-    "nome": "Cromo 435",
+    "nome": "Pepe Reina",
     "tenho": true,
     "especial": false,
+    "clube": "España",
     "imagem": "images/capas/Euro 2008/435.jpg"
   },
   {
     "numero": "436",
-    "nome": "Cromo 436",
+    "nome": "Official Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/436.jpg"
   },
   {
     "numero": "437",
-    "nome": "Cromo 437",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/437.jpg"
   },
   {
     "numero": "438",
-    "nome": "Cromo 438",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/438.jpg"
   },
   {
     "numero": "439",
-    "nome": "Cromo 439",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/439.jpg"
   },
   {
     "numero": "440",
-    "nome": "Cromo 440",
+    "nome": "Team Photo",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/440.jpg"
   },
   {
     "numero": "441",
-    "nome": "Cromo 441",
+    "nome": "Team Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 2008/441.jpg"
   },
   {
     "numero": "442",
-    "nome": "Cromo 442",
+    "nome": "Igor Akinfeev",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/442.jpg"
   },
   {
     "numero": "443",
-    "nome": "Cromo 443",
+    "nome": "Sergei Ignashevich",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/443.jpg"
   },
   {
     "numero": "444",
-    "nome": "Cromo 444",
+    "nome": "Aleksei Berezutski",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/444.jpg"
   },
   {
     "numero": "445",
-    "nome": "Cromo 445",
+    "nome": "Aleksandr Anyukov",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/445.jpg"
   },
   {
     "numero": "446",
-    "nome": "Cromo 446",
+    "nome": "Vasili Berezutski",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/446.jpg"
   },
   {
     "numero": "447",
-    "nome": "Cromo 447",
+    "nome": "Denis Kolodin",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/447.jpg"
   },
   {
     "numero": "448",
-    "nome": "Cromo 448",
+    "nome": "Marat Izmailov",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/448.jpg"
   },
   {
     "numero": "449",
-    "nome": "Cromo 449",
+    "nome": "Igor Semshov",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/449.jpg"
   },
   {
     "numero": "450",
-    "nome": "Cromo 450",
+    "nome": "Vladimir Bystrov",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/450.jpg"
   },
   {
     "numero": "451",
-    "nome": "Cromo 451",
+    "nome": "Evgeni Aldonin",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/451.jpg"
   },
   {
     "numero": "452",
-    "nome": "Cromo 452",
+    "nome": "Konstantin Zyryanov",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/452.jpg"
   },
   {
     "numero": "453",
-    "nome": "Cromo 453",
+    "nome": "Dmitri Torbinski",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/453.jpg"
   },
   {
     "numero": "454",
-    "nome": "Cromo 454",
+    "nome": "Diniyar Bilyaletdinov",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/454.jpg"
   },
   {
     "numero": "455",
-    "nome": "Cromo 455",
+    "nome": "Yuri Zhirkov",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/455.jpg"
   },
   {
     "numero": "456",
-    "nome": "Cromo 456",
+    "nome": "Andrey Arshavin",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/456.jpg"
   },
   {
     "numero": "457",
-    "nome": "Cromo 457",
+    "nome": "Roman Pavlyuchenko",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/457.jpg"
   },
   {
     "numero": "458",
-    "nome": "Cromo 458",
+    "nome": "Aleksandr Kerzhakov",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/458.jpg"
   },
   {
     "numero": "459",
-    "nome": "Cromo 459",
+    "nome": "Pavel Pogrebnyak",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/459.jpg"
   },
   {
     "numero": "460",
-    "nome": "Cromo 460",
+    "nome": "Dmitri Sychev",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/460.jpg"
   },
   {
     "numero": "461",
-    "nome": "Cromo 461",
+    "nome": "Vyacheslav Malafeev",
     "tenho": true,
     "especial": false,
+    "clube": "Rossija",
     "imagem": "images/capas/Euro 2008/461.jpg"
   },
   {
     "numero": "462",
-    "nome": "Cromo 462",
+    "nome": "Gianluigi Buffon - Italia",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/462.jpg"
   },
   {
     "numero": "463",
-    "nome": "Cromo 463",
+    "nome": "Artur Boruc - Polska",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/463.jpg"
   },
   {
     "numero": "464",
-    "nome": "Cromo 464",
+    "nome": "Petr Cech - Ceska Rebublika",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/464.jpg"
   },
   {
     "numero": "465",
-    "nome": "Cromo 465",
+    "nome": "Iker Casillas - España",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/465.jpg"
   },
   {
     "numero": "466",
-    "nome": "Cromo 466",
+    "nome": "Edwin van der Sar - Nederland",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/466.jpg"
   },
   {
     "numero": "467",
-    "nome": "Cromo 467",
+    "nome": "Jens Lehmann - Deutschland",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/467.jpg"
   },
   {
     "numero": "468",
-    "nome": "Cromo 468",
+    "nome": "Lilian Thuram - France",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/468.jpg"
   },
   {
     "numero": "469",
-    "nome": "Cromo 469",
+    "nome": "Ricardo Carvalho - Portugal",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/469.jpg"
   },
   {
     "numero": "470",
-    "nome": "Cromo 470",
+    "nome": "Philippe Senderos - Helvetia",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/470.jpg"
   },
   {
     "numero": "471",
-    "nome": "Cromo 471",
+    "nome": "Fabio Cannavaro - Italia",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/471.jpg"
   },
   {
     "numero": "472",
-    "nome": "Cromo 472",
+    "nome": "Per Mertesacker - Deutschland",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/472.jpg"
   },
   {
     "numero": "473",
-    "nome": "Cromo 473",
+    "nome": "Martin Stranzl - Österreich",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/473.jpg"
   },
   {
     "numero": "474",
-    "nome": "Cromo 474",
+    "nome": "Dario Simic - Hrvatska",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/474.jpg"
   },
   {
     "numero": "475",
-    "nome": "Cromo 475",
+    "nome": "Traianos Dellas - Hellas",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/475.jpg"
   },
   {
     "numero": "476",
-    "nome": "Cromo 476",
+    "nome": "Carles Puyol - España",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/476.jpg"
   },
   {
     "numero": "477",
-    "nome": "Cromo 477",
+    "nome": "Olof Mellberg - Sverige",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/477.jpg"
   },
   {
     "numero": "478",
-    "nome": "Cromo 478",
+    "nome": "Sergei Ignashevich - Rossija",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/478.jpg"
   },
   {
     "numero": "479",
-    "nome": "Cromo 479",
+    "nome": "Cristian Chivu - Romania",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/479.jpg"
   },
   {
     "numero": "480",
-    "nome": "Cromo 480",
+    "nome": "Philipp Lahm - Deutschland",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/480.jpg"
   },
   {
     "numero": "481",
-    "nome": "Cromo 481",
+    "nome": "Simão - Portugal",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/481.jpg"
   },
   {
     "numero": "482",
-    "nome": "Cromo 482",
+    "nome": "Niko Kranjcar - Hrvatska",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/482.jpg"
   },
   {
     "numero": "483",
-    "nome": "Cromo 483",
+    "nome": "Giorgos Karagounis - Hellas",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/483.jpg"
   },
   {
     "numero": "484",
-    "nome": "Cromo 484",
+    "nome": "Emre Belözoglu - Türkiye",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/484.jpg"
   },
   {
     "numero": "485",
-    "nome": "Cromo 485",
+    "nome": "Gökhan Inler - Helvetia",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/485.jpg"
   },
   {
     "numero": "486",
-    "nome": "Cromo 486",
+    "nome": "Rene Aufhauser - Österreich",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/486.jpg"
   },
   {
     "numero": "487",
-    "nome": "Cromo 487",
+    "nome": "Euzebiusz Smolarek - Polska",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/487.jpg"
   },
   {
     "numero": "488",
-    "nome": "Cromo 488",
+    "nome": "Bernd Schneider - Deutschland",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/488.jpg"
   },
   {
     "numero": "489",
-    "nome": "Cromo 489",
+    "nome": "Gennaro Gattuso - Italia",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/489.jpg"
   },
   {
     "numero": "490",
-    "nome": "Cromo 490",
+    "nome": "Florent Malouda - France",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/490.jpg"
   },
   {
     "numero": "491",
-    "nome": "Cromo 491",
+    "nome": "Tranquillo Barnetta - Helvetia",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/491.jpg"
   },
   {
     "numero": "492",
-    "nome": "Cromo 492",
+    "nome": "Deco - Portugal",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/492.jpg"
   },
   {
     "numero": "493",
-    "nome": "Cromo 493",
+    "nome": "Hamit Altintop - Türkiye",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/493.jpg"
   },
   {
     "numero": "494",
-    "nome": "Cromo 494",
+    "nome": "Michael Ballack - Deutschland",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/494.jpg"
   },
   {
     "numero": "495",
-    "nome": "Cromo 495",
+    "nome": "Andreas Ivanschitz - Österreich",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/495.jpg"
   },
   {
     "numero": "496",
-    "nome": "Cromo 496",
+    "nome": "Patrick Vieira - France",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/496.jpg"
   },
   {
     "numero": "497",
-    "nome": "Cromo 497",
+    "nome": "Fredrik Ljungberg - Sverige",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/497.jpg"
   },
   {
     "numero": "498",
-    "nome": "Cromo 498",
+    "nome": "Clarence Seedorf - Nederland",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/498.jpg"
   },
   {
     "numero": "499",
-    "nome": "Cromo 499",
+    "nome": "Bastian Schweinsteiger - Deutschland",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/499.jpg"
   },
   {
     "numero": "500",
-    "nome": "Cromo 500",
+    "nome": "Tomas Rosicky - Ceska Republika",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/500.jpg"
   },
   {
     "numero": "501",
-    "nome": "Cromo 501",
+    "nome": "Andrea Pirlo - Italia",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/501.jpg"
   },
   {
     "numero": "502",
-    "nome": "Cromo 502",
+    "nome": "Franck Ribery - France",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/502.jpg"
   },
   {
     "numero": "503",
-    "nome": "Cromo 503",
+    "nome": "Andrey Arshavin - Rossija",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/503.jpg"
   },
   {
     "numero": "504",
-    "nome": "Cromo 504",
+    "nome": "Cesc Fabregas - España",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/504.jpg"
   },
   {
     "numero": "505",
-    "nome": "Cromo 505",
+    "nome": "Ciprian Marica - Romania",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/505.jpg"
   },
   {
     "numero": "506",
-    "nome": "Cromo 506",
+    "nome": "Lukas Podolski - Deutschland",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/506.jpg"
   },
   {
     "numero": "507",
-    "nome": "Cromo 507",
+    "nome": "David Villa - España",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/507.jpg"
   },
   {
     "numero": "508",
-    "nome": "Cromo 508",
+    "nome": "Theofanis Gekas - Hellas",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/508.jpg"
   },
   {
     "numero": "509",
-    "nome": "Cromo 509",
+    "nome": "Cristiano Ronaldo - Portugal",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/509.jpg"
   },
   {
     "numero": "510",
-    "nome": "Cromo 510",
+    "nome": "Aleksandr Kerzhakov - Rossija",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/510.jpg"
   },
   {
     "numero": "511",
-    "nome": "Cromo 511",
+    "nome": "Adrian Mutu - Romania",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/511.jpg"
   },
   {
     "numero": "512",
-    "nome": "Cromo 512",
+    "nome": "Alexander Frei - Helvetia",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/512.jpg"
   },
   {
     "numero": "513",
-    "nome": "Cromo 513",
+    "nome": "Jan Koller - Ceska Republika",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/513.jpg"
   },
   {
     "numero": "514",
-    "nome": "Cromo 514",
+    "nome": "Mario Gomez - Deutschland",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/514.jpg"
   },
   {
     "numero": "515",
-    "nome": "Cromo 515",
+    "nome": "Thierry Henry - France",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/515.jpg"
   },
   {
     "numero": "516",
-    "nome": "Cromo 516",
+    "nome": "Fernando Torres - España",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/516.jpg"
   },
   {
     "numero": "517",
-    "nome": "Cromo 517",
+    "nome": "Nihat Kahveci - Türkiye",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/517.jpg"
   },
   {
     "numero": "518",
-    "nome": "Cromo 518",
+    "nome": "Angelos Charisteas - Hellas",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/518.jpg"
   },
   {
     "numero": "519",
-    "nome": "Cromo 519",
+    "nome": "Miroslav Klose - Deutschland",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/519.jpg"
   },
   {
     "numero": "520",
-    "nome": "Cromo 520",
+    "nome": "Ruud van Nistelrooy - Nederland",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/520.jpg"
   },
   {
     "numero": "521",
-    "nome": "Cromo 521",
+    "nome": "Zlatan Ibrahimovic - Sverige",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/521.jpg"
   },
   {
     "numero": "522",
-    "nome": "Cromo 522",
+    "nome": "Luca Toni - Italia",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/522.jpg"
   },
   {
     "numero": "523",
-    "nome": "Cromo 523",
+    "nome": "Mladen Petric - Hrvatska",
     "tenho": true,
     "especial": false,
+    "clube": "In Action",
     "imagem": "images/capas/Euro 2008/523.jpg"
   },
   {
     "numero": "524",
-    "nome": "Cromo 524",
+    "nome": "1960 SSSR",
     "tenho": true,
     "especial": false,
+    "clube": "UEFA European Championship History",
     "imagem": "images/capas/Euro 2008/524.jpg"
   },
   {
     "numero": "525",
-    "nome": "Cromo 525",
+    "nome": "1964 España",
     "tenho": true,
     "especial": false,
+    "clube": "UEFA European Championship History",
     "imagem": "images/capas/Euro 2008/525.jpg"
   },
   {
     "numero": "526",
-    "nome": "Cromo 526",
+    "nome": "1968 Italia",
     "tenho": true,
     "especial": false,
+    "clube": "UEFA European Championship History",
     "imagem": "images/capas/Euro 2008/526.jpg"
   },
   {
     "numero": "527",
-    "nome": "Cromo 527",
+    "nome": "1972 Deutschland - BRD",
     "tenho": true,
     "especial": false,
+    "clube": "UEFA European Championship History",
     "imagem": "images/capas/Euro 2008/527.jpg"
   },
   {
     "numero": "528",
-    "nome": "Cromo 528",
+    "nome": "1976 Ceskoslovensko",
     "tenho": true,
     "especial": false,
+    "clube": "UEFA European Championship History",
     "imagem": "images/capas/Euro 2008/528.jpg"
   },
   {
     "numero": "529",
-    "nome": "Cromo 529",
+    "nome": "1980 Deutschland - BRD",
     "tenho": true,
     "especial": false,
+    "clube": "UEFA European Championship History",
     "imagem": "images/capas/Euro 2008/529.jpg"
   },
   {
     "numero": "530",
-    "nome": "Cromo 530",
+    "nome": "1984 France",
     "tenho": true,
     "especial": false,
+    "clube": "UEFA European Championship History",
     "imagem": "images/capas/Euro 2008/530.jpg"
   },
   {
     "numero": "531",
-    "nome": "Cromo 531",
+    "nome": "1988 Nederland",
     "tenho": true,
     "especial": false,
+    "clube": "UEFA European Championship History",
     "imagem": "images/capas/Euro 2008/531.jpg"
   },
   {
     "numero": "532",
-    "nome": "Cromo 532",
+    "nome": "1992 Danmark",
     "tenho": true,
     "especial": false,
+    "clube": "UEFA European Championship History",
     "imagem": "images/capas/Euro 2008/532.jpg"
   },
   {
     "numero": "533",
-    "nome": "Cromo 533",
+    "nome": "1996 Deutschland",
     "tenho": true,
     "especial": false,
+    "clube": "UEFA European Championship History",
     "imagem": "images/capas/Euro 2008/533.jpg"
   },
   {
     "numero": "534",
-    "nome": "Cromo 534",
+    "nome": "2000 France",
     "tenho": true,
     "especial": false,
+    "clube": "UEFA European Championship History",
     "imagem": "images/capas/Euro 2008/534.jpg"
   },
   {
     "numero": "535",
-    "nome": "Cromo 535",
+    "nome": "2004 Hellas",
     "tenho": true,
     "especial": false,
+    "clube": "UEFA European Championship History",
     "imagem": "images/capas/Euro 2008/535.jpg"
   }
 ]
