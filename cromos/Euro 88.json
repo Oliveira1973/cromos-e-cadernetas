@@ -1,1878 +1,2414 @@
 [
   {
     "numero": "1",
-    "nome": "Cromo 1",
+    "nome": "Berni",
     "tenho": true,
     "especial": false,
+    "clube": "Intro",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/1.jpg"
   },
   {
     "numero": "2",
-    "nome": "Cromo 2",
+    "nome": "Berni",
     "tenho": true,
     "especial": false,
+    "clube": "Intro",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/2.jpg"
   },
   {
     "numero": "3",
-    "nome": "Cromo 3",
+    "nome": "Official Poster",
     "tenho": true,
     "especial": false,
+    "clube": "Intro",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/3.jpg"
   },
   {
     "numero": "4",
-    "nome": "Cromo 4",
+    "nome": "Emblem UEFA EURO 88",
     "tenho": true,
     "especial": false,
+    "clube": "Intro",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/4.jpg"
   },
   {
     "numero": "5",
-    "nome": "Cromo 5",
+    "nome": "SSSR",
     "tenho": true,
     "especial": false,
+    "clube": "History",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/5.jpg"
   },
   {
     "numero": "6",
-    "nome": "Cromo 6",
+    "nome": "Lev Yashin",
     "tenho": true,
     "especial": false,
+    "clube": "History",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/6.jpg"
   },
   {
     "numero": "7",
-    "nome": "Cromo 7",
+    "nome": "Espana",
     "tenho": true,
     "especial": false,
+    "clube": "History",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/7.jpg"
   },
   {
     "numero": "8",
-    "nome": "Cromo 8",
+    "nome": "Amaro Amancio",
     "tenho": true,
     "especial": false,
+    "clube": "History",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/8.jpg"
   },
   {
     "numero": "9",
-    "nome": "Cromo 9",
+    "nome": "Italia",
     "tenho": true,
     "especial": false,
+    "clube": "History",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/9.jpg"
   },
   {
     "numero": "10",
-    "nome": "Cromo 10",
+    "nome": "Luigi Riva",
     "tenho": true,
     "especial": false,
+    "clube": "History",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/10.jpg"
   },
   {
     "numero": "11",
-    "nome": "Cromo 11",
+    "nome": "Deutschland-BRD",
     "tenho": true,
     "especial": false,
+    "clube": "History",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/11.jpg"
   },
   {
     "numero": "12",
-    "nome": "Cromo 12",
+    "nome": "Gerd Muller",
     "tenho": true,
     "especial": false,
+    "clube": "History",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/12.jpg"
   },
   {
     "numero": "13",
-    "nome": "Cromo 13",
+    "nome": "Ceskoslovensko",
     "tenho": true,
     "especial": false,
+    "clube": "History",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/13.jpg"
   },
   {
     "numero": "14",
-    "nome": "Cromo 14",
+    "nome": "Ivo Victor",
     "tenho": true,
     "especial": false,
+    "clube": "History",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/14.jpg"
   },
   {
     "numero": "15",
-    "nome": "Cromo 15",
+    "nome": "Karl-Heinz Rummenigge",
     "tenho": true,
     "especial": false,
+    "clube": "History",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/15.jpg"
   },
   {
     "numero": "16",
-    "nome": "Cromo 16",
+    "nome": "Deutschland-BRD",
     "tenho": true,
     "especial": false,
+    "clube": "History",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/16.jpg"
   },
   {
     "numero": "17",
-    "nome": "Cromo 17",
+    "nome": "France",
     "tenho": true,
     "especial": false,
+    "clube": "History",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/17.jpg"
   },
   {
     "numero": "18",
-    "nome": "Cromo 18",
+    "nome": "Michel Platini",
     "tenho": true,
     "especial": false,
+    "clube": "History",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/18.jpg"
   },
   {
     "numero": "19",
-    "nome": "Cromo 19",
+    "nome": "EURO 88 Map",
     "tenho": true,
     "especial": false,
+    "clube": "Map",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/19.jpg"
   },
   {
     "numero": "20",
-    "nome": "Cromo 20",
+    "nome": "EURO 88 Map",
     "tenho": true,
     "especial": false,
+    "clube": "Map",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/20.jpg"
   },
   {
     "numero": "21",
-    "nome": "Cromo 21",
+    "nome": "Munchen",
     "tenho": true,
     "especial": false,
+    "clube": "City",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/21.jpg"
   },
   {
     "numero": "22",
-    "nome": "Cromo 22",
+    "nome": "Munchen - Olympiastadion",
     "tenho": true,
     "especial": false,
+    "clube": "Stadium",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/22.jpg"
   },
   {
     "numero": "23",
-    "nome": "Cromo 23",
+    "nome": "Dusseldorf",
     "tenho": true,
     "especial": false,
+    "clube": "City",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/23.jpg"
   },
   {
     "numero": "24",
-    "nome": "Cromo 24",
+    "nome": "Dusseldorf - Rheinstadion",
     "tenho": true,
     "especial": false,
+    "clube": "Stadium",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/24.jpg"
   },
   {
     "numero": "25",
-    "nome": "Cromo 25",
+    "nome": "Frankfurt",
     "tenho": true,
     "especial": false,
+    "clube": "City",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/25.jpg"
   },
   {
     "numero": "26",
-    "nome": "Cromo 26",
+    "nome": "Frankfurt - Waldstadion",
     "tenho": true,
     "especial": false,
+    "clube": "Stadium",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/26.jpg"
   },
   {
     "numero": "27",
-    "nome": "Cromo 27",
+    "nome": "Gelsenkirchen",
     "tenho": true,
     "especial": false,
+    "clube": "City",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/27.jpg"
   },
   {
     "numero": "28",
-    "nome": "Cromo 28",
+    "nome": "Gelsenkirchen",
     "tenho": true,
     "especial": false,
+    "clube": "Stadium",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/28.jpg"
   },
   {
     "numero": "29",
-    "nome": "Cromo 29",
+    "nome": "Hamburg",
     "tenho": true,
     "especial": false,
+    "clube": "City",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/29.jpg"
   },
   {
     "numero": "30",
-    "nome": "Cromo 30",
+    "nome": "Hamburg",
     "tenho": true,
     "especial": false,
+    "clube": "Stadium",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/30.jpg"
   },
   {
     "numero": "31",
-    "nome": "Cromo 31",
+    "nome": "Hannover",
     "tenho": true,
     "especial": false,
+    "clube": "City",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/31.jpg"
   },
   {
     "numero": "32",
-    "nome": "Cromo 32",
+    "nome": "Hannover",
     "tenho": true,
     "especial": false,
+    "clube": "Stadium",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/32.jpg"
   },
   {
     "numero": "33",
-    "nome": "Cromo 33",
+    "nome": "Koln",
     "tenho": true,
     "especial": false,
+    "clube": "City",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/33.jpg"
   },
   {
     "numero": "34",
-    "nome": "Cromo 34",
+    "nome": "Koln - Mungersdorfer Stadion",
     "tenho": true,
     "especial": false,
+    "clube": "Stadium",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/34.jpg"
   },
   {
     "numero": "35",
-    "nome": "Cromo 35",
+    "nome": "Stuttgart",
     "tenho": true,
     "especial": false,
+    "clube": "City",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/35.jpg"
   },
   {
     "numero": "36",
-    "nome": "Cromo 36",
+    "nome": "Stuttgart - Neckarstadion",
     "tenho": true,
     "especial": false,
+    "clube": "Stadium",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/36.jpg"
   },
   {
     "numero": "37",
-    "nome": "Cromo 37",
+    "nome": "Berni Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Mascots",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/37.jpg"
   },
   {
     "numero": "38",
-    "nome": "Cromo 38",
+    "nome": "Berni Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Mascots",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/38.jpg"
   },
   {
     "numero": "39",
-    "nome": "Cromo 39",
+    "nome": "Berni Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Mascots",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/39.jpg"
   },
   {
     "numero": "40",
-    "nome": "Cromo 40",
+    "nome": "Berni Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Mascots",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/40.jpg"
   },
   {
     "numero": "41",
-    "nome": "Cromo 41",
+    "nome": "Berni Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Mascots",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/41.jpg"
   },
   {
     "numero": "42",
-    "nome": "Cromo 42",
+    "nome": "Berni Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Mascots",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/42.jpg"
   },
   {
     "numero": "43",
-    "nome": "Cromo 43",
+    "nome": "Berni Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Mascots",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/43.jpg"
   },
   {
     "numero": "44",
-    "nome": "Cromo 44",
+    "nome": "Berni Mascots",
     "tenho": true,
     "especial": false,
+    "clube": "Mascots",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/44.jpg"
   },
   {
     "numero": "45",
-    "nome": "Cromo 45",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/45.jpg"
   },
   {
     "numero": "46",
-    "nome": "Cromo 46",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/46.jpg"
   },
   {
     "numero": "47",
-    "nome": "Cromo 47",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/47.jpg"
   },
   {
     "numero": "48",
-    "nome": "Cromo 48",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/48.jpg"
   },
   {
     "numero": "49",
-    "nome": "Cromo 49",
+    "nome": "Berni Deutschland-BRD",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/49.jpg"
   },
   {
     "numero": "50",
-    "nome": "Cromo 50",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/50.jpg"
   },
   {
     "numero": "51",
-    "nome": "Cromo 51",
+    "nome": "Franz Beckenbauer",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/51.jpg"
   },
   {
     "numero": "52",
-    "nome": "Cromo 52",
+    "nome": "Eike Immel",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/52.jpg"
   },
   {
     "numero": "53",
-    "nome": "Cromo 53",
+    "nome": "Bodo Illgner",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/53.jpg"
   },
   {
     "numero": "54",
-    "nome": "Cromo 54",
+    "nome": "Jurgen Kohler",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/54.jpg"
   },
   {
     "numero": "55",
-    "nome": "Cromo 55",
+    "nome": "Matthias Herget",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/55.jpg"
   },
   {
     "numero": "56",
-    "nome": "Cromo 56",
+    "nome": "Guido Buchwald",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/56.jpg"
   },
   {
     "numero": "57",
-    "nome": "Cromo 57",
+    "nome": "Franco Foda",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/57.jpg"
   },
   {
     "numero": "58",
-    "nome": "Cromo 58",
+    "nome": "Hans Pflugler",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/58.jpg"
   },
   {
     "numero": "59",
-    "nome": "Cromo 59",
+    "nome": "Michael Frontzeck",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/59.jpg"
   },
   {
     "numero": "60",
-    "nome": "Cromo 60",
+    "nome": "Thomas Berthold",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/60.jpg"
   },
   {
     "numero": "61",
-    "nome": "Cromo 61",
+    "nome": "Andreas Brehme",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/61.jpg"
   },
   {
     "numero": "62",
-    "nome": "Cromo 62",
+    "nome": "Stefan Reuter",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/62.jpg"
   },
   {
     "numero": "63",
-    "nome": "Cromo 63",
+    "nome": "Hans Dorfner",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/63.jpg"
   },
   {
     "numero": "64",
-    "nome": "Cromo 64",
+    "nome": "Wolfram Wuttke",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/64.jpg"
   },
   {
     "numero": "65",
-    "nome": "Cromo 65",
+    "nome": "Lothar Matthaus",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/65.jpg"
   },
   {
     "numero": "66",
-    "nome": "Cromo 66",
+    "nome": "Olaf Thon",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/66.jpg"
   },
   {
     "numero": "67",
-    "nome": "Cromo 67",
+    "nome": "Uwe Rahn",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/67.jpg"
   },
   {
     "numero": "68",
-    "nome": "Cromo 68",
+    "nome": "Pierre Littbarski",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/68.jpg"
   },
   {
     "numero": "69",
-    "nome": "Cromo 69",
+    "nome": "Rudi Voller",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/69.jpg"
   },
   {
     "numero": "70",
-    "nome": "Cromo 70",
+    "nome": "Klaus Allofs",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/70.jpg"
   },
   {
     "numero": "71",
-    "nome": "Cromo 71",
+    "nome": "Jurgen Klinsmann",
     "tenho": true,
     "especial": false,
+    "clube": "GER",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/71.jpg"
   },
   {
     "numero": "72",
-    "nome": "Cromo 72",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/72.jpg"
   },
   {
     "numero": "73",
-    "nome": "Cromo 73",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/73.jpg"
   },
   {
     "numero": "74",
-    "nome": "Cromo 74",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/74.jpg"
   },
   {
     "numero": "75",
-    "nome": "Cromo 75",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/75.jpg"
   },
   {
     "numero": "76",
-    "nome": "Cromo 76",
+    "nome": "Berni Italy",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/76.jpg"
   },
   {
     "numero": "77",
-    "nome": "Cromo 77",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/77.jpg"
   },
   {
     "numero": "78",
-    "nome": "Cromo 78",
+    "nome": "Azeglio Vicini",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/78.jpg"
   },
   {
     "numero": "79",
-    "nome": "Cromo 79",
+    "nome": "Walter Zenga",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/79.jpg"
   },
   {
     "numero": "80",
-    "nome": "Cromo 80",
+    "nome": "Stefano Tacconi",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/80.jpg"
   },
   {
     "numero": "81",
-    "nome": "Cromo 81",
+    "nome": "Giuseppe Bergomi",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/81.jpg"
   },
   {
     "numero": "82",
-    "nome": "Cromo 82",
+    "nome": "Ciro Ferrara",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/82.jpg"
   },
   {
     "numero": "83",
-    "nome": "Cromo 83",
+    "nome": "Franco Baresi",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/83.jpg"
   },
   {
     "numero": "84",
-    "nome": "Cromo 84",
+    "nome": "Roberto Tricella",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/84.jpg"
   },
   {
     "numero": "85",
-    "nome": "Cromo 85",
+    "nome": "Riccardo Ferri",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/85.jpg"
   },
   {
     "numero": "86",
-    "nome": "Cromo 86",
+    "nome": "Giovanni Francini",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/86.jpg"
   },
   {
     "numero": "87",
-    "nome": "Cromo 87",
+    "nome": "Paolo Maldini",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/87.jpg"
   },
   {
     "numero": "88",
-    "nome": "Cromo 88",
+    "nome": "Luigi De Agostini",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/88.jpg"
   },
   {
     "numero": "89",
-    "nome": "Cromo 89",
+    "nome": "Salvatore Bagni",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/89.jpg"
   },
   {
     "numero": "90",
-    "nome": "Cromo 90",
+    "nome": "Luca Fusi",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/90.jpg"
   },
   {
     "numero": "91",
-    "nome": "Cromo 91",
+    "nome": "Fernando de Napoli",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/91.jpg"
   },
   {
     "numero": "92",
-    "nome": "Cromo 92",
+    "nome": "Giuseppe Giannini",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/92.jpg"
   },
   {
     "numero": "93",
-    "nome": "Cromo 93",
+    "nome": "Francesco Romano",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/93.jpg"
   },
   {
     "numero": "94",
-    "nome": "Cromo 94",
+    "nome": "Roberto Donadoni",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/94.jpg"
   },
   {
     "numero": "95",
-    "nome": "Cromo 95",
+    "nome": "Roberto Mancini",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/95.jpg"
   },
   {
     "numero": "96",
-    "nome": "Cromo 96",
+    "nome": "Alessandro Altobelli",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/96.jpg"
   },
   {
     "numero": "97",
-    "nome": "Cromo 97",
+    "nome": "Gianluca Vialli",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/97.jpg"
   },
   {
     "numero": "98",
-    "nome": "Cromo 98",
+    "nome": "Ruggiero Rizzitelli",
     "tenho": true,
     "especial": false,
+    "clube": "ITA",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/98.jpg"
   },
   {
     "numero": "99",
-    "nome": "Cromo 99",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/99.jpg"
   },
   {
     "numero": "100",
-    "nome": "Cromo 100",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/100.jpg"
   },
   {
     "numero": "101",
-    "nome": "Cromo 101",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/101.jpg"
   },
   {
     "numero": "102",
-    "nome": "Cromo 102",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/102.jpg"
   },
   {
     "numero": "103",
-    "nome": "Cromo 103",
+    "nome": "Berni Danmark",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/103.jpg"
   },
   {
     "numero": "104",
-    "nome": "Cromo 104",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/104.jpg"
   },
   {
     "numero": "105",
-    "nome": "Cromo 105",
+    "nome": "Sepp Piontek",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/105.jpg"
   },
   {
     "numero": "106",
-    "nome": "Cromo 106",
+    "nome": "Troels Rasmussen",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/106.jpg"
   },
   {
     "numero": "107",
-    "nome": "Cromo 107",
+    "nome": "Lars Hogh",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/107.jpg"
   },
   {
     "numero": "108",
-    "nome": "Cromo 108",
+    "nome": "John Sivebaek",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/108.jpg"
   },
   {
     "numero": "109",
-    "nome": "Cromo 109",
+    "nome": "Soren Busk",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/109.jpg"
   },
   {
     "numero": "110",
-    "nome": "Cromo 110",
+    "nome": "Morten Olsen",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/110.jpg"
   },
   {
     "numero": "111",
-    "nome": "Cromo 111",
+    "nome": "Ivan Nielsen",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/111.jpg"
   },
   {
     "numero": "112",
-    "nome": "Cromo 112",
+    "nome": "Lars Olsen",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/112.jpg"
   },
   {
     "numero": "113",
-    "nome": "Cromo 113",
+    "nome": "Jan Heintze",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/113.jpg"
   },
   {
     "numero": "114",
-    "nome": "Cromo 114",
+    "nome": "Henrik Andersen",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/114.jpg"
   },
   {
     "numero": "115",
-    "nome": "Cromo 115",
+    "nome": "Jan Molby",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/115.jpg"
   },
   {
     "numero": "116",
-    "nome": "Cromo 116",
+    "nome": "John Jensen",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/116.jpg"
   },
   {
     "numero": "117",
-    "nome": "Cromo 117",
+    "nome": "Soren Lerby",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/117.jpg"
   },
   {
     "numero": "118",
-    "nome": "Cromo 118",
+    "nome": "Per Frimann",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/118.jpg"
   },
   {
     "numero": "119",
-    "nome": "Cromo 119",
+    "nome": "Klaus Berggreen",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/119.jpg"
   },
   {
     "numero": "120",
-    "nome": "Cromo 120",
+    "nome": "Frank Arnesen",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/120.jpg"
   },
   {
     "numero": "121",
-    "nome": "Cromo 121",
+    "nome": "Jesper Olsen",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/121.jpg"
   },
   {
     "numero": "122",
-    "nome": "Cromo 122",
+    "nome": "Preben Elkjaer-Larsen",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/122.jpg"
   },
   {
     "numero": "123",
-    "nome": "Cromo 123",
+    "nome": "Michael Laudrup",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/123.jpg"
   },
   {
     "numero": "124",
-    "nome": "Cromo 124",
+    "nome": "Flemming Povlsen",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/124.jpg"
   },
   {
     "numero": "125",
-    "nome": "Cromo 125",
+    "nome": "Claus Nielsen",
     "tenho": true,
     "especial": false,
+    "clube": "DEN",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/125.jpg"
   },
   {
     "numero": "126",
-    "nome": "Cromo 126",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/126.jpg"
   },
   {
     "numero": "127",
-    "nome": "Cromo 127",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/127.jpg"
   },
   {
     "numero": "128",
-    "nome": "Cromo 128",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/128.jpg"
   },
   {
     "numero": "129",
-    "nome": "Cromo 129",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/129.jpg"
   },
   {
     "numero": "130",
-    "nome": "Cromo 130",
+    "nome": "Berni Espana",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/130.jpg"
   },
   {
     "numero": "131",
-    "nome": "Cromo 131",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/131.jpg"
   },
   {
     "numero": "132",
-    "nome": "Cromo 132",
+    "nome": "Miguel Munoz",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/132.jpg"
   },
   {
     "numero": "133",
-    "nome": "Cromo 133",
+    "nome": "Andoni Zubizarreta",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/133.jpg"
   },
   {
     "numero": "134",
-    "nome": "Cromo 134",
+    "nome": "Francisco Buyo",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/134.jpg"
   },
   {
     "numero": "135",
-    "nome": "Cromo 135",
+    "nome": "Miguel Portlan \"Chendo\"",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/135.jpg"
   },
   {
     "numero": "136",
-    "nome": "Cromo 136",
+    "nome": "Andoni Goicoechea",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/136.jpg"
   },
   {
     "numero": "137",
-    "nome": "Cromo 137",
+    "nome": "Manuel Sanchis",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/137.jpg"
   },
   {
     "numero": "138",
-    "nome": "Cromo 138",
+    "nome": "Genaro Andrinua",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/138.jpg"
   },
   {
     "numero": "139",
-    "nome": "Cromo 139",
+    "nome": "Julio Alberto Moreno",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/139.jpg"
   },
   {
     "numero": "140",
-    "nome": "Cromo 140",
+    "nome": "Luis Maria Lopez Recarte",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/140.jpg"
   },
   {
     "numero": "141",
-    "nome": "Cromo 141",
+    "nome": "Victor Munoz",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/141.jpg"
   },
   {
     "numero": "142",
-    "nome": "Cromo 142",
+    "nome": "Juan Antonio Senor",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/142.jpg"
   },
   {
     "numero": "143",
-    "nome": "Cromo 143",
+    "nome": "Ricardo Gallego",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/143.jpg"
   },
   {
     "numero": "144",
-    "nome": "Cromo 144",
+    "nome": "Miguel Gonzalez \"Michel\"",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/144.jpg"
   },
   {
     "numero": "145",
-    "nome": "Cromo 145",
+    "nome": "Rafael Gordillo",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/145.jpg"
   },
   {
     "numero": "146",
-    "nome": "Cromo 146",
+    "nome": "Ramon Maria Caldere",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/146.jpg"
   },
   {
     "numero": "147",
-    "nome": "Cromo 147",
+    "nome": "Rafael Martin Vazquez",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/147.jpg"
   },
   {
     "numero": "148",
-    "nome": "Cromo 148",
+    "nome": "Francisco Llorente",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/148.jpg"
   },
   {
     "numero": "149",
-    "nome": "Cromo 149",
+    "nome": "Emilio Butragueno",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/149.jpg"
   },
   {
     "numero": "150",
-    "nome": "Cromo 150",
+    "nome": "Julio Salinas",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/150.jpg"
   },
   {
     "numero": "151",
-    "nome": "Cromo 151",
+    "nome": "Jose Maria Baquero",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/151.jpg"
   },
   {
     "numero": "152",
-    "nome": "Cromo 152",
+    "nome": "Francisco Jose Carrasco",
     "tenho": true,
     "especial": false,
+    "clube": "ESP",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/152.jpg"
   },
   {
     "numero": "153",
-    "nome": "Cromo 153",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/153.jpg"
   },
   {
     "numero": "154",
-    "nome": "Cromo 154",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/154.jpg"
   },
   {
     "numero": "155",
-    "nome": "Cromo 155",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/155.jpg"
   },
   {
     "numero": "156",
-    "nome": "Cromo 156",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/156.jpg"
   },
   {
     "numero": "157",
-    "nome": "Cromo 157",
+    "nome": "Berni England",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/157.jpg"
   },
   {
     "numero": "158",
-    "nome": "Cromo 158",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/158.jpg"
   },
   {
     "numero": "159",
-    "nome": "Cromo 159",
+    "nome": "Bobby Robson",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/159.jpg"
   },
   {
     "numero": "160",
-    "nome": "Cromo 160",
+    "nome": "Peter Shilton",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/160.jpg"
   },
   {
     "numero": "161",
-    "nome": "Cromo 161",
+    "nome": "Chris Woods",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/161.jpg"
   },
   {
     "numero": "162",
-    "nome": "Cromo 162",
+    "nome": "Gary Stevens",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/162.jpg"
   },
   {
     "numero": "163",
-    "nome": "Cromo 163",
+    "nome": "Viv Anderson",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/163.jpg"
   },
   {
     "numero": "164",
-    "nome": "Cromo 164",
+    "nome": "Terry Butcher",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/164.jpg"
   },
   {
     "numero": "165",
-    "nome": "Cromo 165",
+    "nome": "Tony Adams",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/165.jpg"
   },
   {
     "numero": "166",
-    "nome": "Cromo 166",
+    "nome": "Mark Wright",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/166.jpg"
   },
   {
     "numero": "167",
-    "nome": "Cromo 167",
+    "nome": "Kenny Sansom",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/167.jpg"
   },
   {
     "numero": "168",
-    "nome": "Cromo 168",
+    "nome": "Stuart Pearce",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/168.jpg"
   },
   {
     "numero": "169",
-    "nome": "Cromo 169",
+    "nome": "Trevor Steven",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/169.jpg"
   },
   {
     "numero": "170",
-    "nome": "Cromo 170",
+    "nome": "Peter Reid",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/170.jpg"
   },
   {
     "numero": "171",
-    "nome": "Cromo 171",
+    "nome": "Steve Hodge",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/171.jpg"
   },
   {
     "numero": "172",
-    "nome": "Cromo 172",
+    "nome": "Glenn Hoddle",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/172.jpg"
   },
   {
     "numero": "173",
-    "nome": "Cromo 173",
+    "nome": "Neil Webb",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/173.jpg"
   },
   {
     "numero": "174",
-    "nome": "Cromo 174",
+    "nome": "Bryan Robson",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/174.jpg"
   },
   {
     "numero": "175",
-    "nome": "Cromo 175",
+    "nome": "Chris Waddle",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/175.jpg"
   },
   {
     "numero": "176",
-    "nome": "Cromo 176",
+    "nome": "Peter Beardsley",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/176.jpg"
   },
   {
     "numero": "177",
-    "nome": "Cromo 177",
+    "nome": "Gary Lineker",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/177.jpg"
   },
   {
     "numero": "178",
-    "nome": "Cromo 178",
+    "nome": "Mark Hateley",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/178.jpg"
   },
   {
     "numero": "179",
-    "nome": "Cromo 179",
+    "nome": "John Barnes",
     "tenho": true,
     "especial": false,
+    "clube": "ENG",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/179.jpg"
   },
   {
     "numero": "180",
-    "nome": "Cromo 180",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/180.jpg"
   },
   {
     "numero": "181",
-    "nome": "Cromo 181",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/181.jpg"
   },
   {
     "numero": "182",
-    "nome": "Cromo 182",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/182.jpg"
   },
   {
     "numero": "183",
-    "nome": "Cromo 183",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/183.jpg"
   },
   {
     "numero": "184",
-    "nome": "Cromo 184",
+    "nome": "Berni Eire",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/184.jpg"
   },
   {
     "numero": "185",
-    "nome": "Cromo 185",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/185.jpg"
   },
   {
     "numero": "186",
-    "nome": "Cromo 186",
+    "nome": "Jack Charlton",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/186.jpg"
   },
   {
     "numero": "187",
-    "nome": "Cromo 187",
+    "nome": "Pat Bonner",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/187.jpg"
   },
   {
     "numero": "188",
-    "nome": "Cromo 188",
+    "nome": "Gerry Peyton",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/188.jpg"
   },
   {
     "numero": "189",
-    "nome": "Cromo 189",
+    "nome": "John Anderson",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/189.jpg"
   },
   {
     "numero": "190",
-    "nome": "Cromo 190",
+    "nome": "David Lancan",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/190.jpg"
   },
   {
     "numero": "191",
-    "nome": "Cromo 191",
+    "nome": "Kevin Moran",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/191.jpg"
   },
   {
     "numero": "192",
-    "nome": "Cromo 192",
+    "nome": "Mick McCarthy",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/192.jpg"
   },
   {
     "numero": "193",
-    "nome": "Cromo 193",
+    "nome": "Paul McGrath",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/193.jpg"
   },
   {
     "numero": "194",
-    "nome": "Cromo 194",
+    "nome": "Chris Hughton",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/194.jpg"
   },
   {
     "numero": "195",
-    "nome": "Cromo 195",
+    "nome": "Ronnie Whelan",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/195.jpg"
   },
   {
     "numero": "196",
-    "nome": "Cromo 196",
+    "nome": "Mark Lawrenson",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/196.jpg"
   },
   {
     "numero": "197",
-    "nome": "Cromo 197",
+    "nome": "Liam O`Brien",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/197.jpg"
   },
   {
     "numero": "198",
-    "nome": "Cromo 198",
+    "nome": "Ray Houghton",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/198.jpg"
   },
   {
     "numero": "199",
-    "nome": "Cromo 199",
+    "nome": "Liam Brady",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/199.jpg"
   },
   {
     "numero": "200",
-    "nome": "Cromo 200",
+    "nome": "Kevin Sheedy",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/200.jpg"
   },
   {
     "numero": "201",
-    "nome": "Cromo 201",
+    "nome": "Tony Galvin",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/201.jpg"
   },
   {
     "numero": "202",
-    "nome": "Cromo 202",
+    "nome": "John Byrne",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/202.jpg"
   },
   {
     "numero": "203",
-    "nome": "Cromo 203",
+    "nome": "Frank Stapleton",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/203.jpg"
   },
   {
     "numero": "204",
-    "nome": "Cromo 204",
+    "nome": "John Aldridge",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/204.jpg"
   },
   {
     "numero": "205",
-    "nome": "Cromo 205",
+    "nome": "Niall Quinn",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/205.jpg"
   },
   {
     "numero": "206",
-    "nome": "Cromo 206",
+    "nome": "David Kelly",
     "tenho": true,
     "especial": false,
+    "clube": "IRL",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/206.jpg"
   },
   {
     "numero": "207",
-    "nome": "Cromo 207",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/207.jpg"
   },
   {
     "numero": "208",
-    "nome": "Cromo 208",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/208.jpg"
   },
   {
     "numero": "209",
-    "nome": "Cromo 209",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/209.jpg"
   },
   {
     "numero": "210",
-    "nome": "Cromo 210",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/210.jpg"
   },
   {
     "numero": "211",
-    "nome": "Cromo 211",
+    "nome": "Berni Niderland",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/211.jpg"
   },
   {
     "numero": "212",
-    "nome": "Cromo 212",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/212.jpg"
   },
   {
     "numero": "213",
-    "nome": "Cromo 213",
+    "nome": "Rinus Michels",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/213.jpg"
   },
   {
     "numero": "214",
-    "nome": "Cromo 214",
+    "nome": "Hans Van Breukelen",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/214.jpg"
   },
   {
     "numero": "215",
-    "nome": "Cromo 215",
+    "nome": "Stanley Menzo",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/215.jpg"
   },
   {
     "numero": "216",
-    "nome": "Cromo 216",
+    "nome": "Sonny Silooy",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/216.jpg"
   },
   {
     "numero": "217",
-    "nome": "Cromo 217",
+    "nome": "Ronald Koeman",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/217.jpg"
   },
   {
     "numero": "218",
-    "nome": "Cromo 218",
+    "nome": "Ronald Spelbos",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/218.jpg"
   },
   {
     "numero": "219",
-    "nome": "Cromo 219",
+    "nome": "Adrie Van Tiggelen",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/219.jpg"
   },
   {
     "numero": "220",
-    "nome": "Cromo 220",
+    "nome": "Sjaak Troost",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/220.jpg"
   },
   {
-    "numero": "220B",
-    "nome": "Cromo 220B",
+    "numero": "220u",
+    "nome": "Sjaak Troost",
     "tenho": true,
-    "especial": true,
-    "imagem": "images/capas/Euro 88/220B.jpg"
+    "especial": false,
+    "clube": "NED",
+    "tipo": "-",
+    "imagem": "images/capas/Euro 88/220u.jpg"
   },
   {
     "numero": "221",
-    "nome": "Cromo 221",
+    "nome": "Joop Lankhaar",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/221.jpg"
   },
   {
     "numero": "222",
-    "nome": "Cromo 222",
+    "nome": "Aron Winter",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/222.jpg"
   },
   {
     "numero": "223",
-    "nome": "Cromo 223",
+    "nome": "Frank Rijkaard",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/223.jpg"
   },
   {
     "numero": "224",
-    "nome": "Cromo 224",
+    "nome": "Berry Van Aerle",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/224.jpg"
   },
   {
     "numero": "225",
-    "nome": "Cromo 225",
+    "nome": "Jan Wouters",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/225.jpg"
   },
   {
     "numero": "226",
-    "nome": "Cromo 226",
+    "nome": "Arnold Muhren",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/226.jpg"
   },
   {
     "numero": "227",
-    "nome": "Cromo 227",
+    "nome": "Ruud Gullit",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/227.jpg"
   },
   {
     "numero": "228",
-    "nome": "Cromo 228",
+    "nome": "Gerald Vanenburg",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/228.jpg"
   },
   {
     "numero": "229",
-    "nome": "Cromo 229",
+    "nome": "John Bosman",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/229.jpg"
   },
   {
     "numero": "230",
-    "nome": "Cromo 230",
+    "nome": "Marco Van Basten",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/230.jpg"
   },
   {
     "numero": "231",
-    "nome": "Cromo 231",
+    "nome": "Wim Kieft",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/231.jpg"
   },
   {
     "numero": "232",
-    "nome": "Cromo 232",
+    "nome": "Johnny Van`t Schip",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/232.jpg"
   },
   {
     "numero": "233",
-    "nome": "Cromo 233",
+    "nome": "Hans Gillhaus",
     "tenho": true,
     "especial": false,
+    "clube": "NED",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/233.jpg"
   },
   {
     "numero": "234",
-    "nome": "Cromo 234",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/234.jpg"
   },
   {
     "numero": "235",
-    "nome": "Cromo 235",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/235.jpg"
   },
   {
     "numero": "236",
-    "nome": "Cromo 236",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/236.jpg"
   },
   {
     "numero": "237",
-    "nome": "Cromo 237",
+    "nome": "Team",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/237.jpg"
   },
   {
     "numero": "238",
-    "nome": "Cromo 238",
+    "nome": "Berni SSSR",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/238.jpg"
   },
   {
     "numero": "239",
-    "nome": "Cromo 239",
+    "nome": "Emblem",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "foil",
     "imagem": "images/capas/Euro 88/239.jpg"
   },
   {
     "numero": "240",
-    "nome": "Cromo 240",
+    "nome": "Valeri Lobanovskiy",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/240.jpg"
   },
   {
     "numero": "241",
-    "nome": "Cromo 241",
+    "nome": "Rinat Dasaev",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/241.jpg"
   },
   {
     "numero": "242",
-    "nome": "Cromo 242",
+    "nome": "Viktor Chanov",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/242.jpg"
   },
   {
     "numero": "243",
-    "nome": "Cromo 243",
+    "nome": "Vladimir Bessonov",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/243.jpg"
   },
   {
     "numero": "244",
-    "nome": "Cromo 244",
+    "nome": "Sergei Baltacha",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/244.jpg"
   },
   {
     "numero": "245",
-    "nome": "Cromo 245",
+    "nome": "Vagiz Khidiatullin",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/245.jpg"
   },
   {
     "numero": "246",
-    "nome": "Cromo 246",
+    "nome": "Oleg Kuznetsov",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/246.jpg"
   },
   {
     "numero": "247",
-    "nome": "Cromo 247",
+    "nome": "Aleksandr Bubnov",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/247.jpg"
   },
   {
     "numero": "248",
-    "nome": "Cromo 248",
+    "nome": "Anatoliy Demyanenko",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/248.jpg"
   },
   {
     "numero": "249",
-    "nome": "Cromo 249",
+    "nome": "Sergei Gotsmanov",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/249.jpg"
   },
   {
     "numero": "250",
-    "nome": "Cromo 250",
+    "nome": "Pavel Yakovenko",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/250.jpg"
   },
   {
     "numero": "251",
-    "nome": "Cromo 251",
+    "nome": "Ivan Yaremchuk",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/251.jpg"
   },
   {
     "numero": "252",
-    "nome": "Cromo 252",
+    "nome": "Sergei Aleinikov",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/252.jpg"
   },
   {
     "numero": "253",
-    "nome": "Cromo 253",
+    "nome": "Vasili Rats",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/253.jpg"
   },
   {
     "numero": "254",
-    "nome": "Cromo 254",
+    "nome": "Gennadi Litovchenko",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/254.jpg"
   },
   {
     "numero": "255",
-    "nome": "Cromo 255",
+    "nome": "Aleksei Mikhailichenko",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/255.jpg"
   },
   {
     "numero": "256",
-    "nome": "Cromo 256",
+    "nome": "Igor Dobrovolskiy",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/256.jpg"
   },
   {
     "numero": "257",
-    "nome": "Cromo 257",
+    "nome": "Aleksandr Zavarov",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/257.jpg"
   },
   {
     "numero": "258",
-    "nome": "Cromo 258",
+    "nome": "Igor Belanov",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/258.jpg"
   },
   {
     "numero": "259",
-    "nome": "Cromo 259",
+    "nome": "Oleg Protasov",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/259.jpg"
   },
   {
     "numero": "260",
-    "nome": "Cromo 260",
+    "nome": "Sergei Rodionov",
     "tenho": true,
     "especial": false,
+    "clube": "SSSR",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/260.jpg"
   },
   {
     "numero": "261",
-    "nome": "Cromo 261",
+    "nome": "Paolo Casarin",
     "tenho": true,
     "especial": false,
+    "clube": "Referee",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/261.jpg"
   },
   {
     "numero": "262",
-    "nome": "Cromo 262",
+    "nome": "Erik Fredriksson",
     "tenho": true,
     "especial": false,
+    "clube": "Referee",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/262.jpg"
   },
   {
     "numero": "263",
-    "nome": "Cromo 263",
+    "nome": "Dieter Pauly",
     "tenho": true,
     "especial": false,
+    "clube": "Referee",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/263.jpg"
   },
   {
     "numero": "264",
-    "nome": "Cromo 264",
+    "nome": "Alexis Ponnet",
     "tenho": true,
     "especial": false,
+    "clube": "Referee",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/264.jpg"
   },
   {
     "numero": "265",
-    "nome": "Cromo 265",
+    "nome": "Jose Rosa Dos Santos",
     "tenho": true,
     "especial": false,
+    "clube": "Referee",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/265.jpg"
   },
   {
     "numero": "266",
-    "nome": "Cromo 266",
+    "nome": "Robert Valentine",
     "tenho": true,
     "especial": false,
+    "clube": "Referee",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/266.jpg"
   },
   {
     "numero": "267",
-    "nome": "Cromo 267",
+    "nome": "Michel Vautrot",
     "tenho": true,
     "especial": false,
+    "clube": "Referee",
+    "tipo": "-",
     "imagem": "images/capas/Euro 88/267.jpg"
   }
 ]
