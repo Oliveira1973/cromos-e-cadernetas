@@ -929,6 +929,28 @@
         </div>
       </div>
 
+      <div class="repetidos-bulk" id="modoExportWrap">
+        <button type="button" id="modoExportToggle" class="repetidos-bulk-toggle">
+          <span>📋 Exportar as minhas listas</span>
+          <span id="modoExportToggleSeta">▾</span>
+        </button>
+        <div id="modoExportBody" class="repetidos-bulk-body" style="display:none;">
+          <label for="exportRepetidosText">Repetidos (<span id="exportRepetidosCount">0</span>)</label>
+          <textarea id="exportRepetidosText" readonly placeholder="Ainda não tens repetidos marcados nesta caderneta."></textarea>
+          <div class="repetidos-bulk-botoes">
+            <button type="button" id="btnCopiarRepetidos" class="secondary">📋 Copiar repetidos</button>
+          </div>
+
+          <label for="exportFaltasText" style="margin-top:16px;">Faltas (<span id="exportFaltasCount">0</span>)</label>
+          <textarea id="exportFaltasText" readonly placeholder="Não tens faltas registadas nesta caderneta."></textarea>
+          <div class="repetidos-bulk-botoes">
+            <button type="button" id="btnCopiarFaltas" class="secondary">📋 Copiar faltas</button>
+          </div>
+
+          <div class="repetidos-bulk-msg" id="modoExportMsg"></div>
+        </div>
+      </div>
+
       <div class="cromos-toolbar">
         <input type="search" id="cromoSearch" placeholder="Procurar número ou nome...">
         <label class="switch">
@@ -1623,6 +1645,7 @@ function atualizarPainelPortfolio(cadernetaId){
   document.getElementById('detailStatsWrap').style.display = modoPessoal ? '' : 'none';
   document.getElementById('detailProgressWrap').style.display = modoPessoal ? '' : 'none';
   document.getElementById('modoBulkWrap').style.display = modoPessoal ? '' : 'none';
+  document.getElementById('modoExportWrap').style.display = modoPessoal ? '' : 'none';
 
   if(!repetidosAtivo()){
     wrap.style.display = 'none';
@@ -1940,7 +1963,92 @@ function renderCromosGrid(cromos){
     el.addEventListener('click', ()=> abrirLightbox(cr));
     gradeAtual.appendChild(el);
   });
+
+  atualizarExportPessoal(cadernetaId, cromos, emPortfolio);
 }
+
+// preenche as caixas de "exportar" com a lista atual de repetidos e de
+// faltas desta caderneta (sempre a lista completa, sem os filtros de
+// pesquisa/só-especiais, para que a exportação corresponda ao que a
+// pessoa tem mesmo marcado) -- formato "numero(quantidade)" para os
+// repetidos, para poder ser colado diretamente na importação em lote
+function atualizarExportPessoal(cadernetaId, cromos, emPortfolio){
+  const repEl = document.getElementById('exportRepetidosText');
+  const falEl = document.getElementById('exportFaltasText');
+  if(!repEl || !falEl) return;
+
+  if(!emPortfolio){
+    repEl.value = '';
+    falEl.value = '';
+    document.getElementById('exportRepetidosCount').textContent = '0';
+    document.getElementById('exportFaltasCount').textContent = '0';
+    return;
+  }
+
+  const repetidos = cromos.filter(cr => (repetidosAtual.get(cr.numero) || 0) > 0);
+  const faltas = cromos.filter(cr => !efetivoTenho(cadernetaId, cr));
+
+  repEl.value = repetidos.map(cr => `${cr.numero}(${repetidosAtual.get(cr.numero)})`).join(', ');
+  falEl.value = faltas.map(cr => cr.numero).join(', ');
+  document.getElementById('exportRepetidosCount').textContent = repetidos.length;
+  document.getElementById('exportFaltasCount').textContent = faltas.length;
+}
+
+// copia o conteúdo de uma caixa de exportação para a área de
+// transferência -- tenta a Clipboard API moderna e, se não estiver
+// disponível (ex.: página aberta sem https), usa o método antigo por
+// seleção de texto, que funciona em qualquer browser
+async function copiarCaixa(textareaId, msgVazio){
+  const el = document.getElementById(textareaId);
+  const msgEl = document.getElementById('modoExportMsg');
+  if(!el.value){
+    msgEl.className = 'repetidos-bulk-msg erro';
+    msgEl.textContent = msgVazio;
+    return;
+  }
+  try{
+    if(navigator.clipboard && window.isSecureContext){
+      await navigator.clipboard.writeText(el.value);
+    } else {
+      el.removeAttribute('readonly');
+      el.select();
+      document.execCommand('copy');
+      el.setAttribute('readonly', 'true');
+    }
+    msgEl.className = 'repetidos-bulk-msg';
+    msgEl.textContent = '✓ Lista copiada! Já podes colar onde quiseres.';
+  }catch(err){
+    console.warn('Não consegui copiar automaticamente:', err);
+    el.removeAttribute('readonly');
+    el.select();
+    el.setAttribute('readonly', 'true');
+    msgEl.className = 'repetidos-bulk-msg erro';
+    msgEl.textContent = 'Não consegui copiar automaticamente -- o texto já está selecionado, usa Ctrl+C (ou Cmd+C).';
+  }
+}
+
+document.getElementById('btnCopiarRepetidos').addEventListener('click', ()=>{
+  copiarCaixa('exportRepetidosText', 'Ainda não tens repetidos marcados nesta caderneta.');
+});
+document.getElementById('btnCopiarFaltas').addEventListener('click', ()=>{
+  copiarCaixa('exportFaltasText', 'Não tens faltas registadas nesta caderneta.');
+});
+
+document.getElementById('modoExportToggle').addEventListener('click', ()=>{
+  const body = document.getElementById('modoExportBody');
+  const seta = document.getElementById('modoExportToggleSeta');
+  const msgEl = document.getElementById('modoExportMsg');
+  const aberto = body.style.display !== 'none';
+  if(aberto){
+    body.style.display = 'none';
+    seta.textContent = '▾';
+  } else {
+    body.style.display = 'block';
+    seta.textContent = '▴';
+  }
+  msgEl.className = 'repetidos-bulk-msg';
+  msgEl.textContent = '';
+});
 
 function showList(){
   document.getElementById('detail').classList.remove('active');
