@@ -379,23 +379,33 @@
     margin:-10px 0 18px;
   }
   .link-gerador:hover{ color:var(--ink); border-color:var(--ink); }
+  .paineis-pessoais{
+    display:flex;
+    flex-wrap:wrap;
+    gap:16px;
+    margin-bottom:26px;
+  }
+  .paineis-pessoais .repetidos-bulk{
+    flex:1 1 260px;
+    margin-bottom:0;
+  }
   .repetidos-bulk{
     background:var(--card-bg);
     border:2px solid var(--ink);
     border-radius:3px;
     padding:0;
     margin-bottom:26px;
-    max-width:480px;
+    max-width:400px;
     overflow:hidden;
   }
   .repetidos-bulk-toggle{
     width:100%;
     display:flex; align-items:center; justify-content:space-between;
     font-family:'Anton', sans-serif; font-weight:400;
-    font-size:1.1rem;
+    font-size:0.95rem;
     background:var(--paper-darker);
     border:none;
-    padding:12px 18px;
+    padding:10px 14px;
     cursor:pointer;
     color:var(--ink);
     text-align:left;
@@ -429,12 +439,12 @@
     resize:vertical;
   }
   .repetidos-bulk-botoes{
-    display:flex; gap:10px; margin-top:12px; flex-wrap:wrap;
+    display:flex; gap:8px; margin-top:10px; flex-wrap:wrap;
   }
   .repetidos-bulk-botoes button{
     font-family:'Space Mono', monospace;
-    font-weight:700; font-size:0.8rem;
-    padding:9px 14px; border:2px solid var(--ink); border-radius:2px;
+    font-weight:700; font-size:0.72rem;
+    padding:7px 11px; border:2px solid var(--ink); border-radius:2px;
     background:var(--stamp-red); color:var(--paper); cursor:pointer;
   }
   .repetidos-bulk-botoes button.secondary{ background:var(--card-bg); color:var(--ink); }
@@ -459,6 +469,12 @@
     white-space:pre-line;
   }
   .repetidos-bulk-msg.erro{ color:var(--stamp-red); }
+  .modo-contagem{
+    font-family:'Space Mono', monospace;
+    font-size:0.82rem;
+    color:var(--ink-soft);
+    margin:-8px 0 18px;
+  }
   .repetidos-grid{
     display:flex; flex-wrap:wrap; gap:14px;
     align-items:flex-start;
@@ -906,48 +922,51 @@
         <button type="button" id="btnModoRepetidos" class="botao-secundario">🔁 Os meus repetidos</button>
         <button type="button" id="btnModoFaltas" class="botao-secundario">❌ As minhas faltas</button>
       </div>
+      <div class="modo-contagem" id="modoContagem"></div>
     </div>
 
     <div id="cromosArea" style="display:none;">
-      <div class="repetidos-bulk" id="modoBulkWrap">
-        <button type="button" id="modoBulkToggle" class="repetidos-bulk-toggle">
-          <span>➕ Adicionar ou remover em lote</span>
-          <span id="modoBulkToggleSeta">▾</span>
-        </button>
-        <div id="modoBulkBody" class="repetidos-bulk-body" style="display:none;">
-          <label for="modoBulkNumeros">Números dos cromos</label>
-          <textarea id="modoBulkNumeros" placeholder="Cola aqui os números, um por linha ou separados por vírgula.&#10;Podes usar 23(2), 45(1) para indicar a quantidade diretamente."></textarea>
-          <div class="repetidos-bulk-botoes">
-            <button id="modoBulkAdd"></button>
-            <button id="modoBulkRemove" class="secondary"></button>
-          </div>
-          <div class="repetidos-bulk-msg" id="modoBulkMsg"></div>
-          <div class="repetidos-bulk-separador">ou, de uma só vez</div>
-          <div class="repetidos-bulk-botoes">
-            <button type="button" id="modoBulkEliminarTudo" class="perigo"></button>
+      <div class="paineis-pessoais">
+        <div class="repetidos-bulk" id="modoBulkWrap">
+          <button type="button" id="modoBulkToggle" class="repetidos-bulk-toggle">
+            <span>➕ Adicionar ou remover em lote</span>
+            <span id="modoBulkToggleSeta">▾</span>
+          </button>
+          <div id="modoBulkBody" class="repetidos-bulk-body" style="display:none;">
+            <label for="modoBulkNumeros">Números dos cromos</label>
+            <textarea id="modoBulkNumeros" placeholder="Cola aqui os números, um por linha ou separados por vírgula.&#10;Podes usar 23(2), 45(1) para indicar a quantidade diretamente."></textarea>
+            <div class="repetidos-bulk-botoes">
+              <button id="modoBulkAdd"></button>
+              <button id="modoBulkRemove" class="secondary"></button>
+            </div>
+            <div class="repetidos-bulk-msg" id="modoBulkMsg"></div>
+            <div class="repetidos-bulk-separador">ou, de uma só vez</div>
+            <div class="repetidos-bulk-botoes">
+              <button type="button" id="modoBulkEliminarTudo" class="perigo"></button>
+            </div>
           </div>
         </div>
-      </div>
 
-      <div class="repetidos-bulk" id="modoExportWrap">
-        <button type="button" id="modoExportToggle" class="repetidos-bulk-toggle">
-          <span>📋 Exportar as minhas listas</span>
-          <span id="modoExportToggleSeta">▾</span>
-        </button>
-        <div id="modoExportBody" class="repetidos-bulk-body" style="display:none;">
-          <label for="exportRepetidosText">Repetidos (<span id="exportRepetidosCount">0</span>)</label>
-          <textarea id="exportRepetidosText" readonly placeholder="Ainda não tens repetidos marcados nesta caderneta."></textarea>
-          <div class="repetidos-bulk-botoes">
-            <button type="button" id="btnCopiarRepetidos" class="secondary">📋 Copiar repetidos</button>
+        <div class="repetidos-bulk" id="modoExportWrap">
+          <button type="button" id="modoExportToggle" class="repetidos-bulk-toggle">
+            <span>📋 Exportar as minhas listas</span>
+            <span id="modoExportToggleSeta">▾</span>
+          </button>
+          <div id="modoExportBody" class="repetidos-bulk-body" style="display:none;">
+            <label for="exportRepetidosText">Repetidos (<span id="exportRepetidosCount">0</span>)</label>
+            <textarea id="exportRepetidosText" readonly placeholder="Ainda não tens repetidos marcados nesta caderneta."></textarea>
+            <div class="repetidos-bulk-botoes">
+              <button type="button" id="btnCopiarRepetidos" class="secondary">📋 Copiar repetidos</button>
+            </div>
+
+            <label for="exportFaltasText" style="margin-top:16px;">Faltas (<span id="exportFaltasCount">0</span>)</label>
+            <textarea id="exportFaltasText" readonly placeholder="Não tens faltas registadas nesta caderneta."></textarea>
+            <div class="repetidos-bulk-botoes">
+              <button type="button" id="btnCopiarFaltas" class="secondary">📋 Copiar faltas</button>
+            </div>
+
+            <div class="repetidos-bulk-msg" id="modoExportMsg"></div>
           </div>
-
-          <label for="exportFaltasText" style="margin-top:16px;">Faltas (<span id="exportFaltasCount">0</span>)</label>
-          <textarea id="exportFaltasText" readonly placeholder="Não tens faltas registadas nesta caderneta."></textarea>
-          <div class="repetidos-bulk-botoes">
-            <button type="button" id="btnCopiarFaltas" class="secondary">📋 Copiar faltas</button>
-          </div>
-
-          <div class="repetidos-bulk-msg" id="modoExportMsg"></div>
         </div>
       </div>
 
@@ -1018,6 +1037,9 @@ let portfolioAtual = new Set();
 let faltasGlobais = new Map();
 // modo escolhido dentro da caderneta aberta: null | 'repetidos' | 'faltas'
 let modoAtual = null;
+// se a caderneta aberta está a ser vista com acompanhamento pessoal
+// (dentro do Meu Portefolio) -- usado para decidir que painéis mostrar
+let modoPessoalAtual = false;
 // de onde a caderneta aberta foi aberta: 'list' (pagina inicial, so demonstracao)
 // ou 'portfolio' (dentro do Meu Portefolio, com acompanhamento pessoal)
 let detailOrigem = 'list';
@@ -1633,19 +1655,20 @@ function atualizarPainelPortfolio(cadernetaId){
   const estaNoPortfolio = repetidosAtivo() && portfolioAtual.has(cadernetaId);
   const modoPessoal = estaNoPortfolio && detailOrigem === 'portfolio';
 
+  modoPessoalAtual = modoPessoal;
   document.getElementById('modoEscolha').style.display = modoPessoal ? 'block' : 'none';
   if(!modoPessoal){
     modoAtual = null;
-    document.getElementById('cromosArea').style.display = 'block';
-  } else {
-    document.getElementById('cromosArea').style.display = modoAtual ? 'block' : 'none';
   }
+  // a grelha aparece sempre com todos os cromos assim que se abre a
+  // caderneta -- só filtra para repetidos/faltas depois de se escolher
+  // um desses modos (ver escolherModo)
+  document.getElementById('cromosArea').style.display = 'block';
   atualizarBotoesModo();
+  atualizarVisibilidadePaineis();
 
   document.getElementById('detailStatsWrap').style.display = modoPessoal ? '' : 'none';
   document.getElementById('detailProgressWrap').style.display = modoPessoal ? '' : 'none';
-  document.getElementById('modoBulkWrap').style.display = modoPessoal ? '' : 'none';
-  document.getElementById('modoExportWrap').style.display = modoPessoal ? '' : 'none';
 
   if(!repetidosAtivo()){
     wrap.style.display = 'none';
@@ -1702,10 +1725,20 @@ function atualizarBotoesModo(){
   }
 }
 
+// mostra o painel de "adicionar/remover em lote" só quando há um modo
+// escolhido (precisa de saber se é para marcar repetidos ou faltas); o
+// painel de exportar fica sempre visível dentro do acompanhamento pessoal
+function atualizarVisibilidadePaineis(){
+  document.getElementById('modoBulkWrap').style.display = (modoPessoalAtual && modoAtual) ? '' : 'none';
+  document.getElementById('modoExportWrap').style.display = modoPessoalAtual ? '' : 'none';
+}
+
 function escolherModo(modo){
-  modoAtual = modo;
-  document.getElementById('cromosArea').style.display = 'block';
+  // clicar outra vez no modo já ativo desliga o filtro e volta a
+  // mostrar todos os cromos da caderneta
+  modoAtual = (modoAtual === modo) ? null : modo;
   atualizarBotoesModo();
+  atualizarVisibilidadePaineis();
   limparMsgBulk();
   renderCromosGrid(cromosCache[currentId()]);
   document.getElementById('cromosArea').scrollIntoView({behavior:'smooth', block:'start'});
@@ -1975,6 +2008,7 @@ function renderCromosGrid(cromos){
 function atualizarExportPessoal(cadernetaId, cromos, emPortfolio){
   const repEl = document.getElementById('exportRepetidosText');
   const falEl = document.getElementById('exportFaltasText');
+  const contagemEl = document.getElementById('modoContagem');
   if(!repEl || !falEl) return;
 
   if(!emPortfolio){
@@ -1982,6 +2016,7 @@ function atualizarExportPessoal(cadernetaId, cromos, emPortfolio){
     falEl.value = '';
     document.getElementById('exportRepetidosCount').textContent = '0';
     document.getElementById('exportFaltasCount').textContent = '0';
+    if(contagemEl) contagemEl.textContent = '';
     return;
   }
 
@@ -1992,6 +2027,19 @@ function atualizarExportPessoal(cadernetaId, cromos, emPortfolio){
   falEl.value = faltas.map(cr => cr.numero).join(', ');
   document.getElementById('exportRepetidosCount').textContent = repetidos.length;
   document.getElementById('exportFaltasCount').textContent = faltas.length;
+
+  // dentro do modo "repetidos"/"faltas" mostra logo o total à frente dos
+  // botões, para não ser preciso abrir a caixa de exportar só para saber
+  // quantos são
+  if(contagemEl){
+    if(modoAtual === 'repetidos'){
+      contagemEl.textContent = `${repetidos.length} repetido${repetidos.length===1?'':'s'}`;
+    } else if(modoAtual === 'faltas'){
+      contagemEl.textContent = `${faltas.length} falta${faltas.length===1?'':'s'}`;
+    } else {
+      contagemEl.textContent = '';
+    }
+  }
 }
 
 // copia o conteúdo de uma caixa de exportação para a área de
