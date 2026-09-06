@@ -1,101 +1,101 @@
 [
   {
     "numero": "1",
-    "nome": "Emblema Arouca",
+    "nome": "Emblema Os Belenenses SAD",
     "tenho": true,
-    "especial": false,
-    "clube": "Liga BWIN 2021-2022",
-    "tipo": "-",
+    "especial": true,
+    "clube": "Liga Nos 2020-21",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/1.jpg"
   },
   {
     "numero": "2",
-    "nome": "Emblema OS Belenenses SAD",
+    "nome": "Emblema Benfica",
     "tenho": true,
     "especial": false,
-    "clube": "Liga BWIN 2021-2022",
-    "tipo": "-",
+    "clube": "Liga Nos 2020-21",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/2.jpg"
   },
   {
     "numero": "3",
-    "nome": "Emblema Benfica",
+    "nome": "Emblema Boavista",
     "tenho": true,
     "especial": false,
-    "clube": "Liga BWIN 2021-2022",
-    "tipo": "-",
+    "clube": "Liga Nos 2020-21",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/3.jpg"
   },
   {
     "numero": "4",
-    "nome": "Emblema Boavista",
+    "nome": "Emblema Braga",
     "tenho": true,
     "especial": false,
-    "clube": "Liga BWIN 2021-2022",
-    "tipo": "-",
+    "clube": "Liga Nos 2020-21",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/4.jpg"
   },
   {
     "numero": "5",
-    "nome": "Emblema Braga",
+    "nome": "Emblema Famalicao",
     "tenho": true,
     "especial": false,
-    "clube": "Liga BWIN 2021-2022",
-    "tipo": "-",
+    "clube": "Liga Nos 2020-21",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/5.jpg"
   },
   {
     "numero": "6",
-    "nome": "Emblema Estoril",
+    "nome": "Emblema Farense",
     "tenho": true,
     "especial": false,
-    "clube": "Liga BWIN 2021-2022",
-    "tipo": "-",
+    "clube": "Liga Nos 2020-21",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/6.jpg"
   },
   {
     "numero": "7",
-    "nome": "Emblema Famalicão",
+    "nome": "Emblema Gil Vicente",
     "tenho": true,
     "especial": false,
-    "clube": "Liga BWIN 2021-2022",
-    "tipo": "-",
+    "clube": "Liga Nos 2020-21",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/7.jpg"
   },
   {
     "numero": "8",
-    "nome": "Emblema Gil Vicente",
+    "nome": "Emblema Maritimo",
     "tenho": true,
     "especial": false,
-    "clube": "Liga BWIN 2021-2022",
-    "tipo": "-",
+    "clube": "Liga Nos 2020-21",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/8.jpg"
   },
   {
     "numero": "9",
-    "nome": "Emblema Marítimo",
+    "nome": "Emblema Moreirense",
     "tenho": true,
     "especial": false,
-    "clube": "Liga BWIN 2021-2022",
-    "tipo": "-",
+    "clube": "Liga Nos 2020-21",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/9.jpg"
   },
   {
     "numero": "10",
-    "nome": "Emblema Moreirense",
+    "nome": "Emblema Nacional",
     "tenho": true,
     "especial": false,
-    "clube": "Liga BWIN 2021-2022",
-    "tipo": "-",
+    "clube": "Liga Nos 2020-21",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/10.jpg"
   },
   {
     "numero": "11",
-    "nome": "Emblema Paços de Ferreira",
+    "nome": "Emblema Pacos de Ferreira",
     "tenho": true,
     "especial": false,
-    "clube": "Liga BWIN 2021-2022",
-    "tipo": "-",
+    "clube": "Liga Nos 2020-21",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/11.jpg"
   },
   {
@@ -103,8 +103,8 @@
     "nome": "Emblema Portimonense",
     "tenho": true,
     "especial": false,
-    "clube": "Liga BWIN 2021-2022",
-    "tipo": "-",
+    "clube": "Liga Nos 2020-21",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/12.jpg"
   },
   {
@@ -112,1807 +112,1834 @@
     "nome": "Emblema Porto",
     "tenho": true,
     "especial": false,
-    "clube": "Liga BWIN 2021-2022",
-    "tipo": "-",
+    "clube": "Liga Nos 2020-21",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/13.jpg"
   },
   {
     "numero": "14",
-    "nome": "Emblema Santa Clara",
+    "nome": "Emblema Rio Ave",
     "tenho": true,
     "especial": false,
-    "clube": "Liga BWIN 2021-2022",
-    "tipo": "-",
+    "clube": "Liga Nos 2020-21",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/14.jpg"
   },
   {
     "numero": "15",
-    "nome": "Emblema Sporting",
+    "nome": "Emblema Santa Clara",
     "tenho": true,
     "especial": false,
-    "clube": "Liga BWIN 2021-2022",
-    "tipo": "-",
+    "clube": "Liga Nos 2020-21",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/15.jpg"
   },
   {
     "numero": "16",
-    "nome": "Emblema Tondela",
+    "nome": "Emblema Sporting",
     "tenho": true,
     "especial": false,
-    "clube": "Liga BWIN 2021-2022",
-    "tipo": "-",
+    "clube": "Liga Nos 2020-21",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/16.jpg"
   },
   {
     "numero": "17",
-    "nome": "Emblema V. Guimarães",
+    "nome": "Emblema Tondela",
     "tenho": true,
     "especial": false,
-    "clube": "Liga BWIN 2021-2022",
-    "tipo": "-",
+    "clube": "Liga Nos 2020-21",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/17.jpg"
   },
   {
     "numero": "18",
-    "nome": "Emblema Vizela",
+    "nome": "Emblema V. Guimaraes",
     "tenho": true,
     "especial": false,
-    "clube": "Liga BWIN 2021-2022",
-    "tipo": "-",
+    "clube": "Liga Nos 2020-21",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/18.jpg"
   },
   {
     "numero": "19",
-    "nome": "Victor Braga",
+    "nome": "Andre Moreira",
     "tenho": true,
     "especial": false,
-    "clube": "Arouca",
+    "clube": "Os Belenenses SAD",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/19.jpg"
   },
   {
     "numero": "20",
-    "nome": "Fernando Castro",
+    "nome": "Guilherme Oliveira",
     "tenho": true,
     "especial": false,
-    "clube": "Arouca",
+    "clube": "Os Belenenses SAD",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/20.jpg"
   },
   {
     "numero": "21",
-    "nome": "Thales Oleques",
+    "nome": "Diogo Calila",
     "tenho": true,
     "especial": false,
-    "clube": "Arouca",
+    "clube": "Os Belenenses SAD",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/21.jpg"
   },
   {
     "numero": "22",
-    "nome": "Mateus Quaresma",
+    "nome": "Henrique",
     "tenho": true,
     "especial": false,
-    "clube": "Arouca",
+    "clube": "Os Belenenses SAD",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/22.jpg"
   },
   {
     "numero": "23",
-    "nome": "Brunão Gonçalves",
+    "nome": "Danny Henriques",
     "tenho": true,
     "especial": false,
-    "clube": "Arouca",
+    "clube": "Os Belenenses SAD",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/23.jpg"
   },
   {
     "numero": "24",
-    "nome": "Sema Velázquez",
+    "nome": "Tomas Ribeiro",
     "tenho": true,
     "especial": false,
-    "clube": "Arouca",
+    "clube": "Os Belenenses SAD",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/24.jpg"
   },
   {
     "numero": "25",
-    "nome": "João Basso",
+    "nome": "Ruben Lima",
     "tenho": true,
     "especial": false,
-    "clube": "Arouca",
+    "clube": "Os Belenenses SAD",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/25.jpg"
   },
   {
+    "numero": "25bis",
+    "nome": "Nilton Varela",
+    "tenho": true,
+    "especial": true,
+    "clube": "Os Belenenses SAD",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/25bis.jpg"
+  },
+  {
     "numero": "26",
-    "nome": "Joel Ferreira",
+    "nome": "Phete",
     "tenho": true,
     "especial": false,
-    "clube": "Arouca",
+    "clube": "Os Belenenses SAD",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/26.jpg"
   },
   {
     "numero": "27",
-    "nome": "Leandro Silva",
+    "nome": "Afonso Taira",
     "tenho": true,
     "especial": false,
-    "clube": "Arouca",
+    "clube": "Os Belenenses SAD",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/27.jpg"
   },
   {
     "numero": "28",
-    "nome": "Eugeni",
+    "nome": "Bruno Ramires",
     "tenho": true,
     "especial": false,
-    "clube": "Arouca",
+    "clube": "Os Belenenses SAD",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/28.jpg"
   },
   {
     "numero": "29",
-    "nome": "Marco Soares",
+    "nome": "Caue",
     "tenho": true,
     "especial": false,
-    "clube": "Arouca",
+    "clube": "Os Belenenses SAD",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/29.jpg"
   },
   {
     "numero": "30",
-    "nome": "Pedro Moreira",
+    "nome": "Afonso Souba",
     "tenho": true,
     "especial": false,
-    "clube": "Arouca",
+    "clube": "Os Belenenses SAD",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/30.jpg"
   },
   {
     "numero": "31",
-    "nome": "Pité",
+    "nome": "Tiago Esgaio",
     "tenho": true,
     "especial": false,
-    "clube": "Arouca",
+    "clube": "Os Belenenses SAD",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/31.jpg"
   },
   {
     "numero": "32",
-    "nome": "Arsénio",
+    "nome": "Robinho",
     "tenho": true,
     "especial": false,
-    "clube": "Arouca",
+    "clube": "Os Belenenses SAD",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/32.jpg"
   },
   {
     "numero": "33",
-    "nome": "André Bukia",
+    "nome": "Silvestre Varela",
     "tenho": true,
     "especial": false,
-    "clube": "Arouca",
+    "clube": "Os Belenenses SAD",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/33.jpg"
   },
   {
     "numero": "34",
-    "nome": "Tiago Araújo",
+    "nome": "Miguel Cardoso",
     "tenho": true,
     "especial": false,
-    "clube": "Arouca",
+    "clube": "Os Belenenses SAD",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/34.jpg"
   },
   {
     "numero": "35",
-    "nome": "Adílio",
+    "nome": "Edi Semedo",
     "tenho": true,
     "especial": false,
-    "clube": "Arouca",
+    "clube": "Os Belenenses SAD",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/35.jpg"
   },
   {
     "numero": "36",
-    "nome": "André Silva",
+    "nome": "Cassierra",
     "tenho": true,
     "especial": false,
-    "clube": "Arouca",
+    "clube": "Os Belenenses SAD",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/36.jpg"
   },
   {
     "numero": "37",
-    "nome": "Luiz Felipe",
+    "nome": "Vlachodimos",
     "tenho": true,
     "especial": false,
-    "clube": "Belenenses",
+    "clube": "Benfica",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/37.jpg"
   },
   {
     "numero": "38",
-    "nome": "Álvaro Ramalho",
-    "tenho": true,
-    "especial": false,
-    "clube": "Belenenses",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/38.jpg"
-  },
-  {
-    "numero": "39",
-    "nome": "Diogo Calila",
-    "tenho": true,
-    "especial": false,
-    "clube": "Belenenses",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/39.jpg"
-  },
-  {
-    "numero": "40",
-    "nome": "Boni",
-    "tenho": true,
-    "especial": false,
-    "clube": "Belenenses",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/40.jpg"
-  },
-  {
-    "numero": "41",
-    "nome": "Danny Henriques",
-    "tenho": true,
-    "especial": false,
-    "clube": "Belenenses",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/41.jpg"
-  },
-  {
-    "numero": "42",
-    "nome": "Tomás Ribeiro",
-    "tenho": true,
-    "especial": false,
-    "clube": "Belenenses",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/42.jpg"
-  },
-  {
-    "numero": "43",
-    "nome": "Chima Akas",
-    "tenho": true,
-    "especial": false,
-    "clube": "Belenenses",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/43.jpg"
-  },
-  {
-    "numero": "44",
-    "nome": "Nilton Varela",
-    "tenho": true,
-    "especial": false,
-    "clube": "Belenenses",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/44.jpg"
-  },
-  {
-    "numero": "45",
-    "nome": "Phete",
-    "tenho": true,
-    "especial": false,
-    "clube": "Belenenses",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/45.jpg"
-  },
-  {
-    "numero": "46",
-    "nome": "César Sousa",
-    "tenho": true,
-    "especial": false,
-    "clube": "Belenenses",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/46.jpg"
-  },
-  {
-    "numero": "47",
-    "nome": "Sandro",
-    "tenho": true,
-    "especial": false,
-    "clube": "Belenenses",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/47.jpg"
-  },
-  {
-    "numero": "48",
-    "nome": "Yaya Sithole",
-    "tenho": true,
-    "especial": false,
-    "clube": "Belenenses",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/48.jpg"
-  },
-  {
-    "numero": "49",
-    "nome": "Rafa Santos",
-    "tenho": true,
-    "especial": false,
-    "clube": "Belenenses",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/49.jpg"
-  },
-  {
-    "numero": "50",
-    "nome": "Pedro Nuno",
-    "tenho": true,
-    "especial": false,
-    "clube": "Belenenses",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/50.jpg"
-  },
-  {
-    "numero": "51",
-    "nome": "Afonso Sousa",
-    "tenho": true,
-    "especial": false,
-    "clube": "Belenenses",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/51.jpg"
-  },
-  {
-    "numero": "52",
-    "nome": "Ndour",
-    "tenho": true,
-    "especial": false,
-    "clube": "Belenenses",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/52.jpg"
-  },
-  {
-    "numero": "53",
-    "nome": "Francisco Teixeira",
-    "tenho": true,
-    "especial": false,
-    "clube": "Belenenses",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/53.jpg"
-  },
-  {
-    "numero": "54",
-    "nome": "Luís Mota",
-    "tenho": true,
-    "especial": false,
-    "clube": "Belenenses",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/54.jpg"
-  },
-  {
-    "numero": "55",
-    "nome": "Odisseas Vlachodimos",
-    "tenho": true,
-    "especial": false,
-    "clube": "Benfica",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/55.jpg"
-  },
-  {
-    "numero": "56",
     "nome": "Helton Leite",
     "tenho": true,
     "especial": false,
     "clube": "Benfica",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/56.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/38.jpg"
   },
   {
-    "numero": "57",
-    "nome": "Diogo Gonçalves",
+    "numero": "39",
+    "nome": "Andre Almeida",
     "tenho": true,
     "especial": false,
     "clube": "Benfica",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/57.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/39.jpg"
   },
   {
-    "numero": "57bis",
+    "numero": "40",
     "nome": "Gilberto",
     "tenho": true,
-    "especial": true,
+    "especial": false,
     "clube": "Benfica",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/57bis.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/40.jpg"
   },
   {
-    "numero": "58",
-    "nome": "Lucas Veríssimo",
+    "numero": "41",
+    "nome": "Ruben Dias",
     "tenho": true,
     "especial": false,
     "clube": "Benfica",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/58.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/41.jpg"
   },
   {
-    "numero": "59",
-    "nome": "Nicolas Otamendi",
-    "tenho": true,
-    "especial": false,
-    "clube": "Benfica",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/59.jpg"
-  },
-  {
-    "numero": "60",
-    "nome": "Jan Vertonghen",
-    "tenho": true,
-    "especial": false,
-    "clube": "Benfica",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/60.jpg"
-  },
-  {
-    "numero": "60bis",
-    "nome": "Morato",
+    "numero": "41bis",
+    "nome": "Jardel",
     "tenho": true,
     "especial": true,
     "clube": "Benfica",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/60bis.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/41bis.jpg"
   },
   {
-    "numero": "61",
+    "numero": "42",
+    "nome": "Vertonghen",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/42.jpg"
+  },
+  {
+    "numero": "43",
     "nome": "Grimaldo",
     "tenho": true,
     "especial": false,
     "clube": "Benfica",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/61.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/43.jpg"
   },
   {
-    "numero": "62",
-    "nome": "Gil Dias",
+    "numero": "44",
+    "nome": "Cervi",
     "tenho": true,
     "especial": false,
     "clube": "Benfica",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/62.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/44.jpg"
   },
   {
-    "numero": "62bis",
-    "nome": "André Almeida",
+    "numero": "44bis",
+    "nome": "Nuno Tavares",
     "tenho": true,
     "especial": true,
     "clube": "Benfica",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/62bis.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/44bis.jpg"
   },
   {
-    "numero": "63",
-    "nome": "Soualiho Meité",
+    "numero": "45",
+    "nome": "Gabriel",
     "tenho": true,
     "especial": false,
     "clube": "Benfica",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/63.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/45.jpg"
   },
   {
-    "numero": "64",
-    "nome": "Julian Weigl",
+    "numero": "46",
+    "nome": "Weigl",
     "tenho": true,
     "especial": false,
     "clube": "Benfica",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/64.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/46.jpg"
   },
   {
-    "numero": "65",
-    "nome": "João Mário",
-    "tenho": true,
-    "especial": false,
-    "clube": "Benfica",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/65.jpg"
-  },
-  {
-    "numero": "66",
+    "numero": "47",
     "nome": "Pizzi",
     "tenho": true,
     "especial": false,
     "clube": "Benfica",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/66.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/47.jpg"
   },
   {
-    "numero": "67",
+    "numero": "48",
     "nome": "Everton",
     "tenho": true,
     "especial": false,
     "clube": "Benfica",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/67.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/48.jpg"
   },
   {
-    "numero": "68",
-    "nome": "Adel Taarabt",
+    "numero": "49",
+    "nome": "Taarabt",
     "tenho": true,
     "especial": false,
     "clube": "Benfica",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/68.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/49.jpg"
   },
   {
-    "numero": "69",
+    "numero": "50",
     "nome": "Rafa",
     "tenho": true,
     "especial": false,
     "clube": "Benfica",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/69.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/50.jpg"
   },
   {
-    "numero": "70",
-    "nome": "Gonçalo Ramos",
+    "numero": "51",
+    "nome": "Waldschmidt",
     "tenho": true,
     "especial": false,
     "clube": "Benfica",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/70.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/51.jpg"
   },
   {
-    "numero": "71",
-    "nome": "Roman Yaremchuk",
+    "numero": "52",
+    "nome": "Darwin Nunez",
     "tenho": true,
     "especial": false,
     "clube": "Benfica",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/71.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/52.jpg"
   },
   {
-    "numero": "71bis",
-    "nome": "Darwin Núñez",
+    "numero": "53",
+    "nome": "Seferovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/53.jpg"
+  },
+  {
+    "numero": "54",
+    "nome": "Carlos Vinicius",
+    "tenho": true,
+    "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/54.jpg"
+  },
+  {
+    "numero": "54bis",
+    "nome": "Goncalo Ramos",
     "tenho": true,
     "especial": true,
     "clube": "Benfica",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/71bis.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/54bis.jpg"
   },
   {
-    "numero": "72",
-    "nome": "Haris Seferovic",
-    "tenho": true,
-    "especial": false,
-    "clube": "Benfica",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/72.jpg"
-  },
-  {
-    "numero": "73",
+    "numero": "55",
     "nome": "Bracali",
     "tenho": true,
     "especial": false,
     "clube": "Boavista",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/73.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/55.jpg"
   },
   {
-    "numero": "74",
-    "nome": "Alireza Beiranvand",
+    "numero": "56",
+    "nome": "Leo Jardim",
     "tenho": true,
     "especial": false,
     "clube": "Boavista",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/74.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/56.jpg"
   },
   {
-    "numero": "75",
-    "nome": "Nathan",
+    "numero": "57",
+    "nome": "Ricardo Mangas",
     "tenho": true,
     "especial": false,
     "clube": "Boavista",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/75.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/57.jpg"
   },
   {
-    "numero": "76",
+    "numero": "58",
+    "nome": "Jesus Gomez",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/58.jpg"
+  },
+  {
+    "numero": "58bis",
+    "nome": "Porozo",
+    "tenho": true,
+    "especial": true,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/58bis.jpg"
+  },
+  {
+    "numero": "59",
     "nome": "Chidozie",
     "tenho": true,
     "especial": false,
     "clube": "Boavista",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/76.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/59.jpg"
   },
   {
-    "numero": "76bis",
-    "nome": "Tiago Ilori",
-    "tenho": true,
-    "especial": true,
-    "clube": "Boavista",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/76bis.jpg"
-  },
-  {
-    "numero": "77",
-    "nome": "Pedro Malheiro",
+    "numero": "60",
+    "nome": "Rami",
     "tenho": true,
     "especial": false,
     "clube": "Boavista",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/77.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/60.jpg"
   },
   {
-    "numero": "78",
-    "nome": "Abascal",
+    "numero": "61",
+    "nome": "Reggie Cannon",
     "tenho": true,
     "especial": false,
     "clube": "Boavista",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/78.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/61.jpg"
   },
   {
-    "numero": "79",
-    "nome": "Porozo",
-    "tenho": true,
-    "especial": false,
-    "clube": "Boavista",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/79.jpg"
-  },
-  {
-    "numero": "80",
+    "numero": "62",
     "nome": "Hamache",
     "tenho": true,
     "especial": false,
     "clube": "Boavista",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/80.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/62.jpg"
   },
   {
-    "numero": "81",
-    "nome": "Filipe Ferreira",
-    "tenho": true,
-    "especial": false,
-    "clube": "Boavista",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/81.jpg"
-  },
-  {
-    "numero": "82",
+    "numero": "63",
     "nome": "Javi Garcia",
     "tenho": true,
     "especial": false,
     "clube": "Boavista",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/82.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/63.jpg"
   },
   {
-    "numero": "83",
-    "nome": "Makouta",
+    "numero": "64",
+    "nome": "Show",
     "tenho": true,
     "especial": false,
     "clube": "Boavista",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/83.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/64.jpg"
   },
   {
-    "numero": "84",
+    "numero": "65",
+    "nome": "Perez",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/65.jpg"
+  },
+  {
+    "numero": "66",
+    "nome": "Angel Gomes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/66.jpg"
+  },
+  {
+    "numero": "67",
+    "nome": "Nuno Santos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/67.jpg"
+  },
+  {
+    "numero": "67bis",
+    "nome": "Reisinho",
+    "tenho": true,
+    "especial": true,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/67bis.jpg"
+  },
+  {
+    "numero": "68",
     "nome": "Gustavo Sauer",
     "tenho": true,
     "especial": false,
     "clube": "Boavista",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/84.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/68.jpg"
   },
   {
-    "numero": "85",
-    "nome": "Sebastián Pérez",
+    "numero": "69",
+    "nome": "Benguche",
     "tenho": true,
     "especial": false,
     "clube": "Boavista",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/85.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/69.jpg"
   },
   {
-    "numero": "86",
-    "nome": "Reisinho",
-    "tenho": true,
-    "especial": false,
-    "clube": "Boavista",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/86.jpg"
-  },
-  {
-    "numero": "87",
-    "nome": "Luís Santos",
-    "tenho": true,
-    "especial": false,
-    "clube": "Boavista",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/87.jpg"
-  },
-  {
-    "numero": "88",
-    "nome": "Kenji Gorré",
-    "tenho": true,
-    "especial": false,
-    "clube": "Boavista",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/88.jpg"
-  },
-  {
-    "numero": "89",
-    "nome": "Tiago Morais",
-    "tenho": true,
-    "especial": false,
-    "clube": "Boavista",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/89.jpg"
-  },
-  {
-    "numero": "90",
+    "numero": "70",
     "nome": "Yusupha",
     "tenho": true,
     "especial": false,
     "clube": "Boavista",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/90.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/70.jpg"
   },
   {
-    "numero": "91",
+    "numero": "71",
+    "nome": "Paulinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/71.jpg"
+  },
+  {
+    "numero": "72",
+    "nome": "Elis",
+    "tenho": true,
+    "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/72.jpg"
+  },
+  {
+    "numero": "73",
     "nome": "Matheus",
     "tenho": true,
     "especial": false,
     "clube": "Braga",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/91.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/73.jpg"
   },
   {
-    "numero": "92",
-    "nome": "Tiago Sá",
+    "numero": "74",
+    "nome": "Tiago Sa",
     "tenho": true,
     "especial": false,
     "clube": "Braga",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/92.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/74.jpg"
   },
   {
-    "numero": "93",
-    "nome": "Fabiano",
+    "numero": "75",
+    "nome": "Ricardo Esgaio",
     "tenho": true,
     "especial": false,
     "clube": "Braga",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/93.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/75.jpg"
   },
   {
-    "numero": "94",
+    "numero": "76",
     "nome": "Tormena",
     "tenho": true,
     "especial": false,
     "clube": "Braga",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/94.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/76.jpg"
   },
   {
-    "numero": "95",
-    "nome": "Paulo Oliveira",
+    "numero": "77",
+    "nome": "Bruno Viana",
     "tenho": true,
     "especial": false,
     "clube": "Braga",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/95.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/77.jpg"
   },
   {
-    "numero": "96",
-    "nome": "Raúl Silva",
+    "numero": "78",
+    "nome": "Raul Silva",
     "tenho": true,
     "especial": false,
     "clube": "Braga",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/96.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/78.jpg"
   },
   {
-    "numero": "97",
+    "numero": "79",
+    "nome": "David Carmo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/79.jpg"
+  },
+  {
+    "numero": "80",
     "nome": "Sequeira",
     "tenho": true,
     "especial": false,
     "clube": "Braga",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/97.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/80.jpg"
   },
   {
-    "numero": "98",
-    "nome": "Francisco Moura",
-    "tenho": true,
-    "especial": false,
-    "clube": "Braga",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/98.jpg"
-  },
-  {
-    "numero": "99",
+    "numero": "81",
     "nome": "Al Musrati",
     "tenho": true,
     "especial": false,
     "clube": "Braga",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/99.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/81.jpg"
   },
   {
-    "numero": "100",
-    "nome": "Lucas Mineiro",
-    "tenho": true,
-    "especial": false,
-    "clube": "Braga",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/100.jpg"
-  },
-  {
-    "numero": "101",
+    "numero": "82",
     "nome": "Castro",
     "tenho": true,
     "especial": false,
     "clube": "Braga",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/101.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/82.jpg"
   },
   {
-    "numero": "102",
-    "nome": "Lucas Piazón",
+    "numero": "83",
+    "nome": "Andre Horta",
     "tenho": true,
     "especial": false,
     "clube": "Braga",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/102.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/83.jpg"
   },
   {
-    "numero": "103",
-    "nome": "Fábio Martins",
+    "numero": "84",
+    "nome": "Fransergio",
     "tenho": true,
     "especial": false,
     "clube": "Braga",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/103.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/84.jpg"
   },
   {
-    "numero": "103bis",
-    "nome": "André Horta",
+    "numero": "85",
+    "nome": "Joao Novais",
     "tenho": true,
-    "especial": true,
+    "especial": false,
     "clube": "Braga",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/103bis.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/85.jpg"
   },
   {
-    "numero": "104",
+    "numero": "86",
+    "nome": "Gaitan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/86.jpg"
+  },
+  {
+    "numero": "87",
     "nome": "Galeno",
     "tenho": true,
     "especial": false,
     "clube": "Braga",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/104.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/87.jpg"
   },
   {
-    "numero": "105",
+    "numero": "88",
     "nome": "Iuri Medeiros",
     "tenho": true,
     "especial": false,
     "clube": "Braga",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/105.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/88.jpg"
   },
   {
-    "numero": "106",
+    "numero": "89",
     "nome": "Ricardo Horta",
     "tenho": true,
     "especial": false,
     "clube": "Braga",
     "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/89.jpg"
+  },
+  {
+    "numero": "90",
+    "nome": "Paulinho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/90.jpg"
+  },
+  {
+    "numero": "91",
+    "nome": "Gabriel",
+    "tenho": true,
+    "especial": false,
+    "clube": "Famalicao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/91.jpg"
+  },
+  {
+    "numero": "91bis",
+    "nome": "Vana",
+    "tenho": true,
+    "especial": true,
+    "clube": "Famalicao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/91bis.jpg"
+  },
+  {
+    "numero": "92",
+    "nome": "Zlobin",
+    "tenho": true,
+    "especial": false,
+    "clube": "Famalicao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/92.jpg"
+  },
+  {
+    "numero": "93",
+    "nome": "Morer",
+    "tenho": true,
+    "especial": false,
+    "clube": "Famalicao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/93.jpg"
+  },
+  {
+    "numero": "94",
+    "nome": "Patrick William",
+    "tenho": true,
+    "especial": false,
+    "clube": "Famalicao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/94.jpg"
+  },
+  {
+    "numero": "95",
+    "nome": "Babic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Famalicao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/95.jpg"
+  },
+  {
+    "numero": "96",
+    "nome": "Trevisan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Famalicao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/96.jpg"
+  },
+  {
+    "numero": "97",
+    "nome": "Riccieli",
+    "tenho": true,
+    "especial": false,
+    "clube": "Famalicao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/97.jpg"
+  },
+  {
+    "numero": "98",
+    "nome": "Abdul Ibrahim",
+    "tenho": true,
+    "especial": false,
+    "clube": "Famalicao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/98.jpg"
+  },
+  {
+    "numero": "99",
+    "nome": "Guga",
+    "tenho": true,
+    "especial": false,
+    "clube": "Famalicao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/99.jpg"
+  },
+  {
+    "numero": "100",
+    "nome": "Gustavo Assucao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Famalicao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/100.jpg"
+  },
+  {
+    "numero": "101",
+    "nome": "Jorge Pereira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Famalicao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/101.jpg"
+  },
+  {
+    "numero": "102",
+    "nome": "Joao Neto",
+    "tenho": true,
+    "especial": false,
+    "clube": "Famalicao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/102.jpg"
+  },
+  {
+    "numero": "103",
+    "nome": "Ofori",
+    "tenho": true,
+    "especial": false,
+    "clube": "Famalicao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/103.jpg"
+  },
+  {
+    "numero": "103bis",
+    "nome": "Joaquin Pereira",
+    "tenho": true,
+    "especial": true,
+    "clube": "Famalicao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/103bis.jpg"
+  },
+  {
+    "numero": "104",
+    "nome": "Ruben Lameiras",
+    "tenho": true,
+    "especial": false,
+    "clube": "Famalicao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/104.jpg"
+  },
+  {
+    "numero": "105",
+    "nome": "Lukovic",
+    "tenho": true,
+    "especial": false,
+    "clube": "Famalicao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/105.jpg"
+  },
+  {
+    "numero": "106",
+    "nome": "Valenzuela",
+    "tenho": true,
+    "especial": false,
+    "clube": "Famalicao",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/106.jpg"
   },
   {
     "numero": "107",
-    "nome": "Mario González",
+    "nome": "Walterson",
     "tenho": true,
     "especial": false,
-    "clube": "Braga",
+    "clube": "Famalicao",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/107.jpg"
   },
   {
+    "numero": "107bis",
+    "nome": "Gil Dias",
+    "tenho": true,
+    "especial": true,
+    "clube": "Famalicao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/107bis.jpg"
+  },
+  {
     "numero": "108",
-    "nome": "Abel Ruiz",
+    "nome": "Anderson",
     "tenho": true,
     "especial": false,
-    "clube": "Braga",
+    "clube": "Famalicao",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/108.jpg"
   },
   {
+    "numero": "108bis",
+    "nome": "Campana",
+    "tenho": true,
+    "especial": true,
+    "clube": "Famalicao",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/108bis.jpg"
+  },
+  {
     "numero": "109",
-    "nome": "Dani Figueira",
+    "nome": "Rafael Defendi",
     "tenho": true,
     "especial": false,
-    "clube": "Estoril",
+    "clube": "Farense",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/109.jpg"
   },
   {
     "numero": "110",
-    "nome": "Thiago Rodrigues",
+    "nome": "Hugo Marques",
     "tenho": true,
     "especial": false,
-    "clube": "Estoril",
+    "clube": "Farense",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/110.jpg"
   },
   {
     "numero": "111",
-    "nome": "Carles Soria",
+    "nome": "Alex Pinto",
     "tenho": true,
     "especial": false,
-    "clube": "Estoril",
+    "clube": "Farense",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/111.jpg"
   },
   {
-    "numero": "111bis",
-    "nome": "Patrick Wiliam",
-    "tenho": true,
-    "especial": true,
-    "clube": "Estoril",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/111bis.jpg"
-  },
-  {
     "numero": "112",
-    "nome": "David Bruno",
+    "nome": "Bandarra",
     "tenho": true,
     "especial": false,
-    "clube": "Estoril",
+    "clube": "Farense",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/112.jpg"
   },
   {
     "numero": "113",
-    "nome": "Lucas Áfrico",
+    "nome": "Cesar",
     "tenho": true,
     "especial": false,
-    "clube": "Estoril",
+    "clube": "Farense",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/113.jpg"
   },
   {
     "numero": "114",
-    "nome": "Bernardo Vital",
+    "nome": "Falcao",
     "tenho": true,
     "especial": false,
-    "clube": "Estoril",
+    "clube": "Farense",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/114.jpg"
   },
   {
     "numero": "115",
-    "nome": "Ferraresi",
+    "nome": "Cassio Scheid",
     "tenho": true,
     "especial": false,
-    "clube": "Estoril",
+    "clube": "Farense",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/115.jpg"
   },
   {
     "numero": "116",
-    "nome": "Joãozinho",
+    "nome": "Filipe Melo",
     "tenho": true,
     "especial": false,
-    "clube": "Estoril",
+    "clube": "Farense",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/116.jpg"
   },
   {
     "numero": "117",
-    "nome": "Gamboa",
+    "nome": "Lucca",
     "tenho": true,
     "especial": false,
-    "clube": "Estoril",
+    "clube": "Farense",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/117.jpg"
   },
   {
     "numero": "118",
-    "nome": "Rosier",
+    "nome": "Ryan Gauld",
     "tenho": true,
     "especial": false,
-    "clube": "Estoril",
+    "clube": "Farense",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/118.jpg"
   },
   {
     "numero": "119",
-    "nome": "Crespo",
+    "nome": "Fabricio Isidoro",
     "tenho": true,
     "especial": false,
-    "clube": "Estoril",
+    "clube": "Farense",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/119.jpg"
   },
   {
-    "numero": "119bis",
-    "nome": "Romário Baró",
-    "tenho": true,
-    "especial": true,
-    "clube": "Estoril",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/119bis.jpg"
-  },
-  {
     "numero": "120",
-    "nome": "André Franco",
+    "nome": "Bura",
     "tenho": true,
     "especial": false,
-    "clube": "Estoril",
+    "clube": "Farense",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/120.jpg"
   },
   {
     "numero": "121",
-    "nome": "Meshino",
+    "nome": "Oudrhiri",
     "tenho": true,
     "especial": false,
-    "clube": "Estoril",
+    "clube": "Farense",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/121.jpg"
   },
   {
     "numero": "122",
-    "nome": "Chiquinho",
+    "nome": "Fabio Nunes",
     "tenho": true,
     "especial": false,
-    "clube": "Estoril",
+    "clube": "Farense",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/122.jpg"
   },
   {
     "numero": "123",
-    "nome": "Bruno Lourenço",
+    "nome": "Mansilla",
     "tenho": true,
     "especial": false,
-    "clube": "Estoril",
+    "clube": "Farense",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/123.jpg"
   },
   {
     "numero": "124",
-    "nome": "Francisco Geraldes",
+    "nome": "Patrick Fernandes",
     "tenho": true,
     "especial": false,
-    "clube": "Estoril",
+    "clube": "Farense",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/124.jpg"
   },
   {
     "numero": "125",
-    "nome": "Leonardo Ruiz",
+    "nome": "Stojiljkovic",
     "tenho": true,
     "especial": false,
-    "clube": "Estoril",
+    "clube": "Farense",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/125.jpg"
   },
   {
     "numero": "126",
-    "nome": "André Clóvis",
+    "nome": "Pedro Henrique",
     "tenho": true,
     "especial": false,
-    "clube": "Estoril",
+    "clube": "Farense",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/126.jpg"
   },
   {
     "numero": "127",
-    "nome": "Luiz Júnior",
+    "nome": "Denis",
     "tenho": true,
     "especial": false,
-    "clube": "Famalicão",
+    "clube": "Gil Vicente",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/127.jpg"
   },
   {
     "numero": "128",
-    "nome": "Zlobin",
+    "nome": "Daniel Fuzato",
     "tenho": true,
     "especial": false,
-    "clube": "Famalicão",
+    "clube": "Gil Vicente",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/128.jpg"
   },
   {
     "numero": "129",
-    "nome": "Diogo Figueiras",
+    "nome": "Joel Pereira",
     "tenho": true,
     "especial": false,
-    "clube": "Famalicão",
+    "clube": "Gil Vicente",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/129.jpg"
   },
   {
     "numero": "130",
-    "nome": "Alex Nascimento",
+    "nome": "Mantuan",
     "tenho": true,
     "especial": false,
-    "clube": "Famalicão",
+    "clube": "Gil Vicente",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/130.jpg"
   },
   {
     "numero": "131",
-    "nome": "Francisco Saldanha",
+    "nome": "Rodrigao",
     "tenho": true,
     "especial": false,
-    "clube": "Famalicão",
+    "clube": "Gil Vicente",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/131.jpg"
   },
   {
-    "numero": "131bis",
-    "nome": "Adrián Marín",
-    "tenho": true,
-    "especial": true,
-    "clube": "Famalicão",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/131bis.jpg"
-  },
-  {
     "numero": "132",
-    "nome": "Batubinsika",
+    "nome": "Ruben Fernandes",
     "tenho": true,
     "especial": false,
-    "clube": "Famalicão",
+    "clube": "Gil Vicente",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/132.jpg"
   },
   {
     "numero": "133",
-    "nome": "Riccieli",
-    "tenho": true,
-    "especial": false,
-    "clube": "Famalicão",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/133.jpg"
-  },
-  {
-    "numero": "134",
-    "nome": "Rúben Lima",
-    "tenho": true,
-    "especial": false,
-    "clube": "Famalicão",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/134.jpg"
-  },
-  {
-    "numero": "135",
-    "nome": "Penetra",
-    "tenho": true,
-    "especial": false,
-    "clube": "Famalicão",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/135.jpg"
-  },
-  {
-    "numero": "136",
-    "nome": "Gustavo Assunção",
-    "tenho": true,
-    "especial": false,
-    "clube": "Famalicão",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/136.jpg"
-  },
-  {
-    "numero": "136bis",
-    "nome": "Pickel",
-    "tenho": true,
-    "especial": true,
-    "clube": "Famalicão",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/136bis.jpg"
-  },
-  {
-    "numero": "137",
-    "nome": "David Tavares",
-    "tenho": true,
-    "especial": false,
-    "clube": "Famalicão",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/137.jpg"
-  },
-  {
-    "numero": "138",
-    "nome": "Ofori",
-    "tenho": true,
-    "especial": false,
-    "clube": "Famalicão",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/138.jpg"
-  },
-  {
-    "numero": "139",
-    "nome": "André Ricardo",
-    "tenho": true,
-    "especial": false,
-    "clube": "Famalicão",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/139.jpg"
-  },
-  {
-    "numero": "140",
-    "nome": "Iván Jaime",
-    "tenho": true,
-    "especial": false,
-    "clube": "Famalicão",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/140.jpg"
-  },
-  {
-    "numero": "141",
-    "nome": "Bruno Rodrigues",
-    "tenho": true,
-    "especial": false,
-    "clube": "Famalicão",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/141.jpg"
-  },
-  {
-    "numero": "142",
-    "nome": "Ivo Rodrigues",
-    "tenho": true,
-    "especial": false,
-    "clube": "Famalicão",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/142.jpg"
-  },
-  {
-    "numero": "143",
-    "nome": "Heri",
-    "tenho": true,
-    "especial": false,
-    "clube": "Famalicão",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/143.jpg"
-  },
-  {
-    "numero": "144",
-    "nome": "Pablo",
-    "tenho": true,
-    "especial": false,
-    "clube": "Famalicão",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/144.jpg"
-  },
-  {
-    "numero": "144bis",
-    "nome": "Simon Banza",
-    "tenho": true,
-    "especial": true,
-    "clube": "Famalicão",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/144bis.jpg"
-  },
-  {
-    "numero": "145",
-    "nome": "Brian Araújo",
-    "tenho": true,
-    "especial": false,
-    "clube": "Gil Vicente",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/145.jpg"
-  },
-  {
-    "numero": "146",
-    "nome": "Andrew Silva",
-    "tenho": true,
-    "especial": false,
-    "clube": "Gil Vicente",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/146.jpg"
-  },
-  {
-    "numero": "147",
-    "nome": "Zé Carlos",
-    "tenho": true,
-    "especial": false,
-    "clube": "Gil Vicente",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/147.jpg"
-  },
-  {
-    "numero": "148",
-    "nome": "Hackman",
-    "tenho": true,
-    "especial": false,
-    "clube": "Gil Vicente",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/148.jpg"
-  },
-  {
-    "numero": "149",
-    "nome": "Lucas Cunha",
-    "tenho": true,
-    "especial": false,
-    "clube": "Gil Vicente",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/149.jpg"
-  },
-  {
-    "numero": "150",
-    "nome": "Rúben Fernandes",
-    "tenho": true,
-    "especial": false,
-    "clube": "Gil Vicente",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/150.jpg"
-  },
-  {
-    "numero": "151",
-    "nome": "Diogo Silva",
-    "tenho": true,
-    "especial": false,
-    "clube": "Gil Vicente",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/151.jpg"
-  },
-  {
-    "numero": "152",
-    "nome": "Henrique Gomes",
-    "tenho": true,
-    "especial": false,
-    "clube": "Gil Vicente",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/152.jpg"
-  },
-  {
-    "numero": "153",
     "nome": "Talocha",
     "tenho": true,
     "especial": false,
     "clube": "Gil Vicente",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/153.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/133.jpg"
   },
   {
-    "numero": "154",
-    "nome": "Vítor Carvalho",
+    "numero": "134",
+    "nome": "Souleymane Aw",
     "tenho": true,
     "especial": false,
     "clube": "Gil Vicente",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/154.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/134.jpg"
   },
   {
-    "numero": "155",
-    "nome": "Pedrinho",
+    "numero": "135",
+    "nome": "Claude Goncalves",
     "tenho": true,
     "especial": false,
     "clube": "Gil Vicente",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/155.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/135.jpg"
   },
   {
-    "numero": "156",
-    "nome": "Matheus Bueno",
+    "numero": "136",
+    "nome": "Joao Afonso",
     "tenho": true,
     "especial": false,
     "clube": "Gil Vicente",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/156.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/136.jpg"
   },
   {
-    "numero": "157",
-    "nome": "Léautey",
+    "numero": "137",
+    "nome": "Leandrinho",
     "tenho": true,
     "especial": false,
     "clube": "Gil Vicente",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/157.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/137.jpg"
   },
   {
-    "numero": "158",
-    "nome": "Murilo",
-    "tenho": true,
-    "especial": false,
-    "clube": "Gil Vicente",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/158.jpg"
-  },
-  {
-    "numero": "159",
+    "numero": "138",
     "nome": "Fujimoto",
     "tenho": true,
     "especial": false,
     "clube": "Gil Vicente",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/159.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/138.jpg"
   },
   {
-    "numero": "160",
-    "nome": "Bilel Aouacheria",
+    "numero": "139",
+    "nome": "Leautey",
     "tenho": true,
     "especial": false,
     "clube": "Gil Vicente",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/160.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/139.jpg"
   },
   {
-    "numero": "161",
-    "nome": "Fran Navarro",
+    "numero": "140",
+    "nome": "Miullen",
     "tenho": true,
     "especial": false,
     "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/140.jpg"
+  },
+  {
+    "numero": "141",
+    "nome": "Hugo Vieira",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/141.jpg"
+  },
+  {
+    "numero": "141bis",
+    "nome": "Baraye",
+    "tenho": true,
+    "especial": true,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/141bis.jpg"
+  },
+  {
+    "numero": "142",
+    "nome": "Lourency",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/142.jpg"
+  },
+  {
+    "numero": "143",
+    "nome": "Lino",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/143.jpg"
+  },
+  {
+    "numero": "144",
+    "nome": "Boubacar Hanne",
+    "tenho": true,
+    "especial": false,
+    "clube": "Gil Vicente",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/144.jpg"
+  },
+  {
+    "numero": "145",
+    "nome": "Charles",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/145.jpg"
+  },
+  {
+    "numero": "146",
+    "nome": "Amir",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/146.jpg"
+  },
+  {
+    "numero": "147",
+    "nome": "Winck",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/147.jpg"
+  },
+  {
+    "numero": "148",
+    "nome": "Zainadine",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/148.jpg"
+  },
+  {
+    "numero": "149",
+    "nome": "Lucas Africo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/149.jpg"
+  },
+  {
+    "numero": "150",
+    "nome": "Kerkez",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/150.jpg"
+  },
+  {
+    "numero": "151",
+    "nome": "Hermes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/151.jpg"
+  },
+  {
+    "numero": "152",
+    "nome": "Fabio China",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/152.jpg"
+  },
+  {
+    "numero": "153",
+    "nome": "Guitane",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/153.jpg"
+  },
+  {
+    "numero": "154",
+    "nome": "Rene Santos",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/154.jpg"
+  },
+  {
+    "numero": "155",
+    "nome": "Diego Moreno",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/155.jpg"
+  },
+  {
+    "numero": "156",
+    "nome": "Jean Cleber",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/156.jpg"
+  },
+  {
+    "numero": "157",
+    "nome": "Pelagio",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/157.jpg"
+  },
+  {
+    "numero": "158",
+    "nome": "Corra",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/158.jpg"
+  },
+  {
+    "numero": "159",
+    "nome": "Ruben Macedo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/159.jpg"
+  },
+  {
+    "numero": "160",
+    "nome": "Edgar Costa",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/160.jpg"
+  },
+  {
+    "numero": "160bis",
+    "nome": "Milson",
+    "tenho": true,
+    "especial": true,
+    "clube": "Maritimo",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/160bis.jpg"
+  },
+  {
+    "numero": "161",
+    "nome": "Joel Tagueu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Maritimo",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/161.jpg"
   },
   {
     "numero": "162",
-    "nome": "Samuel Lino",
+    "nome": "Rodrigo Pinho",
     "tenho": true,
     "especial": false,
-    "clube": "Gil Vicente",
+    "clube": "Maritimo",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/162.jpg"
   },
   {
     "numero": "163",
-    "nome": "Miguel Silva",
+    "nome": "Matheus Pasinato",
     "tenho": true,
     "especial": false,
-    "clube": "Marítimo",
+    "clube": "Moreirense",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/163.jpg"
   },
   {
     "numero": "164",
-    "nome": "Paulo Victor",
-    "tenho": true,
-    "especial": false,
-    "clube": "Marítimo",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/164.jpg"
-  },
-  {
-    "numero": "165",
-    "nome": "Winck",
-    "tenho": true,
-    "especial": false,
-    "clube": "Marítimo",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/165.jpg"
-  },
-  {
-    "numero": "166",
-    "nome": "Zainadine",
-    "tenho": true,
-    "especial": false,
-    "clube": "Marítimo",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/166.jpg"
-  },
-  {
-    "numero": "167",
-    "nome": "Jorge Sáenz",
-    "tenho": true,
-    "especial": false,
-    "clube": "Marítimo",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/167.jpg"
-  },
-  {
-    "numero": "168",
-    "nome": "Léo Andrade",
-    "tenho": true,
-    "especial": false,
-    "clube": "Marítimo",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/168.jpg"
-  },
-  {
-    "numero": "169",
-    "nome": "Vítor Costa",
-    "tenho": true,
-    "especial": false,
-    "clube": "Marítimo",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/169.jpg"
-  },
-  {
-    "numero": "170",
-    "nome": "Fábio China",
-    "tenho": true,
-    "especial": false,
-    "clube": "Marítimo",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/170.jpg"
-  },
-  {
-    "numero": "171",
-    "nome": "Diogo Mendes",
-    "tenho": true,
-    "especial": false,
-    "clube": "Marítimo",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/171.jpg"
-  },
-  {
-    "numero": "172",
-    "nome": "Edgar Costa",
-    "tenho": true,
-    "especial": false,
-    "clube": "Marítimo",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/172.jpg"
-  },
-  {
-    "numero": "173",
-    "nome": "Xadas",
-    "tenho": true,
-    "especial": false,
-    "clube": "Marítimo",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/173.jpg"
-  },
-  {
-    "numero": "174",
-    "nome": "Pelágio",
-    "tenho": true,
-    "especial": false,
-    "clube": "Marítimo",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/174.jpg"
-  },
-  {
-    "numero": "175",
-    "nome": "Milson",
-    "tenho": true,
-    "especial": false,
-    "clube": "Marítimo",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/175.jpg"
-  },
-  {
-    "numero": "176",
-    "nome": "Rúben Macedo",
-    "tenho": true,
-    "especial": false,
-    "clube": "Marítimo",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/176.jpg"
-  },
-  {
-    "numero": "177",
-    "nome": "André Vidigal",
-    "tenho": true,
-    "especial": false,
-    "clube": "Marítimo",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/177.jpg"
-  },
-  {
-    "numero": "178",
-    "nome": "Joel Tagueu",
-    "tenho": true,
-    "especial": false,
-    "clube": "Marítimo",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/178.jpg"
-  },
-  {
-    "numero": "179",
-    "nome": "Alipour",
-    "tenho": true,
-    "especial": false,
-    "clube": "Marítimo",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/179.jpg"
-  },
-  {
-    "numero": "180",
-    "nome": "Henrique",
-    "tenho": true,
-    "especial": false,
-    "clube": "Marítimo",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/180.jpg"
-  },
-  {
-    "numero": "181",
-    "nome": "Mateus Pasinato",
-    "tenho": true,
-    "especial": false,
-    "clube": "Moreirense",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/181.jpg"
-  },
-  {
-    "numero": "182",
     "nome": "Kewin",
     "tenho": true,
     "especial": false,
     "clube": "Moreirense",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/182.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/164.jpg"
   },
   {
-    "numero": "183",
-    "nome": "Rodrigo Conceição",
+    "numero": "165",
+    "nome": "D'Alberto",
     "tenho": true,
     "especial": false,
     "clube": "Moreirense",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/183.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/165.jpg"
   },
   {
-    "numero": "184",
+    "numero": "166",
+    "nome": "Ferraresi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/166.jpg"
+  },
+  {
+    "numero": "167",
     "nome": "Rosic",
     "tenho": true,
     "especial": false,
     "clube": "Moreirense",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/184.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/167.jpg"
   },
   {
-    "numero": "185",
-    "nome": "Steven Vitória",
+    "numero": "168",
+    "nome": "Steven Vitoria",
     "tenho": true,
     "especial": false,
     "clube": "Moreirense",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/185.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/168.jpg"
   },
   {
-    "numero": "186",
-    "nome": "Artur Jorge",
+    "numero": "169",
+    "nome": "Abdu Conte",
     "tenho": true,
     "especial": false,
     "clube": "Moreirense",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/186.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/169.jpg"
   },
   {
-    "numero": "187",
-    "nome": "Frimpomg",
+    "numero": "170",
+    "nome": "Pedro Amador",
     "tenho": true,
     "especial": false,
     "clube": "Moreirense",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/187.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/170.jpg"
   },
   {
-    "numero": "188",
-    "nome": "Abdu Conté",
+    "numero": "171",
+    "nome": "Fabio Pacheco",
     "tenho": true,
     "especial": false,
     "clube": "Moreirense",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/188.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/171.jpg"
   },
   {
-    "numero": "189",
-    "nome": "Fábio Pacheco",
+    "numero": "172",
+    "nome": "Luiz Henrique",
     "tenho": true,
     "especial": false,
     "clube": "Moreirense",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/189.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/172.jpg"
   },
   {
-    "numero": "190",
-    "nome": "Ibrahima Camará",
+    "numero": "172bis",
+    "nome": "David Tavares",
+    "tenho": true,
+    "especial": true,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/172bis.jpg"
+  },
+  {
+    "numero": "173",
+    "nome": "Alex Soares",
     "tenho": true,
     "especial": false,
     "clube": "Moreirense",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/190.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/173.jpg"
   },
   {
-    "numero": "191",
+    "numero": "174",
+    "nome": "Pedro Nuno",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/174.jpg"
+  },
+  {
+    "numero": "175",
     "nome": "Filipe Soares",
     "tenho": true,
     "especial": false,
     "clube": "Moreirense",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/191.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/175.jpg"
   },
   {
-    "numero": "192",
-    "nome": "Gonçalo Franco",
-    "tenho": true,
-    "especial": false,
-    "clube": "Moreirense",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/192.jpg"
-  },
-  {
-    "numero": "193",
+    "numero": "176",
     "nome": "Felipe Pires",
     "tenho": true,
     "especial": false,
     "clube": "Moreirense",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/193.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/176.jpg"
   },
   {
-    "numero": "194",
-    "nome": "Walterson",
+    "numero": "177",
+    "nome": "Lucas Rodrigues",
     "tenho": true,
     "especial": false,
     "clube": "Moreirense",
     "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/194.jpg"
+    "imagem": "images/capas/Futebol 2020 2021/177.jpg"
   },
   {
-    "numero": "195",
-    "nome": "André Luís",
-    "tenho": true,
-    "especial": false,
-    "clube": "Moreirense",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/195.jpg"
-  },
-  {
-    "numero": "196",
+    "numero": "178",
     "nome": "Derik Lacerda",
     "tenho": true,
     "especial": false,
     "clube": "Moreirense",
     "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/178.jpg"
+  },
+  {
+    "numero": "179",
+    "nome": "Yan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/179.jpg"
+  },
+  {
+    "numero": "180",
+    "nome": "Fabio Abreu",
+    "tenho": true,
+    "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/180.jpg"
+  },
+  {
+    "numero": "180bis",
+    "nome": "Andre Luis",
+    "tenho": true,
+    "especial": true,
+    "clube": "Moreirense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/180bis.jpg"
+  },
+  {
+    "numero": "181",
+    "nome": "Piscutelli",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/181.jpg"
+  },
+  {
+    "numero": "182",
+    "nome": "Daniel Guimaraes",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/182.jpg"
+  },
+  {
+    "numero": "183",
+    "nome": "Ruben Freitas",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/183.jpg"
+  },
+  {
+    "numero": "184",
+    "nome": "Kalindi",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/184.jpg"
+  },
+  {
+    "numero": "185",
+    "nome": "Pedrao",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/185.jpg"
+  },
+  {
+    "numero": "186",
+    "nome": "Rui Correia",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/186.jpg"
+  },
+  {
+    "numero": "187",
+    "nome": "Lucas Kal",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/187.jpg"
+  },
+  {
+    "numero": "188",
+    "nome": "Joao Vigario",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/188.jpg"
+  },
+  {
+    "numero": "189",
+    "nome": "Witi Quembo",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/189.jpg"
+  },
+  {
+    "numero": "190",
+    "nome": "Alhassan",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/190.jpg"
+  },
+  {
+    "numero": "191",
+    "nome": "Azouni",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/191.jpg"
+  },
+  {
+    "numero": "192",
+    "nome": "Koziello",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/192.jpg"
+  },
+  {
+    "numero": "193",
+    "nome": "Ruben Micael",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/193.jpg"
+  },
+  {
+    "numero": "194",
+    "nome": "Joao Camacho",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/194.jpg"
+  },
+  {
+    "numero": "195",
+    "nome": "Nuno Borges",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/195.jpg"
+  },
+  {
+    "numero": "196",
+    "nome": "Bryan Rochez",
+    "tenho": true,
+    "especial": false,
+    "clube": "Nacional",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/196.jpg"
   },
   {
     "numero": "197",
-    "nome": "Yan Matheus",
+    "nome": "Brayan Riascos",
     "tenho": true,
     "especial": false,
-    "clube": "Moreirense",
+    "clube": "Nacional",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/197.jpg"
   },
   {
     "numero": "198",
-    "nome": "Rafael Martins",
+    "nome": "Joao Victor",
     "tenho": true,
     "especial": false,
-    "clube": "Moreirense",
+    "clube": "Nacional",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/198.jpg"
   },
   {
     "numero": "199",
-    "nome": "André Ferreira",
+    "nome": "Jordi",
     "tenho": true,
     "especial": false,
-    "clube": "Paços de Ferreira",
+    "clube": "Pacos de Ferreira",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/199.jpg"
   },
   {
     "numero": "200",
-    "nome": "Jordi",
+    "nome": "Fracaro",
     "tenho": true,
     "especial": false,
-    "clube": "Paços de Ferreira",
+    "clube": "Pacos de Ferreira",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/200.jpg"
   },
   {
     "numero": "201",
-    "nome": "Zé Uilton",
+    "nome": "Ze Uilton",
     "tenho": true,
     "especial": false,
-    "clube": "Paços de Ferreira",
+    "clube": "Pacos de Ferreira",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/201.jpg"
   },
   {
     "numero": "202",
-    "nome": "Fernando Fonseca",
+    "nome": "Jorge Silva",
     "tenho": true,
     "especial": false,
-    "clube": "Paços de Ferreira",
+    "clube": "Pacos de Ferreira",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/202.jpg"
   },
@@ -1921,106 +1948,115 @@
     "nome": "Marco Baixinho",
     "tenho": true,
     "especial": false,
-    "clube": "Paços de Ferreira",
+    "clube": "Pacos de Ferreira",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/203.jpg"
   },
   {
     "numero": "204",
-    "nome": "Flávio Ramos",
+    "nome": "Marcelo",
     "tenho": true,
     "especial": false,
-    "clube": "Paços de Ferreira",
+    "clube": "Pacos de Ferreira",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/204.jpg"
   },
   {
     "numero": "205",
-    "nome": "Maracás",
+    "nome": "Maracas",
     "tenho": true,
     "especial": false,
-    "clube": "Paços de Ferreira",
+    "clube": "Pacos de Ferreira",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/205.jpg"
   },
   {
     "numero": "206",
-    "nome": "João Vigário",
+    "nome": "Oleg Reabciuk",
     "tenho": true,
     "especial": false,
-    "clube": "Paços de Ferreira",
+    "clube": "Pacos de Ferreira",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/206.jpg"
   },
   {
     "numero": "207",
-    "nome": "Luiz Carlos",
+    "nome": "Diaby",
     "tenho": true,
     "especial": false,
-    "clube": "Paços de Ferreira",
+    "clube": "Pacos de Ferreira",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/207.jpg"
   },
   {
     "numero": "208",
-    "nome": "Stephen Eustáquio",
+    "nome": "Luiz Carlos",
     "tenho": true,
     "especial": false,
-    "clube": "Paços de Ferreira",
+    "clube": "Pacos de Ferreira",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/208.jpg"
   },
   {
     "numero": "209",
-    "nome": "Nuno Santos",
+    "nome": "Bruno Costa",
     "tenho": true,
     "especial": false,
-    "clube": "Paços de Ferreira",
+    "clube": "Pacos de Ferreira",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/209.jpg"
   },
   {
     "numero": "210",
-    "nome": "Juan Delgado",
+    "nome": "Stephen Eustaquio",
     "tenho": true,
     "especial": false,
-    "clube": "Paços de Ferreira",
+    "clube": "Pacos de Ferreira",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/210.jpg"
   },
   {
     "numero": "211",
-    "nome": "Rui Pires",
+    "nome": "Castanheira",
     "tenho": true,
     "especial": false,
-    "clube": "Paços de Ferreira",
+    "clube": "Pacos de Ferreira",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/211.jpg"
   },
   {
+    "numero": "211bis",
+    "nome": "Calderon",
+    "tenho": true,
+    "especial": true,
+    "clube": "Pacos de Ferreira",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/211bis.jpg"
+  },
+  {
     "numero": "212",
-    "nome": "Hélder Ferreira",
+    "nome": "Helder Ferreira",
     "tenho": true,
     "especial": false,
-    "clube": "Paços de Ferreira",
+    "clube": "Pacos de Ferreira",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/212.jpg"
   },
   {
     "numero": "213",
-    "nome": "Matchoi",
+    "nome": "Joao Amaral",
     "tenho": true,
     "especial": false,
-    "clube": "Paços de Ferreira",
+    "clube": "Pacos de Ferreira",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/213.jpg"
   },
   {
     "numero": "214",
-    "nome": "Lucas Silva",
+    "nome": "Matchoi",
     "tenho": true,
     "especial": false,
-    "clube": "Paços de Ferreira",
+    "clube": "Pacos de Ferreira",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/214.jpg"
   },
@@ -2029,25 +2065,16 @@
     "nome": "Douglas Tanque",
     "tenho": true,
     "especial": false,
-    "clube": "Paços de Ferreira",
+    "clube": "Pacos de Ferreira",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/215.jpg"
   },
   {
-    "numero": "215bis",
-    "nome": "Denilson Júnior",
-    "tenho": true,
-    "especial": true,
-    "clube": "Paços de Ferreira",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/215bis.jpg"
-  },
-  {
     "numero": "216",
-    "nome": "João Pedro",
+    "nome": "Joao Pedro",
     "tenho": true,
     "especial": false,
-    "clube": "Paços de Ferreira",
+    "clube": "Pacos de Ferreira",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/216.jpg"
   },
@@ -2062,7 +2089,7 @@
   },
   {
     "numero": "218",
-    "nome": "Ricardo Ferreira",
+    "nome": "Aflalo",
     "tenho": true,
     "especial": false,
     "clube": "Portimonense",
@@ -2071,7 +2098,7 @@
   },
   {
     "numero": "219",
-    "nome": "Moufi",
+    "nome": "Anzai",
     "tenho": true,
     "especial": false,
     "clube": "Portimonense",
@@ -2080,7 +2107,7 @@
   },
   {
     "numero": "220",
-    "nome": "Pedrão",
+    "nome": "Hackman",
     "tenho": true,
     "especial": false,
     "clube": "Portimonense",
@@ -2106,8 +2133,17 @@
     "imagem": "images/capas/Futebol 2020 2021/222.jpg"
   },
   {
+    "numero": "222bis",
+    "nome": "Lucas Tagliapietra",
+    "tenho": true,
+    "especial": true,
+    "clube": "Portimonense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/222bis.jpg"
+  },
+  {
     "numero": "223",
-    "nome": "Filipe Relvas",
+    "nome": "Henrique",
     "tenho": true,
     "especial": false,
     "clube": "Portimonense",
@@ -2116,7 +2152,7 @@
   },
   {
     "numero": "224",
-    "nome": "Fali Candé",
+    "nome": "Jadson",
     "tenho": true,
     "especial": false,
     "clube": "Portimonense",
@@ -2124,8 +2160,17 @@
     "imagem": "images/capas/Futebol 2020 2021/224.jpg"
   },
   {
+    "numero": "224bis",
+    "nome": "Fali Cande",
+    "tenho": true,
+    "especial": true,
+    "clube": "Portimonense",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/224bis.jpg"
+  },
+  {
     "numero": "225",
-    "nome": "Pedro Sá",
+    "nome": "Pedro Sa",
     "tenho": true,
     "especial": false,
     "clube": "Portimonense",
@@ -2134,7 +2179,7 @@
   },
   {
     "numero": "226",
-    "nome": "Carlinhos",
+    "nome": "Dener",
     "tenho": true,
     "especial": false,
     "clube": "Portimonense",
@@ -2143,7 +2188,7 @@
   },
   {
     "numero": "227",
-    "nome": "Imbula",
+    "nome": "Romulo",
     "tenho": true,
     "especial": false,
     "clube": "Portimonense",
@@ -2152,7 +2197,7 @@
   },
   {
     "numero": "228",
-    "nome": "Lucas Fernandes",
+    "nome": "Aylton Boa Morte",
     "tenho": true,
     "especial": false,
     "clube": "Portimonense",
@@ -2161,7 +2206,7 @@
   },
   {
     "numero": "229",
-    "nome": "Luquinha",
+    "nome": "Lucas Fernandes",
     "tenho": true,
     "especial": false,
     "clube": "Portimonense",
@@ -2170,7 +2215,7 @@
   },
   {
     "numero": "230",
-    "nome": "Fabrício",
+    "nome": "Anderson",
     "tenho": true,
     "especial": false,
     "clube": "Portimonense",
@@ -2179,7 +2224,7 @@
   },
   {
     "numero": "231",
-    "nome": "Aylton",
+    "nome": "Fabricio",
     "tenho": true,
     "especial": false,
     "clube": "Portimonense",
@@ -2188,7 +2233,7 @@
   },
   {
     "numero": "232",
-    "nome": "Anderson",
+    "nome": "Julio Cesar",
     "tenho": true,
     "especial": false,
     "clube": "Portimonense",
@@ -2197,7 +2242,7 @@
   },
   {
     "numero": "233",
-    "nome": "Iván Angulo",
+    "nome": "Welinton",
     "tenho": true,
     "especial": false,
     "clube": "Portimonense",
@@ -2206,7 +2251,7 @@
   },
   {
     "numero": "234",
-    "nome": "Aponza",
+    "nome": "Vaz Te",
     "tenho": true,
     "especial": false,
     "clube": "Portimonense",
@@ -2215,7 +2260,7 @@
   },
   {
     "numero": "235",
-    "nome": "Marchesín",
+    "nome": "Marchesin",
     "tenho": true,
     "especial": false,
     "clube": "Porto",
@@ -2233,7 +2278,7 @@
   },
   {
     "numero": "237",
-    "nome": "Manafá",
+    "nome": "Carraca",
     "tenho": true,
     "especial": false,
     "clube": "Porto",
@@ -2241,8 +2286,17 @@
     "imagem": "images/capas/Futebol 2020 2021/237.jpg"
   },
   {
+    "numero": "237bis",
+    "nome": "Diogo Leite",
+    "tenho": true,
+    "especial": true,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/237bis.jpg"
+  },
+  {
     "numero": "238",
-    "nome": "João Mário",
+    "nome": "Manafa",
     "tenho": true,
     "especial": false,
     "clube": "Porto",
@@ -2269,7 +2323,7 @@
   },
   {
     "numero": "241",
-    "nome": "Fábio Cardoso",
+    "nome": "Zaidu",
     "tenho": true,
     "especial": false,
     "clube": "Porto",
@@ -2278,7 +2332,7 @@
   },
   {
     "numero": "242",
-    "nome": "Zaidu",
+    "nome": "Alex Telles",
     "tenho": true,
     "especial": false,
     "clube": "Porto",
@@ -2286,8 +2340,17 @@
     "imagem": "images/capas/Futebol 2020 2021/242.jpg"
   },
   {
+    "numero": "242bis",
+    "nome": "Marcano",
+    "tenho": true,
+    "especial": true,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/242bis.jpg"
+  },
+  {
     "numero": "243",
-    "nome": "Sérgio Oliveira",
+    "nome": "Danilo",
     "tenho": true,
     "especial": false,
     "clube": "Porto",
@@ -2295,22 +2358,22 @@
     "imagem": "images/capas/Futebol 2020 2021/243.jpg"
   },
   {
+    "numero": "243bis",
+    "nome": "Romario Baro",
+    "tenho": true,
+    "especial": true,
+    "clube": "Porto",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/243bis.jpg"
+  },
+  {
     "numero": "244",
-    "nome": "Bruno Costa",
+    "nome": "Sergio Oliveira",
     "tenho": true,
     "especial": false,
     "clube": "Porto",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/244.jpg"
-  },
-  {
-    "numero": "244bis",
-    "nome": "Marko Grujic",
-    "tenho": true,
-    "especial": true,
-    "clube": "Porto",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/244bis.jpg"
   },
   {
     "numero": "245",
@@ -2323,7 +2386,7 @@
   },
   {
     "numero": "246",
-    "nome": "Vitinha",
+    "nome": "Loum",
     "tenho": true,
     "especial": false,
     "clube": "Porto",
@@ -2331,17 +2394,8 @@
     "imagem": "images/capas/Futebol 2020 2021/246.jpg"
   },
   {
-    "numero": "246bis",
-    "nome": "Fábio Vieira",
-    "tenho": true,
-    "especial": true,
-    "clube": "Porto",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/246bis.jpg"
-  },
-  {
     "numero": "247",
-    "nome": "Otávio",
+    "nome": "Otavio",
     "tenho": true,
     "especial": false,
     "clube": "Porto",
@@ -2350,7 +2404,7 @@
   },
   {
     "numero": "248",
-    "nome": "Pepê",
+    "nome": "Luis Diaz",
     "tenho": true,
     "especial": false,
     "clube": "Porto",
@@ -2359,7 +2413,7 @@
   },
   {
     "numero": "248bis",
-    "nome": "Francisco Conceição",
+    "nome": "Joao Mario",
     "tenho": true,
     "especial": true,
     "clube": "Porto",
@@ -2368,7 +2422,7 @@
   },
   {
     "numero": "249",
-    "nome": "Luis Díaz",
+    "nome": "Corona",
     "tenho": true,
     "especial": false,
     "clube": "Porto",
@@ -2377,7 +2431,7 @@
   },
   {
     "numero": "250",
-    "nome": "Corona",
+    "nome": "Fabio Vieira",
     "tenho": true,
     "especial": false,
     "clube": "Porto",
@@ -2395,7 +2449,7 @@
   },
   {
     "numero": "252",
-    "nome": "Toni Martínez",
+    "nome": "Marega",
     "tenho": true,
     "especial": false,
     "clube": "Porto",
@@ -2404,370 +2458,379 @@
   },
   {
     "numero": "253",
-    "nome": "Marco",
+    "nome": "Kieszek",
     "tenho": true,
     "especial": false,
-    "clube": "Santa Clara",
+    "clube": "Rio Ave",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/253.jpg"
   },
   {
     "numero": "254",
-    "nome": "Ricardo Fernandes",
+    "nome": "Leo Vieira",
     "tenho": true,
     "especial": false,
-    "clube": "Santa Clara",
+    "clube": "Rio Ave",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/254.jpg"
   },
   {
     "numero": "255",
-    "nome": "Rafael Ramos",
+    "nome": "Ivo Pinto",
     "tenho": true,
     "especial": false,
-    "clube": "Santa Clara",
+    "clube": "Rio Ave",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/255.jpg"
   },
   {
     "numero": "256",
-    "nome": "Sagna",
+    "nome": "Borevkovic",
     "tenho": true,
     "especial": false,
-    "clube": "Santa Clara",
+    "clube": "Rio Ave",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/256.jpg"
   },
   {
     "numero": "257",
-    "nome": "João Afonso",
+    "nome": "Aderllan Santos",
     "tenho": true,
     "especial": false,
-    "clube": "Santa Clara",
+    "clube": "Rio Ave",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/257.jpg"
   },
   {
     "numero": "258",
-    "nome": "Villanueva",
+    "nome": "Nelson Monte",
     "tenho": true,
     "especial": false,
-    "clube": "Santa Clara",
+    "clube": "Rio Ave",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/258.jpg"
   },
   {
     "numero": "259",
-    "nome": "Paulo Henrique",
+    "nome": "Matheus Reis",
     "tenho": true,
     "especial": false,
-    "clube": "Santa Clara",
+    "clube": "Rio Ave",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/259.jpg"
   },
   {
+    "numero": "259bis",
+    "nome": "Fabio Coentrao",
+    "tenho": true,
+    "especial": true,
+    "clube": "Rio Ave",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/259bis.jpg"
+  },
+  {
     "numero": "260",
-    "nome": "Mansur",
+    "nome": "Pedro Amaral",
     "tenho": true,
     "especial": false,
-    "clube": "Santa Clara",
+    "clube": "Rio Ave",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/260.jpg"
   },
   {
     "numero": "261",
-    "nome": "Anderson Carvalho",
+    "nome": "Tarantini",
     "tenho": true,
     "especial": false,
-    "clube": "Santa Clara",
+    "clube": "Rio Ave",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/261.jpg"
   },
   {
     "numero": "262",
-    "nome": "Costinha",
+    "nome": "Meshino",
     "tenho": true,
     "especial": false,
-    "clube": "Santa Clara",
+    "clube": "Rio Ave",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/262.jpg"
   },
   {
     "numero": "263",
-    "nome": "Néné",
+    "nome": "Francisco Geraldes",
     "tenho": true,
     "especial": false,
-    "clube": "Santa Clara",
+    "clube": "Rio Ave",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/263.jpg"
   },
   {
     "numero": "264",
-    "nome": "Morita",
+    "nome": "Filipe Augusto",
     "tenho": true,
     "especial": false,
-    "clube": "Santa Clara",
+    "clube": "Rio Ave",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/264.jpg"
   },
   {
     "numero": "265",
-    "nome": "Lincoln",
+    "nome": "Lucas Piazon",
     "tenho": true,
     "especial": false,
-    "clube": "Santa Clara",
+    "clube": "Rio Ave",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/265.jpg"
   },
   {
     "numero": "266",
-    "nome": "Allano",
+    "nome": "Diego Lopes",
     "tenho": true,
     "especial": false,
-    "clube": "Santa Clara",
+    "clube": "Rio Ave",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/266.jpg"
   },
   {
     "numero": "267",
-    "nome": "Júlio Romão",
+    "nome": "Jambor",
     "tenho": true,
     "especial": false,
-    "clube": "Santa Clara",
+    "clube": "Rio Ave",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/267.jpg"
   },
   {
     "numero": "268",
-    "nome": "Rui Costa",
+    "nome": "Mane",
     "tenho": true,
     "especial": false,
-    "clube": "Santa Clara",
+    "clube": "Rio Ave",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/268.jpg"
   },
   {
     "numero": "269",
-    "nome": "Cryzan",
+    "nome": "Gelson Dala",
     "tenho": true,
     "especial": false,
-    "clube": "Santa Clara",
+    "clube": "Rio Ave",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/269.jpg"
   },
   {
     "numero": "270",
-    "nome": "Jean Patric",
+    "nome": "Bruno Moreira",
     "tenho": true,
     "especial": false,
-    "clube": "Santa Clara",
+    "clube": "Rio Ave",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/270.jpg"
   },
   {
     "numero": "271",
-    "nome": "Adán",
+    "nome": "Marco",
     "tenho": true,
     "especial": false,
-    "clube": "Sporting",
+    "clube": "Santa Clara",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/271.jpg"
   },
   {
     "numero": "272",
-    "nome": "João Virgínia",
+    "nome": "Andre Ferreira",
     "tenho": true,
     "especial": false,
-    "clube": "Sporting",
+    "clube": "Santa Clara",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/272.jpg"
   },
   {
     "numero": "273",
-    "nome": "Porro",
+    "nome": "Rafael Ramos",
     "tenho": true,
     "especial": false,
-    "clube": "Sporting",
+    "clube": "Santa Clara",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/273.jpg"
   },
   {
     "numero": "274",
-    "nome": "Ricardo Esgaio",
+    "nome": "Fabio Cardoso",
     "tenho": true,
     "especial": false,
-    "clube": "Sporting",
+    "clube": "Santa Clara",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/274.jpg"
   },
   {
     "numero": "275",
-    "nome": "Gonçalo Inácio",
+    "nome": "Villanueva",
     "tenho": true,
     "especial": false,
-    "clube": "Sporting",
+    "clube": "Santa Clara",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/275.jpg"
   },
   {
     "numero": "276",
-    "nome": "Coates",
+    "nome": "Joao Afonso",
     "tenho": true,
     "especial": false,
-    "clube": "Sporting",
+    "clube": "Santa Clara",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/276.jpg"
   },
   {
     "numero": "277",
-    "nome": "Feddal",
+    "nome": "Mansur",
     "tenho": true,
     "especial": false,
-    "clube": "Sporting",
+    "clube": "Santa Clara",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/277.jpg"
   },
   {
     "numero": "278",
-    "nome": "Matheus Reis",
+    "nome": "Joao Lucas",
     "tenho": true,
     "especial": false,
-    "clube": "Sporting",
+    "clube": "Santa Clara",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/278.jpg"
   },
   {
     "numero": "279",
-    "nome": "Rúben Vinagre",
+    "nome": "Julio Romao",
     "tenho": true,
     "especial": false,
-    "clube": "Sporting",
+    "clube": "Santa Clara",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/279.jpg"
   },
   {
     "numero": "280",
-    "nome": "João Palhinha",
+    "nome": "Rashid",
     "tenho": true,
     "especial": false,
-    "clube": "Sporting",
+    "clube": "Santa Clara",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/280.jpg"
   },
   {
     "numero": "281",
-    "nome": "Ugarte",
+    "nome": "Costinha",
     "tenho": true,
     "especial": false,
-    "clube": "Sporting",
+    "clube": "Santa Clara",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/281.jpg"
   },
   {
     "numero": "282",
-    "nome": "Matheus Nunes",
+    "nome": "Nene",
     "tenho": true,
     "especial": false,
-    "clube": "Sporting",
+    "clube": "Santa Clara",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/282.jpg"
   },
   {
     "numero": "283",
-    "nome": "Daniel Bragança",
+    "nome": "Anderson Carvalho",
     "tenho": true,
     "especial": false,
-    "clube": "Sporting",
+    "clube": "Santa Clara",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/283.jpg"
   },
   {
     "numero": "284",
-    "nome": "Pedro Gonçalves",
+    "nome": "Lincoln",
     "tenho": true,
     "especial": false,
-    "clube": "Sporting",
+    "clube": "Santa Clara",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/284.jpg"
   },
   {
     "numero": "285",
-    "nome": "Nuno Santos",
+    "nome": "Andre Mesquita",
     "tenho": true,
     "especial": false,
-    "clube": "Sporting",
+    "clube": "Santa Clara",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/285.jpg"
   },
   {
     "numero": "285bis",
-    "nome": "Tabata",
+    "nome": "Diogo Salomao",
     "tenho": true,
     "especial": true,
-    "clube": "Sporting",
+    "clube": "Santa Clara",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/285bis.jpg"
   },
   {
     "numero": "286",
-    "nome": "Jovane",
+    "nome": "Carlos Junior",
     "tenho": true,
     "especial": false,
-    "clube": "Sporting",
+    "clube": "Santa Clara",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/286.jpg"
   },
   {
     "numero": "287",
-    "nome": "Paulinho",
+    "nome": "Thiago Santana",
     "tenho": true,
     "especial": false,
-    "clube": "Sporting",
+    "clube": "Santa Clara",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/287.jpg"
   },
   {
     "numero": "288",
-    "nome": "Tiago Tomás",
+    "nome": "Jean Patrick",
     "tenho": true,
     "especial": false,
-    "clube": "Sporting",
+    "clube": "Santa Clara",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/288.jpg"
   },
   {
     "numero": "289",
-    "nome": "Niasse",
+    "nome": "Luis Maximiano",
     "tenho": true,
     "especial": false,
-    "clube": "Tondela",
+    "clube": "Sporting",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/289.jpg"
   },
   {
     "numero": "290",
-    "nome": "Pedro Trigueira",
+    "nome": "Adan",
     "tenho": true,
     "especial": false,
-    "clube": "Tondela",
+    "clube": "Sporting",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/290.jpg"
   },
   {
     "numero": "291",
-    "nome": "Tiago Almeida",
+    "nome": "Porro",
     "tenho": true,
     "especial": false,
-    "clube": "Tondela",
+    "clube": "Sporting",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/291.jpg"
   },
   {
     "numero": "292",
-    "nome": "Bebeto",
+    "nome": "Concalo Inacio",
     "tenho": true,
     "especial": false,
-    "clube": "Tondela",
+    "clube": "Sporting",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/292.jpg"
   },
@@ -2776,850 +2839,877 @@
     "nome": "Quaresma",
     "tenho": true,
     "especial": false,
-    "clube": "Tondela",
+    "clube": "Sporting",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/293.jpg"
   },
   {
     "numero": "294",
-    "nome": "Jota Gonçalves",
+    "nome": "Coates",
     "tenho": true,
     "especial": false,
-    "clube": "Tondela",
+    "clube": "Sporting",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/294.jpg"
   },
   {
     "numero": "295",
-    "nome": "Manu Hernando",
+    "nome": "Feddal",
     "tenho": true,
     "especial": false,
-    "clube": "Tondela",
+    "clube": "Sporting",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/295.jpg"
   },
   {
+    "numero": "295bis",
+    "nome": "Neto",
+    "tenho": true,
+    "especial": true,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/295bis.jpg"
+  },
+  {
     "numero": "296",
-    "nome": "Khacef",
+    "nome": "Nuno Mendes",
     "tenho": true,
     "especial": false,
-    "clube": "Tondela",
+    "clube": "Sporting",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/296.jpg"
   },
   {
     "numero": "297",
-    "nome": "Pedro Augusto",
+    "nome": "Antunes",
     "tenho": true,
     "especial": false,
-    "clube": "Tondela",
+    "clube": "Sporting",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/297.jpg"
   },
   {
     "numero": "298",
-    "nome": "Undabarrena",
+    "nome": "Daniel Braganca",
     "tenho": true,
     "especial": false,
-    "clube": "Tondela",
+    "clube": "Sporting",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/298.jpg"
   },
   {
     "numero": "299",
-    "nome": "João Pedro",
+    "nome": "Wendel",
     "tenho": true,
     "especial": false,
-    "clube": "Tondela",
+    "clube": "Sporting",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/299.jpg"
   },
   {
+    "numero": "299bis",
+    "nome": "Matheus Nunes",
+    "tenho": true,
+    "especial": true,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/299bis.jpg"
+  },
+  {
     "numero": "300",
-    "nome": "Tiago Dantas",
+    "nome": "Pedro Goncalves",
     "tenho": true,
     "especial": false,
-    "clube": "Tondela",
+    "clube": "Sporting",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/300.jpg"
   },
   {
     "numero": "301",
-    "nome": "Telmo Arcanjo",
+    "nome": "Jovane",
     "tenho": true,
     "especial": false,
-    "clube": "Tondela",
+    "clube": "Sporting",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/301.jpg"
   },
   {
     "numero": "302",
-    "nome": "Rafael Barbosa",
+    "nome": "Gonzalo Plata",
     "tenho": true,
     "especial": false,
-    "clube": "Tondela",
+    "clube": "Sporting",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/302.jpg"
   },
   {
     "numero": "303",
-    "nome": "Salvador Agra",
+    "nome": "Nuno Santos",
     "tenho": true,
     "especial": false,
-    "clube": "Tondela",
+    "clube": "Sporting",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/303.jpg"
   },
   {
     "numero": "304",
-    "nome": "Murillo",
+    "nome": "Vietto",
     "tenho": true,
     "especial": false,
-    "clube": "Tondela",
+    "clube": "Sporting",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/304.jpg"
   },
   {
+    "numero": "304bis",
+    "nome": "Joelson",
+    "tenho": true,
+    "especial": true,
+    "clube": "Sporting",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/304bis.jpg"
+  },
+  {
     "numero": "305",
-    "nome": "Dadashov",
+    "nome": "Sporar",
     "tenho": true,
     "especial": false,
-    "clube": "Tondela",
+    "clube": "Sporting",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/305.jpg"
   },
   {
     "numero": "306",
-    "nome": "Daniel dos Anjos",
+    "nome": "Tiago Tomas",
     "tenho": true,
     "especial": false,
-    "clube": "Tondela",
+    "clube": "Sporting",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/306.jpg"
   },
   {
     "numero": "307",
-    "nome": "Bruno Varela",
+    "nome": "Niasse",
     "tenho": true,
     "especial": false,
-    "clube": "V. Guimarães",
+    "clube": "Tondela",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/307.jpg"
   },
   {
     "numero": "308",
-    "nome": "Trmal",
+    "nome": "Pedro Trigueira",
     "tenho": true,
     "especial": false,
-    "clube": "V. Guimarães",
+    "clube": "Tondela",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/308.jpg"
   },
   {
     "numero": "309",
-    "nome": "Sacko",
+    "nome": "Tiago Almeida",
     "tenho": true,
     "especial": false,
-    "clube": "V. Guimarães",
+    "clube": "Tondela",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/309.jpg"
   },
   {
     "numero": "310",
-    "nome": "Sílvio",
+    "nome": "Ricardo Alves",
     "tenho": true,
     "especial": false,
-    "clube": "V. Guimarães",
+    "clube": "Tondela",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/310.jpg"
   },
   {
     "numero": "311",
-    "nome": "Alfa Semedo",
+    "nome": "Jota Goncalves",
     "tenho": true,
     "especial": false,
-    "clube": "V. Guimarães",
+    "clube": "Tondela",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/311.jpg"
   },
   {
     "numero": "312",
-    "nome": "Mumin",
+    "nome": "Yohan Tavares",
     "tenho": true,
     "especial": false,
-    "clube": "V. Guimarães",
+    "clube": "Tondela",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/312.jpg"
   },
   {
     "numero": "313",
-    "nome": "Borevkovic",
+    "nome": "Filipe Ferreira",
     "tenho": true,
     "especial": false,
-    "clube": "V. Guimarães",
+    "clube": "Tondela",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/313.jpg"
   },
   {
     "numero": "314",
-    "nome": "André Amaro",
+    "nome": "Jaquite",
     "tenho": true,
     "especial": false,
-    "clube": "V. Guimarães",
+    "clube": "Tondela",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/314.jpg"
   },
   {
     "numero": "315",
-    "nome": "Rafa Soares",
+    "nome": "Joao Pedro",
     "tenho": true,
     "especial": false,
-    "clube": "V. Guimarães",
+    "clube": "Tondela",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/315.jpg"
   },
   {
     "numero": "316",
-    "nome": "Tomás Händel",
+    "nome": "Grau",
     "tenho": true,
     "especial": false,
-    "clube": "V. Guimarães",
+    "clube": "Tondela",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/316.jpg"
   },
   {
     "numero": "317",
-    "nome": "André André",
+    "nome": "Telmo Arcanjo",
     "tenho": true,
     "especial": false,
-    "clube": "V. Guimarães",
+    "clube": "Tondela",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/317.jpg"
   },
   {
     "numero": "318",
-    "nome": "Rochinha",
+    "nome": "Pedro Augusto",
     "tenho": true,
     "especial": false,
-    "clube": "V. Guimarães",
+    "clube": "Tondela",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/318.jpg"
   },
   {
     "numero": "319",
-    "nome": "André Almeida",
+    "nome": "Joao Mendes",
     "tenho": true,
     "especial": false,
-    "clube": "V. Guimarães",
+    "clube": "Tondela",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/319.jpg"
   },
   {
     "numero": "320",
-    "nome": "Marcus Edwards",
+    "nome": "Rafael Barbosa",
     "tenho": true,
     "especial": false,
-    "clube": "V. Guimarães",
+    "clube": "Tondela",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/320.jpg"
   },
   {
     "numero": "321",
-    "nome": "Quaresma",
+    "nome": "Salvadoe Agra",
     "tenho": true,
     "especial": false,
-    "clube": "V. Guimarães",
+    "clube": "Tondela",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/321.jpg"
   },
   {
     "numero": "322",
-    "nome": "Rúben Lameiras",
+    "nome": "Murillo",
     "tenho": true,
     "especial": false,
-    "clube": "V. Guimarães",
+    "clube": "Tondela",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/322.jpg"
   },
   {
     "numero": "323",
-    "nome": "Bruno Duarte",
+    "nome": "Strakalj",
     "tenho": true,
     "especial": false,
-    "clube": "V. Guimarães",
+    "clube": "Tondela",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/323.jpg"
   },
   {
     "numero": "324",
-    "nome": "Óscar Estupiñán",
+    "nome": "Ruben Fonseca",
     "tenho": true,
     "especial": false,
-    "clube": "V. Guimarães",
+    "clube": "Tondela",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/324.jpg"
   },
   {
     "numero": "325",
-    "nome": "Charles",
+    "nome": "Bruno Varela",
     "tenho": true,
     "especial": false,
-    "clube": "Vizela",
+    "clube": "V. Guimaraes",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/325.jpg"
   },
   {
     "numero": "326",
-    "nome": "Ivo Gonçalves",
+    "nome": "Celton Biai",
     "tenho": true,
     "especial": false,
-    "clube": "Vizela",
+    "clube": "V. Guimaraes",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/326.jpg"
   },
   {
     "numero": "327",
-    "nome": "Koffi Kouao",
+    "nome": "Sacko",
     "tenho": true,
     "especial": false,
-    "clube": "Vizela",
+    "clube": "V. Guimaraes",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/327.jpg"
   },
   {
     "numero": "328",
-    "nome": "Julião",
+    "nome": "Yann Bisseck",
     "tenho": true,
     "especial": false,
-    "clube": "Vizela",
+    "clube": "V. Guimaraes",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/328.jpg"
   },
   {
     "numero": "329",
-    "nome": "Aidara",
+    "nome": "Jorge Fernandes",
     "tenho": true,
     "especial": false,
-    "clube": "Vizela",
+    "clube": "V. Guimaraes",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/329.jpg"
   },
   {
     "numero": "330",
-    "nome": "Bruno Wilson",
+    "nome": "Abdul Munin",
     "tenho": true,
     "especial": false,
-    "clube": "Vizela",
+    "clube": "V. Guimaraes",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/330.jpg"
   },
   {
     "numero": "331",
-    "nome": "Marcelo Machado",
+    "nome": "Silvio",
     "tenho": true,
     "especial": false,
-    "clube": "Vizela",
+    "clube": "V. Guimaraes",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/331.jpg"
   },
   {
     "numero": "332",
-    "nome": "Ofori",
+    "nome": "Mensah",
     "tenho": true,
     "especial": false,
-    "clube": "Vizela",
+    "clube": "V. Guimaraes",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/332.jpg"
   },
   {
     "numero": "333",
-    "nome": "Kiki Afonso",
+    "nome": "Wakaso",
     "tenho": true,
     "especial": false,
-    "clube": "Vizela",
+    "clube": "V. Guimaraes",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/333.jpg"
   },
   {
     "numero": "334",
-    "nome": "Claudemir",
+    "nome": "Pepelu",
     "tenho": true,
     "especial": false,
-    "clube": "Vizela",
+    "clube": "V. Guimaraes",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/334.jpg"
   },
   {
     "numero": "335",
-    "nome": "Marcos Paulo",
+    "nome": "Andre Andre",
     "tenho": true,
     "especial": false,
-    "clube": "Vizela",
+    "clube": "V. Guimaraes",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/335.jpg"
   },
   {
     "numero": "336",
-    "nome": "Raphael Guzzo",
+    "nome": "Abouchabaka",
     "tenho": true,
     "especial": false,
-    "clube": "Vizela",
+    "clube": "V. Guimaraes",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/336.jpg"
   },
   {
     "numero": "337",
-    "nome": "Samu",
+    "nome": "Rochinha",
     "tenho": true,
     "especial": false,
-    "clube": "Vizela",
+    "clube": "V. Guimaraes",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/337.jpg"
   },
   {
     "numero": "338",
-    "nome": "Alex Méndez",
+    "nome": "Maddox",
     "tenho": true,
     "especial": false,
-    "clube": "Vizela",
+    "clube": "V. Guimaraes",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/338.jpg"
   },
   {
+    "numero": "338bis",
+    "nome": "Janvier",
+    "tenho": true,
+    "especial": true,
+    "clube": "V. Guimaraes",
+    "tipo": "-",
+    "imagem": "images/capas/Futebol 2020 2021/338bis.jpg"
+  },
+  {
     "numero": "339",
-    "nome": "Kiko Bondoso",
+    "nome": "Marcus Edwards",
     "tenho": true,
     "especial": false,
-    "clube": "Vizela",
+    "clube": "V. Guimaraes",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/339.jpg"
   },
   {
     "numero": "340",
-    "nome": "Francis Cann",
+    "nome": "Lyle Foster",
     "tenho": true,
     "especial": false,
-    "clube": "Vizela",
+    "clube": "V. Guimaraes",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/340.jpg"
   },
   {
     "numero": "341",
-    "nome": "Schettine",
+    "nome": "Bruno Duarte",
     "tenho": true,
     "especial": false,
-    "clube": "Vizela",
+    "clube": "V. Guimaraes",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/341.jpg"
   },
   {
     "numero": "342",
-    "nome": "Cassiano",
+    "nome": "Quaresma",
     "tenho": true,
     "especial": false,
-    "clube": "Vizela",
+    "clube": "V. Guimaraes",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/342.jpg"
   },
   {
     "numero": "343",
-    "nome": "Alfa Semedo (V. Guimarães)",
+    "nome": "Andre Almeida / Grimaldo",
     "tenho": true,
     "especial": false,
-    "clube": "Top Aquisições",
-    "tipo": "-",
+    "clube": "Benfica",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/343.jpg"
   },
   {
     "numero": "344",
-    "nome": "Borevkovic (V. Guimarães)",
+    "nome": "Castro / Fransergio",
     "tenho": true,
     "especial": false,
-    "clube": "Top Aquisições",
-    "tipo": "-",
+    "clube": "Braga",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/344.jpg"
   },
   {
     "numero": "345",
-    "nome": "Bruno Costa (Porto)",
+    "nome": "Danilo / Sergio Oliveira",
     "tenho": true,
     "especial": false,
-    "clube": "Top Aquisições",
-    "tipo": "-",
+    "clube": "Porto",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/345.jpg"
   },
   {
     "numero": "346",
-    "nome": "Fabiano (Braga)",
+    "nome": "Diego Lopes / Gelson Dala",
     "tenho": true,
     "especial": false,
-    "clube": "Top Aquisições",
-    "tipo": "-",
+    "clube": "Rio Ave",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/346.jpg"
   },
   {
     "numero": "347",
-    "nome": "Ferraresi (Estoril)",
+    "nome": "Everton / Carlos Vinicius",
     "tenho": true,
     "especial": false,
-    "clube": "Top Aquisições",
-    "tipo": "-",
+    "clube": "Benfica",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/347.jpg"
   },
   {
     "numero": "348",
-    "nome": "Gil Dias (Benfica)",
+    "nome": "Luis Maximiano / Coates",
     "tenho": true,
     "especial": false,
-    "clube": "Top Aquisições",
-    "tipo": "-",
+    "clube": "Sporting",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/348.jpg"
   },
   {
     "numero": "349",
-    "nome": "João Mário (Benfica)",
+    "nome": "Marchesin / Diogo Costa",
     "tenho": true,
     "especial": false,
-    "clube": "Top Aquisições",
-    "tipo": "-",
+    "clube": "Porto",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/349.jpg"
   },
   {
     "numero": "350",
-    "nome": "Mario González (Braga)",
+    "nome": "Marega / Taremi",
     "tenho": true,
     "especial": false,
-    "clube": "Top Aquisições",
-    "tipo": "-",
+    "clube": "Porto",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/350.jpg"
   },
   {
     "numero": "351",
-    "nome": "Meité (Benfica)",
+    "nome": "Marcus Edwards / Bruno Duarte",
     "tenho": true,
     "especial": false,
-    "clube": "Top Aquisições",
-    "tipo": "-",
+    "clube": "V. Guimaraes",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/351.jpg"
   },
   {
     "numero": "352",
-    "nome": "Paulo Oliveira (Braga)",
+    "nome": "Nuno Mendes / Pedro Goncalves",
     "tenho": true,
     "especial": false,
-    "clube": "Top Aquisições",
-    "tipo": "-",
+    "clube": "Sporting",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/352.jpg"
   },
   {
     "numero": "353",
-    "nome": "Pepê (Porto)",
+    "nome": "Pepe / Mbemba",
     "tenho": true,
     "especial": false,
-    "clube": "Top Aquisições",
-    "tipo": "-",
+    "clube": "Porto",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/353.jpg"
   },
   {
     "numero": "354",
-    "nome": "Rafa Soares (V. Guimarães)",
+    "nome": "Porro / Jovane",
     "tenho": true,
     "especial": false,
-    "clube": "Top Aquisições",
-    "tipo": "-",
+    "clube": "Sporting",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/354.jpg"
   },
   {
     "numero": "355",
-    "nome": "Ricardo Esgaio (Sporting)",
+    "nome": "Quaresma / Goncalo Inacio",
     "tenho": true,
     "especial": false,
-    "clube": "Top Aquisições",
-    "tipo": "-",
+    "clube": "Sporting",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/355.jpg"
   },
   {
     "numero": "356",
-    "nome": "Rúben Vinagre (Sporting)",
+    "nome": "Ruben Dias / Vertonghen",
     "tenho": true,
     "especial": false,
-    "clube": "Top Aquisições",
-    "tipo": "-",
+    "clube": "Benfica",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/356.jpg"
   },
   {
     "numero": "357",
-    "nome": "Vitinha (Porto)",
+    "nome": "Tiago Tomas / Sporar",
     "tenho": true,
     "especial": false,
-    "clube": "Top Aquisições",
-    "tipo": "-",
+    "clube": "Sporting",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/357.jpg"
   },
   {
     "numero": "358",
-    "nome": "Roman Yaremchuk (Benfica)",
+    "nome": "Weigl / Pizzi",
     "tenho": true,
     "especial": false,
-    "clube": "Top Aquisições",
-    "tipo": "-",
+    "clube": "Benfica",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/358.jpg"
   },
   {
     "numero": "359",
-    "nome": "Daniel Bragança (Sporting)",
+    "nome": "Carlos Vinicius",
     "tenho": true,
     "especial": false,
-    "clube": "Força Rookie",
-    "tipo": "-",
+    "clube": "Benfica",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/359.jpg"
   },
   {
     "numero": "360",
-    "nome": "Fábio Vieira (Porto)",
+    "nome": "Corona",
     "tenho": true,
     "especial": false,
-    "clube": "Força Rookie",
-    "tipo": "-",
+    "clube": "Porto",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/360.jpg"
   },
   {
     "numero": "361",
-    "nome": "Francisco Conceição (Porto)",
+    "nome": "Everton",
     "tenho": true,
     "especial": false,
-    "clube": "Força Rookie",
-    "tipo": "-",
+    "clube": "Benfica",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/361.jpg"
   },
   {
     "numero": "362",
-    "nome": "Gonçalo Inácio (Sporting)",
+    "nome": "Feddal",
     "tenho": true,
     "especial": false,
-    "clube": "Força Rookie",
-    "tipo": "-",
+    "clube": "Sporting",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/362.jpg"
   },
   {
     "numero": "363",
-    "nome": "Gonçalo Ramos (Benfica)",
+    "nome": "Gilberto",
     "tenho": true,
     "especial": false,
-    "clube": "Força Rookie",
-    "tipo": "-",
+    "clube": "Benfica",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/363.jpg"
   },
   {
     "numero": "364",
-    "nome": "João Mário (Porto)",
+    "nome": "Luis Diaz",
     "tenho": true,
     "especial": false,
-    "clube": "Força Rookie",
-    "tipo": "-",
+    "clube": "Porto",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/364.jpg"
   },
   {
     "numero": "365",
-    "nome": "Nuno Mendes (Sporting)",
+    "nome": "Marega",
     "tenho": true,
     "especial": false,
-    "clube": "Força Rookie",
-    "tipo": "-",
+    "clube": "Porto",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/365.jpg"
   },
   {
     "numero": "366",
-    "nome": "Paulo Bernardo (Benfica)",
+    "nome": "Mbemba",
     "tenho": true,
     "especial": false,
-    "clube": "Força Rookie",
-    "tipo": "-",
+    "clube": "Porto",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/366.jpg"
   },
   {
     "numero": "367",
-    "nome": "Tiago Tomás (Sporting)",
+    "nome": "Nuno Santos",
     "tenho": true,
     "especial": false,
-    "clube": "Força Rookie",
-    "tipo": "-",
+    "clube": "Sporting",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/367.jpg"
   },
   {
     "numero": "368",
-    "nome": "Coates (Sporting)",
+    "nome": "Otavio",
     "tenho": true,
     "especial": false,
-    "clube": "Bola de Ouro",
-    "tipo": "-",
+    "clube": "Porto",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/368.jpg"
   },
   {
     "numero": "369",
-    "nome": "João Palhinha (Sporting)",
+    "nome": "Paulinho",
     "tenho": true,
     "especial": false,
-    "clube": "Bola de Ouro",
-    "tipo": "-",
+    "clube": "Braga",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/369.jpg"
   },
   {
     "numero": "370",
-    "nome": "Luis Díaz (Porto)",
+    "nome": "Pedro Goncalves",
     "tenho": true,
     "especial": false,
-    "clube": "Bola de Ouro",
-    "tipo": "-",
+    "clube": "Sporting",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/370.jpg"
   },
   {
     "numero": "371",
-    "nome": "Otamendi (Benfica)",
+    "nome": "Pepe",
     "tenho": true,
     "especial": false,
-    "clube": "Bola de Ouro",
-    "tipo": "-",
+    "clube": "Porto",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/371.jpg"
   },
   {
     "numero": "372",
-    "nome": "Pedro Gonçalves (Sporting)",
+    "nome": "Pizzi",
     "tenho": true,
     "especial": false,
-    "clube": "Bola de Ouro",
-    "tipo": "-",
+    "clube": "Benfica",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/372.jpg"
   },
   {
     "numero": "373",
-    "nome": "Pepe (Porto)",
+    "nome": "Ricardo Horta",
     "tenho": true,
     "especial": false,
-    "clube": "Bola de Ouro",
-    "tipo": "-",
+    "clube": "Braga",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/373.jpg"
   },
   {
     "numero": "374",
-    "nome": "Pizzi (Benfica)",
+    "nome": "Ruben Dias",
     "tenho": true,
     "especial": false,
-    "clube": "Bola de Ouro",
-    "tipo": "-",
+    "clube": "Benfica",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/374.jpg"
   },
   {
     "numero": "375",
-    "nome": "Rafa (Benfica)",
+    "nome": "Taarabt",
     "tenho": true,
     "especial": false,
-    "clube": "Bola de Ouro",
-    "tipo": "-",
+    "clube": "Benfica",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/375.jpg"
   },
   {
     "numero": "376",
-    "nome": "Sérgio Oliveira (Porto)",
+    "nome": "Taremi",
     "tenho": true,
     "especial": false,
-    "clube": "Bola de Ouro",
-    "tipo": "-",
+    "clube": "Porto",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/376.jpg"
   },
   {
     "numero": "377",
-    "nome": "André Silva (RB Leipzig)",
+    "nome": "Vertonghen",
     "tenho": true,
     "especial": false,
-    "clube": "Bola de Ouro",
-    "tipo": "-",
+    "clube": "Benfica",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/377.jpg"
   },
   {
     "numero": "378",
-    "nome": "Bruno Fernandes (Manchester United)",
+    "nome": "Vietto",
     "tenho": true,
     "especial": false,
-    "clube": "Bola de Ouro",
-    "tipo": "-",
+    "clube": "Sporting",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/378.jpg"
   },
   {
     "numero": "379",
-    "nome": "Cristiano Ronaldo (Juventus)",
+    "nome": "Vlachodimos",
     "tenho": true,
     "especial": false,
-    "clube": "Bola de Ouro",
-    "tipo": "-",
+    "clube": "Benfica",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/379.jpg"
   },
   {
-    "numero": "379bis",
-    "nome": "Cristiano Ronaldo (Manchester United)",
-    "tenho": true,
-    "especial": true,
-    "clube": "Bola de Ouro",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/379bis.jpg"
-  },
-  {
     "numero": "380",
-    "nome": "Diogo Jota (Liverpool)",
+    "nome": "Waldschmidt",
     "tenho": true,
     "especial": false,
-    "clube": "Bola de Ouro",
-    "tipo": "-",
+    "clube": "Benfica",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/380.jpg"
   },
   {
     "numero": "381",
-    "nome": "João Cancelo (Manchester City)",
+    "nome": "Wendel",
     "tenho": true,
     "especial": false,
-    "clube": "Bola de Ouro",
-    "tipo": "-",
+    "clube": "Sporting",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/381.jpg"
   },
   {
     "numero": "382",
-    "nome": "João Félix (Atlético Madrid)",
+    "nome": "Zaidu",
     "tenho": true,
     "especial": false,
-    "clube": "Bola de Ouro",
-    "tipo": "-",
+    "clube": "Porto",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2020 2021/382.jpg"
   },
   {
     "numero": "383",
-    "nome": "Renato Sanches (Lille)",
+    "nome": "Richard Alexandre  -  Os Belenenses SAD",
     "tenho": true,
     "especial": false,
-    "clube": "Bola de Ouro",
+    "clube": "Ultimas Aquisições",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/383.jpg"
   },
   {
     "numero": "384",
-    "nome": "Rúben Dias (Manchester City)",
+    "nome": "Otamendi  -  Benfica",
     "tenho": true,
     "especial": false,
-    "clube": "Bola de Ouro",
+    "clube": "Ultimas Aquisições",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/384.jpg"
   },
   {
     "numero": "385",
-    "nome": "Rui Patrícia (AS Roma)",
+    "nome": "Todibo  -  Benfica",
     "tenho": true,
     "especial": false,
-    "clube": "Bola de Ouro",
+    "clube": "Ultimas Aquisições",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/385.jpg"
   },
   {
     "numero": "386",
-    "nome": "Or Dasa (Arouca)",
+    "nome": "Diogo Goncalves  -  Benfica",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3628,7 +3718,7 @@
   },
   {
     "numero": "387",
-    "nome": "Alisson Safira (Belenenses Sad)",
+    "nome": "Pedrinho  -  Benfica",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3637,7 +3727,7 @@
   },
   {
     "numero": "388",
-    "nome": "Lázaro (Benfica)",
+    "nome": "Nathan  -  Boavista",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3646,7 +3736,7 @@
   },
   {
     "numero": "389",
-    "nome": "Ferro (Benfica)",
+    "nome": "De Santis  -  Boavista",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3655,7 +3745,7 @@
   },
   {
     "numero": "390",
-    "nome": "Paulo Bernardo (Benfica)",
+    "nome": "Francisco Moura  -  Braga",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3664,7 +3754,7 @@
   },
   {
     "numero": "391",
-    "nome": "Radonjic (Benfica)",
+    "nome": "Diogo Queiros  -  Famalicao",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3673,7 +3763,7 @@
   },
   {
     "numero": "392",
-    "nome": "Rodrigo Pinho (Benfica)",
+    "nome": "Bruno Jordao  -  Famalicao",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3682,7 +3772,7 @@
   },
   {
     "numero": "393",
-    "nome": "Ntep (Boavista)",
+    "nome": "Dyego Sousa  -  Famalicao",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3691,7 +3781,7 @@
   },
   {
     "numero": "394",
-    "nome": "Musa (Boavista)",
+    "nome": "Madi Queta  -  Farense",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3700,7 +3790,7 @@
   },
   {
     "numero": "395",
-    "nome": "Yan Couto (Braga)",
+    "nome": "Lucas Mineiro  -  Gil Vicente",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3709,7 +3799,7 @@
   },
   {
     "numero": "396",
-    "nome": "Diogo Leite (Braga)",
+    "nome": "Renan Oliveira  -  Gil Vicente",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3718,7 +3808,7 @@
   },
   {
     "numero": "397",
-    "nome": "Chiquinho (Braga)",
+    "nome": "Jean Irmer  -  Maritimo",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3727,7 +3817,7 @@
   },
   {
     "numero": "398",
-    "nome": "Roger Fernandes (Braga)",
+    "nome": "Bolkiah  -  Maritimo",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3736,7 +3826,7 @@
   },
   {
     "numero": "399",
-    "nome": "Xavier (Estoril)",
+    "nome": "Walterson  -  Moreirense",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3745,7 +3835,7 @@
   },
   {
     "numero": "400",
-    "nome": "Arthur Gomes (Estoril)",
+    "nome": "Danilovic  -  Nacional",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3754,7 +3844,7 @@
   },
   {
     "numero": "401",
-    "nome": "Rui Fonte (Estoril)",
+    "nome": "Thill  -  Nacional",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3763,7 +3853,7 @@
   },
   {
     "numero": "402",
-    "nome": "De La Fuente (Famalicão)",
+    "nome": "Luther Singh  -  Pacos de Ferreira",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3772,7 +3862,7 @@
   },
   {
     "numero": "403",
-    "nome": "Pedro Marques (Famalicão)",
+    "nome": "Dor Jan  -  Pacos de Ferreira",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3781,7 +3871,7 @@
   },
   {
     "numero": "404",
-    "nome": "Frelih (Gil Vicente)",
+    "nome": "Moufi  -  Portimonense",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3790,7 +3880,7 @@
   },
   {
     "numero": "405",
-    "nome": "Clésio (Marítimo)",
+    "nome": "Nanu  -  Porto",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3799,7 +3889,7 @@
   },
   {
     "numero": "406",
-    "nome": "Paulinho (Moreirense)",
+    "nome": "Sarr  -  Porto",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3808,7 +3898,7 @@
   },
   {
     "numero": "407",
-    "nome": "Pablo Santos (Moreirense)",
+    "nome": "Marko Grujic  -  Porto",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3817,7 +3907,7 @@
   },
   {
     "numero": "408",
-    "nome": "Antunes (Paços De Ferreira)",
+    "nome": "Felipe Anderson  -  Porto",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3826,7 +3916,7 @@
   },
   {
     "numero": "409",
-    "nome": "Nakajima (Portimonense)",
+    "nome": "Toni Martinez  -  Porto",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3835,7 +3925,7 @@
   },
   {
     "numero": "410",
-    "nome": "Wendell (Porto)",
+    "nome": "Evanilson  -  Porto",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3844,7 +3934,7 @@
   },
   {
     "numero": "411",
-    "nome": "Boateng (Santa Clara)",
+    "nome": "Pele  -  Rio Ave",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3853,7 +3943,7 @@
   },
   {
     "numero": "412",
-    "nome": "Luiz Phellype (Santa Clara)",
+    "nome": "Gabrielzinho  -  Rio Ave",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3862,7 +3952,7 @@
   },
   {
     "numero": "413",
-    "nome": "Gonçalo Esteves (Sporting)",
+    "nome": "Moghanlou  -  Santa Clara",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3871,7 +3961,7 @@
   },
   {
     "numero": "414",
-    "nome": "Sarabia (Sporting)",
+    "nome": "Joao Palhinha  -  Sporting",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3880,7 +3970,7 @@
   },
   {
     "numero": "415",
-    "nome": "Neto Borges (Tondela)",
+    "nome": "Joao Mario  -  Sporting",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3889,7 +3979,7 @@
   },
   {
     "numero": "416",
-    "nome": "Modibo Sagnan (Tondela)",
+    "nome": "Tabata  -  Sporting",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3898,7 +3988,7 @@
   },
   {
     "numero": "417",
-    "nome": "Muratore (Tondela)",
+    "nome": "Bebeto  -  Tondela",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
@@ -3907,37 +3997,11 @@
   },
   {
     "numero": "418",
-    "nome": "João Ferreira (V. Guimarães)",
+    "nome": "Miguel Luis  -  V. Guimaraes",
     "tenho": true,
     "especial": false,
     "clube": "Ultimas Aquisições",
     "tipo": "-",
     "imagem": "images/capas/Futebol 2020 2021/418.jpg"
-  },
-  {
-    "numero": "419",
-    "nome": "Tiago Silva (V. Guimarães)",
-    "tenho": true,
-    "especial": false,
-    "clube": "Ultimas Aquisições",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/419.jpg"
-  },
-  {
-    "numero": "420",
-    "nome": "Ivanildo Fernandes (Vizela)",
-    "tenho": true,
-    "especial": false,
-    "clube": "Ultimas Aquisições",
-    "tipo": "-",
-    "imagem": "images/capas/Futebol 2020 2021/420.jpg"
-  },
-  {
-    "numero": "421",
-    "nome": "Nuno Moreira (Vizela)",
-    "tenho": true,
-    "especial": false,
-    "clube": "Ultimas Aquisições",
-    "imagem": "images/capas/Futebol 2020 2021/421.jpg"
   }
 ]

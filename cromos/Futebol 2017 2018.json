@@ -1,2788 +1,3531 @@
 [
   {
     "numero": "1",
-    "nome": "Cromo 1",
+    "nome": "Aves",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/1.jpg"
   },
   {
     "numero": "2",
-    "nome": "Cromo 2",
+    "nome": "Belenenses",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/2.jpg"
   },
   {
     "numero": "3",
-    "nome": "Cromo 3",
+    "nome": "Benfica",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/3.jpg"
   },
   {
     "numero": "4",
-    "nome": "Cromo 4",
+    "nome": "Boavista",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/4.jpg"
   },
   {
     "numero": "5",
-    "nome": "Cromo 5",
+    "nome": "Braga",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/5.jpg"
   },
   {
     "numero": "6",
-    "nome": "Cromo 6",
+    "nome": "Chaves",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/6.jpg"
   },
   {
     "numero": "7",
-    "nome": "Cromo 7",
+    "nome": "Estoril",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/7.jpg"
   },
   {
     "numero": "8",
-    "nome": "Cromo 8",
+    "nome": "Feirense",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/8.jpg"
   },
   {
     "numero": "9",
-    "nome": "Cromo 9",
+    "nome": "Marítimo",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/9.jpg"
   },
   {
     "numero": "10",
-    "nome": "Cromo 10",
+    "nome": "Moreirense",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/10.jpg"
   },
   {
     "numero": "11",
-    "nome": "Cromo 11",
+    "nome": "Paços de Ferreira",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/11.jpg"
   },
   {
     "numero": "12",
-    "nome": "Cromo 12",
+    "nome": "Portimonense",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/12.jpg"
   },
   {
     "numero": "13",
-    "nome": "Cromo 13",
+    "nome": "Porto",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/13.jpg"
   },
   {
     "numero": "14",
-    "nome": "Cromo 14",
+    "nome": "Rio Ave",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/14.jpg"
   },
   {
     "numero": "15",
-    "nome": "Cromo 15",
+    "nome": "Sporting",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/15.jpg"
   },
   {
     "numero": "16",
-    "nome": "Cromo 16",
+    "nome": "Tondela",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/16.jpg"
   },
   {
     "numero": "17",
-    "nome": "Cromo 17",
+    "nome": "V. Guimarães",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/17.jpg"
   },
   {
     "numero": "18",
-    "nome": "Cromo 18",
+    "nome": "V. Setúbal",
     "tenho": true,
     "especial": false,
+    "clube": "Emblema",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/18.jpg"
   },
   {
     "numero": "19",
-    "nome": "Cromo 19",
+    "nome": "Quim",
     "tenho": true,
     "especial": false,
+    "clube": "Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/19.jpg"
   },
   {
     "numero": "20",
-    "nome": "Cromo 20",
+    "nome": "Adriano Facchini",
     "tenho": true,
     "especial": false,
+    "clube": "Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/20.jpg"
   },
   {
     "numero": "21",
-    "nome": "Cromo 21",
+    "nome": "Rodrigo",
     "tenho": true,
     "especial": false,
+    "clube": "Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/21.jpg"
   },
   {
     "numero": "22",
-    "nome": "Cromo 22",
+    "nome": "Diego Galo",
     "tenho": true,
     "especial": false,
+    "clube": "Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/22.jpg"
   },
   {
     "numero": "23",
-    "nome": "Cromo 23",
+    "nome": "Ponck",
     "tenho": true,
     "especial": false,
+    "clube": "Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/23.jpg"
   },
   {
     "numero": "24",
-    "nome": "Cromo 24",
+    "nome": "Nélson Lenho",
     "tenho": true,
     "especial": false,
+    "clube": "Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/24.jpg"
   },
   {
     "numero": "25",
-    "nome": "Cromo 25",
+    "nome": "Vitor Gomes",
     "tenho": true,
     "especial": false,
+    "clube": "Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/25.jpg"
   },
   {
     "numero": "26",
-    "nome": "Cromo 26",
+    "nome": "Pedro",
     "tenho": true,
     "especial": false,
+    "clube": "Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/26.jpg"
   },
   {
     "numero": "27",
-    "nome": "Cromo 27",
+    "nome": "Washington",
     "tenho": true,
     "especial": false,
+    "clube": "Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/27.jpg"
   },
   {
     "numero": "28",
-    "nome": "Cromo 28",
-    "tenho": false,
+    "nome": "Braga",
+    "tenho": true,
     "especial": false,
+    "clube": "Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/28.jpg"
   },
   {
     "numero": "29",
-    "nome": "Cromo 29",
+    "nome": "Gauld",
     "tenho": true,
     "especial": false,
+    "clube": "Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/29.jpg"
   },
   {
     "numero": "30",
-    "nome": "Cromo 30",
+    "nome": "Sami",
     "tenho": true,
     "especial": false,
+    "clube": "Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/30.jpg"
   },
   {
     "numero": "31",
-    "nome": "Cromo 31",
+    "nome": "Amilton",
     "tenho": true,
     "especial": false,
+    "clube": "Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/31.jpg"
   },
   {
     "numero": "32",
-    "nome": "Cromo 32",
+    "nome": "Salvador Agra",
     "tenho": true,
     "especial": false,
+    "clube": "Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/32.jpg"
   },
   {
     "numero": "33",
-    "nome": "Cromo 33",
+    "nome": "Arango",
     "tenho": true,
     "especial": false,
+    "clube": "Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/33.jpg"
   },
   {
     "numero": "34",
-    "nome": "Cromo 34",
+    "nome": "Guedes",
     "tenho": true,
     "especial": false,
+    "clube": "Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/34.jpg"
   },
   {
     "numero": "35",
-    "nome": "Cromo 35",
+    "nome": "Derley",
     "tenho": true,
     "especial": false,
+    "clube": "Aves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/35.jpg"
   },
   {
     "numero": "36",
-    "nome": "Cromo 36",
+    "nome": "Muriel",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/36.jpg"
   },
   {
     "numero": "37",
-    "nome": "Cromo 37",
+    "nome": "Filipe Mendes",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/37.jpg"
   },
   {
     "numero": "38",
-    "nome": "Cromo 38",
+    "nome": "André Geraldes",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/38.jpg"
   },
   {
     "numero": "39",
-    "nome": "Cromo 39",
+    "nome": "Gonçalo Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/39.jpg"
   },
   {
     "numero": "40",
-    "nome": "Cromo 40",
+    "nome": "Sasso",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/40.jpg"
   },
   {
     "numero": "41",
-    "nome": "Cromo 41",
+    "nome": "Nuno Tomás",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/41.jpg"
   },
   {
     "numero": "42",
-    "nome": "Cromo 42",
+    "nome": "Florent",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/42.jpg"
   },
   {
     "numero": "43",
-    "nome": "Cromo 43",
+    "nome": "Pereirinha",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/43.jpg"
   },
   {
     "numero": "44",
-    "nome": "Cromo 44",
+    "nome": "Yebda",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/44.jpg"
   },
   {
     "numero": "45",
-    "nome": "Cromo 45",
+    "nome": "André Sousa",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/45.jpg"
   },
   {
     "numero": "46",
-    "nome": "Cromo 46",
+    "nome": "Tandjigora",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/46.jpg"
   },
   {
     "numero": "47",
-    "nome": "Cromo 47",
+    "nome": "Chaby",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/47.jpg"
   },
   {
     "numero": "48",
-    "nome": "Cromo 48",
-    "tenho": false,
+    "nome": "Miguel Rosa",
+    "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/48.jpg"
   },
   {
     "numero": "49",
-    "nome": "Cromo 49",
+    "nome": "Juanto Ortuño",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/49.jpg"
   },
   {
     "numero": "49bis",
-    "nome": "Cromo 49bis",
+    "nome": "Benny",
     "tenho": true,
-    "especial": false,
+    "especial": true,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/49bis.jpg"
   },
   {
     "numero": "50",
-    "nome": "Cromo 50",
+    "nome": "Jesus Hernandez",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/50.jpg"
   },
   {
     "numero": "51",
-    "nome": "Cromo 51",
+    "nome": "Diogo Viana",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/51.jpg"
   },
   {
     "numero": "52",
-    "nome": "Cromo 52",
+    "nome": "Maurides",
     "tenho": true,
     "especial": false,
+    "clube": "Belenenses",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/52.jpg"
   },
   {
     "numero": "53",
-    "nome": "Cromo 53",
+    "nome": "Júlio César",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/53.jpg"
   },
   {
     "numero": "54",
-    "nome": "Cromo 54",
+    "nome": "Bruno Varela",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/54.jpg"
   },
   {
     "numero": "55",
-    "nome": "Cromo 55",
+    "nome": "André Almeida",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/55.jpg"
   },
   {
     "numero": "56",
-    "nome": "Cromo 56",
+    "nome": "Luisão",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/56.jpg"
   },
   {
     "numero": "57",
-    "nome": "Cromo 57",
+    "nome": "Jardel",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/57.jpg"
   },
   {
     "numero": "58",
-    "nome": "Cromo 58",
+    "nome": "Lisandro López",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/58.jpg"
   },
   {
     "numero": "59",
-    "nome": "Cromo 59",
+    "nome": "Eliseu",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/59.jpg"
   },
   {
     "numero": "60",
-    "nome": "Cromo 60",
+    "nome": "Grimaldo",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/60.jpg"
   },
   {
     "numero": "61",
-    "nome": "Cromo 61",
+    "nome": "Ljubomir Fejsa",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/61.jpg"
   },
   {
     "numero": "62",
-    "nome": "Cromo 62",
+    "nome": "Pizzi",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/62.jpg"
   },
   {
     "numero": "63",
-    "nome": "Cromo 63",
+    "nome": "Filipe Augusto",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/63.jpg"
   },
   {
     "numero": "64",
-    "nome": "Cromo 64",
+    "nome": "Franco Cervi",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/64.jpg"
   },
   {
     "numero": "65",
-    "nome": "Cromo 65",
+    "nome": "Eduardo Salvio",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/65.jpg"
   },
   {
     "numero": "66",
-    "nome": "Cromo 66",
+    "nome": "Rafa Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/66.jpg"
   },
   {
     "numero": "67",
-    "nome": "Cromo 67",
+    "nome": "Haris Seferovic",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/67.jpg"
   },
   {
     "numero": "68",
-    "nome": "Cromo 68",
+    "nome": "Jonas",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/68.jpg"
   },
   {
     "numero": "69",
-    "nome": "Cromo 69",
+    "nome": "Raul Jiménez",
     "tenho": true,
     "especial": false,
+    "clube": "Benfica",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/69.jpg"
   },
   {
     "numero": "70",
-    "nome": "Cromo 70",
+    "nome": "Vagner",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/70.jpg"
   },
   {
     "numero": "71",
-    "nome": "Cromo 71",
+    "nome": "Spiegel",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/71.jpg"
   },
   {
     "numero": "72",
-    "nome": "Cromo 72",
+    "nome": "Edu Machado",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/72.jpg"
   },
   {
     "numero": "73",
-    "nome": "Cromo 73",
+    "nome": "Tiago Mesquita",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/73.jpg"
   },
   {
     "numero": "74",
-    "nome": "Cromo 74",
+    "nome": "Robson",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/74.jpg"
   },
   {
     "numero": "75",
-    "nome": "Cromo 75",
+    "nome": "Henrique",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/75.jpg"
   },
   {
     "numero": "76",
-    "nome": "Cromo 76",
+    "nome": "Talocha",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/76.jpg"
   },
   {
     "numero": "77",
-    "nome": "Cromo 77",
+    "nome": "Vitor Bruno",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/77.jpg"
   },
   {
     "numero": "78",
-    "nome": "Cromo 78",
+    "nome": "Carraça",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/78.jpg"
   },
   {
     "numero": "79",
-    "nome": "Cromo 79",
+    "nome": "Idris",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/79.jpg"
   },
   {
     "numero": "80",
-    "nome": "Cromo 80",
+    "nome": "Fábio Espinho",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/80.jpg"
   },
   {
     "numero": "81",
-    "nome": "Cromo 81",
+    "nome": "Tahar",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/81.jpg"
   },
   {
     "numero": "82",
-    "nome": "Cromo 82",
+    "nome": "Rochinha",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/82.jpg"
   },
   {
     "numero": "83",
-    "nome": "Cromo 83",
+    "nome": "Mateus",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/83.jpg"
   },
   {
     "numero": "84",
-    "nome": "Cromo 84",
+    "nome": "Renato Santos",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/84.jpg"
   },
   {
     "numero": "85",
-    "nome": "Cromo 85",
+    "nome": "Leonardo Ruiz",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/85.jpg"
   },
   {
     "numero": "86",
-    "nome": "Cromo 86",
+    "nome": "Clarke",
     "tenho": true,
     "especial": false,
+    "clube": "Boavista",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/86.jpg"
   },
   {
     "numero": "87",
-    "nome": "Cromo 87",
+    "nome": "André Moreira",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/87.jpg"
   },
   {
     "numero": "88",
-    "nome": "Cromo 88",
+    "nome": "Matheus",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/88.jpg"
   },
   {
     "numero": "89",
-    "nome": "Cromo 89",
+    "nome": "Marcelo Goiano",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/89.jpg"
   },
   {
     "numero": "90",
-    "nome": "Cromo 90",
+    "nome": "Esgaio",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/90.jpg"
   },
   {
     "numero": "91",
-    "nome": "Cromo 91",
+    "nome": "Ricardo Ferreira",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/91.jpg"
   },
   {
     "numero": "92",
-    "nome": "Cromo 92",
+    "nome": "Rosic",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/92.jpg"
   },
   {
     "numero": "93",
-    "nome": "Cromo 93",
+    "nome": "Raúl Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/93.jpg"
   },
   {
     "numero": "94",
-    "nome": "Cromo 94",
+    "nome": "Jefferson",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/94.jpg"
   },
   {
     "numero": "95",
-    "nome": "Cromo 95",
+    "nome": "Danilo",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/95.jpg"
   },
   {
     "numero": "96",
-    "nome": "Cromo 96",
+    "nome": "Fransérgio",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/96.jpg"
   },
   {
     "numero": "97",
-    "nome": "Cromo 97",
+    "nome": "Xadas",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/97.jpg"
   },
   {
     "numero": "98",
-    "nome": "Cromo 98",
+    "nome": "Fábio Martins",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/98.jpg"
   },
   {
     "numero": "99",
-    "nome": "Cromo 99",
+    "nome": "Ricardo Horta",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/99.jpg"
   },
   {
     "numero": "100",
-    "nome": "Cromo 100",
+    "nome": "Wilson Eduardo",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/100.jpg"
   },
   {
     "numero": "101",
-    "nome": "Cromo 101",
+    "nome": "Hassan",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/101.jpg"
   },
   {
     "numero": "102",
-    "nome": "Cromo 102",
+    "nome": "Erick",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/102.jpg"
   },
   {
     "numero": "103",
-    "nome": "Cromo 103",
+    "nome": "Dyego Sousa",
     "tenho": true,
     "especial": false,
+    "clube": "Braga",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/103.jpg"
   },
   {
     "numero": "104",
-    "nome": "Cromo 104",
+    "nome": "Ricardo",
     "tenho": true,
     "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/104.jpg"
   },
   {
     "numero": "105",
-    "nome": "Cromo 105",
+    "nome": "António Filipe",
     "tenho": true,
     "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/105.jpg"
   },
   {
     "numero": "106",
-    "nome": "Cromo 106",
+    "nome": "Pedro Queirós",
     "tenho": true,
     "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/106.jpg"
   },
   {
     "numero": "107",
-    "nome": "Cromo 107",
+    "nome": "Paulinho",
     "tenho": true,
     "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/107.jpg"
   },
   {
     "numero": "108",
-    "nome": "Cromo 108",
+    "nome": "Domingos Duarte",
     "tenho": true,
     "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/108.jpg"
   },
   {
     "numero": "109",
-    "nome": "Cromo 109",
+    "nome": "Nuno André Coelho",
     "tenho": true,
     "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/109.jpg"
   },
   {
     "numero": "110",
-    "nome": "Cromo 110",
+    "nome": "Rúben Ferreira",
     "tenho": true,
     "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/110.jpg"
   },
   {
     "numero": "111",
-    "nome": "Cromo 111",
+    "nome": "Victor Massaia",
     "tenho": true,
     "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/111.jpg"
   },
   {
     "numero": "112",
-    "nome": "Cromo 112",
+    "nome": "Filipe Melo",
     "tenho": true,
     "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/112.jpg"
   },
   {
     "numero": "113",
-    "nome": "Cromo 113",
+    "nome": "Pedro Tiba",
     "tenho": true,
     "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/113.jpg"
   },
   {
     "numero": "114",
-    "nome": "Cromo 114",
+    "nome": "Bressan",
     "tenho": true,
     "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/114.jpg"
   },
   {
     "numero": "115",
-    "nome": "Cromo 115",
+    "nome": "Perdigão",
     "tenho": true,
     "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/115.jpg"
   },
   {
     "numero": "116",
-    "nome": "Cromo 116",
+    "nome": "Matheus Pereira",
     "tenho": true,
     "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/116.jpg"
   },
   {
     "numero": "117",
-    "nome": "Cromo 117",
+    "nome": "Jorginho",
     "tenho": true,
     "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/117.jpg"
   },
   {
     "numero": "118",
-    "nome": "Cromo 118",
+    "nome": "Wilmar Jordán",
     "tenho": true,
     "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/118.jpg"
   },
   {
     "numero": "119",
-    "nome": "Cromo 119",
+    "nome": "Platiny",
     "tenho": true,
     "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/119.jpg"
   },
   {
     "numero": "120",
-    "nome": "Cromo 120",
+    "nome": "William",
     "tenho": true,
     "especial": false,
+    "clube": "Chaves",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/120.jpg"
   },
   {
     "numero": "121",
-    "nome": "Cromo 121",
+    "nome": "Moreira",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/121.jpg"
   },
   {
     "numero": "122",
-    "nome": "Cromo 122",
+    "nome": "Luís Ribeiro",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/122.jpg"
   },
   {
     "numero": "123",
-    "nome": "Cromo 123",
+    "nome": "Mano",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/123.jpg"
   },
   {
     "numero": "124",
-    "nome": "Cromo 124",
+    "nome": "Fernando Fonseca",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/124.jpg"
   },
   {
     "numero": "125",
-    "nome": "Cromo 125",
+    "nome": "Pedro Monteiro",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/125.jpg"
   },
   {
     "numero": "126",
-    "nome": "Cromo 126",
+    "nome": "Diakhité",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/126.jpg"
   },
   {
     "numero": "126bis",
-    "nome": "Cromo 126bis",
+    "nome": "Lucas Cavalcante",
     "tenho": true,
-    "especial": false,
+    "especial": true,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/126bis.jpg"
   },
   {
     "numero": "127",
-    "nome": "Cromo 127",
+    "nome": "Gonçalo Brandão",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/127.jpg"
   },
   {
     "numero": "128",
-    "nome": "Cromo 128",
+    "nome": "Joel",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/128.jpg"
   },
   {
     "numero": "129",
-    "nome": "Cromo 129",
+    "nome": "Wesley",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/129.jpg"
   },
   {
     "numero": "130",
-    "nome": "Cromo 130",
+    "nome": "Eduardo Teixeira",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/130.jpg"
   },
   {
     "numero": "131",
-    "nome": "Cromo 131",
+    "nome": "Lucas Evangelista",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/131.jpg"
   },
   {
     "numero": "132",
-    "nome": "Cromo 132",
+    "nome": "Allano",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/132.jpg"
   },
   {
     "numero": "133",
-    "nome": "Cromo 133",
-    "tenho": false,
+    "nome": "Tocantins",
+    "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/133.jpg"
   },
   {
     "numero": "134",
-    "nome": "Cromo 134",
+    "nome": "Matheus Indio",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/134.jpg"
   },
   {
     "numero": "135",
-    "nome": "Cromo 135",
+    "nome": "Jorman Aguilar",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/135.jpg"
   },
   {
     "numero": "136",
-    "nome": "Cromo 136",
+    "nome": "Kléber",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/136.jpg"
   },
   {
     "numero": "137",
-    "nome": "Cromo 137",
+    "nome": "André Claro",
     "tenho": true,
     "especial": false,
+    "clube": "Estoril",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/137.jpg"
   },
   {
     "numero": "138",
-    "nome": "Cromo 138",
+    "nome": "Caio Secco",
     "tenho": true,
     "especial": false,
+    "clube": "Feirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/138.jpg"
   },
   {
     "numero": "139",
-    "nome": "Cromo 139",
+    "nome": "Alampasu",
     "tenho": true,
     "especial": false,
+    "clube": "Feirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/139.jpg"
   },
   {
     "numero": "140",
-    "nome": "Cromo 140",
+    "nome": "Bruno Nascimento",
     "tenho": true,
     "especial": false,
+    "clube": "Feirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/140.jpg"
   },
   {
     "numero": "141",
-    "nome": "Cromo 141",
+    "nome": "Sony",
     "tenho": true,
     "especial": false,
+    "clube": "Feirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/141.jpg"
   },
   {
     "numero": "142",
-    "nome": "Cromo 142",
+    "nome": "Briseno",
     "tenho": true,
     "especial": false,
+    "clube": "Feirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/142.jpg"
   },
   {
     "numero": "143",
-    "nome": "Cromo 143",
+    "nome": "Flávio",
     "tenho": true,
     "especial": false,
+    "clube": "Feirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/143.jpg"
   },
   {
     "numero": "144",
-    "nome": "Cromo 144",
+    "nome": "Luís Rocha",
     "tenho": true,
     "especial": false,
+    "clube": "Feirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/144.jpg"
   },
   {
     "numero": "145",
-    "nome": "Cromo 145",
+    "nome": "Kakuba",
     "tenho": true,
     "especial": false,
+    "clube": "Feirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/145.jpg"
   },
   {
     "numero": "146",
-    "nome": "Cromo 146",
+    "nome": "Babanco",
     "tenho": true,
     "especial": false,
+    "clube": "Feirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/146.jpg"
   },
   {
     "numero": "147",
-    "nome": "Cromo 147",
+    "nome": "Cris",
     "tenho": true,
     "especial": false,
+    "clube": "Feirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/147.jpg"
   },
   {
     "numero": "148",
-    "nome": "Cromo 148",
+    "nome": "Alphonse",
     "tenho": true,
     "especial": false,
+    "clube": "Feirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/148.jpg"
   },
   {
     "numero": "149",
-    "nome": "Cromo 149",
+    "nome": "Tiago Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Feirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/149.jpg"
   },
   {
     "numero": "150",
-    "nome": "Cromo 150",
+    "nome": "Hugo Seco",
     "tenho": true,
     "especial": false,
+    "clube": "Feirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/150.jpg"
   },
   {
     "numero": "151",
-    "nome": "Cromo 151",
+    "nome": "Luís Aurélio",
     "tenho": true,
     "especial": false,
+    "clube": "Feirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/151.jpg"
   },
   {
     "numero": "152",
-    "nome": "Cromo 152",
+    "nome": "Luís Machado",
     "tenho": true,
     "especial": false,
+    "clube": "Feirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/152.jpg"
   },
   {
     "numero": "153",
-    "nome": "Cromo 153",
+    "nome": "Etebo",
     "tenho": true,
     "especial": false,
+    "clube": "Feirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/153.jpg"
   },
   {
     "numero": "154",
-    "nome": "Cromo 154",
+    "nome": "Valência",
     "tenho": true,
     "especial": false,
+    "clube": "Feirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/154.jpg"
   },
   {
     "numero": "155",
-    "nome": "Cromo 155",
+    "nome": "Charles",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/155.jpg"
   },
   {
     "numero": "156",
-    "nome": "Cromo 156",
+    "nome": "Rafael Broetto",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/156.jpg"
   },
   {
     "numero": "157",
-    "nome": "Cromo 157",
+    "nome": "Bebeto",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/157.jpg"
   },
   {
     "numero": "158",
-    "nome": "Cromo 158",
+    "nome": "Pedro Coronas",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/158.jpg"
   },
   {
     "numero": "159",
-    "nome": "Cromo 159",
+    "nome": "Zainadine",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/159.jpg"
   },
   {
     "numero": "160",
-    "nome": "Cromo 160",
+    "nome": "Pablo",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/160.jpg"
   },
   {
     "numero": "161",
-    "nome": "Cromo 161",
+    "nome": "Diney",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/161.jpg"
   },
   {
     "numero": "162",
-    "nome": "Cromo 162",
+    "nome": "Luís Martins",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/162.jpg"
   },
   {
     "numero": "163",
-    "nome": "Cromo 163",
+    "nome": "Jean Cléber",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/163.jpg"
   },
   {
     "numero": "164",
-    "nome": "Cromo 164",
+    "nome": "Erdem Sen",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/164.jpg"
   },
   {
     "numero": "165",
-    "nome": "Cromo 165",
+    "nome": "Gamboa",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/165.jpg"
   },
   {
     "numero": "166",
-    "nome": "Cromo 166",
+    "nome": "Éber Bessa",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/166.jpg"
   },
   {
     "numero": "167",
-    "nome": "Cromo 167",
+    "nome": "Edgar Costa",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/167.jpg"
   },
   {
     "numero": "168",
-    "nome": "Cromo 168",
+    "nome": "Ricardo Valente",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/168.jpg"
   },
   {
     "numero": "169",
-    "nome": "Cromo 169",
+    "nome": "Piquéti",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/169.jpg"
   },
   {
     "numero": "170",
-    "nome": "Cromo 170",
+    "nome": "Rodrigo Pinho",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/170.jpg"
   },
   {
     "numero": "171",
-    "nome": "Cromo 171",
+    "nome": "Lundberg",
     "tenho": true,
     "especial": false,
+    "clube": "Marítimo",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/171.jpg"
   },
   {
     "numero": "172",
-    "nome": "Cromo 172",
+    "nome": "Jhonatan",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/172.jpg"
   },
   {
     "numero": "173",
-    "nome": "Cromo 173",
+    "nome": "Felipe",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/173.jpg"
   },
   {
     "numero": "174",
-    "nome": "Cromo 174",
+    "nome": "Sagna",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/174.jpg"
   },
   {
     "numero": "175",
-    "nome": "Cromo 175",
+    "nome": "Koffi Kouao",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/175.jpg"
   },
   {
     "numero": "176",
-    "nome": "Cromo 176",
+    "nome": "João Sousa",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/176.jpg"
   },
   {
     "numero": "177",
-    "nome": "Cromo 177",
+    "nome": "Aberhoun",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/177.jpg"
   },
   {
     "numero": "178",
-    "nome": "Cromo 178",
+    "nome": "André Micael",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/178.jpg"
   },
   {
     "numero": "179",
-    "nome": "Cromo 179",
+    "nome": "Rubén Lima",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/179.jpg"
   },
   {
     "numero": "180",
-    "nome": "Cromo 180",
+    "nome": "Alfa Semedo",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/180.jpg"
   },
   {
     "numero": "181",
-    "nome": "Cromo 181",
+    "nome": "Neto",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/181.jpg"
   },
   {
     "numero": "182",
-    "nome": "Cromo 182",
+    "nome": "Alan Schons",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/182.jpg"
   },
   {
     "numero": "183",
-    "nome": "Cromo 183",
+    "nome": "Rafael Costa",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/183.jpg"
   },
   {
     "numero": "184",
-    "nome": "Cromo 184",
+    "nome": "Ramires",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/184.jpg"
   },
   {
     "numero": "185",
-    "nome": "Cromo 185",
+    "nome": "Arsénio",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/185.jpg"
   },
   {
     "numero": "186",
-    "nome": "Cromo 186",
+    "nome": "Dramé",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/186.jpg"
   },
   {
     "numero": "187",
-    "nome": "Cromo 187",
+    "nome": "Cádiz",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/187.jpg"
   },
   {
     "numero": "188",
-    "nome": "Cromo 188",
+    "nome": "Peña",
     "tenho": true,
     "especial": false,
+    "clube": "Moreirense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/188.jpg"
   },
   {
     "numero": "189",
-    "nome": "Cromo 189",
+    "nome": "Rafael Defendi",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/189.jpg"
   },
   {
     "numero": "190",
-    "nome": "Cromo 190",
+    "nome": "Mário Felgueiras",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/190.jpg"
   },
   {
     "numero": "191",
-    "nome": "Cromo 191",
+    "nome": "Bruno Santos",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/191.jpg"
   },
   {
     "numero": "192",
-    "nome": "Cromo 192",
+    "nome": "João Góis",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/192.jpg"
   },
   {
     "numero": "193",
-    "nome": "Cromo 193",
+    "nome": "Miguel Vieira",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/193.jpg"
   },
   {
     "numero": "194",
-    "nome": "Cromo 194",
+    "nome": "Ricardo",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/194.jpg"
   },
   {
     "numero": "195",
-    "nome": "Cromo 195",
+    "nome": "Marco Baixinho",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/195.jpg"
   },
   {
     "numero": "196",
-    "nome": "Cromo 196",
+    "nome": "Filipe Ferreira",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/196.jpg"
   },
   {
     "numero": "197",
-    "nome": "Cromo 197",
+    "nome": "André Leal",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/197.jpg"
   },
   {
     "numero": "198",
-    "nome": "Cromo 198",
+    "nome": "André Leão",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/198.jpg"
   },
   {
     "numero": "199",
-    "nome": "Cromo 199",
+    "nome": "Vasco Rocha",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/199.jpg"
   },
   {
     "numero": "200",
-    "nome": "Cromo 200",
+    "nome": "Pedrinho",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/200.jpg"
   },
   {
     "numero": "201",
-    "nome": "Cromo 201",
+    "nome": "Gian",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/201.jpg"
   },
   {
     "numero": "202",
-    "nome": "Cromo 202",
+    "nome": "Xavier",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/202.jpg"
   },
   {
     "numero": "203",
-    "nome": "Cromo 203",
+    "nome": "Diego Medeiros",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/203.jpg"
   },
   {
     "numero": "204",
-    "nome": "Cromo 204",
+    "nome": "Luiz Phellype",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/204.jpg"
   },
   {
     "numero": "205",
-    "nome": "Cromo 205",
+    "nome": "Bruno Moreira",
     "tenho": true,
     "especial": false,
+    "clube": "Paços de Ferreira",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/205.jpg"
   },
   {
     "numero": "206",
-    "nome": "Cromo 206",
+    "nome": "Ricardo Ferreira",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/206.jpg"
   },
   {
     "numero": "207",
-    "nome": "Cromo 207",
+    "nome": "Leonardo",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/207.jpg"
   },
   {
     "numero": "208",
-    "nome": "Cromo 208",
+    "nome": "Ricardo Pessoa",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/208.jpg"
   },
   {
     "numero": "209",
-    "nome": "Cromo 209",
+    "nome": "Lucas",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/209.jpg"
   },
   {
     "numero": "210",
-    "nome": "Cromo 210",
+    "nome": "Ruben Fernandes",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/210.jpg"
   },
   {
     "numero": "211",
-    "nome": "Cromo 211",
+    "nome": "Felipe Macedo",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/211.jpg"
   },
   {
     "numero": "212",
-    "nome": "Cromo 212",
+    "nome": "Inácio",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/212.jpg"
   },
   {
     "numero": "213",
-    "nome": "Cromo 213",
+    "nome": "Lumor",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/213.jpg"
   },
   {
     "numero": "214",
-    "nome": "Cromo 214",
+    "nome": "Pedro Sá",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/214.jpg"
   },
   {
     "numero": "215",
-    "nome": "Cromo 215",
+    "nome": "Marcel",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/215.jpg"
   },
   {
     "numero": "216",
-    "nome": "Cromo 216",
+    "nome": "Ewerton",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/216.jpg"
   },
   {
     "numero": "217",
-    "nome": "Cromo 217",
+    "nome": "Paulinho",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/217.jpg"
   },
   {
     "numero": "218",
-    "nome": "Cromo 218",
+    "nome": "Dener",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/218.jpg"
   },
   {
     "numero": "219",
-    "nome": "Cromo 219",
+    "nome": "Fabrício",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/219.jpg"
   },
   {
     "numero": "220",
-    "nome": "Cromo 220",
+    "nome": "Bruno Tabata",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/220.jpg"
   },
   {
     "numero": "221",
-    "nome": "Cromo 221",
+    "nome": "Pires",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/221.jpg"
   },
   {
     "numero": "222",
-    "nome": "Cromo 222",
+    "nome": "Wellington",
     "tenho": true,
     "especial": false,
+    "clube": "Portimonense",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/222.jpg"
   },
   {
     "numero": "223",
-    "nome": "Cromo 223",
+    "nome": "Iker Casillas",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/223.jpg"
   },
   {
     "numero": "224",
-    "nome": "Cromo 224",
+    "nome": "José Sá",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/224.jpg"
   },
   {
     "numero": "225",
-    "nome": "Cromo 225",
+    "nome": "Maxi Pereira",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/225.jpg"
   },
   {
     "numero": "226",
-    "nome": "Cromo 226",
+    "nome": "Ricardo Pereira",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/226.jpg"
   },
   {
     "numero": "227",
-    "nome": "Cromo 227",
+    "nome": "Felipe",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/227.jpg"
   },
   {
     "numero": "228",
-    "nome": "Cromo 228",
+    "nome": "Iván Marcano",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/228.jpg"
   },
   {
     "numero": "229",
-    "nome": "Cromo 229",
+    "nome": "Miguel Layún",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/229.jpg"
   },
   {
     "numero": "230",
-    "nome": "Cromo 230",
+    "nome": "Alex Telles",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/230.jpg"
   },
   {
     "numero": "231",
-    "nome": "Cromo 231",
+    "nome": "Danilo Pereira",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/231.jpg"
   },
   {
     "numero": "232",
-    "nome": "Cromo 232",
+    "nome": "André André",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/232.jpg"
   },
   {
     "numero": "233",
-    "nome": "Cromo 233",
+    "nome": "Yacine Brahimi",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/233.jpg"
   },
   {
     "numero": "234",
-    "nome": "Cromo 234",
+    "nome": "Otávio",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/234.jpg"
   },
   {
     "numero": "235",
-    "nome": "Cromo 235",
+    "nome": "Jesús Corona",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/235.jpg"
   },
   {
     "numero": "236",
-    "nome": "Cromo 236",
+    "nome": "Óliver Torres",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/236.jpg"
   },
   {
     "numero": "237",
-    "nome": "Cromo 237",
+    "nome": "Moussa Marega",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/237.jpg"
   },
   {
     "numero": "238",
-    "nome": "Cromo 238",
+    "nome": "Tiquinho Soares",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/238.jpg"
   },
   {
     "numero": "239",
-    "nome": "Cromo 239",
+    "nome": "Vincent Aboubakar",
     "tenho": true,
     "especial": false,
+    "clube": "Porto",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/239.jpg"
   },
   {
     "numero": "240",
-    "nome": "Cromo 240",
+    "nome": "Cássio",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/240.jpg"
   },
   {
     "numero": "241",
-    "nome": "Cromo 241",
+    "nome": "Rui Vieira",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/241.jpg"
   },
   {
     "numero": "242",
-    "nome": "Cromo 242",
+    "nome": "Lionn",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/242.jpg"
   },
   {
     "numero": "243",
-    "nome": "Cromo 243",
+    "nome": "Marcão",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/243.jpg"
   },
   {
     "numero": "244",
-    "nome": "Cromo 244",
+    "nome": "Marcelo",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/244.jpg"
   },
   {
     "numero": "245",
-    "nome": "Cromo 245",
+    "nome": "Yuri Ribeiro",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/245.jpg"
   },
   {
     "numero": "246",
-    "nome": "Cromo 246",
+    "nome": "Pelé",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/246.jpg"
   },
   {
     "numero": "247",
-    "nome": "Cromo 247",
+    "nome": "Pedro Moreira",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/247.jpg"
   },
   {
     "numero": "248",
-    "nome": "Cromo 248",
+    "nome": "Tarantini",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/248.jpg"
   },
   {
     "numero": "249",
-    "nome": "Cromo 249",
+    "nome": "Francisco Geraldes",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/249.jpg"
   },
   {
     "numero": "250",
-    "nome": "Cromo 250",
+    "nome": "Rúben Ribeiro",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/250.jpg"
   },
   {
     "numero": "251",
-    "nome": "Cromo 251",
+    "nome": "Óscar Barreto",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/251.jpg"
   },
   {
     "numero": "252",
-    "nome": "Cromo 252",
+    "nome": "Nuno Santos",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/252.jpg"
   },
   {
     "numero": "253",
-    "nome": "Cromo 253",
+    "nome": "João Novais",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/253.jpg"
   },
   {
     "numero": "254",
-    "nome": "Cromo 254",
+    "nome": "Gabrielzinho",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/254.jpg"
   },
   {
     "numero": "255",
-    "nome": "Cromo 255",
+    "nome": "Guedes",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/255.jpg"
   },
   {
     "numero": "256",
-    "nome": "Cromo 256",
+    "nome": "Karamanos",
     "tenho": true,
     "especial": false,
+    "clube": "Rio Ave",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/256.jpg"
   },
   {
     "numero": "257",
-    "nome": "Cromo 257",
+    "nome": "Rui Patrício",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/257.jpg"
   },
   {
     "numero": "258",
-    "nome": "Cromo 258",
+    "nome": "Romain Salin",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/258.jpg"
   },
   {
     "numero": "259",
-    "nome": "Cromo 259",
+    "nome": "Cristiano Piccini",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/259.jpg"
   },
   {
     "numero": "260",
-    "nome": "Cromo 260",
+    "nome": "Sebastián Coates",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/260.jpg"
   },
   {
     "numero": "261",
-    "nome": "Cromo 261",
+    "nome": "Jérémy Mathieu",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/261.jpg"
   },
   {
     "numero": "262",
-    "nome": "Cromo 262",
+    "nome": "André Pinto",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/262.jpg"
   },
   {
     "numero": "263",
-    "nome": "Cromo 263",
+    "nome": "Jonathan Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/263.jpg"
   },
   {
     "numero": "264",
-    "nome": "Cromo 264",
+    "nome": "Fábio Coentrão",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/264.jpg"
   },
   {
     "numero": "265",
-    "nome": "Cromo 265",
+    "nome": "William Carvalho",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/265.jpg"
   },
   {
     "numero": "266",
-    "nome": "Cromo 266",
+    "nome": "Rodrigo Battaglia",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/266.jpg"
   },
   {
     "numero": "267",
-    "nome": "Cromo 267",
+    "nome": "Adrien Silva",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/267.jpg"
   },
   {
     "numero": "267bis",
-    "nome": "Cromo 267bis",
+    "nome": "Radosav Petrovic",
     "tenho": true,
-    "especial": false,
+    "especial": true,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/267bis.jpg"
   },
   {
     "numero": "268",
-    "nome": "Cromo 268",
+    "nome": "Bruno Fernandes",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/268.jpg"
   },
   {
     "numero": "269",
-    "nome": "Cromo 269",
+    "nome": "Marcos Acuña",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/269.jpg"
   },
   {
     "numero": "270",
-    "nome": "Cromo 270",
+    "nome": "Daniel Podence",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/270.jpg"
   },
   {
     "numero": "271",
-    "nome": "Cromo 271",
+    "nome": "Gelson Martins",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/271.jpg"
   },
   {
     "numero": "272",
-    "nome": "Cromo 272",
+    "nome": "Seydou Doumbia",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/272.jpg"
   },
   {
     "numero": "273",
-    "nome": "Cromo 273",
+    "nome": "Bas Dost",
     "tenho": true,
     "especial": false,
+    "clube": "Sporting",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/273.jpg"
   },
   {
     "numero": "274",
-    "nome": "Cromo 274",
+    "nome": "Cláudio Ramos",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/274.jpg"
   },
   {
     "numero": "275",
-    "nome": "Cromo 275",
+    "nome": "Janota",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/275.jpg"
   },
   {
     "numero": "276",
-    "nome": "Cromo 276",
+    "nome": "David Bruno",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/276.jpg"
   },
   {
     "numero": "277",
-    "nome": "Cromo 277",
+    "nome": "Yordan Osorio",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/277.jpg"
   },
   {
     "numero": "278",
-    "nome": "Cromo 278",
+    "nome": "Pité",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/278.jpg"
   },
   {
     "numero": "279",
-    "nome": "Cromo 279",
+    "nome": "Miguel Cardoso",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/279.jpg"
   },
   {
     "numero": "280",
-    "nome": "Cromo 280",
+    "nome": "Ricardo Costa",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/280.jpg"
   },
   {
     "numero": "281",
-    "nome": "Cromo 281",
+    "nome": "Joãozinho",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/281.jpg"
   },
   {
     "numero": "282",
-    "nome": "Cromo 282",
+    "nome": "Claude Gonçalves",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/282.jpg"
   },
   {
     "numero": "283",
-    "nome": "Cromo 283",
+    "nome": "Hélder Tavares",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/283.jpg"
   },
   {
     "numero": "284",
-    "nome": "Cromo 284",
+    "nome": "Bruno Monteiro",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/284.jpg"
   },
   {
     "numero": "285",
-    "nome": "Cromo 285",
+    "nome": "Pedro Nuno",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/285.jpg"
   },
   {
     "numero": "286",
-    "nome": "Cromo 286",
+    "nome": "Tyler Boyd",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/286.jpg"
   },
   {
     "numero": "287",
-    "nome": "Cromo 287",
+    "nome": "Wagner",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/287.jpg"
   },
   {
     "numero": "288",
-    "nome": "Cromo 288",
+    "nome": "Tomané",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/288.jpg"
   },
   {
     "numero": "289",
-    "nome": "Cromo 289",
+    "nome": "Heliardo",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/289.jpg"
   },
   {
     "numero": "290",
-    "nome": "Cromo 290",
+    "nome": "Murilo",
     "tenho": true,
     "especial": false,
+    "clube": "Tondela",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/290.jpg"
   },
   {
     "numero": "291",
-    "nome": "Cromo 291",
+    "nome": "Miguel Silva",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/291.jpg"
   },
   {
     "numero": "292",
-    "nome": "Cromo 292",
+    "nome": "Douglas",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/292.jpg"
   },
   {
     "numero": "293",
-    "nome": "Cromo 293",
+    "nome": "João Aurélio",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/293.jpg"
   },
   {
     "numero": "294",
-    "nome": "Cromo 294",
+    "nome": "Moreno",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/294.jpg"
   },
   {
     "numero": "295",
-    "nome": "Cromo 295",
+    "nome": "Jubal",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/295.jpg"
   },
   {
     "numero": "296",
-    "nome": "Cromo 296",
+    "nome": "Pedro Henrique",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/296.jpg"
   },
   {
     "numero": "297",
-    "nome": "Cromo 297",
+    "nome": "Vigário",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/297.jpg"
   },
   {
     "numero": "298",
-    "nome": "Cromo 298",
+    "nome": "Konan",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/298.jpg"
   },
   {
     "numero": "299",
-    "nome": "Cromo 299",
+    "nome": "Rafael Miranda",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/299.jpg"
   },
   {
     "numero": "300",
-    "nome": "Cromo 300",
+    "nome": "Celis",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/300.jpg"
   },
   {
     "numero": "301",
-    "nome": "Cromo 301",
+    "nome": "Kiko",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/301.jpg"
   },
   {
     "numero": "302",
-    "nome": "Cromo 302",
+    "nome": "Hélder Ferreira",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/302.jpg"
   },
   {
     "numero": "303",
-    "nome": "Cromo 303",
+    "nome": "Raphinha",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/303.jpg"
   },
   {
     "numero": "304",
-    "nome": "Cromo 304",
+    "nome": "Hurtado",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/304.jpg"
   },
   {
     "numero": "305",
-    "nome": "Cromo 305",
+    "nome": "Sturgeon",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/305.jpg"
   },
   {
     "numero": "306",
-    "nome": "Cromo 306",
+    "nome": "Estupiñan",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/306.jpg"
   },
   {
     "numero": "307",
-    "nome": "Cromo 307",
+    "nome": "Rafael Martins",
     "tenho": true,
     "especial": false,
+    "clube": "V. Guimarães",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/307.jpg"
   },
   {
     "numero": "308",
-    "nome": "Cromo 308",
+    "nome": "Trigueira",
     "tenho": true,
     "especial": false,
+    "clube": "V. Setúbal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/308.jpg"
   },
   {
     "numero": "309",
-    "nome": "Cromo 309",
+    "nome": "Cristiano",
     "tenho": true,
     "especial": false,
+    "clube": "V. Setúbal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/309.jpg"
   },
   {
     "numero": "310",
-    "nome": "Cromo 310",
+    "nome": "Arnold",
     "tenho": true,
     "especial": false,
+    "clube": "V. Setúbal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/310.jpg"
   },
   {
     "numero": "311",
-    "nome": "Cromo 311",
+    "nome": "César",
     "tenho": true,
     "especial": false,
+    "clube": "V. Setúbal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/311.jpg"
   },
   {
     "numero": "312",
-    "nome": "Cromo 312",
+    "nome": "Vasco Fernandes",
     "tenho": true,
     "especial": false,
+    "clube": "V. Setúbal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/312.jpg"
   },
   {
     "numero": "313",
-    "nome": "Cromo 313",
+    "nome": "José Semedo",
     "tenho": true,
     "especial": false,
+    "clube": "V. Setúbal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/313.jpg"
   },
   {
     "numero": "314",
-    "nome": "Cromo 314",
+    "nome": "Pedro Pinto",
     "tenho": true,
     "especial": false,
+    "clube": "V. Setúbal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/314.jpg"
   },
   {
     "numero": "315",
-    "nome": "Cromo 315",
+    "nome": "Nuno Pinto",
     "tenho": true,
     "especial": false,
+    "clube": "V. Setúbal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/315.jpg"
   },
   {
     "numero": "316",
-    "nome": "Cromo 316",
+    "nome": "André Pedrosa",
     "tenho": true,
     "especial": false,
+    "clube": "V. Setúbal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/316.jpg"
   },
   {
     "numero": "317",
-    "nome": "Cromo 317",
+    "nome": "Tomás Podstawski",
     "tenho": true,
     "especial": false,
+    "clube": "V. Setúbal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/317.jpg"
   },
   {
     "numero": "318",
-    "nome": "Cromo 318",
+    "nome": "João Teixeira",
     "tenho": true,
     "especial": false,
+    "clube": "V. Setúbal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/318.jpg"
   },
   {
     "numero": "319",
-    "nome": "Cromo 319",
+    "nome": "Costinha",
     "tenho": true,
     "especial": false,
+    "clube": "V. Setúbal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/319.jpg"
   },
   {
     "numero": "320",
-    "nome": "Cromo 320",
+    "nome": "Nené Bonilha",
     "tenho": true,
     "especial": false,
+    "clube": "V. Setúbal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/320.jpg"
   },
   {
     "numero": "321",
-    "nome": "Cromo 321",
+    "nome": "João Amaral",
     "tenho": true,
     "especial": false,
+    "clube": "V. Setúbal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/321.jpg"
   },
   {
     "numero": "322",
-    "nome": "Cromo 322",
+    "nome": "Willyan",
     "tenho": true,
     "especial": false,
+    "clube": "V. Setúbal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/322.jpg"
   },
   {
     "numero": "323",
-    "nome": "Cromo 323",
+    "nome": "Gonçalo Paciência",
     "tenho": true,
     "especial": false,
+    "clube": "V. Setúbal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/323.jpg"
   },
   {
     "numero": "324",
-    "nome": "Cromo 324",
+    "nome": "Edinho",
     "tenho": true,
     "especial": false,
+    "clube": "V. Setúbal",
+    "tipo": "-",
     "imagem": "images/capas/Futebol 2017 2018/324.jpg"
   },
   {
     "numero": "325",
-    "nome": "Cromo 325",
+    "nome": "Marcos Acuña - Sporting",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/325.jpg"
   },
   {
     "numero": "326",
-    "nome": "Cromo 326",
+    "nome": "Rodrigo Battaglia - Sporting",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/326.jpg"
   },
   {
     "numero": "327",
-    "nome": "Cromo 327",
+    "nome": "Bruno Fernandes - Sporting",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/327.jpg"
   },
   {
     "numero": "328",
-    "nome": "Cromo 328",
+    "nome": "Bruno Varela - Benfica",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/328.jpg"
   },
   {
     "numero": "329",
-    "nome": "Cromo 329",
+    "nome": "Seydou Doumbia - Sporting",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/329.jpg"
   },
   {
     "numero": "330",
-    "nome": "Cromo 330",
+    "nome": "Estupiñan - V. Guimarães",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/330.jpg"
   },
   {
     "numero": "331",
-    "nome": "Cromo 331",
+    "nome": "Fábio Coentrão - Sporting",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/331.jpg"
   },
   {
     "numero": "332",
-    "nome": "Cromo 332",
+    "nome": "Fransérgio - Braga",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/332.jpg"
   },
   {
     "numero": "333",
-    "nome": "Cromo 333",
+    "nome": "Gonçalo Paciência - V. Setúbal",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/333.jpg"
   },
   {
     "numero": "334",
-    "nome": "Cromo 334",
+    "nome": "Jorginho - Chaves",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/334.jpg"
   },
   {
     "numero": "335",
-    "nome": "Cromo 335",
+    "nome": "Marega - Porto",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/335.jpg"
   },
   {
     "numero": "336",
-    "nome": "Cromo 336",
+    "nome": "Jérémy Mathieu - Sporting",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/336.jpg"
   },
   {
     "numero": "337",
-    "nome": "Cromo 337",
+    "nome": "Óscar Barreto - Rio Ave",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/337.jpg"
   },
   {
     "numero": "338",
-    "nome": "Cromo 338",
+    "nome": "Rafael Costa - Moreirense",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/338.jpg"
   },
   {
     "numero": "339",
-    "nome": "Cromo 339",
+    "nome": "Ricardo Pereira - Porto",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/339.jpg"
   },
   {
     "numero": "340",
-    "nome": "Cromo 340",
+    "nome": "Ricardo Valente - Marítimo",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/340.jpg"
   },
   {
     "numero": "341",
-    "nome": "Cromo 341",
+    "nome": "Haris Seferovic - Benfica",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/341.jpg"
   },
   {
     "numero": "342",
-    "nome": "Cromo 342",
+    "nome": "Xavier - Paços de Ferreira",
     "tenho": true,
     "especial": false,
+    "clube": "Top Aquisições",
+    "tipo": "foil",
     "imagem": "images/capas/Futebol 2017 2018/342.jpg"
   },
   {
     "numero": "343",
-    "nome": "Cromo 343",
+    "nome": "Adrien Silva - Sporting",
     "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/343.jpg"
   },
   {
     "numero": "344",
-    "nome": "Cromo 344",
+    "nome": "André Almeida - Benfica",
     "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/344.jpg"
   },
   {
     "numero": "345",
-    "nome": "Cromo 345",
+    "nome": "André Gomes - Barcelona",
     "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/345.jpg"
   },
   {
     "numero": "346",
-    "nome": "Cromo 346",
+    "nome": "André Silva - Milan",
     "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/346.jpg"
   },
   {
     "numero": "347",
-    "nome": "Cromo 347",
+    "nome": "Antunes - Getafe",
     "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/347.jpg"
   },
   {
     "numero": "348",
-    "nome": "Cromo 348",
+    "nome": "Bernardo Silva - Manchester City",
     "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/348.jpg"
   },
   {
     "numero": "349",
-    "nome": "Cromo 349",
-    "tenho": false,
+    "nome": "Cédric Soares - Southampton",
+    "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/349.jpg"
   },
   {
     "numero": "350",
-    "nome": "Cromo 350",
-    "tenho": false,
+    "nome": "Cristiano Ronaldo - Real Madrid",
+    "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/350.jpg"
   },
   {
     "numero": "351",
-    "nome": "Cromo 351",
-    "tenho": false,
+    "nome": "Danilo Pereira - Porto",
+    "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/351.jpg"
   },
   {
     "numero": "352",
-    "nome": "Cromo 352",
+    "nome": "Gelson Martins - Sporting",
     "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/352.jpg"
   },
   {
     "numero": "353",
-    "nome": "Cromo 353",
-    "tenho": false,
+    "nome": "Gonçalo Guedes - Paris Saint-Germain",
+    "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/353.jpg"
   },
   {
     "numero": "354",
-    "nome": "Cromo 354",
-    "tenho": false,
+    "nome": "João Mário - Inter",
+    "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/354.jpg"
   },
   {
     "numero": "355",
-    "nome": "Cromo 355",
-    "tenho": false,
+    "nome": "João Moutinho - Mónaco",
+    "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/355.jpg"
   },
   {
     "numero": "356",
-    "nome": "Cromo 356",
-    "tenho": false,
+    "nome": "José Fonte - West Ham United",
+    "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/356.jpg"
   },
   {
     "numero": "357",
-    "nome": "Cromo 357",
+    "nome": "Kevin Rodrigues - Real Sociedad",
     "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/357.jpg"
   },
   {
     "numero": "358",
-    "nome": "Cromo 358",
+    "nome": "Nani - Valência",
     "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/358.jpg"
   },
   {
     "numero": "359",
-    "nome": "Cromo 359",
+    "nome": "Nélson Semedo - Barcelona",
     "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/359.jpg"
   },
   {
     "numero": "360",
-    "nome": "Cromo 360",
+    "nome": "Paulo Oliveira - Eibar",
     "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/360.jpg"
   },
   {
     "numero": "361",
-    "nome": "Cromo 361",
+    "nome": "Pepe - Besiktas",
     "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/361.jpg"
   },
   {
     "numero": "362",
-    "nome": "Cromo 362",
+    "nome": "Pizzi - Benfica",
     "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/362.jpg"
   },
   {
     "numero": "363",
-    "nome": "Cromo 363",
-    "tenho": false,
+    "nome": "Quaresma - Besiktas",
+    "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/363.jpg"
   },
   {
     "numero": "364",
-    "nome": "Cromo 364",
-    "tenho": false,
+    "nome": "Raphaël Guerreiro - Borussia Dortmund",
+    "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/364.jpg"
   },
   {
     "numero": "365",
-    "nome": "Cromo 365",
+    "nome": "Renato Sanches - FC Bayern München",
     "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/365.jpg"
   },
   {
     "numero": "366",
-    "nome": "Cromo 366",
-    "tenho": false,
+    "nome": "Rúben Semedo - Villarreal",
+    "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/366.jpg"
   },
   {
     "numero": "367",
-    "nome": "Cromo 367",
+    "nome": "Rui Patrício - Sporting",
     "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/367.jpg"
   },
   {
     "numero": "368",
-    "nome": "Cromo 368",
+    "nome": "William Carvalho - Sporting",
     "tenho": true,
     "especial": false,
+    "clube": "Top Stars",
     "imagem": "images/capas/Futebol 2017 2018/368.jpg"
   },
   {
     "numero": "369",
-    "nome": "Cromo 369",
+    "nome": "Mama Baldé - Aves",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/369.jpg"
   },
   {
     "numero": "370",
-    "nome": "Cromo 370",
-    "tenho": false,
+    "nome": "Bouba Saré - Belenenses",
+    "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/370.jpg"
   },
   {
     "numero": "371",
-    "nome": "Cromo 371",
-    "tenho": false,
+    "nome": "Douglas - Benfica",
+    "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/371.jpg"
   },
   {
     "numero": "372",
-    "nome": "Cromo 372",
-    "tenho": false,
+    "nome": "Filip Krovinovic - Benfica",
+    "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/372.jpg"
   },
   {
     "numero": "373",
-    "nome": "Cromo 373",
-    "tenho": false,
+    "nome": "Gabriel Barbosa - Benfica",
+    "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/373.jpg"
   },
   {
     "numero": "374",
-    "nome": "Cromo 374",
-    "tenho": false,
+    "nome": "Rui Pedro - Boavista",
+    "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/374.jpg"
   },
   {
     "numero": "375",
-    "nome": "Cromo 375",
+    "nome": "João Carlos Teixeira - Braga",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/375.jpg"
   },
   {
     "numero": "376",
-    "nome": "Cromo 376",
+    "nome": "Paulinho - Braga",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/376.jpg"
   },
   {
     "numero": "377",
-    "nome": "Cromo 377",
+    "nome": "Djavan - Chaves",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/377.jpg"
   },
   {
     "numero": "378",
-    "nome": "Cromo 378",
-    "tenho": false,
+    "nome": "Pedro Rodrigues - Estoril",
+    "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/378.jpg"
   },
   {
     "numero": "379",
-    "nome": "Cromo 379",
+    "nome": "João Silva - Feirense",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/379.jpg"
   },
   {
     "numero": "380",
-    "nome": "Cromo 380",
-    "tenho": false,
+    "nome": "Fábio Pacheco - Marítimo",
+    "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/380.jpg"
   },
   {
     "numero": "381",
-    "nome": "Cromo 381",
-    "tenho": false,
+    "nome": "Tozé - Moreirense",
+    "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/381.jpg"
   },
   {
     "numero": "382",
-    "nome": "Cromo 382",
-    "tenho": false,
+    "nome": "Zizo - Moreirense",
+    "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/382.jpg"
   },
   {
     "numero": "383",
-    "nome": "Cromo 383",
-    "tenho": false,
+    "nome": "Rui Correia - Paços de Ferreira",
+    "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/383.jpg"
   },
   {
     "numero": "384",
-    "nome": "Cromo 384",
-    "tenho": false,
+    "nome": "Hackman - Portimonense",
+    "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/384.jpg"
   },
   {
     "numero": "385",
-    "nome": "Cromo 385",
+    "nome": "Shoya Nakajima - Portimonense",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/385.jpg"
   },
   {
     "numero": "386",
-    "nome": "Cromo 386",
-    "tenho": false,
+    "nome": "Diego Reyes - Porto",
+    "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/386.jpg"
   },
   {
     "numero": "387",
-    "nome": "Cromo 387",
-    "tenho": false,
+    "nome": "Sérgio Oliveira - Porto",
+    "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/387.jpg"
   },
   {
     "numero": "388",
-    "nome": "Cromo 388",
-    "tenho": false,
+    "nome": "Hernâni - Porto",
+    "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/388.jpg"
   },
   {
     "numero": "389",
-    "nome": "Cromo 389",
-    "tenho": false,
+    "nome": "Carlos Alves - Rio Ave",
+    "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/389.jpg"
   },
   {
     "numero": "390",
-    "nome": "Cromo 390",
-    "tenho": false,
+    "nome": "Stefan Ristovski - Sporting",
+    "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/390.jpg"
   },
   {
     "numero": "391",
-    "nome": "Cromo 391",
+    "nome": "Iuri Medeiros - Sporting",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/391.jpg"
   },
   {
     "numero": "392",
-    "nome": "Cromo 392",
-    "tenho": false,
+    "nome": "Nick Ansell - Tondela",
+    "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/392.jpg"
   },
   {
     "numero": "393",
-    "nome": "Cromo 393",
-    "tenho": false,
+    "nome": "Victor García - V. Guimarães",
+    "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/393.jpg"
   },
   {
     "numero": "394",
-    "nome": "Cromo 394",
-    "tenho": false,
+    "nome": "Wakaso - V. Guimarães",
+    "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/394.jpg"
   },
   {
     "numero": "395",
-    "nome": "Cromo 395",
+    "nome": "Yannick Djaló - V. Setúbal",
     "tenho": true,
     "especial": false,
+    "clube": "Ultimas Aquisições",
     "imagem": "images/capas/Futebol 2017 2018/395.jpg"
   }
 ]
