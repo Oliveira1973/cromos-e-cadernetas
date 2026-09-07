@@ -1383,10 +1383,32 @@ async function gravarFalta(cadernetaId, cadernetaNome, numero, nomeCromo, falta)
   if(!repetidosAtivo()) return;
   const uid = auth.currentUser.uid;
   try{
-    await db.collection('faltas').doc(idFalta(uid, cadernetaId, numero)).set({
-      uid, cadernetaId, cadernetaNome, numero, nomeCromo, falta,
-      atualizadoEm: firebase.firestore.FieldValue.serverTimestamp()
-    });
+    // algumas cadernetas foram importadas em massa há muito tempo com um
+    // esquema de id ligeiramente diferente do de hoje (o mesmo problema já
+    // documentado em removerDoPortfolio, para os documentos de portefólio)
+    // -- por isso pode existir, para a mesma pessoa+caderneta+número, um
+    // documento "antigo" esquecido, sob outro id, que nunca mais era
+    // atualizado. Isso fazia a falta "reaparecer" sempre que a página
+    // recarregava, mesmo depois de marcada como resolvida. Por isso, em
+    // vez de confiar só no id de hoje, procuramos TODOS os documentos de
+    // faltas desta caderneta (já há índice para isto, usado também ao
+    // sair do portefólio) e corrigimos todos os que sejam deste número.
+    const snap = await db.collection('faltas')
+      .where('uid','==',uid)
+      .where('cadernetaId','==',cadernetaId)
+      .get();
+    const idsAAtualizar = new Set(
+      snap.docs.filter(doc => doc.data().numero === numero).map(doc => doc.id)
+    );
+    idsAAtualizar.add(idFalta(uid, cadernetaId, numero));
+
+    await Promise.all([...idsAAtualizar].map(docId =>
+      db.collection('faltas').doc(docId).set({
+        uid, cadernetaId, cadernetaNome, numero, nomeCromo, falta,
+        atualizadoEm: firebase.firestore.FieldValue.serverTimestamp()
+      })
+    ));
+
     if(!faltasGlobais.has(cadernetaId)) faltasGlobais.set(cadernetaId, new Map());
     if(falta) faltasGlobais.get(cadernetaId).set(numero, true);
     else faltasGlobais.get(cadernetaId).delete(numero);
@@ -1416,15 +1438,31 @@ async function gravarRepetido(cadernetaId, cadernetaNome, numero, nomeCromo, qua
   if(!repetidosAtivo()) return;
   const uid = auth.currentUser.uid;
   try{
+    // mesma proteção aplicada em gravarFalta: cadernetas importadas em
+    // massa há muito tempo podem ter um documento "antigo" sob outro id
+    // para o mesmo número, que nunca mais era atualizado e fazia o
+    // repetido reaparecer -- por isso procuramos e corrigimos todos os
+    // documentos desta caderneta que sejam deste número, não só o de hoje
+    const snap = await db.collection('repetidos')
+      .where('uid','==',uid)
+      .where('cadernetaId','==',cadernetaId)
+      .get();
+    const idsAAtualizar = new Set(
+      snap.docs.filter(doc => doc.data().numero === numero).map(doc => doc.id)
+    );
+    idsAAtualizar.add(idRepetido(uid, cadernetaId, numero));
+
     // gravamos sempre (mesmo quantidade=0) em vez de apagar -- assim só
     // precisamos de permissão de escrita nas regras do Firestore, nunca
     // de permissão de apagar. O resto do site já ignora quantidade<=0.
-    await db.collection('repetidos').doc(idRepetido(uid, cadernetaId, numero)).set({
-      uid, email: auth.currentUser.email,
-      cadernetaId, cadernetaNome, numero, nomeCromo,
-      quantidade,
-      atualizadoEm: firebase.firestore.FieldValue.serverTimestamp()
-    });
+    await Promise.all([...idsAAtualizar].map(docId =>
+      db.collection('repetidos').doc(docId).set({
+        uid, email: auth.currentUser.email,
+        cadernetaId, cadernetaNome, numero, nomeCromo,
+        quantidade,
+        atualizadoEm: firebase.firestore.FieldValue.serverTimestamp()
+      })
+    ));
     if(quantidade > 0) repetidosAtual.set(numero, quantidade);
     else repetidosAtual.delete(numero);
   }catch(err){
