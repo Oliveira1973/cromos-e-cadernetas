@@ -414,6 +414,7 @@
     margin-bottom:10px;
   }
   .tema-card .tema-logo img{ max-height:44px; max-width:100%; object-fit:contain; }
+  .tema-card .tema-logo .tema-emoji{ font-size:2.1rem; line-height:1; }
   .tema-card h3{
     font-family:'Anton', sans-serif; font-weight:400;
     font-size:1.05rem; margin:0 0 6px; line-height:1.1;
@@ -2243,11 +2244,21 @@ document.getElementById('btnVerPortfolio').addEventListener('click', ()=>abrirMe
 
 // ordem fixa dos temas principais; qualquer tema novo que apareça nos
 // dados aparece depois destes, por ordem alfabética
-const TEMAS_ORDEM = ['Mundiais', 'Europeus', 'Liga Portuguesa'];
+const TEMAS_ORDEM = [
+  'Mundiais', 'Europeus', 'Liga Portuguesa',
+  'Liga Inglesa', 'Liga Espanhola', 'Liga Italiana', 'Liga Alemã', 'Liga Francesa'
+];
 const TEMA_LOGOS = {
   'Mundiais': 'images/temas/fifa.svg',
   'Europeus': 'images/temas/uefa.svg',
-  'Liga Portuguesa': 'images/temas/liga-portugal.png'
+  'Liga Portuguesa': 'images/temas/liga-portugal.png',
+  // sem logo próprio ainda -- usa a bandeira do país como referência visual
+  // rápida; troca por 'images/temas/<ficheiro>' assim que tiveres um logo
+  'Liga Inglesa': '🇬🇧',
+  'Liga Espanhola': '🇪🇸',
+  'Liga Italiana': '🇮🇹',
+  'Liga Alemã': '🇩🇪',
+  'Liga Francesa': '🇫🇷'
 };
 
 async function abrirMeuPortfolio(pushHistory=true, temaSelecionado=null){
@@ -2339,8 +2350,12 @@ function renderTemasPortfolio(conteudo, minhas){
     card.tabIndex = 0;
     card.setAttribute('role', 'button');
     const logo = TEMA_LOGOS[tema];
+    const ehImagem = logo && (logo.startsWith('images/') || logo.startsWith('http'));
+    const logoHtml = ehImagem
+      ? `<img src="${resolvePath(logo)}" alt="${tema}">`
+      : `<span class="tema-emoji">${logo || '📁'}</span>`;
     card.innerHTML = `
-      <div class="tema-logo">${logo ? `<img src="${resolvePath(logo)}" alt="${tema}">` : '📁'}</div>
+      <div class="tema-logo">${logoHtml}</div>
       <h3>${tema}</h3>
       <div class="tema-count">${n} caderneta${n===1 ? '' : 's'}</div>
     `;
