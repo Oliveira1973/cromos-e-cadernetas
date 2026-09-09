@@ -162,6 +162,53 @@
   .botao-secundario:hover{ background:#1f4e47; }
   .modo-botoes{ display:flex; gap:10px; flex-wrap:wrap; margin-bottom:16px; }
   .botao-secundario.ativo{ background:var(--stamp-red); }
+
+  /* caixa que agrupa o separador de vistas e as ações do portefólio numa
+     única linha (quebra em ecrãs estreitos) */
+  .detail-toolbar-card{
+    border:1.5px dashed var(--ink);
+    border-radius:6px;
+    padding:16px 18px 2px;
+    margin-bottom:18px;
+    background:var(--card-bg);
+  }
+  .detail-toolbar{
+    display:flex;
+    flex-wrap:wrap;
+    gap:14px 22px;
+    align-items:flex-start;
+    justify-content:space-between;
+  }
+  /* separador "Mostrar todos / Repetidos / Faltas" em pastilha única */
+  .detail-toolbar .modo-botoes{
+    display:inline-flex;
+    gap:2px;
+    border:2px solid var(--ink);
+    border-radius:7px;
+    padding:3px;
+    background:var(--paper);
+    box-shadow:2px 2px 0 var(--paper-darker);
+  }
+  .detail-toolbar .modo-botoes .botao-secundario{
+    background:transparent;
+    color:var(--ink);
+    border:none;
+    border-radius:4px;
+  }
+  .detail-toolbar .modo-botoes .botao-secundario:hover{ background:var(--paper-dark); }
+  .detail-toolbar .modo-botoes .botao-secundario.ativo,
+  .detail-toolbar .modo-botoes .botao-secundario.ativo:hover{
+    background:var(--ink);
+    color:var(--paper);
+  }
+  /* "ver trocas possíveis" e "remover do portefólio" com contorno colorido */
+  .portfolio-acoes-linha{ display:flex; gap:10px; flex-wrap:wrap; align-items:center; margin-bottom:14px; }
+  .portfolio-acoes-linha .botao-secundario{
+    background:var(--paper);
+    color:var(--teal);
+    border:2px solid var(--teal);
+  }
+  .portfolio-acoes-linha .botao-secundario:hover{ background:var(--teal); color:var(--paper); }
   .toolbar input[type="search"], .toolbar select{
     font-family:'Work Sans', sans-serif;
     font-size:0.9rem;
@@ -270,25 +317,28 @@
   .portfolio-btn.no-portfolio{ background:var(--teal); }
   .portfolio-btn:disabled{ opacity:0.6; cursor:default; }
 
-  #portfolioPainel{ margin-bottom:20px; }
   .portfolio-btn-detalhe{
+    /* "Adicionar ao meu portefólio" -- ação positiva, botão cheio */
     font-family:'Space Mono', monospace; font-size:0.8rem; font-weight:700;
     padding:9px 16px; border:2px solid var(--ink); border-radius:2px;
-    background:var(--stamp-red); color:var(--paper); cursor:pointer;
+    background:var(--teal); color:var(--paper); cursor:pointer;
   }
   .portfolio-btn-detalhe.no-portfolio{
-    background:var(--teal);
-    font-size:0.66rem;
-    padding:6px 10px;
+    /* já está no portefólio -- ação de remover, contorno vermelho */
+    background:var(--paper);
+    color:var(--stamp-red);
+    border-color:var(--stamp-red);
+    font-size:0.72rem;
+    padding:8px 14px;
   }
+  .portfolio-btn-detalhe.no-portfolio:hover{ background:var(--stamp-red); color:var(--paper); }
   .portfolio-btn-detalhe:disabled{ opacity:0.6; cursor:default; }
   .portfolio-aviso{
-    margin-top:8px;
+    margin-top:0;
     font-family:'Space Mono', monospace; font-size:0.72rem;
     color:var(--ink-soft);
     max-width:480px;
   }
-  .portfolio-acoes-linha{ display:flex; gap:10px; flex-wrap:wrap; align-items:center; }
   #trocasResultado{ margin-top:14px; }
   .trocas-resultado .empty{ padding:14px 0; text-align:left; }
   .troca-pessoa{
@@ -906,24 +956,28 @@
       </div>
     </div>
 
-    <div id="portfolioPainel" style="display:none;">
-      <div class="portfolio-acoes-linha">
-        <button type="button" id="btnVerTrocas" class="botao-secundario" style="display:none;">🔍 Ver trocas possíveis</button>
-        <button type="button" id="btnTogglePortfolio" class="portfolio-btn-detalhe"></button>
-      </div>
-      <div id="portfolioAviso" class="portfolio-aviso">
-        As estatísticas acima mostram o catálogo geral. Adiciona esta caderneta ao teu portefólio para começares a marcar as tuas próprias faltas e repetidos.
-      </div>
-      <div id="trocasResultado" class="trocas-resultado"></div>
-    </div>
+    <div class="detail-toolbar-card" id="detailToolbarCard" style="display:none;">
+      <div class="detail-toolbar">
+        <div id="modoEscolha" style="display:none;">
+          <div class="modo-botoes">
+            <button type="button" id="btnModoTodos" class="botao-secundario ativo">📖 Mostrar todos</button>
+            <button type="button" id="btnModoRepetidos" class="botao-secundario">🔁 Os meus repetidos</button>
+            <button type="button" id="btnModoFaltas" class="botao-secundario">❌ As minhas faltas</button>
+          </div>
+          <div class="modo-contagem" id="modoContagem"></div>
+        </div>
 
-    <div id="modoEscolha" style="display:none;">
-      <div class="modo-botoes">
-        <button type="button" id="btnModoTodos" class="botao-secundario ativo">📖 Mostrar todos</button>
-        <button type="button" id="btnModoRepetidos" class="botao-secundario">🔁 Os meus repetidos</button>
-        <button type="button" id="btnModoFaltas" class="botao-secundario">❌ As minhas faltas</button>
+        <div id="portfolioPainel" style="display:none;">
+          <div class="portfolio-acoes-linha">
+            <button type="button" id="btnVerTrocas" class="botao-secundario" style="display:none;">🔍 Ver trocas possíveis</button>
+            <button type="button" id="btnTogglePortfolio" class="portfolio-btn-detalhe"></button>
+          </div>
+          <div id="portfolioAviso" class="portfolio-aviso">
+            As estatísticas acima mostram o catálogo geral. Adiciona esta caderneta ao teu portefólio para começares a marcar as tuas próprias faltas e repetidos.
+          </div>
+          <div id="trocasResultado" class="trocas-resultado"></div>
+        </div>
       </div>
-      <div class="modo-contagem" id="modoContagem"></div>
     </div>
 
     <div id="cromosArea" style="display:none;">
@@ -1711,6 +1765,7 @@ function atualizarPainelPortfolio(cadernetaId){
 
   if(!repetidosAtivo()){
     wrap.style.display = 'none';
+    atualizarCartaoToolbar();
     return;
   }
 
@@ -1730,6 +1785,7 @@ function atualizarPainelPortfolio(cadernetaId){
     }
     document.getElementById('btnVerTrocas').style.display = 'none';
     document.getElementById('trocasResultado').innerHTML = '';
+    atualizarCartaoToolbar();
     return;
   }
 
@@ -1741,6 +1797,18 @@ function atualizarPainelPortfolio(cadernetaId){
   aviso.textContent = 'Adiciona esta caderneta ao teu portefólio para começares a marcar as tuas próprias faltas e repetidos.';
   document.getElementById('btnVerTrocas').style.display = estaNoPortfolio ? '' : 'none';
   document.getElementById('trocasResultado').innerHTML = '';
+  atualizarCartaoToolbar();
+}
+
+// mostra a caixa tracejada que agrupa o separador de vistas e as ações do
+// portefólio só quando pelo menos um dos dois grupos lá dentro está visível
+// (evita uma caixa vazia quando nenhum dos dois se aplica)
+function atualizarCartaoToolbar(){
+  const card = document.getElementById('detailToolbarCard');
+  if(!card) return;
+  const escolhaVisivel = document.getElementById('modoEscolha').style.display !== 'none';
+  const painelVisivel = document.getElementById('portfolioPainel').style.display !== 'none';
+  card.style.display = (escolhaVisivel || painelVisivel) ? '' : 'none';
 }
 
 function atualizarBotoesModo(){
