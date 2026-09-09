@@ -288,8 +288,8 @@
     color:var(--ink-soft);
     max-width:480px;
   }
-  #trocasPainel{ margin-top:14px; }
-  #trocasPainel .botao-secundario{ margin-bottom:10px; }
+  .portfolio-acoes-linha{ display:flex; gap:10px; flex-wrap:wrap; align-items:center; }
+  #trocasResultado{ margin-top:14px; }
   .trocas-resultado .empty{ padding:14px 0; text-align:left; }
   .troca-pessoa{
     background:var(--card-bg);
@@ -907,18 +907,19 @@
     </div>
 
     <div id="portfolioPainel" style="display:none;">
-      <button type="button" id="btnTogglePortfolio" class="portfolio-btn-detalhe"></button>
+      <div class="portfolio-acoes-linha">
+        <button type="button" id="btnVerTrocas" class="botao-secundario" style="display:none;">🔍 Ver trocas possíveis</button>
+        <button type="button" id="btnTogglePortfolio" class="portfolio-btn-detalhe"></button>
+      </div>
       <div id="portfolioAviso" class="portfolio-aviso">
         As estatísticas acima mostram o catálogo geral. Adiciona esta caderneta ao teu portefólio para começares a marcar as tuas próprias faltas e repetidos.
       </div>
-      <div id="trocasPainel" style="display:none;">
-        <button type="button" id="btnVerTrocas" class="botao-secundario">🔍 Ver trocas possíveis</button>
-        <div id="trocasResultado" class="trocas-resultado"></div>
-      </div>
+      <div id="trocasResultado" class="trocas-resultado"></div>
     </div>
 
     <div id="modoEscolha" style="display:none;">
       <div class="modo-botoes">
+        <button type="button" id="btnModoTodos" class="botao-secundario ativo">📖 Mostrar todos</button>
         <button type="button" id="btnModoRepetidos" class="botao-secundario">🔁 Os meus repetidos</button>
         <button type="button" id="btnModoFaltas" class="botao-secundario">❌ As minhas faltas</button>
       </div>
@@ -1727,7 +1728,7 @@ function atualizarPainelPortfolio(cadernetaId){
     } else {
       wrap.style.display = 'none';
     }
-    document.getElementById('trocasPainel').style.display = 'none';
+    document.getElementById('btnVerTrocas').style.display = 'none';
     document.getElementById('trocasResultado').innerHTML = '';
     return;
   }
@@ -1738,14 +1739,16 @@ function atualizarPainelPortfolio(cadernetaId){
   btn.className = 'portfolio-btn-detalhe' + (estaNoPortfolio ? ' no-portfolio' : '');
   aviso.style.display = estaNoPortfolio ? 'none' : 'block';
   aviso.textContent = 'Adiciona esta caderneta ao teu portefólio para começares a marcar as tuas próprias faltas e repetidos.';
-  document.getElementById('trocasPainel').style.display = estaNoPortfolio ? 'block' : 'none';
+  document.getElementById('btnVerTrocas').style.display = estaNoPortfolio ? '' : 'none';
   document.getElementById('trocasResultado').innerHTML = '';
 }
 
 function atualizarBotoesModo(){
+  const btnTodos = document.getElementById('btnModoTodos');
   const btnRep = document.getElementById('btnModoRepetidos');
   const btnFal = document.getElementById('btnModoFaltas');
   if(!btnRep || !btnFal) return;
+  if(btnTodos) btnTodos.classList.toggle('ativo', modoAtual === null);
   btnRep.classList.toggle('ativo', modoAtual === 'repetidos');
   btnFal.classList.toggle('ativo', modoAtual === 'faltas');
 
@@ -1763,12 +1766,12 @@ function atualizarBotoesModo(){
   }
 }
 
-// mostra o painel de "adicionar/remover em lote" só quando há um modo
-// escolhido (precisa de saber se é para marcar repetidos ou faltas); o
-// painel de exportar fica sempre visível dentro do acompanhamento pessoal
+// tanto o painel de "adicionar/remover em lote" como o de "exportar as
+// minhas listas" só fazem sentido depois de escolher um modo (repetidos
+// ou faltas) -- com "mostrar todos" ativo (modoAtual===null) ficam ocultos
 function atualizarVisibilidadePaineis(){
   document.getElementById('modoBulkWrap').style.display = (modoPessoalAtual && modoAtual) ? '' : 'none';
-  document.getElementById('modoExportWrap').style.display = modoPessoalAtual ? '' : 'none';
+  document.getElementById('modoExportWrap').style.display = (modoPessoalAtual && modoAtual) ? '' : 'none';
 }
 
 function escolherModo(modo){
@@ -1782,6 +1785,7 @@ function escolherModo(modo){
   document.getElementById('cromosArea').scrollIntoView({behavior:'smooth', block:'start'});
 }
 
+document.getElementById('btnModoTodos')?.addEventListener('click', ()=>escolherModo(null));
 document.getElementById('btnModoRepetidos').addEventListener('click', ()=>escolherModo('repetidos'));
 document.getElementById('btnModoFaltas').addEventListener('click', ()=>escolherModo('faltas'));
 
