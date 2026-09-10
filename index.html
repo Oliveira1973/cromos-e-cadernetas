@@ -657,7 +657,7 @@
     display:flex;
     flex-wrap:wrap;
     align-items:flex-start;
-    gap:8px;
+    gap:3px;
   }
   /* quando a caderneta tem dados que sirvam para agrupar os cromos por
      equipa/secção (ver obterAgrupamento no JS), cada secção fica dentro
@@ -679,7 +679,7 @@
   }
   .cromo{
     position:relative;
-    width:120px;
+    width:50px;
     height:auto;
     border:2px solid var(--ink);
     border-radius:2px;
@@ -696,19 +696,19 @@
   }
   .cromo.tenho{ border-color:var(--teal); }
   .cromo.falta{ border-style:dashed; color:var(--ink-soft); }
-  .cromo.grande{ width:170px; }
+  .cromo.grande{ width:71px; }
   /* moldura "de pé" (retrato) -- tamanho fixo, igual para todos os cromos
      deste tipo. As fotos "deitadas" (largura maior que altura) usam a
      moldura .deitado logo a seguir, também de tamanho fixo mas na
      proporção contrária. Cada cromo só recebe uma das duas -- nunca uma
      moldura "genérica" que sirva mal às duas orientações. */
   .cromo .conteudo{
-    height:160px;
+    height:67px;
     background:var(--card-bg);
   }
-  .cromo.deitado{ width:160px; }
-  .cromo.deitado .conteudo{ height:120px; }
-  .cromo.grande .conteudo{ height:306px; }
+  .cromo.deitado{ width:67px; }
+  .cromo.deitado .conteudo{ height:50px; }
+  .cromo.grande .conteudo{ height:128px; }
   .cromo.tenho .conteudo{ background:#dfe9d8; }
   .cromo.falta .conteudo{
     background:repeating-linear-gradient(45deg, var(--paper-darker), var(--paper-darker) 4px, var(--card-bg) 4px, var(--card-bg) 8px);
@@ -725,7 +725,7 @@
   .cromo .legenda{
     display:flex; align-items:center; gap:4px;
     background:var(--ink);
-    padding:3px 4px;
+    padding:1px 2px;
     min-width:0;
   }
   .cromo.falta .legenda{ background:var(--ink-soft); }
@@ -743,24 +743,24 @@
     flex-shrink:0;
     background:var(--stamp-red);
     color:var(--paper);
-    font-size:0.68rem;
+    font-size:0.28rem;
     font-weight:700;
-    padding:1px 5px;
+    padding:1px 2px;
     border-radius:2px;
   }
-  .cromo.grande .legenda .num{ font-size:0.82rem; padding:2px 7px; }
+  .cromo.grande .legenda .num{ font-size:0.34rem; padding:1px 3px; }
   .cromo .legenda .nome{
     display:block;
     margin-top:0;
     color:var(--paper);
-    font-size:0.6rem;
+    font-size:0.25rem;
     line-height:1.2;
     overflow:hidden;
     text-overflow:ellipsis;
     white-space:nowrap;
     min-width:0;
   }
-  .cromo.grande .legenda .nome{ font-size:0.72rem; }
+  .cromo.grande .legenda .nome{ font-size:0.3rem; }
   .cromo .star{
     position:absolute; top:-7px; right:-7px;
     width:18px; height:18px;
