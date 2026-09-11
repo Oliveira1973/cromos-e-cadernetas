@@ -659,6 +659,11 @@
     align-items:flex-start;
     gap:5px;
   }
+  /* usado para forçar o cromo que abre a secção de uma equipa (o emblema,
+     normalmente uma foto paisagem) a ficar sozinho na sua própria linha,
+     com os jogadores a seguir sempre a começar numa linha nova -- ver
+     "quebra-linha" no JS (renderCromosGrid) */
+  .quebra-linha{ flex-basis:100%; width:0; height:0; margin:0; padding:0; }
   /* quando a caderneta tem dados que sirvam para agrupar os cromos por
      equipa/secção (ver obterAgrupamento no JS), cada secção fica dentro
      de ".grupo-cromos", com o nome por cima e a grelha desses cromos por
@@ -2116,6 +2121,15 @@ function renderCromosGrid(cromos){
     // e clube (a foto só aparece se o cromo tiver uma associada)
     el.addEventListener('click', ()=> abrirLightbox(cr));
     gradeAtual.appendChild(el);
+    // o cromo que abre a secção de uma equipa ("Plantel - <Equipa>") é o
+    // emblema/foto de grupo -- fica sempre sozinho na primeira linha, mesmo
+    // que ainda não tenha foto carregada (não dá para confiar só na
+    // orientação real da imagem, porque nem todas as cadernetas têm fotos)
+    if(agrupamento && /^plantel\s*-\s*/i.test((cr.nome || '').trim())){
+      const quebra = document.createElement('div');
+      quebra.className = 'quebra-linha';
+      gradeAtual.appendChild(quebra);
+    }
   });
 
   atualizarExportPessoal(cadernetaId, cromos, emPortfolio);
