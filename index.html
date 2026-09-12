@@ -2121,14 +2121,14 @@ function renderCromosGrid(cromos){
     // e clube (a foto só aparece se o cromo tiver uma associada)
     el.addEventListener('click', ()=> abrirLightbox(cr));
     gradeAtual.appendChild(el);
-    // o cromo que abre a secção de uma equipa (chamado só "Plantel", ou
-    // "Plantel - <Equipa>" consoante a caderneta) é o emblema/foto de
-    // grupo -- fica sempre sozinho na primeira linha, mesmo que ainda não
-    // tenha foto carregada (não dá para confiar só na orientação real da
-    // imagem, porque nem todas as cadernetas têm fotos). \b em vez de
-    // exigir o travessão, porque nem todas as cadernetas têm "- Equipa"
-    // a seguir a "Plantel" (ex: Futebol 2025/2026 usa só "Plantel")
-    if(agrupamento && /^plantel\b/i.test((cr.nome || '').trim())){
+    // o cromo que abre a secção de uma equipa (chamado "Plantel", "Team"
+    // ou "Equipa", sozinho ou seguido de "- <Equipa>" consoante a
+    // caderneta) é o emblema/foto de grupo -- fica sempre sozinho na
+    // primeira linha, mesmo que ainda não tenha foto carregada (não dá
+    // para confiar só na orientação real da imagem, porque nem todas as
+    // cadernetas têm fotos). \b em vez de exigir o travessão, porque nem
+    // todas têm "- Equipa" a seguir (ex: Futebol 2025/2026 usa só "Plantel")
+    if(agrupamento && /^(plantel|team|equipa)\b/i.test((cr.nome || '').trim())){
       const quebra = document.createElement('div');
       quebra.className = 'quebra-linha';
       gradeAtual.appendChild(quebra);
