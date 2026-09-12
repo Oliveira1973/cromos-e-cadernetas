@@ -4638,7 +4638,7 @@
     "numero": "P-DC",
     "nome": "Diogo Costa (Porto)",
     "tenho": true,
-    "especial": false,
+    "especial": true,
     "clube": "Premium",
     "tipo": "foil",
     "imagem": "images/capas/Futebol 2025 2026/P-DC.jpg"
@@ -4647,7 +4647,7 @@
     "numero": "P-VF",
     "nome": "Victor Froholdt (Porto)",
     "tenho": true,
-    "especial": false,
+    "especial": true,
     "clube": "Premium",
     "tipo": "foil",
     "imagem": "images/capas/Futebol 2025 2026/P-VF.jpg"
@@ -4656,7 +4656,7 @@
     "numero": "P-SO",
     "nome": "Samu Omorodion (Porto)",
     "tenho": true,
-    "especial": false,
+    "especial": true,
     "clube": "Premium",
     "tipo": "foil",
     "imagem": "images/capas/Futebol 2025 2026/P-SO.jpg"
@@ -4665,7 +4665,7 @@
     "numero": "P-MH",
     "nome": "Morten Hjulmand (Sporting)",
     "tenho": true,
-    "especial": false,
+    "especial": true,
     "clube": "Premium",
     "tipo": "foil",
     "imagem": "images/capas/Futebol 2025 2026/P-MH.jpg"
@@ -4674,7 +4674,7 @@
     "numero": "P-GQ",
     "nome": "Geovany Quenda (Sporting)",
     "tenho": true,
-    "especial": false,
+    "especial": true,
     "clube": "Premium",
     "tipo": "foil",
     "imagem": "images/capas/Futebol 2025 2026/P-GQ.jpg"
@@ -4683,7 +4683,7 @@
     "numero": "P-FT",
     "nome": "Francisco Trincão (Sporting)",
     "tenho": true,
-    "especial": false,
+    "especial": true,
     "clube": "Premium",
     "tipo": "foil",
     "imagem": "images/capas/Futebol 2025 2026/P-FT.jpg"
@@ -4692,7 +4692,7 @@
     "numero": "P-NO",
     "nome": "Nicolás Otamendi (Benfica)",
     "tenho": true,
-    "especial": false,
+    "especial": true,
     "clube": "Premium",
     "tipo": "foil",
     "imagem": "images/capas/Futebol 2025 2026/P-NO.jpg"
@@ -4701,7 +4701,7 @@
     "numero": "P-DL",
     "nome": "Dodi Lukébakio (Benfica)",
     "tenho": true,
-    "especial": false,
+    "especial": true,
     "clube": "Premium",
     "tipo": "foil",
     "imagem": "images/capas/Futebol 2025 2026/P-DL.jpg"
@@ -4710,7 +4710,7 @@
     "numero": "P-VP",
     "nome": "Vangélis Pavlídis (Benfica)",
     "tenho": true,
-    "especial": false,
+    "especial": true,
     "clube": "Premium",
     "tipo": "foil",
     "imagem": "images/capas/Futebol 2025 2026/P-VP.jpg"
@@ -4719,7 +4719,7 @@
     "numero": "P-PF",
     "nome": "Pablo Filipe (Gil Vicente)",
     "tenho": true,
-    "especial": false,
+    "especial": true,
     "clube": "Premium",
     "tipo": "foil",
     "imagem": "images/capas/Futebol 2025 2026/P-PF.jpg"
@@ -4728,7 +4728,7 @@
     "numero": "P-RZ",
     "nome": "Rodrigo Zalazar (Braga)",
     "tenho": true,
-    "especial": false,
+    "especial": true,
     "clube": "Premium",
     "tipo": "foil",
     "imagem": "images/capas/Futebol 2025 2026/P-RZ.jpg"
