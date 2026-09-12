@@ -181,7 +181,7 @@
   },
   {
     "numero": "QAT2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Qatar",
@@ -361,7 +361,7 @@
   },
   {
     "numero": "ECU2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Ecuador",
@@ -541,7 +541,7 @@
   },
   {
     "numero": "SEN2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Senegal",
@@ -721,7 +721,7 @@
   },
   {
     "numero": "NED2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Netherlands",
@@ -901,7 +901,7 @@
   },
   {
     "numero": "ENG2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "England",
@@ -1081,7 +1081,7 @@
   },
   {
     "numero": "IRN2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Iran",
@@ -1261,7 +1261,7 @@
   },
   {
     "numero": "USA2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "USA",
@@ -1441,7 +1441,7 @@
   },
   {
     "numero": "WAL2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Wales",
@@ -1621,7 +1621,7 @@
   },
   {
     "numero": "ARG2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Argentina",
@@ -1801,7 +1801,7 @@
   },
   {
     "numero": "KSA2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Saudi Arabia",
@@ -1981,7 +1981,7 @@
   },
   {
     "numero": "MEX2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Mexico",
@@ -2161,7 +2161,7 @@
   },
   {
     "numero": "POL2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Poland",
@@ -2341,7 +2341,7 @@
   },
   {
     "numero": "FRA2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "France",
@@ -2521,7 +2521,7 @@
   },
   {
     "numero": "AUS2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Australia",
@@ -2701,7 +2701,7 @@
   },
   {
     "numero": "DEN2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Denmark",
@@ -2881,7 +2881,7 @@
   },
   {
     "numero": "TUN2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Tunisia",
@@ -3061,7 +3061,7 @@
   },
   {
     "numero": "ESP2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Spain",
@@ -3241,7 +3241,7 @@
   },
   {
     "numero": "CRC2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Costa Rica",
@@ -3421,7 +3421,7 @@
   },
   {
     "numero": "GER2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Germany",
@@ -3601,7 +3601,7 @@
   },
   {
     "numero": "JPN2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Japan",
@@ -3781,7 +3781,7 @@
   },
   {
     "numero": "BEL2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Belgium",
@@ -3961,7 +3961,7 @@
   },
   {
     "numero": "CAN2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Canada",
@@ -4141,7 +4141,7 @@
   },
   {
     "numero": "MAR2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Morocco",
@@ -4321,7 +4321,7 @@
   },
   {
     "numero": "CRO2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Croatia",
@@ -4501,7 +4501,7 @@
   },
   {
     "numero": "BRA2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Brazil",
@@ -4681,7 +4681,7 @@
   },
   {
     "numero": "SRB2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Serbia",
@@ -4861,7 +4861,7 @@
   },
   {
     "numero": "SUI2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Switzerland",
@@ -5041,7 +5041,7 @@
   },
   {
     "numero": "CMR2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Cameroon",
@@ -5221,7 +5221,7 @@
   },
   {
     "numero": "POR2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Portugal",
@@ -5401,7 +5401,7 @@
   },
   {
     "numero": "GHA2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Ghana",
@@ -5581,7 +5581,7 @@
   },
   {
     "numero": "URU2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Uruguay",
@@ -5761,7 +5761,7 @@
   },
   {
     "numero": "KOR2",
-    "nome": "Team Logo",
+    "nome": "Logo",
     "tenho": true,
     "especial": false,
     "clube": "Korea Republic",
